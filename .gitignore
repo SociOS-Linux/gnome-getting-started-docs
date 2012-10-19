@@ -1,0 +1,15 @@
+*~
+*.mo
+Makefile
+Makefile.in
+/INSTALL
+/aclocal.m4
+/autom4te.cache/
+/config.log
+/config.status
+/configure
+/install-sh
+/missing
+/gnome-doc-utils.make
+/getting-started/??/*.page
+/getting-started/??/legal.xml

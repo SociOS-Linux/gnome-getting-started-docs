@@ -1,0 +1,26 @@
+Source: gnome-getting-started-docs
+Section: doc
+Priority: optional
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Uploaders: 
+Build-Depends: debhelper (>= 9),
+               cdbs (>= 0.4.41),
+               gnome-common,
+               gnome-pkg-tools,
+	       yelp-tools,
+	       dh-autoreconf
+Standards-Version: 3.9.4
+Vcs-Svn: svn://anonscm.debian.org/pkg-gnome/packages/unstable/gnome-getting-started-docs
+Vcs-Browser: http://anonscm.debian.org/viewvc/pkg-gnome/packages/unstable/gnome-getting-started-docs
+Homepage: https://git.gnome.org/browse/gnome-getting-started-docs/
+
+Package: gnome-getting-started-docs
+Architecture: all
+Depends: ${misc:Depends},
+         gnome-user-guide,
+         yelp
+Description: Help a new user get started in GNOME
+ GNOME getting started docs contains a intuitive 'Getting
+ Started' guide (with video guides), that can be viewed with Yelp. It is
+ normally used together with gnome-initial-setup, but is also very useful
+ as tutorial and 'users guide' for new (or not experienced) users.

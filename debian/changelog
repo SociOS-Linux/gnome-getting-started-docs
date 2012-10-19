@@ -1,0 +1,19 @@
+gnome-getting-started-docs (3.10.2-1endless1) eos; urgency=low
+
+  * Upgrade to 3.10.2
+    [endlessm/eos-shell#2339]
+
+ -- Juan A. Suarez Romero <jasuarez@igalia.com>  Tue, 22 Apr 2014 17:38:56 +0200
+
+gnome-getting-started-docs (3.8.3-1co1) singularity; urgency=low
+
+  * debian/rules: add autoreconf.mk to cdbs includes.
+  * debian/control: include dh-autoreconf in Build-Depends.
+
+ -- Javier Martinez <javier.martinez@collabora.co.uk>  Mon, 05 Aug 2013 12:21:10 +0200
+
+gnome-getting-started-docs (3.8.3-1) UNRELEASED; urgency=low
+
+  * Initial release. (Closes: #704248)
+
+ -- Thomas Bechtold <thomasbechtold@jpberlin.de>  Sat, 30 Mar 2013 11:31:49 +0100

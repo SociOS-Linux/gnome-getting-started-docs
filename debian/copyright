@@ -1,0 +1,34 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: gnome-getting-started-docs
+Upstream-Contact: gnome-doc-list@gnome.org
+Source: http://ftp.gnome.org/pub/GNOME/sources/gnome-getting-started-docs
+
+Files: *
+Copyright: 2012 Θάνος Τρυφωνίδης
+	   2013 Δημήτρης Σπίγγος
+	   2013 Andika Triwidada
+	   2013 Fabiola Tortul
+	   2013 Benjamin Steinwender
+	   2013 Nicolás Satragno
+	   2013 Enrico Nicoletto
+	   2013 Christian Kirbach
+	   2013 Kelemen Gábor
+	   2013 Luca Ferretti
+	   2013 Rafael Ferreira
+	   2013 Piotr Drąg
+	   2013 Fran Diéguez
+	   2013 Mario Blättermann
+	   2013 Aviary.pl
+License: CC-BY-SA 3.0
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License. To view a copy of this license, visit
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+Files: debian/*
+Copyright: 2013 Thomas Bechtold
+License: CC-BY-SA 3.0
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License. To view a copy of this license, visit
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
