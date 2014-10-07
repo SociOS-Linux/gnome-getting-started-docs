@@ -89,14 +89,14 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:10
-msgid "New to GNOME? Learn how to get around."
-msgstr "GNOME ಗೆ ಹೊಸಬರೆ? ಬಳಸುವುದನ್ನು ಸ್ಥೂಲವಾಗಿ ಅರಿತುಕೊಳ್ಳಿ."
+msgid "New to Endless? Learn how to get around."
+msgstr "Endless ಗೆ ಹೊಸಬರೆ? ಬಳಸುವುದನ್ನು ಸ್ಥೂಲವಾಗಿ ಅರಿತುಕೊಳ್ಳಿ."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:11
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "GNOME ಅನ್ನು ಬಳಸಲು ಆರಂಭಿಸುವಿಕೆ"
+msgid "Getting Started with Endless"
+msgstr "Endless ಅನ್ನು ಬಳಸಲು ಆರಂಭಿಸುವಿಕೆ"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12

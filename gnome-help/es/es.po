@@ -22,14 +22,14 @@ msgstr "Daniel Mustieles <daniel.mustieles@gmail.com>, 2013\nNicolás Satragno <
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr "¿Es nuevo en GNOME? Aprenda cómo desenvolverse."
+msgid "New to Endless? Learn how to get around."
+msgstr "¿Es nuevo en Endless? Aprenda cómo desenvolverse."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Primeros pasos con GNOME"
+msgid "Getting Started with Endless"
+msgstr "Primeros pasos con Endless"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:13

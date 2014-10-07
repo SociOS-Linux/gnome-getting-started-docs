@@ -27,14 +27,14 @@ msgstr "Ar ko sākt"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr "Vai GNOME 3 vide jums ir nepazīstama? Uzziniet, kā tajā darboties."
+msgid "New to Endless? Learn how to get around."
+msgstr "Vai Endless vide jums ir nepazīstama? Uzziniet, kā tajā darboties."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Darba sākšana ar GNOME"
+msgid "Getting Started with Endless"
+msgstr "Darba sākšana ar Endless"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:13

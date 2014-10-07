@@ -35,14 +35,14 @@ msgstr "Ξεκινώντας"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr "Νέος στο GNOME; Μάθετε πώς να τα καταφέρετε."
+msgid "New to Endless? Learn how to get around."
+msgstr "Νέος στο Endless; Μάθετε πώς να τα καταφέρετε."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Ξεκινώντας με το GNOME"
+msgid "Getting Started with Endless"
+msgstr "Ξεκινώντας με το Endless"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:13

@@ -100,12 +100,14 @@ msgstr ""
 "md5='f8522ebe4ac4e7be319217399122025a'"
 
 #: C/getting-started.page:11(info/desc)
-msgid "New to GNOME? Learn how to get around."
+#, fuzzy
+msgid "New to Endless? Learn how to get around."
 msgstr "గ్నోమ్ కు కొత్తా? ఎలా వుపయోగించాలో నేర్చుకోండి."
 
 #: C/getting-started.page:12(info/title)
+#, fuzzy
 msgctxt "link"
-msgid "Getting Started with GNOME"
+msgid "Getting Started with Endless"
 msgstr "గ్నోమ్ తో ప్రారంభించండి"
 
 #: C/getting-started.page:13(info/title)

@@ -22,14 +22,14 @@ msgstr "Alain Lojewski <allomervan@gmail.com>, 2013\nAlexandre Franke <alexandre
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr "Vous êtes nouveau venu dans GNOME ? Apprenez à vous y déplacer."
+msgid "New to Endless? Learn how to get around."
+msgstr "Vous êtes nouveau venu dans Endless ? Apprenez à vous y déplacer."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Premiers pas avec GNOME"
+msgid "Getting Started with Endless"
+msgstr "Premiers pas avec Endless"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:13

@@ -37,14 +37,14 @@ msgstr "Wprowadzenie do środowiska"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr "Nowy użytkownik środowiska GNOME? Dowiedz się, jak go używać."
+msgid "New to Endless? Learn how to get around."
+msgstr "Nowy użytkownik środowiska Endless? Dowiedz się, jak go używać."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Wprowadzenie do środowiska GNOME"
+msgid "Getting Started with Endless"
+msgstr "Wprowadzenie do środowiska Endless"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:13
