@@ -17,81 +17,7 @@
     <title role="seealso" type="link">A tutorial on using windows and workspaces</title>
   </info>
 
-  <title>Use windows and workspaces</title>
-
-  <ui:overlay width="812" height="452">
-  <media type="video" its:translate="no" src="figures/gnome-windows-and-workspaces.webm" width="700" height="394">
-    <ui:thumb type="image" mime="image/svg" src="gs-thumb-windows-and-workspaces.svg"/>
-      <tt:tt its:translate="yes" xmlns:tt="http://www.w3.org/ns/ttml">
-       <tt:body>
-         <tt:div begin="1s" end="5s">
-           <tt:p>Windows and Workspaces</tt:p>
-         </tt:div>
-         <tt:div begin="6s" end="10s">
-           <tt:p>To maximize a window, grab the window's titlebar and drag it to
-            the top of the screen.</tt:p>
-           </tt:div>
-         <tt:div begin="10s" end="13s">
-           <tt:p>When the screen is highlighted, release the window.</tt:p>
-         </tt:div>
-         <tt:div begin="14s" end="20s">
-           <tt:p>To unmaximize a window, grab the window's titlebar and drag it
-            away from the edges of the screen.</tt:p>
-         </tt:div>
-         <tt:div begin="25s" end="29s">
-           <tt:p>You can also click the top bar to drag the window away and
-            unmaximize it.</tt:p>
-         </tt:div>
-         <tt:div begin="34s" end="38s">
-           <tt:p>To maximize a window along the left side of the screen, grab
-            the window's titlebar and drag it to the left.</tt:p>
-         </tt:div>
-         <tt:div begin="38s" end="40s">
-           <tt:p>When half of the screen is highlighted, release the window.
-           </tt:p>
-         </tt:div>
-         <tt:div begin="41s" end="44s">
-           <tt:p>To maximize a window along the right side of the screen, grab
-            the window's titlebar and drag it to the right.</tt:p>
-         </tt:div>
-         <tt:div begin="44s" end="48s">
-           <tt:p>When half of the screen is highlighted, release the window.
-           </tt:p>
-         </tt:div>
-         <tt:div begin="52s" end="58s">
-           <tt:p>To maximize a window using the keyboard, hold down the
-            <key href="help:gnome-help/keyboard-key-super">Super</key> key and
-            press <key>&#8593;</key>.</tt:p>
-         </tt:div>
-         <tt:div begin="59s" end="63s">
-           <tt:p>To restore the window to its unmaximized size, hold down the
-            <key href="help:gnome-help/keyboard-key-super">Super</key> key and
-            press <key>&#8595;</key>.</tt:p>
-         </tt:div>
-         <tt:div begin="63s" end="68s">
-           <tt:p>To maximize a window along the right side of the screen, hold
-            down the <key href="help:gnome-help/keyboard-key-super">Super</key>
-            key and press <key>&#8594;</key>.</tt:p>
-         </tt:div>
-         <tt:div begin="69s" end="72s">
-           <tt:p>To maximize a window along the left side of the screen, hold
-            down the <key href="help:gnome-help/keyboard-key-super">Super</key>
-            key and press <key>&#8592;</key>.</tt:p>
-         </tt:div>
-         <tt:div begin="73s" end="76s">
-           <tt:p>To move to a workspace which is below the current workspace,
-            press <keyseq><key href="help:gnome-help/keyboard-key-super">Super
-            </key><key>Page Down</key></keyseq>.</tt:p>
-         </tt:div>
-         <tt:div begin="77s" end="80s">
-           <tt:p>To move to a workspace which is above the current workspace,
-            press <keyseq><key href="help:gnome-help/keyboard-key-super">Super
-            </key><key>Page Up</key></keyseq>.</tt:p>
-         </tt:div>
-       </tt:body>
-     </tt:tt>
-  </media>
-  </ui:overlay>
+  <title>Changing the size of your windows</title>
   
   <section id="use-workspaces-and-windows-maximize">
     <title>Maximize and unmaximize windows</title>
@@ -154,20 +80,5 @@
     
   </section>
   
-  <section id="use-workspaces-and-windows-workspaces-keyboard">
-    <title>Switch workspaces using the keyboard</title>
-    
-    <steps>
-    
-    <item><p>To move to a workspace which is below the current workspace, press
-     <keyseq><key href="help:gnome-help/keyboard-key-super">Super</key><key>Page
-     Down</key></keyseq>.</p></item>
-    <item><p>To move to a workspace which is above the current workspace, press
-     <keyseq><key href="help:gnome-help/keyboard-key-super">Super</key><key>Page
-     Up</key></keyseq>.</p></item>
-
-    </steps>
-    
-  </section>
 
 </page>

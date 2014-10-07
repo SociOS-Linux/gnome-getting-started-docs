@@ -20,31 +20,33 @@
   <title>Get online</title>
   
   <note style="important">
-      <p>You can see the status of your network connection on the right-hand
-       side of the top bar.</p>
+    <p>You can see the status of your network connection on the bottom right-
+     hand side of your screen, to the left of the Facebook icon.</p>
   </note>  
 
   <section id="going-online-wired">
 
     <title>Connect to a wired network</title>
 
-    <media its:translate="no" type="image" mime="image/svg"
-    src="gs-go-online1.svg" width="100%" />
-
     <steps>
-      <item><p>The network connection icon on the right-hand side of the top
-       bar shows that you are off-line.</p>
-      <p>The off-line status can be caused by a number of reasons: for
-       example, a network cable has been unplugged, the computer has been set
-       to run in <em>airplane mode</em>, or there are no available Wi-Fi
-       networks in your area.</p>
-      <p>If you want to use a wired connection, just plug in a network
-      cable to go online. The computer will try to set up the network
-      connection for you automatically.</p>
-      <p>While the computer sets up a network connection for you, the
-      network connection icon shows three dots.</p></item>
-      <item><p>Once the network connection has been successfully set up, the
-      network connection icon changes to the networked computer symbol.</p></item>
+      <item>
+        <p>The network connection icon [OFF ICON] on the bottom right-hand side
+         of your screen shows that you are off-line.</p>
+        <p>The off-line status can be caused by a number of reasons: for
+         example, a network cable has been unplugged, the computer has been set
+         to run in <em>airplane mode</em>, or there are no available Wi-Fi
+         networks in your area.</p>
+        <p>If you want to use a wired connection, just plug in a network cable
+         to go online. The computer will try to set up the network connection
+         for you automatically.</p>
+        <p>While the computer sets up a network connection for you, the network
+         connection icon shows three dots.</p>
+      </item>
+      <item>
+        <p>Once the network connection has been successfully set up, the network
+         connection icon changes to this [ON ICON] networked computer
+         symbol.</p>
+      </item>
     </steps>
     
   </section>
@@ -53,28 +55,30 @@
 
     <title>Connect to a Wi-Fi network</title>
 
-    <media its:translate="no" type="image" mime="image/svg"
-    src="gs-go-online2.svg" width="100%" />
-    
     <steps>
-    <item><p>To connect to a Wi-Fi (wireless) network, click the status menu at
-     the top right of the screen, and then click <gui>Select Network</gui>.</p>
-    </item>
-    </steps>
-
-     <note style="important">
-       <p>You can only connect to a Wi-Fi network if your computer hardware
-        supports it and you are in an area with Wi-Fi coverage.</p>
-     </note>
-
-    <media its:translate="no" type="image" mime="image/svg"
-    src="gs-go-online3.svg" width="100%" />
-
-    <steps style="continues">
-    <item><p>From the list of available Wi-Fi networks, select the network you
-    want to connect to, and click <gui>Connect</gui> to confirm.</p>
-    <p>Depending on the network configuration, you may be prompted for network
-     credentials.</p></item>
+      <item>
+        <p>Is your Wi-Fi turned on? Look for the network icon at the bottom
+         right corner of your screen. You will see this icon [ON ICON], if you
+         are connected, or this icon [OFF ICON] if you are not. Click on the
+         icon you see.</p>
+      </item>
+      <item>
+        <p>Is the Wi-Fi  switch blue? If it is not, click on the words “Wi-Fi”
+         to turn it on. Check to make sure it is now blue.</p>
+      </item>
+      <item>
+        <p>Next, select your Wi-Fi network from the list. Enter your network
+         password, which is usually different than the password you use to log
+         in to your computer.</p><p> Remember that your friends or neighbors
+         may have the same default network name you do, and your computer may be
+         picking up their network signal. If your password isn’t working, make
+         sure you have selected the right network.</p>
+      </item>
+      <item>
+        <p>If you don’t see your network in the list, try unplugging your Wi-Fi
+        router then plugging it back in. If it still doesn’t work, you may need
+        to contact your internet provider directly.</p>
+      </item>
     </steps>
 
     <!-- FIXME: links to existing wireless/broadband connection documents. -->

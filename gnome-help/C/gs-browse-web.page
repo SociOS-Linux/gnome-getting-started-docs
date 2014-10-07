@@ -19,38 +19,43 @@
 
   <title>Browse the web</title>
 
-    <media its:translate="no" type="image" mime="image/svg"
-    src="gs-web-browser1.svg" width="100%" />
+  <steps>
+    <item>
+      <p>Your computer comes with a pre-installed <gui>Internet
+       application</gui> icon on your desktop. You can browse the internet by
+       clicking on this desktop icon once. </p>
+    </item>
+    <item>
+      <p>You can also open this application by moving your mouse pointer to
+       the <gui>Internet</gui> orange globe icon at the bottom left of the
+       screen and clicking once.</p>
+    </item>
+    <item>
+      <p>Click the address bar at the top of the browser window. Start
+       typing!</p>
+    </item>
+    <item>
+      <p>You do not need to remember the exact address if you have already
+       visited the website because it will be stored in your history and/or
+       bookmarks.</p>
+      <p>If the website is found in the history or bookmarks, you will see a
+       drop-down list appear below the address bar.</p></item>
+    <item>
+      <p>Select the website you are looking for using the arrow keys.</p>
+    </item>
+    <item>
+      <p>After you have selected a website, press <key>Enter</key> to visit
+       it.</p>
+    </item>
+  </steps>
 
-    <steps>
-      <item><p>Move your mouse pointer to the <gui>Activities</gui> corner at
-      the top left of the screen to show the <gui>Activities Overview</gui>.
-      </p></item>
-      <item><p>Select the <app>Web</app> browser icon from the bar on the
-      left-hand side of the screen.</p></item>
-    </steps>
-
-    <note><p>Alternatively, you can launch the browser by <link 
-    xref="gs-use-system-search">just typing</link> <em>web</em> in the
-    <gui>Activities Overview</gui>.</p></note>
-
-    <media its:translate="no" type="image" mime="image/svg"
-    src="gs-web-browser2.svg" width="100%" />
-
-    <steps style="continues">
-      <item><p>Click the address bar at the top of the browser window and start
-       typing in the website you want to visit.</p></item>
-      <item><p>Typing in a website starts searching for it in the
-       browser history and bookmarks, so you do not need to remember the exact
-        address.</p>
-        <p>If the website is found in the history or bookmarks, a drop-down list
-         is shown below the address bar.</p></item>
-      <item><p>From the drop-down list, you can quickly select a website
-       using the arrow keys.</p>
-      </item>
-      <item><p>After you have selected a website, press <key>Enter</key> to
-       visit it.</p>
-      </item>
-    </steps>
+  <note>
+    <p>You can search the internet directly from your desktop by using the <link
+     xref="gs-use-system-search">global search bar</link> feature. First,
+     <gui>type what you are looking for directly</gui> into the search bar on
+     your desktop. You will be shown the top results that are already on your
+     Endless computer, and it will also ask if you want to search the internet.
+     Click on the option to search the internet.</p>
+  </note>
 
 </page>

@@ -18,75 +18,31 @@
   </info>
 
   <title>Use the system search</title>
-
-    <media its:translate="no" type="image" mime="image/svg"
-    src="gs-search1.svg" width="100%" />
     
-    <steps>
-    <item><p>Open the <gui>Activities Overview</gui> by pressing the
-    <key href="help:gnome-help/keyboard-key-super">Super</key> key. Start typing
-    to search.</p>
-    <p>Results matching what you have typed will appear as you type. The first
-    result is always highlighted and shown at the top.</p>
-    <p>Press <key>Enter</key> to switch to the first highlighted result.</p></item>
-    </steps>
-    
-    <media its:translate="no" type="image" mime="image/svg"
-    src="gs-search2.svg" width="100%" />
-    <steps style="continues">
-      <item><p>Items that may appear in the search results include:</p>
+  <steps>
+    <item>
+      <p>We have made search easy!</p>
+      <p>From the desktop, click on the <gui>global search bar</gui> at bottom
+       of your screen that says "Type to search...". Start typing to search.</p>
+      <p>Results matching what you have typed will appear as you type. The first
+       result is always highlighted and shown at the top.</p>
+      <p>Press <key>Enter</key> to choose the first highlighted
+       result.</p>
+    </item>
+    <item>
+      <p>Items that may appear in the search results include:</p>
       <list>
         <item><p>matching applications, shown at the top of the search results,
         </p></item>
-        <item><p>matching settings,</p></item>
-        <item><p>matching contacts, and</p></item>
+        <item><p>matching settings, and</p></item>
         <item><p>matching documents.</p></item>
       </list>
-      </item>
-      <item><p>In the search results, click the item to switch to it.</p>
+    </item>
+    <item>
+      <p>In the search results, click on the item you want to open it.</p>
       <p>Alternatively, highlight an item using the arrow keys and press
-       <key>Enter</key>.</p></item>
-    </steps>
-
-    <section id="use-search-inside-applications">
-    
-      <title>Search from inside applications</title>
-      
-      <p>The system search aggregates results from various applications. On the
-      left-hand side of the search results, you can see icons of applications
-      that provided the search results. Click one of the icons to restart the
-      search from inside the application associated with that icon. Because
-      only the best matches are shown in the <gui>Activities Overview</gui>,
-      searching from inside the application may give you better search results.
-      </p>
-
-    </section>
-
-    <section id="use-search-customize">
-
-      <title>Customize search results</title>
-
-      <media its:translate="no" type="image" mime="image/svg"
-      src="gs-search-settings.svg" width="100%" />
-
-      <note style="important">
-      <p>GNOME lets you customize what you want to display in the search
-       results in the <gui>Activities Overview</gui>. For example, you can
-        choose whether you want to show results for websites, photos, or music.
-        </p>
-      </note>
-
-      <p>To customize what is displayed in the search results:</p>
-
-      <steps>
-        <item><p>Click the system menu on the right side of the top bar and press
-         the settings button at the bottom of the menu.</p></item>
-        <item><p>From the list of items, select <gui>Search</gui>.</p></item>
-        <item><p>In the list of search locations, click the <gui>ON/OFF</gui>
-         switch next to the search location you want to enable or disable.</p>
-         </item>
-      </steps>
-      
-    </section>
+       <key>Enter</key>.</p>
+    </item>
+  </steps>
 
 </page>

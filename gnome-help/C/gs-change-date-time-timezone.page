@@ -21,55 +21,9 @@
 
   <title>Change the date, time and timezone</title>
 
-<if:choose>
-<if:when test="!platform:gnome-classic">
-
-  <ui:overlay width="812" height="452">
-  <media type="video" its:translate="no" src="figures/gnome-timezone.webm" width="700" height="394">
-    <ui:thumb type="image" mime="image/svg" src="gs-thumb-timezone.svg"/>
-      <tt:tt its:translate="yes" xmlns:tt="http://www.w3.org/ns/ttml">
-       <tt:body>
-         <tt:div begin="1s" end="5s">
-           <tt:p>Changing Date &amp; Time</tt:p>
-         </tt:div>
-         <tt:div begin="6s" end="9s">
-           <tt:p>Click the clock on the top bar.</tt:p>
-           </tt:div>
-         <tt:div begin="9s" end="13s">
-           <tt:p>Select <gui>Date &amp; Time Settings</gui>.</tt:p>
-         </tt:div>
-         <tt:div begin="13s" end="15s">
-           <tt:p>Make sure that <gui>Automatic Time Zone</gui> is switched
-            off.</tt:p>
-         </tt:div>
-         <tt:div begin="15s" end="17s">
-           <tt:p>Click <gui>Time Zone</gui>.</tt:p>
-         </tt:div>
-         <tt:div begin="17s" end="21s">
-           <tt:p>Click on your location on the map.</tt:p>
-         </tt:div>
-         <tt:div begin="21s" end="23s">
-           <tt:p>Click <gui>Close</gui>.</tt:p>
-         </tt:div>
-         <tt:div begin="23s" end="25s">
-           <tt:p>Close the window.</tt:p>
-         </tt:div>
-       </tt:body>
-     </tt:tt>
-  </media>
-  </ui:overlay>
-
-</if:when>
-<if:when test="platform:gnome-classic">
-</if:when>
-</if:choose>
-
-  <section id="change-date-time">
-    <title>Change the date, time and timezone</title>
-
   <steps>
-    <item><p>Click the clock on the top bar and select the <gui>Date &amp; Time
-     Settings</gui> item.</p></item>
+    <item><p>Click the clock on the bottom bar and select the <gui>Date &amp; Time
+     Settings</gui> button on the bottom left of the pop up screen.</p></item>
     <item><p>Make sure that the <gui>Automatic Time Zone</gui> item is switched
      off, and then click the <gui>Time Zone</gui> item below.</p></item>
     <item><p>Click on your location on the map. This selects your current city,
@@ -90,7 +44,5 @@
   <!-- FIXME: 
 	- explain what time/date does - a reference in further reading?
   -->
-
-  </section>
 
 </page>
