@@ -92,13 +92,13 @@ msgid ""
 msgstr "-"
 
 #: C/getting-started.page:11(info/desc)
-msgid "New to GNOME? Learn how to get around."
-msgstr "Baru kenal GNOME? Pelajari bagaimana memakainya."
+msgid "New to Endless? Learn how to get around."
+msgstr "Baru kenal Endless? Pelajari bagaimana memakainya."
 
 #: C/getting-started.page:12(info/title)
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Mulai Memakai GNOME"
+msgid "Getting Started with Endless"
+msgstr "Mulai Memakai Endless"
 
 #: C/getting-started.page:13(info/title)
 msgctxt "text"

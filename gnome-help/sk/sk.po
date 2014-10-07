@@ -76,13 +76,13 @@ msgid ""
 msgstr ""
 
 #: C/getting-started.page:9(info/desc)
-msgid "New to GNOME? Learn how to get around."
-msgstr "Začínate s GNOME? Naučte sa ho používať."
+msgid "New to Endless? Learn how to get around."
+msgstr "Začínate s Endless? Naučte sa ho používať."
 
 #: C/getting-started.page:10(info/title)
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Začíname s GNOME"
+msgid "Getting Started with Endless"
+msgstr "Začíname s Endless"
 
 #: C/getting-started.page:11(info/title)
 msgctxt "text"

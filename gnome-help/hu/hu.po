@@ -29,14 +29,14 @@ msgstr "Kezdeti lépések"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr "Új GNOME felhasználó? Ismerkedjen meg az alapokkal."
+msgid "New to Endless? Learn how to get around."
+msgstr "Új Endless felhasználó? Ismerkedjen meg az alapokkal."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Kezdeti lépések GNOME alatt"
+msgid "Getting Started with Endless"
+msgstr "Kezdeti lépések Endless alatt"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:13

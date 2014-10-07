@@ -22,14 +22,14 @@ msgstr "Enrico Nicoletto <liverig@gmail.com>, 2013.\nRafael Ferreira <rafael.f.f
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr "Você é novo no GNOME? Aprenda como começar."
+msgid "New to Endless? Learn how to get around."
+msgstr "Você é novo no Endless? Aprenda como começar."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Primeiros passos com o GNOME"
+msgid "Getting Started with Endless"
+msgstr "Primeiros passos com o Endless"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:13

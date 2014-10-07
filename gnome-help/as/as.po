@@ -26,14 +26,14 @@ msgstr "আৰম্ভণি"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr "GNOME লৈ নতুন? কেনেকৈ পৰিচিত হ'ব শিকক।"
+msgid "New to Endless? Learn how to get around."
+msgstr "Endless লৈ নতুন? কেনেকৈ পৰিচিত হ'ব শিকক।"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "GNOME ৰ সৈতে আৰম্ভণি"
+msgid "Getting Started with Endless"
+msgstr "Endless ৰ সৈতে আৰম্ভণি"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:13

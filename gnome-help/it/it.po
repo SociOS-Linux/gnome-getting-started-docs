@@ -75,13 +75,13 @@ msgid ""
 msgstr ""
 
 #: C/getting-started.page:9(info/desc)
-msgid "New to GNOME? Learn how to get around."
+msgid "New to Endless? Learn how to get around."
 msgstr ""
 
 #: C/getting-started.page:10(info/title)
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Primi passi con GNOME"
+msgid "Getting Started with Endless"
+msgstr "Primi passi con Endless"
 
 #: C/getting-started.page:11(info/title)
 msgctxt "text"

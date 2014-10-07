@@ -31,14 +31,14 @@ msgstr "பயன்படுத்தத் தொடங்குதல்"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr "GNOME க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்."
+msgid "New to Endless? Learn how to get around."
+msgstr "Endless க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "GNOME ஐப் பயன்படுத்தத் தொடங்குதல்"
+msgid "Getting Started with Endless"
+msgstr "Endless ஐப் பயன்படுத்தத் தொடங்குதல்"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:13

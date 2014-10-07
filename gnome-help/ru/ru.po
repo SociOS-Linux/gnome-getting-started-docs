@@ -104,13 +104,13 @@ msgstr ""
 "md5='f8522ebe4ac4e7be319217399122025a'"
 
 #: C/getting-started.page:10(info/desc)
-msgid "New to GNOME? Learn how to get around."
-msgstr "Новичок в GNOME? Узнай, с чего начать."
+msgid "New to Endless? Learn how to get around."
+msgstr "Новичок в Endless? Узнай, с чего начать."
 
 #: C/getting-started.page:11(info/title)
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Приступая к работе в GNOME"
+msgid "Getting Started with Endless"
+msgstr "Приступая к работе в Endless"
 
 #: C/getting-started.page:12(info/title)
 msgctxt "text"

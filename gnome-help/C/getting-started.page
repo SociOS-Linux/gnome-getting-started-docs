@@ -8,8 +8,8 @@
 <info>
     <link type="guide" xref="index" group="#first"/>
     <include href="gs-legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
-    <desc>New to GNOME? Learn how to get around.</desc>
-    <title type='link'>Getting Started with GNOME</title>
+    <desc>New to Endless? Learn how to get around.</desc>
+    <title type='link'>Getting Started with Endless</title>
     <title type='text'>Getting Started</title>
 </info>
 

@@ -83,13 +83,13 @@ msgid "external ref='figures/gnome-responding-to-messages.webm' md5='f8522ebe4ac
 msgstr "external ref='figures/gnome-responding-to-messages.webm' md5='f8522ebe4ac4e7be319217399122025a'"
 
 #: C/getting-started.page:10(info/desc)
-msgid "New to GNOME? Learn how to get around."
-msgstr "GNOME は初めてですか? 使い方を一通り身に付けられます。"
+msgid "New to Endless? Learn how to get around."
+msgstr "Endless は初めてですか? 使い方を一通り身に付けられます。"
 
 #: C/getting-started.page:11(info/title)
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "GNOME を初めて使う方へ"
+msgid "Getting Started with Endless"
+msgstr "Endless を初めて使う方へ"
 
 #: C/getting-started.page:12(info/title)
 msgctxt "text"

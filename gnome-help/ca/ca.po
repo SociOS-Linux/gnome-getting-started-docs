@@ -30,14 +30,14 @@ msgstr "Primers passos"
 
 #. (itstool) path: info/desc
 #: C/getting-started.page:11
-msgid "New to GNOME? Learn how to get around."
-msgstr "És el primer cop que utilitzeu el GNOME? Apreneu a fer-lo servir."
+msgid "New to Endless? Learn how to get around."
+msgstr "És el primer cop que utilitzeu el Endless? Apreneu a fer-lo servir."
 
 #. (itstool) path: info/title
 #: C/getting-started.page:12
 msgctxt "link"
-msgid "Getting Started with GNOME"
-msgstr "Primers passos amb el GNOME"
+msgid "Getting Started with Endless"
+msgstr "Primers passos amb el Endless"
 
 #. (itstool) path: info/title
 #: C/getting-started.page:13
