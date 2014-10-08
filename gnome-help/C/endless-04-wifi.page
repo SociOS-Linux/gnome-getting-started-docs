@@ -1,0 +1,41 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:e="http://projectmallard.org/experimental/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" id="endless-04-wifi" version="1.0 if/1.0">
+<info>
+    <link type="guide" xref="endless-videos" group="#videos"/>
+    <title type='link'>Using Wi-Fi</title>
+    <title type='sort'>04</title>
+    <desc>A video showing how to set up Wi-Fi with Endless.</desc>
+</info>
+
+<title>Using Wi-Fi</title>
+
+<ui:overlay width="384" height="240">
+  <media type="video" its:translate="no" src="figures/endless-04-wifi.m4v">
+    <ui:thumb type="image" mime="image/svg"
+     src="figures/endless-04-wifi-thumbnail.jpg"/>
+  </media>
+</ui:overlay>
+
+<p></p>
+<p>To connect to a Wi-Fi network, you just follow 3 easy steps.</p>
+<p>First, click on the wireless icon, which is in the lower right corner of your
+ desktop, at the same clock.</p>
+<p>In the window that appears, you will see the names of all the Wi-Fi wireless
+ networks to which you can connect, if you do not see any network, make sure the
+ Wi-Fi is on. If the button to the right of the word Wi-Fi is blue, the Wi-Fi is
+ on your computer. If it is not blue, can click on it to turn it on.</p>
+<p>Select the name of your wireless network. The network will use in this
+ tutorial is called Endless Wi-Fi, but the name of your network will be
+ different. If you have questions about what is the name of your wireless network
+ or your password, you can call the company that provides you internet
+ service.</p>
+<p>After the previous step, you must enter the password for your network.</p>
+<p>If your computer has successfully connected, a white circle appears to the
+ left of the name of the network.</p>
+<p>And so, you'll be connected!</p>
+
+</page>

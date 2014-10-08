@@ -5,6 +5,32 @@ HELP_ID = gnome-help
 HELP_LINGUAS = as ca cs de el es fr gl gu hu id it ja kn lv mr pa pl pt_BR ru sk ta te
 
 HELP_MEDIA = \
+	figures/endless-01-desktop.m4v \
+	figures/endless-01-desktop-thumbnail.jpg \
+	figures/endless-02-folders.m4v \
+	figures/endless-02-folders-thumbnail.jpg \
+	figures/endless-03-programs.m4v \
+	figures/endless-03-programs-thumbnail.jpg \
+	figures/endless-04-wifi.m4v \
+	figures/endless-04-wifi-thumbnail.jpg \
+	figures/endless-05-files.m4v \
+	figures/endless-05-files-thumbnail.jpg \
+	figures/endless-06-browser.m4v \
+	figures/endless-06-browser-thumbnail.jpg \
+	figures/endless-07-windows.m4v \
+	figures/endless-07-windows-thumbnail.jpg \
+	figures/endless-08-offline.m4v \
+	figures/endless-08-offline-thumbnail.jpg \
+	figures/endless-09-writer.m4v \
+	figures/endless-09-writer-thumbnail.jpg \
+	figures/endless-10-video-player.m4v \
+	figures/endless-10-video-player-thumbnail.jpg \
+	figures/endless-11-photos-and-music.m4v \
+	figures/endless-11-photos-and-music-thumbnail.jpg \
+	figures/endless-12-social-bar.m4v \
+	figures/endless-12-social-bar-thumbnail.jpg \
+	figures/endless-13-printers.m4v \
+	figures/endless-13-printers-thumbnail.jpg \
 	figures/gnome-change-wallpaper.webm \
 	figures/gnome-launching-applications.webm \
 	figures/gnome-responding-to-messages.webm \
@@ -16,6 +42,20 @@ HELP_MEDIA = \
 # Keep in mind that some files are missing on purpose.
 
 HELP_FILES = \
+	endless-01-desktop.page \
+	endless-02-folders.page \
+	endless-03-programs.page \
+	endless-04-wifi.page \
+	endless-05-files.page \
+	endless-06-browser.page \
+	endless-07-windows.page \
+	endless-08-offline.page \
+	endless-09-writer.page \
+	endless-10-video-player.page \
+	endless-11-photos-and-music.page \
+	endless-12-social-bar.page \
+	endless-13-printers.page \
+	endless-videos.page \
 	getting-started.page \
 	gs-animation.xml \
 	gs-browse-web.page \
@@ -34,7 +74,6 @@ HELP_FILES = \
 	gs-go-online3.svg \
 	gs-launch-applications.page \
 	gs-legal.xml \
-	gs-respond-messages.page \
 	gs-search1.svg \
 	gs-search2.svg \
 	gs-search-settings.svg \

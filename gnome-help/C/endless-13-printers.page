@@ -1,0 +1,35 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:e="http://projectmallard.org/experimental/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" id="endless-13-printers" version="1.0 if/1.0">
+<info>
+    <link type="guide" xref="endless-videos" group="#videos"/>
+    <title type='link'>Setting up a printer</title>
+    <title type='sort'>13</title>
+    <desc>A video showing how to set up a printer for the first time.</desc>
+</info>
+
+<title>Setting up a printer</title>
+
+<ui:overlay width="384" height="240">
+  <media type="video" its:translate="no" src="figures/endless-13-printers.m4v">
+    <ui:thumb type="image" mime="image/svg"
+     src="figures/endless-13-printers-thumbnail.jpg"/>
+  </media>
+</ui:overlay>
+
+<p></p>
+<p>Click the icon Endless, and then click Settings.</p>
+<p>In the window that appears, click Printers. To continue, you have to unlock
+ this window by clicking on the button that says unlocked in the upper right
+ corner and enter your password.</p>
+<p>Click the + symbol in the lower left corner of this window.</p>
+<p>Then select your printer from the list that appears, and click Add.</p>
+<p>You will see the name of your printer already appears in this window. If you
+ want to check that your printer is configured correctly, click on the button
+ that says Print test page, for a sample sheet printed.</p>
+<p>You can close this window.</p>
+
+</page>

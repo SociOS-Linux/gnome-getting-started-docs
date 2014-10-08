@@ -1,0 +1,54 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:e="http://projectmallard.org/experimental/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" id="endless-03-programs" version="1.0 if/1.0">
+<info>
+    <link type="guide" xref="endless-videos" group="#videos"/>
+    <title type='link'>Installing programs</title>
+    <title type='sort'>03</title>
+    <desc>A video showing how to install programs.</desc>
+</info>
+
+<title>Installing programs</title>
+
+<ui:overlay width="384" height="240">
+  <media type="video" its:translate="no" src="figures/endless-03-programs.m4v">
+    <ui:thumb type="image" mime="image/svg"
+     src="figures/endless-03-programs-thumbnail.jpg"/>
+  </media>
+</ui:overlay>
+
+<p></p>
+
+<p>Endless Your computer comes with many free programs that you can install
+ without internet.</p>
+<p>This gray square icon is used to add programs. When you click it, you'll see
+ the window from which you can install.</p>
+<p>At the top of the window, under the title, there are several categories.
+ Clicking on a category you will see options to install programs. For example, if
+ you click in the Education category, you will find many programs that have
+ content that can see without using internet. If you click on the category games,
+ find other games that you can install.</p>
+<p>Programs that are already on your desktop appear in the Installed
+ category.</p>
+<p>To install a program, click on it, for example we will click on this program
+ on Guatemala, located in the Education category. A new window with more
+ information about the program appears. Click on the green button that says add
+ to the desktop, and after a while the name of the button will change to say
+ open.</p>
+<p>By closing this window you will see that the program is already installed it
+ on your desktop so you can open it.</p>
+<p>To remove a program, click on its icon and without releasing the click, drag
+ it to the gray square that serves to add programs. You will see your icon
+ changes for a paper. Release the click this icon and a window saying that you
+ have removed the program from your desktop. Do not worry, you can reinstall the
+ programs that take away from your desk.</p>
+<p>You can delete a folder in the same way, by clicking on its icon and drag it
+ to release the gray button above the square where you add programs, which is now
+ a trash can. Remember that the folder must be empty, or can not eliminate
+ it.</p>
+<p>So easy you can add and remove programs and folders from your desktop.</p>
+
+</page>

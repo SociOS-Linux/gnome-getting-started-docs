@@ -1,0 +1,41 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:e="http://projectmallard.org/experimental/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" id="endless-01-desktop" version="1.0 if/1.0">
+<info>
+    <link type="guide" xref="endless-videos" group="#videos"/>
+    <title type='link'>Introduction to the desktop</title>
+    <title type='sort'>01</title>
+    <desc>A video showing the basics of the Endless desktop.</desc>
+</info>
+
+<title>Introduction to the desktop</title>
+
+<ui:overlay width="384" height="240">
+  <media type="video" its:translate="no" src="figures/endless-01-desktop.m4v">
+    <ui:thumb type="image" mime="image/svg"
+     src="figures/endless-01-desktop-thumbnail.jpg"/>
+  </media>
+</ui:overlay>
+
+<p></p>
+<p>We want to introduce your computer desktop Endless, is like the front door of
+ the operating system.</p>
+<p>From here you will find your programs and your documents folder; just click
+ on them you can open them to be of use.</p>
+<p>Your computer has an active Endless corner. Touching the lower right corner
+ with the mouse, it will show what programs you have open so you can easily
+ switch between them or close them by clicking on the black X button that appears
+ when placing the mouse over them. It will also show the icons folder of
+ documents, internet browser and a button to return to the desktop by minimizing
+ all open programs.</p>
+<p>Finally, you'll see at the bottom of your screen a menu bar. Here you can
+ access wireless networks wifi, bluetooth equipment, control the volume of your
+ computer, change the keyboard language and time. On the left side of the bar,
+ you will find an icon to access the internet browser. When you finish using your
+ computer need to turn it off by clicking the icon of endless and then selecting
+ the option to leave.</p>
+
+</page>

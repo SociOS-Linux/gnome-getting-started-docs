@@ -20,12 +20,9 @@
 
   <title>Connect to online accounts</title>
 
-    <media its:translate="no" type="image" mime="image/svg"
-    src="gs-goa1.svg" width="100%" />
-
     <steps>
-      <item><p>Click the system menu on the right side of the top bar.</p></item>
-      <item><p>Press the settings button at the bottom of the menu.</p></item>
+      <item><p>Click the system menu on the left side of the bottom bar.</p></item>
+      <item><p>Press the settings button in the middle of the menu.</p></item>
     </steps>
        
     <media its:translate="no" type="image" mime="image/svg"
