@@ -1,0 +1,41 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:e="http://projectmallard.org/experimental/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" id="endless-12-social-bar" version="1.0 if/1.0">
+<info>
+    <link type="guide" xref="endless-videos" group="#videos"/>
+    <title type='link'>Using Facebook</title>
+    <title type='sort'>12</title>
+    <desc>A video showing how to use Facebook with other programs.</desc>
+</info>
+
+<title>Using Facebook</title>
+
+<ui:overlay width="384" height="240">
+  <media type="video" its:translate="no" src="figures/endless-12-social-bar.m4v">
+    <ui:thumb type="image" mime="image/svg"
+     src="figures/endless-12-social-bar-thumbnail.jpg"/>
+  </media>
+</ui:overlay>
+
+<p></p>
+<p>If you have internet, you can go to Facebook in two ways from your computer
+ Endless.</p>
+<p>The first is by opening the browser and entering Facebook.com page. By
+ entering your name and password you've entered.</p>
+<p>The other way is using the button located in the lower right corner of your
+ screen. By clicking on it you will see a window that appears on the right side
+ of the screen. You can write your email and password to enter.</p>
+<p>If you go in this second way, you'll have very easy access to Facebook while
+ using other programs. For example, we can open the Writer and while we are
+ working on a document, we can check our Facebook account, or even have a
+ conversation without having to switch programs.</p>
+<p>If you use this method, be sure to close your account before you stop using
+ the computer, so that nobody else can get into your account.</p>
+<p>To exit, you must click on the menu button at the top left and then scroll to
+ the bottom of the window and click the button to log out.</p>
+<p>And these are two simple ways you can do it.</p>
+
+</page>

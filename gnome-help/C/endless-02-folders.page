@@ -1,0 +1,39 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:e="http://projectmallard.org/experimental/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" id="endless-02-folders" version="1.0 if/1.0">
+<info>
+    <link type="guide" xref="endless-videos" group="#videos"/>
+    <title type='link'>Adding folders to the desktop</title>
+    <title type='sort'>02</title>
+    <desc>A video showing how to add a folder to the desktop.</desc>
+</info>
+
+<title>Adding folders to the desktop</title>
+
+<ui:overlay width="384" height="240">
+  <media type="video" its:translate="no" src="figures/endless-02-folders.m4v">
+    <ui:thumb type="image" mime="image/svg"
+     src="figures/endless-02-folders-thumbnail.jpg"/>
+  </media>
+</ui:overlay>
+
+<p></p>
+<p>We have ordered some folders to make them easier to find. For example, when
+ clicking on the folder games, you'll find all the icons that open the game
+ programs.</p>
+<p>You can create folders to sort your programs. To create a folder, click the
+ icon to add programs. Then, on the left side, click on the word folders. Select
+ an icon to identify your folder. Once you click it will ask you to name. Click
+ the green button with the plus sign, and a confirmation that the folder has been
+ added appear. You can close this window.</p>
+<p>To put in your programs folder, just click on its icon and while holding,
+ drag it to the folder; when you're above it, you can release the click. When you
+ open the folder, you will find the program that is already inside. To remove a
+ program from the folder, just drag the icon out of the folder.</p>
+<p>Note that if you want to delete a folder, you need to take before the
+ programs within.</p>
+
+</page>

@@ -1,0 +1,42 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:e="http://projectmallard.org/experimental/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" id="endless-09-writer" version="1.0 if/1.0">
+<info>
+    <link type="guide" xref="endless-videos" group="#videos"/>
+    <title type='link'>Using the Writer program</title>
+    <title type='sort'>09</title>
+    <desc>A video showing how to use the Writer to create documents.</desc>
+</info>
+
+<title>Using the Writer program</title>
+
+<ui:overlay width="384" height="240">
+  <media type="video" its:translate="no" src="figures/endless-09-writer.m4v">
+    <ui:thumb type="image" mime="image/svg"
+     src="figures/endless-09-writer-thumbnail.jpg"/>
+  </media>
+</ui:overlay>
+
+<p></p>
+<p>Endless programs your computer has to be able to work documents and
+ presentations.</p>
+<p>This program on your desktop called Writer, serves to documents. You can do
+ this spreadsheet, which is in the working folder. And this from here, you can
+ make presentations to help you to expose your ideas.</p>
+<p>We want to teach you some basic things you can use in these programs.</p>
+<p>You can copy text from another program easily. Suppose you want to copy text
+ of the encyclopedia. Just select the text you want to copy, and right click on
+ it. A button that says Copy appears. You must click on it.</p>
+<p>Let the program where you want to paste the information. You simply right
+ click again, and then click Paste. The text will appear in your document.</p>
+<p>When you have selected the text, you can use the buttons at the top to make
+ the bold print, italics, or underline text. You can also center or justify the
+ paragraph, which means it will be straight to have better presentation.</p>
+<p>You can explore all the buttons to see what function each!</p>
+<p>You can save your document by clicking on File and then Save. Remember to
+ write a name before saving to make it easier to find later.</p>
+
+</page>

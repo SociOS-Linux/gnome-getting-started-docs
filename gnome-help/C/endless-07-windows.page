@@ -1,0 +1,39 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:e="http://projectmallard.org/experimental/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" id="endless-07-windows" version="1.0 if/1.0">
+<info>
+    <link type="guide" xref="endless-videos" group="#videos"/>
+    <title type='link'>Minimizing and closing windows</title>
+    <title type='sort'>07</title>
+    <desc>A video showing how to minimize and close your windows.</desc>
+</info>
+
+<title>Minimizing and closing windows</title>
+
+<ui:overlay width="384" height="240">
+  <media type="video" its:translate="no" src="figures/endless-07-windows.m4v">
+    <ui:thumb type="image" mime="image/svg"
+     src="figures/endless-07-windows-thumbnail.jpg"/>
+  </media>
+</ui:overlay>
+
+<p></p>
+<p>The option to minimize a program or folder, it is very useful if you want to
+ maintain an open and perform other tasks on your desktop or other program or
+ folder.</p>
+<p>You can minimize your programs in two ways: by clicking on the icon that has
+ a script, located in the upper right corner of windows or also by clicking on
+ the icon in the bottom bar of your screen Endless. This will make your show or
+ hide folder in your menu bar. This allows you to perform multiple tasks
+ simultaneously.</p>
+<p>To make your program returns to the screen, so you just click on its icon and
+ it will return to its original size. When you finish using a program you must
+ close it by clicking the X icon with this icon next to minimize.</p>
+<p>You can also play with the mouse the bottom right corner of your screen, then
+ move up to the program window you want to close and click on the X in the upper
+ right corner of that window.</p>
+
+</page>

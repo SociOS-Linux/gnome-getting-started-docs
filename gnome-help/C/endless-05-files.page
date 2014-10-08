@@ -1,0 +1,56 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:e="http://projectmallard.org/experimental/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" id="endless-05-files" version="1.0 if/1.0">
+<info>
+    <link type="guide" xref="endless-videos" group="#videos"/>
+    <title type='link'>Exploring your files</title>
+    <title type='sort'>05</title>
+    <desc>A video showing how to use the file system.</desc>
+</info>
+
+<title>Exploring your files</title>
+
+<ui:overlay width="384" height="240">
+  <media type="video" its:translate="no" src="figures/endless-05-files.m4v">
+    <ui:thumb type="image" mime="image/svg"
+     src="figures/endless-05-files-thumbnail.jpg"/>
+  </media>
+</ui:overlay>
+
+<p></p>
+<p>Endless on your computer you can organize your documents into folders. We
+ show you how to do it.</p>
+<p>This icon called Documents gives you access to your folders. You can find it
+ on the desktop, or by tapping the lower right corner of the screen even when
+ you're within a program. Within these folders you can put documents, so they
+ are organized and easy to find.</p>
+<p>On the left side of the window, you will find quick access to the folders you
+ see on the right side. To open a folder, you can click with the left mouse
+ button twice quickly. We call this double click. To return to the previous
+ folder, you can click on the arrow pointing backwards.</p>
+<p>You can also open a folder by clicking the right mouse button, and then
+ clicking the left mouse button to open.</p>
+<p>To use the shortcuts that are to the left of the window, you can click to
+ access the folder you want to access. For example, if we click on the name
+ pictures with the left mouse button, go into the images folder.</p>
+<p>When you download an Internet document will appear in the downloads folder.
+ For example, here we have two songs previously downloaded. If you want to move
+ files from one folder to another, you need only click on them without
+ releasing, drag them to the folder where you want to be. If I want to move my
+ favorite song in the music folder, I click on it and hold the button I drag
+ into the music folder. Now, it is in this folder.</p>
+<p>To delete a file, be it a song, a photograph or any other type of file, you
+ only have to click on it and hold the mouse button, drag it to the trash. We
+ will delete my favorite song. I click on it and not let go, drag it to the
+ trash and here lost the mouse button.</p>
+<p>From the trash, I can return the files I removed the folder where they were
+ selecting them and clicking on restore. You can also permanently delete files
+ that were found here by clicking on empty computer. If you click this button,
+ the files do not take up space on your computer, but it can not be
+ recovered.</p>
+<p>It's easy to organize your files in Endless, right?</p>
+
+</page>

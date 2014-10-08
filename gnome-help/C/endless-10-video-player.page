@@ -1,0 +1,49 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:e="http://projectmallard.org/experimental/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" id="endless-10-video-player" version="1.0 if/1.0">
+<info>
+    <link type="guide" xref="endless-videos" group="#videos"/>
+    <title type='link'>Playing videos</title>
+    <title type='sort'>10</title>
+    <desc>A video showing how to play movies and videos with Endless.</desc>
+</info>
+
+<title>Playing videos</title>
+
+<ui:overlay width="384" height="240">
+  <media type="video" its:translate="no" src="figures/endless-10-video-player.m4v">
+    <ui:thumb type="image" mime="image/svg"
+     src="figures/endless-10-video-player-thumbnail.jpg"/>
+  </media>
+</ui:overlay>
+
+<p></p>
+<p>We have placed some videos on your computer so you can see them. You can also
+ view your videos from a USB stick or videos downloaded from the internet.</p>
+<p>We will find the folder of videos. On the desktop, we click on documents.
+ Now, double click on the folder called Videos. This folder called examples is
+ where we put the sample videos. Double click to open it. To open a video,
+ simply double-click on its name.</p>
+<p>We can pause by clicking this button in the lower left corner of the video,
+ and to continue playing, go back to click on the same button. Clicking on this
+ square that appears on the bottom bar of the video and dragging, can advance
+ and retard the video.</p>
+<p>We can see the video in full screen by clicking on the arrows below the video
+ on the right. To reduce their size have to press the escape key on your
+ keyboard, which has the letters ESC. It is the key that is on top of your
+ keyboard on the left side. This key will be used to escape some games, or when
+ the videos are in full display as now.</p>
+<p>Always at the bottom of the video on the right side, find the button that
+ serves to raise and lower volume. Placing your mouse over the button, a bar in
+ which you can increase or decrease the volume by clicking the white box and
+ dragging it up or down appears.</p>
+<p>Remember, to stream the videos have to have headphones or speakers connected.
+ Also you can hear if your computer is connected to a television. If you still
+ can not hear, try turning up the volume of your speakers or television.</p>
+<p>Meet all the videos you chose for you, and many others that you can get and
+ enjoy!</p>
+
+</page>
