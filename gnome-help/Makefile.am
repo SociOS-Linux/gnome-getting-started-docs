@@ -34,7 +34,6 @@ HELP_FILES = \
 	gs-go-online3.svg \
 	gs-launch-applications.page \
 	gs-legal.xml \
-	gs-respond-messages.page \
 	gs-search1.svg \
 	gs-search2.svg \
 	gs-search-settings.svg \
