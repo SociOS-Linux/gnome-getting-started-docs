@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-09-30 15:05-0700\n"
+"POT-Creation-Date: 2014-10-08 12:46-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,6 +12,755 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-01-desktop.page:9
+msgctxt "link"
+msgid "Introduction to the desktop"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-01-desktop.page:10
+msgctxt "sort"
+msgid "01"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-01-desktop.page:11
+msgid "A video showing the basics of the Endless desktop."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-01-desktop.page:14
+msgid "Introduction to the desktop"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:24
+msgid "We want to introduce your computer desktop Endless, is like the front door of the operating system."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:26
+msgid "From here you will find your programs and your documents folder; just click on them you can open them to be of use."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:28
+msgid "Your computer has an active Endless corner. Touching the lower right corner with the mouse, it will show what programs you have open so you can easily switch between them or close them by clicking on the black X button that appears when placing the mouse over them. It will also show the icons folder of documents, internet browser and a button to return to the desktop by minimizing all open programs."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:34
+msgid "Finally, you'll see at the bottom of your screen a menu bar. Here you can access wireless networks wifi, bluetooth equipment, control the volume of your computer, change the keyboard language and time. On the left side of the bar, you will find an icon to access the internet browser. When you finish using your computer need to turn it off by clicking the icon of endless and then selecting the option to leave."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-02-folders.page:9
+msgctxt "link"
+msgid "Adding folders to the desktop"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-02-folders.page:10
+msgctxt "sort"
+msgid "02"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-02-folders.page:11
+msgid "A video showing how to add a folder to the desktop."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-02-folders.page:14
+msgid "Adding folders to the desktop"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:24
+msgid "We have ordered some folders to make them easier to find. For example, when clicking on the folder games, you'll find all the icons that open the game programs."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:27
+msgid "You can create folders to sort your programs. To create a folder, click the icon to add programs. Then, on the left side, click on the word folders. Select an icon to identify your folder. Once you click it will ask you to name. Click the green button with the plus sign, and a confirmation that the folder has been added appear. You can close this window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:32
+msgid "To put in your programs folder, just click on its icon and while holding, drag it to the folder; when you're above it, you can release the click. When you open the folder, you will find the program that is already inside. To remove a program from the folder, just drag the icon out of the folder."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:36
+msgid "Note that if you want to delete a folder, you need to take before the programs within."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-03-programs.page:9
+msgctxt "link"
+msgid "Installing programs"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-03-programs.page:10
+msgctxt "sort"
+msgid "03"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-03-programs.page:11
+msgid "A video showing how to install programs."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-03-programs.page:14
+msgid "Installing programs"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:25
+msgid "Endless Your computer comes with many free programs that you can install without internet."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:27
+msgid "This gray square icon is used to add programs. When you click it, you'll see the window from which you can install."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:29
+msgid "At the top of the window, under the title, there are several categories. Clicking on a category you will see options to install programs. For example, if you click in the Education category, you will find many programs that have content that can see without using internet. If you click on the category games, find other games that you can install."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:34
+msgid "Programs that are already on your desktop appear in the Installed category."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:36
+msgid "To install a program, click on it, for example we will click on this program on Guatemala, located in the Education category. A new window with more information about the program appears. Click on the green button that says add to the desktop, and after a while the name of the button will change to say open."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:41
+msgid "By closing this window you will see that the program is already installed it on your desktop so you can open it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:43
+msgid "To remove a program, click on its icon and without releasing the click, drag it to the gray square that serves to add programs. You will see your icon changes for a paper. Release the click this icon and a window saying that you have removed the program from your desktop. Do not worry, you can reinstall the programs that take away from your desk."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:48
+msgid "You can delete a folder in the same way, by clicking on its icon and drag it to release the gray button above the square where you add programs, which is now a trash can. Remember that the folder must be empty, or can not eliminate it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:52
+msgid "So easy you can add and remove programs and folders from your desktop."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-04-wifi.page:9
+msgctxt "link"
+msgid "Using Wi-Fi"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-04-wifi.page:10
+msgctxt "sort"
+msgid "04"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-04-wifi.page:11
+msgid "A video showing how to set up Wi-Fi with Endless."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-04-wifi.page:14
+msgid "Using Wi-Fi"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:24
+msgid "To connect to a Wi-Fi network, you just follow 3 easy steps."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:25
+msgid "First, click on the wireless icon, which is in the lower right corner of your desktop, at the same clock."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:27
+msgid "In the window that appears, you will see the names of all the Wi-Fi wireless networks to which you can connect, if you do not see any network, make sure the Wi-Fi is on. If the button to the right of the word Wi-Fi is blue, the Wi-Fi is on your computer. If it is not blue, can click on it to turn it on."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:31
+msgid "Select the name of your wireless network. The network will use in this tutorial is called Endless Wi-Fi, but the name of your network will be different. If you have questions about what is the name of your wireless network or your password, you can call the company that provides you internet service."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:36
+msgid "After the previous step, you must enter the password for your network."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:37
+msgid "If your computer has successfully connected, a white circle appears to the left of the name of the network."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:39
+msgid "And so, you'll be connected!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-05-files.page:9
+msgctxt "link"
+msgid "Exploring your files"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-05-files.page:10
+msgctxt "sort"
+msgid "05"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-05-files.page:11
+msgid "A video showing how to use the file system."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-05-files.page:14
+msgid "Exploring your files"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:24
+msgid "Endless on your computer you can organize your documents into folders. We show you how to do it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:26
+msgid "This icon called Documents gives you access to your folders. You can find it on the desktop, or by tapping the lower right corner of the screen even when you're within a program. Within these folders you can put documents, so they are organized and easy to find."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:30
+msgid "On the left side of the window, you will find quick access to the folders you see on the right side. To open a folder, you can click with the left mouse button twice quickly. We call this double click. To return to the previous folder, you can click on the arrow pointing backwards."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:34
+msgid "You can also open a folder by clicking the right mouse button, and then clicking the left mouse button to open."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:36
+msgid "To use the shortcuts that are to the left of the window, you can click to access the folder you want to access. For example, if we click on the name pictures with the left mouse button, go into the images folder."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:39
+msgid "When you download an Internet document will appear in the downloads folder. For example, here we have two songs previously downloaded. If you want to move files from one folder to another, you need only click on them without releasing, drag them to the folder where you want to be. If I want to move my favorite song in the music folder, I click on it and hold the button I drag into the music folder. Now, it is in this folder."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:45
+msgid "To delete a file, be it a song, a photograph or any other type of file, you only have to click on it and hold the mouse button, drag it to the trash. We will delete my favorite song. I click on it and not let go, drag it to the trash and here lost the mouse button."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:49
+msgid "From the trash, I can return the files I removed the folder where they were selecting them and clicking on restore. You can also permanently delete files that were found here by clicking on empty computer. If you click this button, the files do not take up space on your computer, but it can not be recovered."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:54
+msgid "It's easy to organize your files in Endless, right?"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-06-browser.page:9
+msgctxt "link"
+msgid "Browsing the Internet"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-06-browser.page:10
+msgctxt "sort"
+msgid "06"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-06-browser.page:11
+msgid "A video explaining how to user browse web pages."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-06-browser.page:14
+msgid "Browsing the Internet"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:24
+msgid "If you're connected to the internet you can access many sites around the world.Let's learn how to use it!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:26
+msgid "When your computer is connected to Internet, you can go to the browser by clicking on the icon of the yellow sphere. We have put this icon in three places so you can easily access: On the desktop, with icons of other programs; on the black bar located on the bottom of your screen, and the right side when you play with the mouse the bottom right corner."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:31
+msgid "Upon entering the browser, you'll see the Content Center. In it we have put some interesting links. Under the title \"Discover\" are some categories so you can find useful websites. For example, in the news category you will find links to the newspaper El País, Antigua Channel, Univision, and so on.You can browse the various categories to find many internet pages!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:36
+msgid "When you see a page that interests you much, you can bookmark it so you can easily find it in the future. For example, we will enter the page of the Galileo University. If we want our computer to remember this page or any other, we just have to click on the star, which is located on the right side of the bar where we internet addresses. If we want we can change the name we want for this page. We click finished. When we do this is done, the page that appears when you store demos click Favorites in the center content."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:43
+msgid "When clicking in history you will see the pages you've visited. If you want to revisit a page where you entered and before, you'll find it here. If you want to delete the list of pages you've visited, you can click on the button that says Clear History, and then take in the window that appears."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:47
+msgid "Clicking on comments at the bottom left corner of the center content, you can write your comments or suggestions, write your message here, then your name and email, and then by clicking submit review.We'd love to hear from you!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-07-windows.page:9
+msgctxt "link"
+msgid "Minimizing and closing windows"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-07-windows.page:10
+msgctxt "sort"
+msgid "07"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-07-windows.page:11
+msgid "A video showing how to minimize and close your windows."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-07-windows.page:14
+msgid "Minimizing and closing windows"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:24
+msgid "The option to minimize a program or folder, it is very useful if you want to maintain an open and perform other tasks on your desktop or other program or folder."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:27
+msgid "You can minimize your programs in two ways: by clicking on the icon that has a script, located in the upper right corner of windows or also by clicking on the icon in the bottom bar of your screen Endless. This will make your show or hide folder in your menu bar. This allows you to perform multiple tasks simultaneously."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:32
+msgid "To make your program returns to the screen, so you just click on its icon and it will return to its original size. When you finish using a program you must close it by clicking the X icon with this icon next to minimize."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:35
+msgid "You can also play with the mouse the bottom right corner of your screen, then move up to the program window you want to close and click on the X in the upper right corner of that window."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-08-offline.page:9
+msgctxt "link"
+msgid "Using Endless offline"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-08-offline.page:10
+msgctxt "sort"
+msgid "08"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-08-offline.page:11
+msgid "A video showing the offline content on your computer."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-08-offline.page:14
+msgid "Using Endless offline"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:24
+msgid "Your computer Endless includes much content that can be used without an Internet connection, so you can learn many things."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:26
+msgid "In the trivia folder on your desktop, you can find programs that have lots of information. For example, Virtual School."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:28
+msgid "When you open the program you will see the materials on which you can find lessons, and the number of videos that are on each subject to the right of your name. For example, in matters Sciences, you can see that there are 4 videos on the topic Health and Medicine. If we click on the name of this topic, see the list of videos that we can find."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:33
+msgid "For a video, we click on its name and begin playing the video with the lesson."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:35
+msgid "If we end this video, we may click on the button with an X at the top right of the video part. To learn more about how to control the video, you can see the tutorial that talks about photos, music and video."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:38
+msgid "We also want to show the program Encyclopedia. This program we have put it on your desktop to make it easy to find."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:40
+msgid "When you open this program, you will see a bar where you can search for any topic you want to investigate. For example, let's look Guatemala. A list where you can choose which item to look appears. When clicking on a title, information on the topic you have chosen will appear."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:44
+msgid "Remember that there are many programs that do not need internet.Browse your computer to find them!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-09-writer.page:9
+msgctxt "link"
+msgid "Using the Writer program"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-09-writer.page:10
+msgctxt "sort"
+msgid "09"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-09-writer.page:11
+msgid "A video showing how to use the Writer to create documents."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-09-writer.page:14
+msgid "Using the Writer program"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:24
+msgid "Endless programs your computer has to be able to work documents and presentations."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:26
+msgid "This program on your desktop called Writer, serves to documents. You can do this spreadsheet, which is in the working folder. And this from here, you can make presentations to help you to expose your ideas."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:29
+msgid "We want to teach you some basic things you can use in these programs."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:30
+msgid "You can copy text from another program easily. Suppose you want to copy text of the encyclopedia. Just select the text you want to copy, and right click on it. A button that says Copy appears. You must click on it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:33
+msgid "Let the program where you want to paste the information. You simply right click again, and then click Paste. The text will appear in your document."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:35
+msgid "When you have selected the text, you can use the buttons at the top to make the bold print, italics, or underline text. You can also center or justify the paragraph, which means it will be straight to have better presentation."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:38
+msgid "You can explore all the buttons to see what function each!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:39
+msgid "You can save your document by clicking on File and then Save. Remember to write a name before saving to make it easier to find later."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-10-video-player.page:9
+msgctxt "link"
+msgid "Playing videos"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-10-video-player.page:10
+msgctxt "sort"
+msgid "10"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-10-video-player.page:11
+msgid "A video showing how to play movies and videos with Endless."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-10-video-player.page:14
+msgid "Playing videos"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:24
+msgid "We have placed some videos on your computer so you can see them. You can also view your videos from a USB stick or videos downloaded from the internet."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:26
+msgid "We will find the folder of videos. On the desktop, we click on documents. Now, double click on the folder called Videos. This folder called examples is where we put the sample videos. Double click to open it. To open a video, simply double-click on its name."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:30
+msgid "We can pause by clicking this button in the lower left corner of the video, and to continue playing, go back to click on the same button. Clicking on this square that appears on the bottom bar of the video and dragging, can advance and retard the video."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:34
+msgid "We can see the video in full screen by clicking on the arrows below the video on the right. To reduce their size have to press the escape key on your keyboard, which has the letters ESC. It is the key that is on top of your keyboard on the left side. This key will be used to escape some games, or when the videos are in full display as now."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:39
+msgid "Always at the bottom of the video on the right side, find the button that serves to raise and lower volume. Placing your mouse over the button, a bar in which you can increase or decrease the volume by clicking the white box and dragging it up or down appears."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:43
+#: C/endless-11-photos-and-music.page:47
+msgid "Remember, to stream the videos have to have headphones or speakers connected. Also you can hear if your computer is connected to a television. If you still can not hear, try turning up the volume of your speakers or television."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:46
+msgid "Meet all the videos you chose for you, and many others that you can get and enjoy!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-11-photos-and-music.page:9
+msgctxt "link"
+msgid "Photos and Music"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-11-photos-and-music.page:10
+msgctxt "sort"
+msgid "11"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-11-photos-and-music.page:11
+msgid "A video showing how to edit photos and listen to music."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-11-photos-and-music.page:14
+msgid "Photos and Music"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:24
+msgid "On your desktop you will find this program called photo editor. When you open it, you will be asked to choose a picture. You can use one of those already put on your computer, or one that you've put inside."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:27
+msgid "Let's click Open Image. We will use one of the example photos. To view, double click on the examples folder, and double click again on the picture you want to open."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:30
+msgid "By having an open photography, we can edit it in many fun ways. For example, we can turn it, cut it or change it so it looks like more like it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:32
+msgid "We have included many filters to give more options to create your perfect picture. There are even options to distort."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:34
+msgid "You can also put a frame. When you finish editing, you can save it so that it can see below, post it to Facebook, or use your artwork as wallpaper."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:36
+msgid "We have also placed this music program. When opened you will see the songs you can hear. You can add more songs."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:38
+msgid "To listen to a song, you can double click on it. We can pause by clicking this button in the top left, and continue playing it by clicking the same button."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:41
+msgid "These two buttons pair serve to go to the next or previous song. Also here you can choose to repeat the song, and if you want to play in order or disorder."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:44
+msgid "On the right, find the button that serves to raise and lower volume. Placing your mouse over the button, a bar in which you can increase or decrease the volume by clicking the white box and dragging it up or down appears."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-12-social-bar.page:9
+msgctxt "link"
+msgid "Using Facebook"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-12-social-bar.page:10
+msgctxt "sort"
+msgid "12"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-12-social-bar.page:11
+msgid "A video showing how to use Facebook with other programs."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-12-social-bar.page:14
+msgid "Using Facebook"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:24
+msgid "If you have internet, you can go to Facebook in two ways from your computer Endless."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:26
+msgid "The first is by opening the browser and entering Facebook.com page. By entering your name and password you've entered."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:28
+msgid "The other way is using the button located in the lower right corner of your screen. By clicking on it you will see a window that appears on the right side of the screen. You can write your email and password to enter."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:31
+msgid "If you go in this second way, you'll have very easy access to Facebook while using other programs. For example, we can open the Writer and while we are working on a document, we can check our Facebook account, or even have a conversation without having to switch programs."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:35
+msgid "If you use this method, be sure to close your account before you stop using the computer, so that nobody else can get into your account."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:37
+msgid "To exit, you must click on the menu button at the top left and then scroll to the bottom of the window and click the button to log out."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:39
+msgid "And these are two simple ways you can do it."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-13-printers.page:9
+msgctxt "link"
+msgid "Setting up a printer"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-13-printers.page:10
+msgctxt "sort"
+msgid "13"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-13-printers.page:11
+msgid "A video showing how to set up a printer for the first time."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-13-printers.page:14
+msgid "Setting up a printer"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:24
+msgid "Click the icon Endless, and then click Settings."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:25
+msgid "In the window that appears, click Printers. To continue, you have to unlock this window by clicking on the button that says unlocked in the upper right corner and enter your password."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:28
+msgid "Click the + symbol in the lower left corner of this window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:29
+msgid "Then select your printer from the list that appears, and click Add."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:30
+msgid "You will see the name of your printer already appears in this window. If you want to check that your printer is configured correctly, click on the button that says Print test page, for a sample sheet printed."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:33
+msgid "You can close this window."
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-videos.page:10
+msgid "Watch videos explaining how to use EndlessOS."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-videos.page:11
+msgctxt "link"
+msgid "Videos Tutorials"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-videos.page:12
+msgctxt "sort"
+msgid "Videos Tutorials"
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-videos.page:15
+msgid "Endless Videos"
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -38,347 +787,39 @@ msgstr ""
 msgid "Getting Started"
 msgstr ""
 
-#. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:25
-#: C/gs-launch-applications.page:21
-msgid "Launch applications"
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:30
-#: C/gs-animation.xml:4
-#: C/gs-launch-applications.page:29
-msgid "Launching Applications"
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:33
-#: C/getting-started.page:154
-#: C/gs-launch-applications.page:32
-#: C/gs-switch-tasks.page:35
-msgid "Move your mouse pointer to the <gui>Activities</gui> corner at the top left of the screen."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:37
-#: C/gs-launch-applications.page:36
-msgid "Click the <gui>Show Applications</gui> icon."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:40
-#: C/gs-launch-applications.page:39
-msgid "Click the application you want to run, for example, Help."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:44
-#: C/gs-launch-applications.page:43
-msgid "Alternatively, use the keyboard to open the <gui>Activities Overview</gui> by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:49
-#: C/gs-launch-applications.page:48
-msgid "Start typing the name of the application you want to launch."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:53
-#: C/gs-launch-applications.page:52
-msgid "Press <key>Enter</key> to launch the application."
-msgstr ""
-
-#. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:66
-#: C/gs-use-windows-workspaces.page:20
-msgid "Use windows and workspaces"
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:71
-#: C/gs-animation.xml:10
-#: C/gs-use-windows-workspaces.page:28
-msgid "Windows and Workspaces"
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:74
-#: C/gs-use-windows-workspaces.page:31
-msgid "To maximize a window, grab the window's titlebar and drag it to the top of the screen."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:78
-#: C/gs-use-windows-workspaces.page:35
-msgid "When the screen is highlighted, release the window."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:81
-#: C/gs-use-windows-workspaces.page:38
-msgid "To unmaximize a window, grab the window's titlebar and drag it away from the edges of the screen."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:85
-#: C/gs-use-windows-workspaces.page:42
-msgid "You can also click the top bar to drag the window away and unmaximize it."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:89
-#: C/getting-started.page:161
-#: C/gs-switch-tasks.page:42
-#: C/gs-use-windows-workspaces.page:46
-msgid "To maximize a window along the left side of the screen, grab the window's titlebar and drag it to the left."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:93
-#: C/getting-started.page:101
-#: C/getting-started.page:165
-#: C/getting-started.page:173
-#: C/gs-switch-tasks.page:46
-#: C/gs-switch-tasks.page:54
-#: C/gs-use-windows-workspaces.page:50
-#: C/gs-use-windows-workspaces.page:58
-msgid "When half of the screen is highlighted, release the window."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:97
-#: C/gs-use-windows-workspaces.page:54
-msgid "To maximize a window along the right side of the screen, grab the window's titlebar and drag it to the right."
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:105
-#: C/gs-use-windows-workspaces.page:62
-#: C/gs-use-windows-workspaces.page:133
-msgid "To maximize a window using the keyboard, hold down the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:110
-#: C/gs-use-windows-workspaces.page:67
-msgid "To restore the window to its unmaximized size, hold down the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:115
-#: C/gs-use-windows-workspaces.page:72
-#: C/gs-use-windows-workspaces.page:147
-msgid "To maximize a window along the right side of the screen, hold down the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>→</key>."
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:120
-#: C/gs-use-windows-workspaces.page:77
-#: C/gs-use-windows-workspaces.page:150
-msgid "To maximize a window along the left side of the screen, hold down the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>←</key>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:125
-#: C/gs-use-windows-workspaces.page:82
-msgid "To move to a workspace which is below the current workspace, press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </key><key>Page Down</key></keyseq>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:130
-#: C/gs-use-windows-workspaces.page:87
-msgid "To move to a workspace which is above the current workspace, press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </key><key>Page Up</key></keyseq>."
-msgstr ""
-
-#. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/getting-started.page:146
-#: C/gs-switch-tasks.page:21
-#: C/gs-switch-tasks.page:95
-msgid "Switch tasks"
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:151
-#: C/gs-animation.xml:8
-#: C/gs-switch-tasks.page:32
-msgid "Switching Tasks"
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:158
-#: C/gs-switch-tasks.page:39
-#: C/gs-switch-tasks.page:104
-msgid "Click a window to switch to that task."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:169
-#: C/gs-switch-tasks.page:50
-msgid "To maximize a window along the right side, grab the window's titlebar and drag it to the right."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:177
-#: C/gs-switch-tasks.page:58
-msgid "Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:182
-#: C/gs-switch-tasks.page:63
-msgid "Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to select the next highlighted window."
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:187
-#: C/gs-switch-tasks.page:68
-#: C/gs-switch-tasks.page:149
-msgid "To cycle through the list of open windows, do not release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</key>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:192
-#: C/gs-switch-tasks.page:73
-msgid "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key to show the <gui>Activities Overview</gui>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:196
-#: C/gs-switch-tasks.page:77
-msgid "Start typing the name of the application you want to switch to."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:200
-#: C/gs-switch-tasks.page:81
-msgid "When the application appears as the first result, press <key> Enter</key> to switch to it."
-msgstr ""
-
-#. (itstool) path: caption/desc
-#. (itstool) path: page/title
-#: C/getting-started.page:212
-#: C/gs-respond-messages.page:20
-msgid "Respond to messages"
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:218
-#: C/gs-animation.xml:7
-#: C/gs-respond-messages.page:28
-msgid "Responding to Messages"
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:221
-#: C/gs-respond-messages.page:31
-#: C/gs-respond-messages.page:90
-msgid "Move your mouse to the message tray at the bottom of the screen and click the chat message."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:225
-#: C/gs-respond-messages.page:35
-msgid "Start typing your reply and when finished, press <key>Enter </key> to send the reply."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:229
-#: C/getting-started.page:250
-#: C/gs-respond-messages.page:39
-#: C/gs-respond-messages.page:60
-msgid "Close the chat message."
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:232
-#: C/gs-animation.xml:9
-#: C/gs-respond-messages.page:42
-msgid "Delayed Response"
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:235
-#: C/gs-respond-messages.page:45
-msgid "A chat message in the message tray disappears after a while if you do not move your mouse to the message tray."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:239
-#: C/gs-respond-messages.page:49
-msgid "To get back to your unanswered message, move your mouse to the message tray."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:243
-#: C/gs-respond-messages.page:53
-msgid "Click the person who sent you the message."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:246
-#: C/getting-started.page:262
-#: C/gs-respond-messages.page:56
-#: C/gs-respond-messages.page:72
-msgid "Start typing your reply and when finished, press <key>Enter </key>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:253
-#: C/gs-respond-messages.page:63
-msgid "To show the message tray, press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</key> <key>M</key></keyseq>"
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:258
-#: C/gs-respond-messages.page:68
-msgid "Use the arrow keys to select the person you want to reply to, and press <key>Enter</key>."
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:266
-#: C/gs-respond-messages.page:76
-#: C/gs-respond-messages.page:130
-msgid "Press <key>Esc</key> to close the chat message."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/getting-started.page:269
-#: C/gs-respond-messages.page:79
-msgid "To dismiss the message tray, press <key>Esc</key>."
-msgstr ""
-
-#. (itstool) path: links/title
-#: C/getting-started.page:278
-msgid "Common Tasks"
-msgstr ""
-
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:3
 msgid "Welcome"
 msgstr ""
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
+#: C/gs-animation.xml:4
+msgid "Launching Applications"
+msgstr ""
+
+#. (itstool) path: titles/t
 #: C/gs-animation.xml:6
-#: C/gs-change-wallpaper.page:28
 msgid "Changing Wallpaper"
+msgstr ""
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:7
+msgid "Responding to Messages"
+msgstr ""
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:8
+msgid "Switching Tasks"
+msgstr ""
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:9
+msgid "Delayed Response"
+msgstr ""
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:10
+msgid "Windows and Workspaces"
 msgstr ""
 
 #. (itstool) path: titles/t
@@ -582,7 +1023,6 @@ msgstr ""
 #: C/gs-connect-online-accounts.page:9
 #: C/gs-get-online.page:9
 #: C/gs-launch-applications.page:9
-#: C/gs-respond-messages.page:9
 #: C/gs-switch-tasks.page:10
 #: C/gs-use-system-search.page:9
 #: C/gs-use-windows-workspaces.page:9
@@ -597,7 +1037,6 @@ msgstr ""
 #: C/gs-connect-online-accounts.page:12
 #: C/gs-get-online.page:12
 #: C/gs-launch-applications.page:12
-#: C/gs-respond-messages.page:12
 #: C/gs-switch-tasks.page:13
 #: C/gs-use-system-search.page:12
 #: C/gs-use-windows-workspaces.page:12
@@ -617,50 +1056,49 @@ msgid "Browse the web"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:26
-#: C/gs-browse-web-firefox.page:30
-#: C/gs-launch-applications.page:63
-msgid "Move your mouse pointer to the <gui>Activities</gui> corner at the top left of the screen to show the <gui>Activities Overview</gui>."
+#: C/gs-browse-web.page:24
+msgid "Your computer comes with a pre-installed <gui>Internet application</gui> icon on your desktop. You can browse the internet by clicking on this desktop icon once."
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:29
-msgid "Select the <app>Web</app> browser icon from the bar on the left-hand side of the screen."
+msgid "You can also open this application by moving your mouse pointer to the <gui>Internet</gui> orange globe icon at the bottom left of the screen and clicking once."
 msgstr ""
 
-#. (itstool) path: note/p
-#: C/gs-browse-web.page:33
-msgid "Alternatively, you can launch the browser by <link xref=\"gs-use-system-search\">just typing</link> <em>web</em> in the <gui>Activities Overview</gui>."
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:34
+msgid "Click the address bar at the top of the browser window. Start typing!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:38
+msgid "You do not need to remember the exact address if you have already visited the website because it will be stored in your history and/or bookmarks."
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:41
-#: C/gs-browse-web-firefox.page:61
-msgid "Click the address bar at the top of the browser window and start typing in the website you want to visit."
+msgid "If the website is found in the history or bookmarks, you will see a drop-down list appear below the address bar."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:43
-#: C/gs-browse-web-firefox.page:63
-msgid "Typing in a website starts searching for it in the browser history and bookmarks, so you do not need to remember the exact address."
+#: C/gs-browse-web.page:44
+msgid "Select the website you are looking for using the arrow keys."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:46
-#: C/gs-browse-web-firefox.page:66
-msgid "If the website is found in the history or bookmarks, a drop-down list is shown below the address bar."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:48
-#: C/gs-browse-web-firefox.page:68
-msgid "From the drop-down list, you can quickly select a website using the arrow keys."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-browse-web.page:51
+#: C/gs-browse-web.page:47
 #: C/gs-browse-web-firefox.page:71
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:53
+msgid "You can search the internet directly from your desktop by using the <link xref=\"gs-use-system-search\">global search bar</link> feature. First, <gui>type what you are looking for directly</gui> into the search bar on your desktop. You will be shown the top results that are already on your Endless computer, and it will also ask if you want to search the internet. Click on the option to search the internet."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:30
+msgid "Move your mouse pointer to the <gui>Activities</gui> corner at the top left of the screen to show the <gui>Activities Overview</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -683,6 +1121,26 @@ msgstr ""
 msgid "From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </guiseq>."
 msgstr ""
 
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:61
+msgid "Click the address bar at the top of the browser window and start typing in the website you want to visit."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:63
+msgid "Typing in a website starts searching for it in the browser history and bookmarks, so you do not need to remember the exact address."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:66
+msgid "If the website is found in the history or bookmarks, a drop-down list is shown below the address bar."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web-firefox.page:68
+msgid "From the drop-down list, you can quickly select a website using the arrow keys."
+msgstr ""
+
 #. (itstool) path: info/title
 #: C/gs-change-date-time-timezone.page:16
 msgctxt "link:trail"
@@ -696,79 +1154,37 @@ msgid "A tutorial on changing the date, time and timezone"
 msgstr ""
 
 #. (itstool) path: page/title
-#. (itstool) path: section/title
 #: C/gs-change-date-time-timezone.page:22
-#: C/gs-change-date-time-timezone.page:68
 msgid "Change the date, time and timezone"
 msgstr ""
 
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:33
-msgid "Changing Date &amp; Time"
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:36
-msgid "Click the clock on the top bar."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:39
-msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:42
-msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:46
-msgid "Click <gui>Time Zone</gui>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:49
-msgid "Click on your location on the map."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:52
-msgid "Click <gui>Close</gui>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:55
-msgid "Close the window."
+#. (itstool) path: item/p
+#: C/gs-change-date-time-timezone.page:25
+msgid "Click the clock on the bottom bar and select the <gui>Date &amp; Time Settings</gui> button on the bottom left of the pop up screen."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:71
-msgid "Click the clock on the top bar and select the <gui>Date &amp; Time Settings</gui> item."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:73
+#: C/gs-change-date-time-timezone.page:27
 msgid "Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and then click the <gui>Time Zone</gui> item below."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:75
+#: C/gs-change-date-time-timezone.page:29
 msgid "Click on your location on the map. This selects your current city, which you can also search for in the search box above the map."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:78
+#: C/gs-change-date-time-timezone.page:32
 msgid "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time Settings</gui> window."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:80
+#: C/gs-change-date-time-timezone.page:34
 msgid "Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched off, and then click the <gui>Date &amp; Time</gui> item below to open the <gui>Date &amp; Time</gui> window. There you can adjust your date and time settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:85
+#: C/gs-change-date-time-timezone.page:39
 msgid "Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time Settings</gui> window, and then close that window by clicking the cross at the top-right corner of that window."
 msgstr ""
 
@@ -785,64 +1201,37 @@ msgid "A tutorial on changing the wallpaper"
 msgstr ""
 
 #. (itstool) path: page/title
-#. (itstool) path: section/title
 #: C/gs-change-wallpaper.page:20
-#: C/gs-change-wallpaper.page:55
 msgid "Change the wallpaper"
 msgstr ""
 
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:31
-msgid "Click the system menu on the right side of the top bar and press the settings button."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:35
-msgid "Select <gui>Background</gui>."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:38
-msgid "Click the current background image."
-msgstr ""
-
-#. (itstool) path: div/p
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:41
-#: C/gs-change-wallpaper.page:63
-msgid "Click the background image you want to use."
-msgstr ""
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:44
-#: C/gs-change-wallpaper.page:64
-msgid "Click the <gui>Select</gui> button."
-msgstr ""
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:47
-msgid "Close the <gui>Background</gui> window."
+#: C/gs-change-wallpaper.page:24
+msgid "Click the system menu on the bottom left corner of your screen and press the <gui>Settings</gui> button in the middle of the menu."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:58
-#: C/gs-use-system-search.page:82
-msgid "Click the system menu on the right side of the top bar and press the settings button at the bottom of the menu."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60
+#: C/gs-change-wallpaper.page:28
 msgid "From the list of items, select <gui>Background</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:61
-msgid "Click the current background image on the left side of the <gui>Background</gui> window."
+#: C/gs-change-wallpaper.page:31
+msgid "Click the current background image in the center of the <gui>Background</gui> window."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:65
+#: C/gs-change-wallpaper.page:35
+msgid "Click the background image you want to use."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:38
+msgid "Click the <gui>Select</gui> button."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-change-wallpaper.page:41
 msgid "Close the <gui>Background</gui> window by clicking the cross at the top-right corner of the window."
 msgstr ""
 
@@ -864,42 +1253,42 @@ msgid "Connect to online accounts"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:27
-msgid "Click the system menu on the right side of the top bar."
+#: C/gs-connect-online-accounts.page:24
+msgid "Click the system menu on the left side of the bottom bar."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:28
-msgid "Press the settings button at the bottom of the menu."
+#: C/gs-connect-online-accounts.page:25
+msgid "Press the settings button in the middle of the menu."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:35
+#: C/gs-connect-online-accounts.page:32
 msgid "From the list of items, select <gui>Online Accounts</gui>, then click on the <gui>Add an online account</gui> button."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:39
+#: C/gs-connect-online-accounts.page:36
 msgid "If you have set up an online account before, you can add another online account by clicking the <gui>+</gui> button at the bottom left corner of the window."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:47
+#: C/gs-connect-online-accounts.page:44
 msgid "Click the online account you want to use. This will open a new window where you can sign in to your online account."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:55
+#: C/gs-connect-online-accounts.page:52
 msgid "In most cases, you will have to grant access to the online service after signing in to get started."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:57
+#: C/gs-connect-online-accounts.page:54
 msgid "For example, if you are connecting to your Google account, you will have to click the <gui>Grant Access</gui> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:65
+#: C/gs-connect-online-accounts.page:62
 msgid "Many online accounts let you choose the services you want to use with your online account. If you do not want to use a service, disable it by clicking the <gui>ON/OFF</gui> switch on the right-hand side of the window."
 msgstr ""
 
@@ -922,7 +1311,7 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:23
-msgid "You can see the status of your network connection on the right-hand side of the top bar."
+msgid "You can see the status of your network connection on the bottom right- hand side of your screen, to the left of the Facebook icon."
 msgstr ""
 
 #. (itstool) path: section/title
@@ -931,53 +1320,58 @@ msgid "Connect to a wired network"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:35
-msgid "The network connection icon on the right-hand side of the top bar shows that you are off-line."
+#: C/gs-get-online.page:33
+msgid "The network connection icon [OFF ICON] on the bottom right-hand side of your screen shows that you are off-line."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:37
+#: C/gs-get-online.page:35
 msgid "The off-line status can be caused by a number of reasons: for example, a network cable has been unplugged, the computer has been set to run in <em>airplane mode</em>, or there are no available Wi-Fi networks in your area."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:41
+#: C/gs-get-online.page:39
 msgid "If you want to use a wired connection, just plug in a network cable to go online. The computer will try to set up the network connection for you automatically."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:44
+#: C/gs-get-online.page:42
 msgid "While the computer sets up a network connection for you, the network connection icon shows three dots."
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:46
-msgid "Once the network connection has been successfully set up, the network connection icon changes to the networked computer symbol."
+msgid "Once the network connection has been successfully set up, the network connection icon changes to this [ON ICON] networked computer symbol."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:54
+#: C/gs-get-online.page:56
 msgid "Connect to a Wi-Fi network"
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:60
-msgid "To connect to a Wi-Fi (wireless) network, click the status menu at the top right of the screen, and then click <gui>Select Network</gui>."
+msgid "Is your Wi-Fi turned on? Look for the network icon at the bottom right corner of your screen. You will see this icon [ON ICON], if you are connected, or this icon [OFF ICON] if you are not. Click on the icon you see."
 msgstr ""
 
-#. (itstool) path: note/p
+#. (itstool) path: item/p
 #: C/gs-get-online.page:66
-msgid "You can only connect to a Wi-Fi network if your computer hardware supports it and you are in an area with Wi-Fi coverage."
+msgid "Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi” to turn it on. Check to make sure it is now blue."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:74
-msgid "From the list of available Wi-Fi networks, select the network you want to connect to, and click <gui>Connect</gui> to confirm."
+#: C/gs-get-online.page:70
+msgid "Next, select your Wi-Fi network from the list. Enter your network password, which is usually different than the password you use to log in to your computer."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:76
-msgid "Depending on the network configuration, you may be prompted for network credentials."
+#: C/gs-get-online.page:72
+msgid "Remember that your friends or neighbors may have the same default network name you do, and your computer may be picking up their network signal. If your password isn’t working, make sure you have selected the right network."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:78
+msgid "If you don’t see your network in the list, try unplugging your Wi-Fi router then plugging it back in. If it still doesn’t work, you may need to contact your internet provider directly."
 msgstr ""
 
 #. (itstool) path: Work/format
@@ -1396,38 +1790,43 @@ msgctxt "link:seealso"
 msgid "A tutorial on launching applications"
 msgstr ""
 
-#. (itstool) path: section/title
-#: C/gs-launch-applications.page:60
-msgid "Launch applications with the mouse"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:65
-msgid "Click the <gui>Show Applications</gui> icon that is shown at the bottom of the bar on the left-hand side of the screen."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:67
-msgid "A list of applications is shown. Click the application you want to run, for example, Help."
+#. (itstool) path: page/title
+#: C/gs-launch-applications.page:21
+msgid "Launch applications"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-launch-applications.page:74
-msgid "Launch applications with the keyboard"
+#: C/gs-launch-applications.page:24
+msgid "Launch applications from your desktop"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-launch-applications.page:77
-msgid "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key."
+#: C/gs-launch-applications.page:28
+msgid "Your computer comes with certain applications already installed on your desktop. You can find them as icons, or inside of folders. Click once on any icon to launch the application. You can also click once on any folder to reveal the applications inside and then click on an application icon to launch it."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-launch-applications.page:79
+#: C/gs-launch-applications.page:35
+msgid "If you want more applications, you can install them by clicking on the <gui>More Apps</gui> icon on your screen."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-launch-applications.page:43
+msgid "Launch applications with global search bar"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:47
+msgid "Click on the <gui>global search bar</gui> on the bottom of your desktop that says \"Type to search...\"."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-launch-applications.page:51
 msgid "Start typing the name of the application you want to launch. Searching for the application begins instantly."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-launch-applications.page:81
+#: C/gs-launch-applications.page:55
 msgid "Once the icon of the application is shown and selected, press <key> Enter</key> to launch the application."
 msgstr ""
 
@@ -1439,80 +1838,6 @@ msgstr ""
 #. (itstool) path: license/p
 #: C/gs-legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
-msgstr ""
-
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:15
-msgctxt "link:trail"
-msgid "Respond to messages"
-msgstr ""
-
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
-msgctxt "link:seealso"
-msgid "A tutorial on responding to messages"
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:87
-msgid "Respond to a chat message with the mouse"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:92
-#: C/gs-respond-messages.page:128
-msgid "Start typing your reply and when finished, press <key>Enter</key> to send the reply."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:94
-#: C/gs-respond-messages.page:113
-msgid "To close the chat message, click the close button at the top right corner of the chat message."
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:101
-msgid "Delayed response to a chat message using the mouse"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:104
-msgid "When a chat message appears in the message tray and you do not move your mouse to the message tray, the message disappears after a while."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:107
-msgid "To get back to your unanswered message, move your mouse to the message tray at the very bottom of the screen."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:109
-msgid "When the message tray appears, click a small image that represents the person who sent you the message."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:111
-msgid "When the chat message is shown, start typing your reply and when finished, press <key>Enter</key> to send the reply."
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:120
-msgid "Delayed response to a chat message using the keyboard"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:122
-msgid "To get back to your unanswered chat messages, press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to display the message tray that contains the messages."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:126
-msgid "Use the arrow keys to select a small image representing the person you want to reply to, and press <key>Enter</key>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:131
-msgid "To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
 msgstr ""
 
 #. (itstool) path: text/tspan
@@ -1655,84 +1980,49 @@ msgctxt "link:seealso"
 msgid "A tutorial on switching tasks"
 msgstr ""
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:101
-msgid "Move your mouse pointer to the <gui>Activities</gui> corner at the top left of the screen to show the <gui>Activities Overview</gui> where you can see the currently running tasks displayed as small windows."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:111
-msgid "You can switch between tasks by using the <gui>window list</gui> at the bottom of the screen. Open tasks appear as buttons in the <gui>window list</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:114
-msgid "Click a button in the <gui>window list</gui> to switch to that task."
+#. (itstool) path: page/title
+#: C/gs-switch-tasks.page:21
+msgid "Switching tasks and using the hot corner"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:124
-#: C/gs-use-windows-workspaces.page:113
-msgid "Tile windows"
+#: C/gs-switch-tasks.page:25
+msgid "Switch between windows with keyboard"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:127
-#: C/gs-use-windows-workspaces.page:117
-msgid "To maximize a window along a side of the screen, grab the window's titlebar and drag it to the left or right side of the screen."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:129
-#: C/gs-use-windows-workspaces.page:119
-msgid "When half of the screen is highlighted, release the window to maximize it along the selected side of the screen."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:131
-#: C/gs-use-windows-workspaces.page:121
-msgid "To maximize two windows side-by-side, grab the titlebar of the second window and drag it to the opposite side of the screen."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:133
-#: C/gs-use-windows-workspaces.page:123
-msgid "When half of the screen is highlighted, release the window to maximize it along the opposite side of the screen."
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/gs-switch-tasks.page:140
-msgid "Switch between windows"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:143
+#: C/gs-switch-tasks.page:29
 msgid "Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which lists the currently open windows."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:146
+#: C/gs-switch-tasks.page:34
 msgid "Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to select the next highlighted window in the <gui>window switcher</gui>."
 msgstr ""
 
+#. (itstool) path: item/p
+#: C/gs-switch-tasks.page:39
+msgid "To cycle through the list of open windows, do not release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> but hold it down, and press <key>Tab</key>."
+msgstr ""
+
 #. (itstool) path: section/title
-#: C/gs-switch-tasks.page:157
-msgid "Use search to switch applications"
+#: C/gs-switch-tasks.page:49
+msgid "Using the hot corner"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:160
-msgid "Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key to show the <gui>Activities Overview</gui>."
+#: C/gs-switch-tasks.page:53
+msgid "Move your mouse pointer to the hot corner at the very bottom right corner of your screen to show the <gui>Window Picker</gui> where you can see the currently running tasks displayed as small windows."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-switch-tasks.page:162
-msgid "Just start typing the name of the application you want to switch to. Applications matching what you have typed will appear as you type."
+#: C/gs-switch-tasks.page:59
+msgid "Click on a window to switch to that task."
 msgstr ""
 
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:165
-msgid "When the application that you want to switch to appears as the first result, press <key>Enter</key> to switch to it."
+#. (itstool) path: note/p
+#: C/gs-switch-tasks.page:64
+msgid "You can also get to the <gui>Window Picker</gui> by pressing <keyseq><key href=\"help:gnome-help/keyboard-key-super\"> Super</key></keyseq>"
 msgstr ""
 
 #. (itstool) path: text/tspan
@@ -1988,88 +2278,53 @@ msgid "Use the system search"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:26
-msgid "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
+#: C/gs-use-system-search.page:24
+msgid "We have made search easy!"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:29
+#: C/gs-use-system-search.page:25
+msgid "From the desktop, click on the <gui>global search bar</gui> at bottom of your screen that says \"Type to search...\". Start typing to search."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:27
 msgid "Results matching what you have typed will appear as you type. The first result is always highlighted and shown at the top."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:31
-msgid "Press <key>Enter</key> to switch to the first highlighted result."
+#: C/gs-use-system-search.page:29
+msgid "Press <key>Enter</key> to choose the first highlighted result."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:37
+#: C/gs-use-system-search.page:33
 msgid "Items that may appear in the search results include:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:39
+#: C/gs-use-system-search.page:35
 msgid "matching applications, shown at the top of the search results,"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:41
-msgid "matching settings,"
+#: C/gs-use-system-search.page:37
+msgid "matching settings, and"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:42
-msgid "matching contacts, and"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:43
+#: C/gs-use-system-search.page:38
 msgid "matching documents."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:46
-msgid "In the search results, click the item to switch to it."
+#: C/gs-use-system-search.page:42
+msgid "In the search results, click on the item you want to open it."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:47
+#: C/gs-use-system-search.page:43
 msgid "Alternatively, highlight an item using the arrow keys and press <key>Enter</key>."
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/gs-use-system-search.page:53
-msgid "Search from inside applications"
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:55
-msgid "The system search aggregates results from various applications. On the left-hand side of the search results, you can see icons of applications that provided the search results. Click one of the icons to restart the search from inside the application associated with that icon. Because only the best matches are shown in the <gui>Activities Overview</gui>, searching from inside the application may give you better search results."
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/gs-use-system-search.page:67
-msgid "Customize search results"
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/gs-use-system-search.page:73
-msgid "GNOME lets you customize what you want to display in the search results in the <gui>Activities Overview</gui>. For example, you can choose whether you want to show results for websites, photos, or music."
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:79
-msgid "To customize what is displayed in the search results:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:84
-msgid "From the list of items, select <gui>Search</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:85
-msgid "In the list of search locations, click the <gui>ON/OFF</gui> switch next to the search location you want to enable or disable."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -2084,54 +2339,84 @@ msgctxt "link:seealso"
 msgid "A tutorial on using windows and workspaces"
 msgstr ""
 
+#. (itstool) path: page/title
+#: C/gs-use-windows-workspaces.page:20
+msgid "Changing the size of your windows"
+msgstr ""
+
 #. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:97
+#: C/gs-use-windows-workspaces.page:23
 msgid "Maximize and unmaximize windows"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:101
+#: C/gs-use-windows-workspaces.page:27
 msgid "To maximize a window so that it takes up all of the space on your desktop, grab the window's titlebar and drag it to the top of the screen."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:104
+#: C/gs-use-windows-workspaces.page:30
 msgid "When the screen is highlighted, release the window to maximize it."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:106
+#: C/gs-use-windows-workspaces.page:32
 msgid "To restore a window to its unmaximized size, grab the window's titlebar and drag it away from the edges of the screen."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:130
+#: C/gs-use-windows-workspaces.page:39
+msgid "Tile windows"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:43
+msgid "To maximize a window along a side of the screen, grab the window's titlebar and drag it to the left or right side of the screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:45
+msgid "When half of the screen is highlighted, release the window to maximize it along the selected side of the screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:47
+msgid "To maximize two windows side-by-side, grab the titlebar of the second window and drag it to the opposite side of the screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:49
+msgid "When half of the screen is highlighted, release the window to maximize it along the opposite side of the screen."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-windows-workspaces.page:56
 msgid "Maximize and unmaximize windows using the keyboard"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:136
+#: C/gs-use-windows-workspaces.page:59
+msgid "To maximize a window using the keyboard, hold down the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:62
 msgid "To unmaximize a window using the keyboard, hold down the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:144
+#: C/gs-use-windows-workspaces.page:70
 msgid "Tile windows using the keyboard"
 msgstr ""
 
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:158
-msgid "Switch workspaces using the keyboard"
+#. (itstool) path: item/p
+#: C/gs-use-windows-workspaces.page:73
+msgid "To maximize a window along the right side of the screen, hold down the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>→</key>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:162
-msgid "To move to a workspace which is below the current workspace, press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</key><key>Page Down</key></keyseq>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:165
-msgid "To move to a workspace which is above the current workspace, press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</key><key>Page Up</key></keyseq>."
+#: C/gs-use-windows-workspaces.page:76
+msgid "To maximize a window along the left side of the screen, hold down the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>←</key>."
 msgstr ""
 
 #. (itstool) path: text/tspan
