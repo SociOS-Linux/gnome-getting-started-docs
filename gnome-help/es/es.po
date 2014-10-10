@@ -6,14 +6,15 @@
 # Eddy Alegria <eddy@endlessm.com>, 2014
 # Fernando Farfan <fernando@endlessm.com>, 2014
 # Gaby González <gaby@endlessm.com>, 2014
+# Joel Gil Leon <joel@endlessm.com>, 2014
 # Nicolás Satragno <nsatragno@gnome.org>, 2013
 # Nuritzi Sanchez <ns@endlessm.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2014-10-08 12:46-0700\n"
-"PO-Revision-Date: 2014-10-09 02:47+0000\n"
-"Last-Translator: Alejandro Farfán <alejandro@endlessm.com>\n"
+"PO-Revision-Date: 2014-10-10 01:08+0000\n"
+"Last-Translator: Joel Gil Leon <joel@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-getting-started-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2041,7 +2042,7 @@ msgstr "Tu computadora viene con muchos programas ya instalados en tu escritorio
 msgid ""
 "If you want more applications, you can install them by clicking on the "
 "<gui>More Apps</gui> icon on your screen."
-msgstr "Si quieres más programas, puedes instalarlos haciendo click en el ícono gui>Más programas</gui> en el escritorio"
+msgstr "Si quieres más programas, puedes instalarlos haciendo click en el ícono <gui>Más programas</gui> en el escritorio"
 
 #. (itstool) path: section/title
 #: C/gs-launch-applications.page:43
@@ -2215,14 +2216,14 @@ msgid ""
 "Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super "
 "</key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
 "lists the currently open windows."
-msgstr "Presiona la tecla <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Alt</key><key>Tab</key></keyseq> para mostrar el <gui>Selector de ventanas</gui>, que enumera las ventanas que están abiertas ahora."
+msgstr "Presiona la tecla <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</key><key>Tab</key></keyseq> para mostrar el <gui>Selector de ventanas</gui>, que enumera las ventanas que están abiertas ahora."
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:34
 msgid ""
 "Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
 "select the next highlighted window in the <gui>window switcher</gui>."
-msgstr "Suelta la tecla <key href=\"help:gnome-help/keyboard-key-super\">Alt</key> para seleccionar la próxima ventana resaltada en el <gui>selector de ventanas</gui>."
+msgstr "Suelta la tecla <key href=\"help:gnome-help/keyboard-key-super\">Super</key> para seleccionar la próxima ventana resaltada en el <gui>selector de ventanas</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-switch-tasks.page:39
@@ -2230,7 +2231,7 @@ msgid ""
 "To cycle through the list of open windows, do not release <key href=\"help"
 ":gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
 "<key>Tab</key>."
-msgstr "Para pasar a través de la lista de ventanas abiertas, no sueltes la tecla <key href=\"help:gnome-help/keyboard-key-super\">Alt</key>; manténla preaionada y presiona <key>Tab</key>."
+msgstr "Para pasar a través de la lista de ventanas abiertas, no sueltes la tecla <key href=\"help:gnome-help/keyboard-key-super\">Super</key>; manténla preaionada y presiona <key>Tab</key>."
 
 #. (itstool) path: section/title
 #: C/gs-switch-tasks.page:49
@@ -2255,7 +2256,7 @@ msgstr "Haz click sobre una ventana para cambiar a esa tarea."
 msgid ""
 "You can also get to the <gui>Window Picker</gui> by pressing <keyseq><key "
 "href=\"help:gnome-help/keyboard-key-super\"> Super</key></keyseq>"
-msgstr "También puedes acceder al <gui>Seleccionador de Ventanas</gui> presionando la tecla <keyseq><key href=\"help:gnome-help/keyboard-key-super\"> Alt</key></keyseq> en tu teclado"
+msgstr "También puedes acceder al <gui>Seleccionador de Ventanas</gui> presionando la tecla <keyseq><key href=\"help:gnome-help/keyboard-key-super\"> Super</key></keyseq> en tu teclado"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-responding-to-messages.svg:88
@@ -2617,7 +2618,7 @@ msgstr "Maximizar y desmaximizar las ventanas utilizando el teclado"
 msgid ""
 "To maximize a window using the keyboard, hold down the <key href=\"help"
 ":gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
-msgstr "Para maximizar una ventana utilizando el teclado, mantén presionada la tecla <key href=\"help:gnome-help/keyboard-key-super\">Alt</key> y presiona la tecla con la flecha hacia arriba<key>↑</key>."
+msgstr "Para maximizar una ventana utilizando el teclado, mantén presionada la tecla <key href=\"help:gnome-help/keyboard-key-super\">Super</key> y presiona la tecla con la flecha hacia arriba<key>↑</key>."
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:62
@@ -2637,7 +2638,7 @@ msgid ""
 "To maximize a window along the right side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
 "<key>→</key>."
-msgstr "Para maximizar una ventana en el lado derecho de la pantalla, mantén presionada la tecla <key href=\"help:gnome-help/keyboard-key-super\">Alt</key> y presiona la tecla con una flecha hacia la derecha<key>→</key>."
+msgstr "Para maximizar una ventana en el lado derecho de la pantalla, mantén presionada la tecla <key href=\"help:gnome-help/keyboard-key-super\">Super</key> y presiona la tecla con una flecha hacia la derecha<key>→</key>."
 
 #. (itstool) path: item/p
 #: C/gs-use-windows-workspaces.page:76
@@ -2645,7 +2646,7 @@ msgid ""
 "To maximize a window along the left side of the screen, hold down the <key "
 "href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
 "<key>←</key>."
-msgstr "Para maximizar una ventana en el lado izquierdo de la pantalla, mantén presionada la tecla <key href=\"help:gnome-help/keyboard-key-super\">Alt</key> y presiona la tecla con una flecha hacia la izquierda<key>←</key>."
+msgstr "Para maximizar una ventana en el lado izquierdo de la pantalla, mantén presionada la tecla <key href=\"help:gnome-help/keyboard-key-super\">Super</key> y presiona la tecla con una flecha hacia la izquierda<key>←</key>."
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
