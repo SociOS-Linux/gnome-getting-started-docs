@@ -6,7 +6,6 @@
       type="guide" style="task" id="endless-videos" version="1.0 if/1.0">
 
 <info>
-    <link type="guide" xref="index" group="#first"/>
     <desc>Watch videos explaining how to use EndlessOS.</desc>
     <title type='link'>Videos Tutorials</title>
     <title type='sort'>Videos Tutorials</title>
