@@ -1,0 +1,15 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="topic" style="ui" id="gs-give-feedback">
+
+  <info>
+    <include href="gs-legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+  </info>
+
+  <title>How can I help make Endless better?</title>
+
+</page>

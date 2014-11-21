@@ -56,32 +56,38 @@ HELP_FILES = \
 	endless-12-social-bar.page \
 	endless-13-printers.page \
 	endless-videos.page \
+	gs-add-new-app.page \
+	gs-add-user-accounts.page \
 	gs-animation.xml \
 	gs-browse-web.page \
 	gs-connect-online-accounts.page \
+	gs-fix-overscan.page \
 	gs-get-online.page \
+	gs-give-feedback.page \
+	gs-go-online1.svg \
+	gs-go-online2.svg \
+	gs-go-online3.svg \
 	gs-goa1.svg \
 	gs-goa2.svg \
 	gs-goa3.svg \
 	gs-goa4.svg \
 	gs-goa5.svg \
-	gs-go-online1.svg \
-	gs-go-online2.svg \
-	gs-go-online3.svg \
 	gs-legal.xml \
+	gs-search-settings.svg \
 	gs-search1.svg \
 	gs-search2.svg \
-	gs-search-settings.svg \
+	gs-set-up-printer.page \
 	gs-thumb-changing-wallpaper.svg \
 	gs-thumb-launching-apps.svg \
 	gs-thumb-responding-to-messages.svg \
 	gs-thumb-task-switching.svg \
 	gs-thumb-timezone.svg \
 	gs-thumb-windows-and-workspaces.svg \
+	gs-use-offline.page \
 	gs-use-system-search.page \
 	gs-web-browser1-firefox-classic.svg \
 	gs-web-browser1-firefox.svg \
 	gs-web-browser1.svg \
 	gs-web-browser2-firefox.svg \
-	gs-web-browser2.svg
-
+	gs-web-browser2.svg \
+	gs-where-files.page
