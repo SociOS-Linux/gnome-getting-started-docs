@@ -56,12 +56,8 @@ HELP_FILES = \
 	endless-12-social-bar.page \
 	endless-13-printers.page \
 	endless-videos.page \
-	getting-started.page \
 	gs-animation.xml \
 	gs-browse-web.page \
-	gs-browse-web-firefox.page \
-	gs-change-date-time-timezone.page \
-	gs-change-wallpaper.page \
 	gs-connect-online-accounts.page \
 	gs-get-online.page \
 	gs-goa1.svg \
@@ -72,12 +68,10 @@ HELP_FILES = \
 	gs-go-online1.svg \
 	gs-go-online2.svg \
 	gs-go-online3.svg \
-	gs-launch-applications.page \
 	gs-legal.xml \
 	gs-search1.svg \
 	gs-search2.svg \
 	gs-search-settings.svg \
-	gs-switch-tasks.page \
 	gs-thumb-changing-wallpaper.svg \
 	gs-thumb-launching-apps.svg \
 	gs-thumb-responding-to-messages.svg \
@@ -85,7 +79,6 @@ HELP_FILES = \
 	gs-thumb-timezone.svg \
 	gs-thumb-windows-and-workspaces.svg \
 	gs-use-system-search.page \
-	gs-use-windows-workspaces.page \
 	gs-web-browser1-firefox-classic.svg \
 	gs-web-browser1-firefox.svg \
 	gs-web-browser1.svg \
