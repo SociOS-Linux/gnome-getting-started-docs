@@ -11,10 +11,8 @@
     <credit type="author">
       <name>Petr Kovar</name>
     </credit>
-    <link type="guide" xref="getting-started" group="tasks"/>
-    <title role="trail" type="link">Use the system search</title>
-    <link type="seealso" xref="shell-apps-open"/>
-    <title role="seealso" type="link">A tutorial on using the system search</title>
+
+    <link type="guide" xref="shell-overview#search"/>
   </info>
 
   <title>Use the system search</title>

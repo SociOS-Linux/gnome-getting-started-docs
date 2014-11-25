@@ -8,6 +8,9 @@
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>
+
+    <link type="guide" xref="index"/>
+    <link type="guide" xref="hardware#displays"/>
   </info>
 
   <title>I can't see the task bar or start menu, what do I do?</title>

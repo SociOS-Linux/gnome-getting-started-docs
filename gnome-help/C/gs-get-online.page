@@ -11,13 +11,11 @@
     <credit type="author">
       <name>Petr Kovar</name>
     </credit>
-    <link type="guide" xref="getting-started" group="videos"/>
-    <title role="trail" type="link">Get online</title>
-    <link type="seealso" xref="net"/>
-    <title role="seealso" type="link">A tutorial on getting online</title>
+
+    <link type="guide" xref="index"/>
   </info>
 
-  <title>Get online</title>
+  <title>How do I set up my internet?</title>
   
   <note style="important">
     <p>You can see the status of your network connection on the bottom right-
