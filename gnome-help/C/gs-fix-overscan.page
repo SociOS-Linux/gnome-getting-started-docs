@@ -1,0 +1,18 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:ui="http://projectmallard.org/experimental/ui/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="topic" style="ui" id="gs-fix-overscan">
+
+  <info>
+    <include href="gs-legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <link type="guide" xref="index"/>
+    <link type="guide" xref="hardware#displays"/>
+  </info>
+
+  <title>I can't see the task bar or start menu, what do I do?</title>
+
+</page>

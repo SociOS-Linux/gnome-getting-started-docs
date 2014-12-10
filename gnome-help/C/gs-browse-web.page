@@ -11,10 +11,8 @@
     <credit type="author">
       <name>Petr Kovar</name>
     </credit>
-<!--Distributors might need to comment out the two elements below if they
-    don't ship GNOME's Web browser by default.-->
-    <link type="guide" xref="getting-started" group="tasks"/>
-    <title role="trail" type="link">Browse the web</title>
+
+    <link type="guide" xref="net#browser"/>
   </info>
 
   <title>Browse the web</title>
