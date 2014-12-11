@@ -6,6 +6,16 @@
       type="guide" style="task" id="endless-12-social-bar" version="1.0 if/1.0">
 <info>
     <link type="guide" xref="endless-videos" group="#videos"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
     <title type='link'>Using Facebook</title>
     <title type='sort'>12</title>
     <desc>A video showing how to use Facebook with other programs.</desc>

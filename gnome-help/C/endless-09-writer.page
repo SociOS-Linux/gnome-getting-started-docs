@@ -6,6 +6,16 @@
       type="guide" style="task" id="endless-09-writer" version="1.0 if/1.0">
 <info>
     <link type="guide" xref="endless-videos" group="#videos"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
     <title type='link'>Using the Writer program</title>
     <title type='sort'>09</title>
     <desc>A video showing how to use the Writer to create documents.</desc>
