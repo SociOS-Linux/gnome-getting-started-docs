@@ -31,27 +31,39 @@
 </ui:overlay>
 
 <p></p>
-<p>Your computer Endless includes much content that can be used without an
- Internet connection, so you can learn many things.</p>
-<p>In the trivia folder on your desktop, you can find programs that have lots of
- information. For example, Virtual School.</p>
-<p>When you open the program you will see the materials on which you can find
- lessons, and the number of videos that are on each subject to the right of your
- name. For example, in matters Sciences, you can see that there are 4 videos on
- the topic Health and Medicine. If we click on the name of this topic, see the
- list of videos that we can find.</p>
-<p>For a video, we click on its name and begin playing the video with the
- lesson.</p>
-<p>If we end this video, we may click on the button with an X at the top right
- of the video part. To learn more about how to control the video, you can see
- the tutorial that talks about photos, music and video.</p>
-<p>We also want to show the program Encyclopedia. This program we have put it on
- your desktop to make it easy to find.</p>
-<p>When you open this program, you will see a bar where you can search for any
- topic you want to investigate. For example, let's look Guatemala. A list where
- you can choose which item to look appears. When clicking on a title,
- information on the topic you have chosen will appear.</p>
-<p>Remember that there are many programs that do not need internet.Browse your
- computer to find them!</p>
+
+<p>Your computer includes a lot of offline content so you can learn and explore
+a great deal of things without having an internet connection!</p>
+
+<p>For example, you’ll find a folder called <gui>Curiosities</gui> on your
+desktop where you can find apps like <app>Virtual School</app>, which allows you
+to watch hundreds of videos about all sorts of subjects you may find
+interesting.</p>
+
+<p>Let’s explore <app>Virtual School</app>. Open the app to see the all the
+different subjects for which you can watch video lessons. You’ll see the number
+of videos available for each topic to the right of its name. For example, in
+<gui>Sciences</gui>, you can see that there are 4 videos on the topic
+<gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of this
+topic, you’ll be able to see the list of videos available.</p>
+
+<p>For any video you’d like to watch, just click on it once to begin playing
+it.</p>
+
+<p>To end the video, just click on the <key>X</key> button at the top right-hand
+corner of the video. To learn more about how to control videos, please see the
+tutorial that talks about photos, music and video.</p>
+
+<p>You may also be interested in using the <app>Encyclopedia</app> app. We have
+put it on your desktop to make it easy to find.</p>
+
+<p>When you open this app, you will see a bar where you can search for any topic
+you want to investigate. For example, let's look for information about
+Guatemala. Once you start typing, a list will appear so that you can choose the
+item that best matches what you’d like to read about. Click on a title and all
+of the information on the topic you have chosen will appear.</p>
+
+<p>Remember that there are many apps that do not require internet. Keep
+exploring your computer to find them!</p>
 
 </page>

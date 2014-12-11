@@ -21,15 +21,24 @@
 </ui:overlay>
 
 <p></p>
-<p>Click the icon Endless, and then click Settings.</p>
-<p>In the window that appears, click Printers. To continue, you have to unlock
- this window by clicking on the button that says unlocked in the upper right
- corner and enter your password.</p>
-<p>Click the + symbol in the lower left corner of this window.</p>
-<p>Then select your printer from the list that appears, and click Add.</p>
-<p>You will see the name of your printer already appears in this window. If you
- want to check that your printer is configured correctly, click on the button
- that says Print test page, for a sample sheet printed.</p>
-<p>You can close this window.</p>
+
+<p>Click the <em>User Menu</em> button on the bottom left-hand corner of the
+screen, then select <gui>Settings</gui>.</p>
+
+<p>In the window that appears, click <gui>Printers</gui>. To continue, you must
+unlock this window by clicking on the button that says <gui>Unlock</gui> in the
+upper right-hand corner. Enter your password and click <gui>Authenticate</gui>
+to finish unlocking the window.</p>
+
+<p>Click the <key>+</key> symbol in the lower left-hand corner of this
+window.</p>
+
+<p>Select your printer from the list that appears, and click <gui>Add</gui>.</p>
+
+<p>You will see the name of your printer appear. If you want to check that your
+printer is configured correctly, click the button that says <gui>Print</gui> to
+print a sample page.</p>
+
+<p>You can now close this window and begin to use your printer with Endless!</p>
 
 </page>

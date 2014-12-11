@@ -31,21 +31,22 @@
 </ui:overlay>
 
 <p></p>
-<p>We want to introduce your computer desktop Endless, is like the front door of
- the operating system.</p>
-<p>From here you will find your programs and your documents folder; just click
- on them you can open them to be of use.</p>
-<p>Your computer has an active Endless corner. Touching the lower right corner
- with the mouse, it will show what programs you have open so you can easily
- switch between them or close them by clicking on the black X button that appears
- when placing the mouse over them. It will also show the icons folder of
- documents, internet browser and a button to return to the desktop by minimizing
- all open programs.</p>
-<p>Finally, you'll see at the bottom of your screen a menu bar. Here you can
- access wireless networks wifi, bluetooth equipment, control the volume of your
- computer, change the keyboard language and time. On the left side of the bar,
- you will find an icon to access the internet browser. When you finish using your
- computer need to turn it off by clicking the icon of endless and then selecting
- the option to leave.</p>
+<p>Welcome to Endless, the operating system that powers your new computer.</p>
+<p>We have made everything simple and easy to use. You can find your apps and
+ your documents folder right on your desktop. Click on them once to open
+ them.</p>
+<p>Your computer has a hot corner. Move your mouse to the lower right-hand
+ corner and you will be able to see all of your open apps and activities so that
+ you can easily switch between them or close them by clicking on the black X
+ button that appears when scrolling over them. You will notice that that you can
+ also easily access the internet, your documents folder, and a button to return
+ to the desktop on the right hand side with you are in the hot corner view
+ mode.</p>
+<p>At the the bottom of your screen is the taskbar. Here you can access wifi,
+ bluetooth, control the volume of your computer, change the keyboard language
+ and time, and see which apps you currently have open. On the left side of the
+ taskbar, you will find an icon to access the internet browser. When you finish
+ using your computer, you'll be able to turn it off by clicking the user menu
+ and selecting <gui>Exit</gui>.</p>
 
 </page>

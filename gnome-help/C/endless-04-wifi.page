@@ -31,21 +31,29 @@
 </ui:overlay>
 
 <p></p>
-<p>To connect to a Wi-Fi network, you just follow 3 easy steps.</p>
-<p>First, click on the wireless icon, which is in the lower right corner of your
- desktop, at the same clock.</p>
-<p>In the window that appears, you will see the names of all the Wi-Fi wireless
- networks to which you can connect, if you do not see any network, make sure the
- Wi-Fi is on. If the button to the right of the word Wi-Fi is blue, the Wi-Fi is
- on your computer. If it is not blue, can click on it to turn it on.</p>
-<p>Select the name of your wireless network. The network will use in this
- tutorial is called Endless Wi-Fi, but the name of your network will be
- different. If you have questions about what is the name of your wireless network
- or your password, you can call the company that provides you internet
- service.</p>
-<p>After the previous step, you must enter the password for your network.</p>
-<p>If your computer has successfully connected, a white circle appears to the
- left of the name of the network.</p>
-<p>And so, you'll be connected!</p>
+<p>You can connect to a Wi-Fi network with these easy steps:</p>
+
+<p>First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom right
+side of your desktop, on the taskbar close to the clock.</p>
+
+<p>On the window that comes up, you’ll see the names of all of the available Wi-
+Fi networks that you can connect to. If you don’t see any, make sure that your
+Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is turned on if there
+is a blue light to the right of the word <gui>Wi-Fi</gui>. If the light is not
+blue, you can click on it once to turn it on.</p>
+
+<p>Select the name of your wireless network. The network in this example is
+called <gui>Endless Wi-Fi</gui>, but the name of your own Wi-Fi network will be
+different. If you’re not sure what the name of your Wi-Fi network is, or don’t
+know the password, you can call the company that provides your internet and ask
+them.</p>
+
+<p>After selecting the name of your network, you’ll have to type in your
+network’s password.</p>
+
+<p>If your computer successfully connects to the internet, you’ll see a white
+circle to the left of the name of your network.</p>
+
+<p>And just like that, you’re connected to the internet!</p>
 
 </page>

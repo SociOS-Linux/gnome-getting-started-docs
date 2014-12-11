@@ -31,19 +31,22 @@
 </ui:overlay>
 
 <p></p>
-<p>The option to minimize a program or folder, it is very useful if you want to
- maintain an open and perform other tasks on your desktop or other program or
- folder.</p>
-<p>You can minimize your programs in two ways: by clicking on the icon that has
- a script, located in the upper right corner of windows or also by clicking on
- the icon in the bottom bar of your screen Endless. This will make your show or
- hide folder in your menu bar. This allows you to perform multiple tasks
- simultaneously.</p>
-<p>To make your program returns to the screen, so you just click on its icon and
- it will return to its original size. When you finish using a program you must
- close it by clicking the X icon with this icon next to minimize.</p>
-<p>You can also play with the mouse the bottom right corner of your screen, then
- move up to the program window you want to close and click on the X in the upper
- right corner of that window.</p>
+
+<p>If you want to keep an app or folder open while you work on another task on
+your desktop or in another app, the minimizing option is extremely useful!</p>
+
+<p>You can minimize your programs one of two ways: clicking on the <key>-</key>
+icon, which is on the top right corner of each window, or clicking on the
+program’s icon on the taskbar of your Endless screen. This will hide your app or
+folder in your taskbar so that you can work on different tasks at the same
+time.</p>
+
+<p>To make your app return to your screen, just click its icon once and it’ll
+return to its last size. When you’re done using a program, close it by clicking
+the <key>X</key> icon at the top right-hand corner of the window.</p>
+
+<p>You can also move your mouse down to the bottom right-hand corner of your
+screen, then move over to the window of the app you want to close and click the
+<key>X</key> on the top right of that window to close it.</p>
 
 </page>
