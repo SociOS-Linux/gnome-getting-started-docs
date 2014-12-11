@@ -4,9 +4,13 @@
       type="topic" style="ui" id="gs-add-new-app">
 
   <info>
-    <include href="gs-legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
     <credit type="author">
       <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
     </credit>
 
     <link type="guide" xref="index"/>

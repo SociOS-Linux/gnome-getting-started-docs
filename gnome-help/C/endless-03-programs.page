@@ -6,6 +6,16 @@
       type="guide" style="task" id="endless-03-programs" version="1.0 if/1.0">
 <info>
     <link type="guide" xref="endless-videos" group="#videos"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
     <title type='link'>Installing programs</title>
     <title type='sort'>03</title>
     <desc>A video showing how to install programs.</desc>
