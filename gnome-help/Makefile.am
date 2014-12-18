@@ -56,11 +56,8 @@ HELP_FILES = \
 	endless-12-social-bar.page \
 	endless-13-printers.page \
 	endless-videos.page \
-	gs-add-new-app.page \
-	gs-add-user-accounts.page \
 	gs-animation.xml \
 	gs-browse-web.page \
-	gs-connect-online-accounts.page \
 	gs-fix-overscan.page \
 	gs-get-online.page \
 	gs-give-feedback.page \
@@ -76,7 +73,6 @@ HELP_FILES = \
 	gs-search-settings.svg \
 	gs-search1.svg \
 	gs-search2.svg \
-	gs-set-up-printer.page \
 	gs-thumb-changing-wallpaper.svg \
 	gs-thumb-launching-apps.svg \
 	gs-thumb-responding-to-messages.svg \
