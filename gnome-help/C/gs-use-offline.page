@@ -33,11 +33,13 @@
       <title>How to get to the <app>App Store</app>:</title>
       <item>
         <p>Click on <app>More Apps</app> from the desktop.</p>
+        <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-app-store.png"/>
       </item>
       <item>
         <p>Click on a category like <gui>Education</gui>, <gui>Games</gui>,
         <gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each
         section.</p>
+        <media its:translate="no" type="image" mime="image/png" src="figures/eos-app-store-categories.png"/>
       </item>
       <item>
         <p>Click on an app to read more about it and either install it or add it

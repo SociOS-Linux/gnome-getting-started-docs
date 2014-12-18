@@ -24,12 +24,14 @@
     <item>
       <p>Your computer comes with a pre-installed <gui>Internet
        application</gui> icon on your desktop. You can browse the internet by
-       clicking on this desktop icon once. </p>
+       clicking on this desktop icon once.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-browser.png"/>
     </item>
     <item>
       <p>You can also open this application by moving your mouse pointer to
        the <gui>Internet</gui> orange globe icon at the bottom left of the
        screen and clicking once.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-browser-taskbar.png"/>
     </item>
     <item>
       <p>Click the address bar at the top of the browser window. Start

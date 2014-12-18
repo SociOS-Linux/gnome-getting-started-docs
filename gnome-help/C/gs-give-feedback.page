@@ -26,18 +26,22 @@
   <steps>
     <title>Here's how to give us your feedback:</title>
     <item>
-      <p>Click on the [standard_user_menu.png] button on the bottom left-hand
-      corner of your screen.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-user-menu.png"/>
     </item>
     <item>
       <p>Click the <gui>Give Us Feedback</gui> option. You can also access the
       feedback section by opening your browser and clicking the
       <gui>Feedback</gui> button on the bottom left-hand corner of the
       browser.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-feedback.png"/>
     </item>
     <item>
       <p>Enter in your comment, name and email address. You must fill in all
       three fields in order to submit your feedback.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-browser-feedback.png"/>
     </item>
     <item>
       <p>You will receive a confirmation email to let you know that we have

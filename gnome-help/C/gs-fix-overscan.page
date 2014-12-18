@@ -29,16 +29,20 @@
       <item>
         <p>Right click on the desktop and select <gui>"Change
         Background..."</gui>.</p>
+        <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-right-click.png"/>
       </item>
       <item>
         <p>Click the back button on the top left corner of the dialog box.</p>
+        <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-background-back.png"/>
       </item>
       <item>
         <p>Select the <gui>Displays</gui> icon.</p>
+        <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-displays.png"/>
       </item>
       <item>
         <p>Check the dialog box next to <gui>Scaling</gui> that says
         <gui>"Adjust screen for TV"</gui>.</p>
+        <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-overscan.png"/>
       </item>
       <item>
         <p>You should now see a black bar at the bottom of your screen and the

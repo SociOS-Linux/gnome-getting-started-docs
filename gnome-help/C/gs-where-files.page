@@ -58,11 +58,13 @@
     <title>If you do not know the name of your file</title>
 
     <p>Click on <app>Documents</app> from the desktop.</p>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-right-click.png"/>
 
     <p>Endless tries to store files by categories like documents, music, photos,
     and videos, so that they are easier for you to find. You will see that the
     menu on the left shows these categories. Click on them once to go to that
     folder.</p>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-file-manager.png"/>
 
     <p>You can create your own folders to better organize your files. You should
     click through the different folders you create to get to the files you have

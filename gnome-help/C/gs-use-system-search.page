@@ -32,6 +32,9 @@
       <p>From the desktop, click on the <app>global search bar</app> at bottom
        of your screen that says <gui>Type to search...</gui>. Start typing to
        search.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop.png"/>
+    </item>
+    <item>
       <p>Results matching what you have typed will appear as you type. The first
        result is always highlighted and shown at the top.</p>
       <p>Press <key>Enter</key> to choose the first highlighted
@@ -45,6 +48,7 @@
         <item><p>matching settings, and</p></item>
         <item><p>matching documents.</p></item>
       </list>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-search.png"/>
     </item>
     <item>
       <p>In the search results, click on the item you want to open.</p>
