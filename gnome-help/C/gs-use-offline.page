@@ -16,6 +16,10 @@
     <link type="guide" xref="index"/>
     <link type="guide" xref="net#browser"/>
     <link type="guide" xref="shell-overview#apps"/>
+
+    <title type="link" role="shell-overview">Find apps that work without the internet</title>
+    <title type="link" role="net">Use your computer offline</title>
+    <desc>Discover all the offline content on your computer.</desc>
   </info>
 
   <title>What can I do if I don't have internet?</title>
