@@ -16,8 +16,186 @@
     <link type="guide" xref="index"/>
     <link type="guide" xref="net#browser"/>
     <link type="guide" xref="shell-overview#apps"/>
+
+    <title type="link" role="shell-overview">Find apps that work without the internet</title>
+    <title type="link" role="net">Use your computer offline</title>
+    <desc>Discover all the offline content on your computer.</desc>
   </info>
 
   <title>What can I do if I don't have internet?</title>
+
+  <p>Your computer comes with a lot of great offline content you can use even if
+  you don't have an internet connection.</p>
+
+  <section>
+    <title>Introducing the <app>App Store</app></title>
+    <p>The <app>App Store</app> is full of apps that are free and can be easily
+    added to your desktop. Most of the apps you'll find there have offline
+    capability and you can browse by category to find just what you're looking
+    for, or else just click around and explore.</p>
+    <steps>
+      <title>How to get to the <app>App Store</app>:</title>
+      <item>
+        <p>Click on <app>More Apps</app> from the desktop.</p>
+        <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-app-store.png"/>
+      </item>
+      <item>
+        <p>Click on a category like <gui>Education</gui>, <gui>Games</gui>,
+        <gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each
+        section.</p>
+        <media its:translate="no" type="image" mime="image/png" src="figures/eos-app-store-categories.png"/>
+      </item>
+      <item>
+        <p>Click on an app to read more about it and either install it or add it
+        to your desktop.</p>
+      </item>
+    </steps>
+  </section>
+
+
+  <section>
+    <title>Here are a few examples of the offline content on your desktop and in
+    the <app>App Store</app>:</title>
+
+    <list>
+      <title>Education</title>
+      <item>
+        <p><app>Encyclopedia</app> - Search to learn about nearly anything. An
+        offline encyclopedia with all the power of the internet's best.</p>
+      </item>
+      <item>
+        <p><app>Virtual School</app> - Hundreds of videos to help you lean more
+        about your favorite subjects, or to help you understand subjects that
+        are difficult for you.</p>
+      </item>
+      <item>
+        <p><app>Edu Games</app> - Chess, puzzles, and many more games and
+        activities to help children of all ages develop their mental
+        abilities.</p>
+      </item>
+      <item>
+        <p><app>Tux Math</app> - A fun way for kids to practice addition,
+        subtraction, multiplication and more.</p>
+      </item>
+      <item>
+        <p><app>Tux Typing</app> - Learn how to type with this game that guides
+        you and helps you practice so that you can type faster and more
+        accurately.</p>
+      </item>
+      <item>
+        <p><app>World Literature</app> - Read many of the world's greatest
+        stories.</p>
+      </item>
+      <item>
+        <p><app>Animals</app> - Learn more about your favorite animals, and
+        about animals you never even knew existed!</p>
+      </item>
+    </list>
+
+    <list>
+      <title>Games</title>
+      <item>
+        <p><app>Tux Kart</app> - Race against the computer or your friends. Get
+        superpowers and avoid traps to finish first!</p>
+      </item>
+      <item>
+        <p><app>Potato Guy</app> - Create a face and character for Mr. Potato
+        Guy.</p>
+      </item>
+      <item>
+        <p><app>Numpty Physics</app> - Draw objects and use the laws of physics
+        to help you get to the next level.</p>
+      </item>
+      <item>
+        <p><app>X-Moto</app> - Try to get your motorcycle up hills and around
+        objects as fast as you can to complete each course.</p>
+      </item>
+      <item>
+      <p><app>Minetest</app> - Avoid the areas that have mines buried beneath
+      them so that you don't blow up. This strategy game is   addictive.</p>
+      </item>
+      <item>
+      <p><app>Blockout2</app> - A tetris-like game where you need to match the
+      colors as best you can before the screen fills up and  you lose.</p>
+      </item>
+    </list>
+
+    <list>
+      <title>Resources</title>
+      <item>
+        <p><app>Writer</app> - Write papers for school, work or for anything
+        else you need. Compatible with Microsoft's Word.</p>
+      </item>
+      <item>
+        <p><app>Presentation</app> - Create beautiful presentations! Compatible
+        with Microsoft's Powerpoint.</p>
+      </item>
+      <item>
+        <p><app>Spreadsheet</app> - Make simple or complex calculations, or
+        organize yourself in ways you never thought possible with this powerful
+        spreadsheet app. Compatible with Microsoft's Excel.</p>
+      </item>
+      <item>
+        <p><app>Resume</app> - Learn how to make a great resume to help you find
+        your ideal job.</p>
+      </item>
+      <item>
+        <p><app>Health</app> - Look up illnesses, treatments, and learn how to
+        keep yourself and your family healthy.</p>
+      </item>
+      <item>
+        <p><app>How To</app> - Learn how to do just about anything with this
+        handy app.</p>
+      </item>
+    </list>
+
+    <list>
+      <title>Entertainment</title>
+      <item>
+        <p><app>Cheese</app> - Take funny pictures with friends and family!
+        *Requires a webcam, not included with Endless.</p>
+      </item>
+      <item>
+        <p><app>Videos</app> - Watch some of the pre-installed videos that come
+        with Endless, or transfer videos from a USB or DVD and watch them on
+        this great and easy-to use media player.</p>
+      </item>
+      <item>
+        <p><app>Myths and Legends</app> - Read about myths and legends from all
+        over the world! Everything from La Llorona to Big Foot and many, many
+        more</p>
+      </item>
+      <item>
+        <p><app>Celebrities</app> - Learn all about your favorite sports stars,
+        movie stars, and other celebrities</p>
+      </item>
+      <item>
+        <p><app>Travel</app> - Read about places around the world and see
+        beautiful pictures that will make you feel like you're actually
+        there!</p>
+      </item>
+    </list>
+
+    <list>
+    <title>Utility</title>
+      <item>
+        <p><app>Notes</app> - A handy app to help you jot down things you don't
+        want to forget!</p>
+      </item>
+      <item>
+        <p><app>Video Editor</app> - Film videos on your phone and edit them to
+        create a masterpiece, or simply take already existing video clips and
+        make them something of your own!</p>
+      </item>
+      <item>
+        <p><app>Photo Editor</app> - Add filters and borders to your photos,
+        crop them, and more, to make them even more awesome!</p>
+      </item>
+      <item>
+        <p><app>Audio Editor</app> - Cut, mix and create great beats and songs
+        that will have all of your friends dancing along with you.</p>
+      </item>
+    </list>
+  </section>
 
 </page>

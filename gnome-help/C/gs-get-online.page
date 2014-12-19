@@ -19,11 +19,15 @@
   </info>
 
   <title>How do I set up my internet?</title>
-  
-  <note style="important">
-    <p>You can see the status of your network connection on the bottom right-
-     hand side of your screen, to the left of the Facebook icon.</p>
-  </note>  
+
+  <p>If you are offline, the network connection icon on the bottom right-hand
+   side of your screen will look like this <media type="image" mime="image/svg"
+   src="figures/network-offline-symbolic.svg"/>.</p>
+
+  <p>The offline status can be caused by a number of reasons: for example, a
+   network cable has been unplugged, the computer has been set to run in
+   <em>airplane mode</em>, or there are no available Wi-Fi networks in your
+   area.</p>
 
   <section id="going-online-wired">
 
@@ -31,12 +35,6 @@
 
     <steps>
       <item>
-        <p>The network connection icon [OFF ICON] on the bottom right-hand side
-         of your screen shows that you are off-line.</p>
-        <p>The off-line status can be caused by a number of reasons: for
-         example, a network cable has been unplugged, the computer has been set
-         to run in <em>airplane mode</em>, or there are no available Wi-Fi
-         networks in your area.</p>
         <p>If you want to use a wired connection, just plug in a network cable
          to go online. The computer will try to set up the network connection
          for you automatically.</p>
@@ -45,8 +43,9 @@
       </item>
       <item>
         <p>Once the network connection has been successfully set up, the network
-         connection icon changes to this [ON ICON] networked computer
-         symbol.</p>
+         connection icon changes to this <media type="image" mime="image/svg"
+         src="figures/network-wired-symbolic.svg"/>
+         networked computer symbol.</p>
       </item>
     </steps>
     
@@ -58,29 +57,44 @@
 
     <steps>
       <item>
-        <p>Is your Wi-Fi turned on? Look for the network icon at the bottom
-         right corner of your screen. You will see this icon [ON ICON], if you
-         are connected, or this icon [OFF ICON] if you are not. Click on the
-         icon you see.</p>
+        <p>Is your Wi-Fi connected? Look for the network icon at the bottom
+         right corner of your screen. You will see this icon <media type="image"
+         mime="image/svg" src="figures/network-offline-symbolic.svg"/>. Click on
+         it and a menu should appear.</p>
       </item>
       <item>
-        <p>Is the Wi-Fi  switch blue? If it is not, click on the words “Wi-Fi”
+        <p>Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi”
          to turn it on. Check to make sure it is now blue.</p>
       </item>
       <item>
-        <p>Next, select your Wi-Fi network from the list. Enter your network
-         password, which is usually different than the password you use to log
-         in to your computer.</p><p> Remember that your friends or neighbors
-         may have the same default network name you do, and your computer may be
-         picking up their network signal. If your password isn’t working, make
-         sure you have selected the right network.</p>
+        <p>Next, select your Wi-Fi network from the list.</p>
       </item>
       <item>
-        <p>If you don’t see your network in the list, try unplugging your Wi-Fi
-        router then plugging it back in. If it still doesn’t work, you may need
-        to contact your internet provider directly.</p>
+         <p>Enter your network
+         password, which is usually different than the password you use to log
+         in to your computer.</p>
+        <p>While the computer sets up a network connection for you, the network
+         connection icon shows three dots.</p>
+      </item>
+      <item>
+        <p>Once the network connection has been successfully set up, the network
+         connection icon changes to this <media type="image" mime="image/svg"
+         src="figures/network-wireless-signal-excellent-symbolic.svg"/>
+         networked computer symbol.</p>
       </item>
     </steps>
+
+    <note>
+      <p>If you don’t see your network in the list, try unplugging your Wi-Fi
+      router then plugging it back in. If it still doesn’t work, you may need
+      to contact your internet provider directly.</p>
+    </note>
+    <note>
+       <p> Remember that your friends or neighbors
+       may have the same default network name you do, and your computer may be
+       picking up their network signal. If your password isn’t working, make
+       sure you have selected the right network.</p>
+    </note>
 
     <!-- FIXME: links to existing wireless/broadband connection documents. -->
 

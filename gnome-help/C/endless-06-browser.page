@@ -31,31 +31,42 @@
 </ui:overlay>
 
 <p></p>
-<p>If you're connected to the internet you can access many sites around the
- world.Let's learn how to use it!</p>
-<p>When your computer is connected to Internet, you can go to the browser by
- clicking on the icon of the yellow sphere. We have put this icon in three
- places so you can easily access: On the desktop, with icons of other programs;
- on the black bar located on the bottom of your screen, and the right side when
- you play with the mouse the bottom right corner.</p>
-<p>Upon entering the browser, you'll see the Content Center. In it we have put
- some interesting links. Under the title "Discover" are some categories so you
- can find useful websites. For example, in the news category you will find links
- to the newspaper El País, Antigua Channel, Univision, and so on.You can browse
- the various categories to find many internet pages!</p>
-<p>When you see a page that interests you much, you can bookmark it so you can
- easily find it in the future. For example, we will enter the page of the
- Galileo University. If we want our computer to remember this page or any other,
- we just have to click on the star, which is located on the right side of the
- bar where we internet addresses. If we want we can change the name we want for
- this page. We click finished. When we do this is done, the page that appears
- when you store demos click Favorites in the center content.</p>
-<p>When clicking in history you will see the pages you've visited. If you want
- to revisit a page where you entered and before, you'll find it here. If you
- want to delete the list of pages you've visited, you can click on the button
- that says Clear History, and then take in the window that appears.</p>
-<p>Clicking on comments at the bottom left corner of the center content, you can
- write your comments or suggestions, write your message here, then your name and
- email, and then by clicking submit review.We'd love to hear from you!</p>
+
+<p>If you’re connected to the internet you have access to websites from all
+around the world! Here, you can learn how to get to them.</p>
+
+<p>When your computer is connected to the internet, you can open the browser by
+clicking on the orange circle on your taskbar on the bottom left-hand corner. We
+have put this orange icon in three different places so you can find it easily:
+on the desktop next to other apps’ icons, on the black taskbar on the bottom
+part of your screen, and on the right side of the screen when you move your
+mouse to the bottom right hot corner.</p>
+
+<p>When you first open the browser, you’ll see the <app>Content Center</app>.
+Here we have collected interesting websites for you to explore. If you click on
+the title <gui>Discover</gui> you’ll see different categories for you to look
+through to find useful websites. For example, in the <gui>News</gui> category,
+you’ll find links for different newspapers. You can explore the different
+categories to discover lots of cool websites!</p>
+
+<p>When you see a page that interests you, you can mark it as a favorite to save
+it and find it easily in the future. For example, open the page <gui>Universidad
+Galileo</gui>. If we want our computer to remember this page, or any other, all
+you have to do is click on the star that is located on the right side of the
+website’s URL in the top part of the window. If you want, you can change the
+name you save it as so that you can find it more easily in the future. Click
+<gui>Finished</gui>. Now the page you saved will appear when you click on
+<gui>Favorites</gui> in your <app>Content Center</app>.</p>
+
+<p>Clicking on <gui>History</gui> allows you to see all of the websites that you
+have previously visited. If you want to return to a site that you once visited,
+you can find it here. If you want to clear the list of websites that you have
+visited, click on the button that says <gui>Clear History</gui>, then click to
+accept the action on the window that pops up.</p>
+
+<p>If you click on <gui>Feedback</gui> on the bottom left side of the content
+center, you can send us your comments or suggestions. Just write your message,
+your name, and your email address, then click <gui>Send Feedback</gui>. We would
+love to hear from you!</p>
 
 </page>

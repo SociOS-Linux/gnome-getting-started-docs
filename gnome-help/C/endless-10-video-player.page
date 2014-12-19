@@ -31,29 +31,37 @@
 </ui:overlay>
 
 <p></p>
-<p>We have placed some videos on your computer so you can see them. You can also
- view your videos from a USB stick or videos downloaded from the internet.</p>
-<p>We will find the folder of videos. On the desktop, we click on documents.
- Now, double click on the folder called Videos. This folder called examples is
- where we put the sample videos. Double click to open it. To open a video,
- simply double-click on its name.</p>
-<p>We can pause by clicking this button in the lower left corner of the video,
- and to continue playing, go back to click on the same button. Clicking on this
- square that appears on the bottom bar of the video and dragging, can advance
- and retard the video.</p>
-<p>We can see the video in full screen by clicking on the arrows below the video
- on the right. To reduce their size have to press the escape key on your
- keyboard, which has the letters ESC. It is the key that is on top of your
- keyboard on the left side. This key will be used to escape some games, or when
- the videos are in full display as now.</p>
-<p>Always at the bottom of the video on the right side, find the button that
- serves to raise and lower volume. Placing your mouse over the button, a bar in
- which you can increase or decrease the volume by clicking the white box and
- dragging it up or down appears.</p>
-<p>Remember, to stream the videos have to have headphones or speakers connected.
- Also you can hear if your computer is connected to a television. If you still
- can not hear, try turning up the volume of your speakers or television.</p>
-<p>Meet all the videos you chose for you, and many others that you can get and
- enjoy!</p>
+
+<p>We have pre-installed some fun short videos onto your computer so you can
+watch them whenever you want. You can also watch videos from a USB memory stick,
+or you can download and watch videos from the internet if you have a
+connection.</p>
+
+<p>First, let's find the <gui>Videos</gui> folder. From the desktop, click on
+the <app>Documents</app> folder. Then, double click on the
+folder<gui>Videos</gui> folder. Double click on the <gui>Samples</gui> folder to
+open it. This is where we have added the pre-installed short videos. To open a
+video, simply double click on its name.</p>
+
+<p>Once the video is playing, you can pause it by clicking on the button in the
+lower left corner of the video. To continue playing it,click on that same
+button. You can click on the grey square that appears on the bottom bar of the
+video and drag it to advance or rewind the video.</p>
+
+<p>If you’d like to see the video in full screen, just click on the arrows below
+the video on the right. To downsize the video and see other things in your
+screen again, you’ll have to press the <key>ESC</key> key, which is on the top
+left-hand side of your keyboard. This key can also be used to quit games that
+take you into full-screen mode, or when any other video is in full-screen.</p>
+
+<p>You can find the button to adjust volume on the lower right-hand side of the
+video player. Click and then drag the bar up and down to adjust the volume.</p>
+
+<p>Remember to connect your computer to headphones or speakers so you can hear
+the video’s sound. If your computer is connected to a TV, then the TV’s speakers
+should work to play sound. If you still cannot hear anything, try turning up the
+volume on your computer or on your TV.</p>
+
+<p>We hope you enjoy all the videos we chose for you!</p>
 
 </page>

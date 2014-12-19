@@ -31,19 +31,23 @@
 </ui:overlay>
 
 <p></p>
-<p>We have ordered some folders to make them easier to find. For example, when
- clicking on the folder games, you'll find all the icons that open the game
- programs.</p>
-<p>You can create folders to sort your programs. To create a folder, click the
- icon to add programs. Then, on the left side, click on the word folders. Select
- an icon to identify your folder. Once you click it will ask you to name. Click
- the green button with the plus sign, and a confirmation that the folder has been
- added appear. You can close this window.</p>
-<p>To put in your programs folder, just click on its icon and while holding,
- drag it to the folder; when you're above it, you can release the click. When you
- open the folder, you will find the program that is already inside. To remove a
- program from the folder, just drag the icon out of the folder.</p>
-<p>Note that if you want to delete a folder, you need to take before the
- programs within.</p>
+<p>Your desktop comes with a lot of pre-installed apps on the desktop and some
+folders to help keep them organized by category. For example, if you click once
+on the folder called <gui>Games</gui>, you’ll find icons with the names of all
+the games in that folder. Click on a game once to open it and start playing!</p>
+<p>You can also make your own folders to further organize your apps. To make a
+folder, click on the icon that says <app>More Apps</app>. Then, click the word
+<gui>Folders</gui>, on the left hand side of your screen. Choose an icon for
+your folder, and then give it a name. Click the green button with the plus sign
+to add the folder to your desktop. When it is finished being created and
+installed, you will see a confirmation telling you that your new folder has been
+added. Now you can close the window and find your new folder to the left of the
+<app>More Apps</app> icon.</p>
+<p>To add apps to your new folder, simply click and hold on the app’s icon, and
+without letting go, drag it on top of the folder, and let go of the click. When
+you open the folder, you’ll see the app inside. To remove an app from the
+folder, simply drag its icon out of the folder.</p>
+<p>Keep in mind that if you want to delete a folder, you’ll first have to remove
+all of the apps that are in it.</p>
 
 </page>

@@ -31,36 +31,49 @@
 </ui:overlay>
 
 <p></p>
-<p>Endless on your computer you can organize your documents into folders. We
- show you how to do it.</p>
-<p>This icon called Documents gives you access to your folders. You can find it
- on the desktop, or by tapping the lower right corner of the screen even when
- you're within a program. Within these folders you can put documents, so they
- are organized and easy to find.</p>
-<p>On the left side of the window, you will find quick access to the folders you
- see on the right side. To open a folder, you can click with the left mouse
- button twice quickly. We call this double click. To return to the previous
- folder, you can click on the arrow pointing backwards.</p>
-<p>You can also open a folder by clicking the right mouse button, and then
- clicking the left mouse button to open.</p>
-<p>To use the shortcuts that are to the left of the window, you can click to
- access the folder you want to access. For example, if we click on the name
- pictures with the left mouse button, go into the images folder.</p>
-<p>When you download an Internet document will appear in the downloads folder.
- For example, here we have two songs previously downloaded. If you want to move
- files from one folder to another, you need only click on them without
- releasing, drag them to the folder where you want to be. If I want to move my
- favorite song in the music folder, I click on it and hold the button I drag
- into the music folder. Now, it is in this folder.</p>
-<p>To delete a file, be it a song, a photograph or any other type of file, you
- only have to click on it and hold the mouse button, drag it to the trash. We
- will delete my favorite song. I click on it and not let go, drag it to the
- trash and here lost the mouse button.</p>
-<p>From the trash, I can return the files I removed the folder where they were
- selecting them and clicking on restore. You can also permanently delete files
- that were found here by clicking on empty computer. If you click this button,
- the files do not take up space on your computer, but it can not be
- recovered.</p>
-<p>It's easy to organize your files in Endless, right?</p>
+
+<p>You can easily organize your documents and files with folders. Here’s
+how to do it.</p>
+
+<p>The <app>Documents</app> icon gives you access to your folders and files. You
+can find it on your desktop or by moving your mouse to the hot corner on the
+bottom left side of your screen and clicking on the <app>Documents</app> icon on
+the right side of the screen, even if you have an app open.</p>
+
+<p>Once you are in the <app>Documents</app> main folder, you can create new
+folders where you can place all of your documents and files so that they are
+organized and easy to find. On the left side of the window, you’ll see shortcuts
+to get to those folders. To open a file or folder that is displayed on the
+right, click your mouse’s button quickly two times. We call this a double click.
+To return to the previous folder, click the back arrow above.</p>
+
+<p>You can also open a folder by clicking the right button of your mouse, and
+then clicking <gui>Open</gui> with the left button.</p>
+
+<p>To use the shortcuts that are on the left side of the screen, click on the
+name of the folder you wish to open. For example, if you click the name
+<gui>Images</gui> with your left mouse button, you’ll open the
+<gui>Images</gui> folder.</p>
+
+<p>When you download a file from the internet, it’ll go to the
+<gui>Downloads</gui> folder. If you want to move files to this folder or into
+another folder, simply click the file without letting go and drag it to the
+folder where you want it. For example, if I want to move my favorite song to the
+music folder, I click on the music file without letting go and drag it to the
+music folder. Now it’s in that folder!</p>
+
+<p>To delete a file, whether it’s a song, photo, or another kind, simply click
+on it without letting go and drag it to the recycling bin. To delete my favorite
+song, for example, click it without letting go, drag it to the recycling bin,
+and let go of the click.</p>
+
+<p>From the recycling bin, you can return the files that you’ve deleted to where
+they originally were by selecting them and clicking <gui>Restore</gui>. You can
+also delete these files permanently from your computer by clicking the button
+<gui>Empty</gui>. If you click this button, the files will no longer take up
+space on your computer, but you also won’t be able to restore them and will
+instead permanently delete them.</p>
+
+<p>It’s easy to organize your files on Endless, right?</p>
 
 </page>

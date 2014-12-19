@@ -18,4 +18,94 @@
 
   <title>Where are my documents and files?</title>
 
+  <p>When you store files to your computer, they are automatically stored in
+  your <app>Documents</app> folder on your desktop.</p>
+
+  <p>Here are some ways to look for a file you have saved:</p>
+
+  <section>
+    <title>If you know the name of your file</title>
+
+    <p>If you know the name of your file, then you can easily search for it right from the desktop.</p>
+
+    <steps>
+      <item>
+        <p>From the desktop, click on the <app>global search bar</app> at bottom
+         of your screen that says <gui>Type to search...</gui>. Start typing the
+         name of the file you are looking for.</p>
+        <p>Results matching what you have typed will appear as you type. The first
+         result is always highlighted and shown at the top.</p>
+      </item>
+      <item>
+        <p>Items that may appear in the search results include:</p>
+        <list>
+          <item><p>matching applications, shown at the top of the search results,
+          </p></item>
+          <item><p>matching settings, and</p></item>
+          <item><p>matching documents.</p></item>
+        </list>
+      </item>
+      <item>
+        <p>In the search results, click on the item you want to open.</p>
+        <p>Alternatively, highlight an item using the arrow keys and press
+         <key>Enter</key>.</p>
+      </item>
+    </steps>
+
+  </section>
+
+  <section>
+    <title>If you do not know the name of your file</title>
+
+    <p>Click on <app>Documents</app> from the desktop.</p>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-right-click.png"/>
+
+    <p>Endless tries to store files by categories like documents, music, photos,
+    and videos, so that they are easier for you to find. You will see that the
+    menu on the left shows these categories. Click on them once to go to that
+    folder.</p>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-file-manager.png"/>
+
+    <p>You can create your own folders to better organize your files. You should
+    click through the different folders you create to get to the files you have
+    stored there. Clicking through folders is especially helpful if you are not
+    sure what the file you saved is named.</p>
+
+    <p>See the bar at the top with a magnifying glass in it? Click there and start
+    typing at least part of the name of the file you are looking for. As you start
+    typing, files that match what you are typing are displayed below. If you see
+    the file you are looking for in the list, you can use your arrow key to
+    highlight the file and press <key>Enter</key> to open it. Or, you can click on
+    the result you want with your mouse to higlight it, and double click to open
+    it.</p>
+  </section>
+
+  <section>
+    <title>If your file is on a USB</title>
+    <steps>
+      <item>
+        <p>Make sure that the USB is properly plugged in.</p>
+      </item>
+      <item>
+        <p>Click on <app>Documents</app> from the desktop.</p>
+      </item>
+      <item>
+        <p>Click on the name of your device on the menu on the left of the window.
+        The device name should appear above the trash icon and is usually named
+        something with the device's brand, unless you have changed it.</p>
+      </item>
+      <item>
+        <p>Browse the files on the USB. Clicking on them once will let you preview
+        them and clicking twice will open them. You can also click on the top bar
+        with the magnifying glass to search for the file name if you know it.</p>
+      </item>
+    </steps>
+
+    <note style="warning">
+      <p>Make sure that you have actually saved your file! If you close a program
+      without saving your work, you might not be able to find it again since not
+      all programs auto-save. Save as often as you can in order to make sure that
+      your work does not get lost.</p>
+    </note>
+  </section>
 </page>

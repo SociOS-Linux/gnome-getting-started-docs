@@ -16,12 +16,12 @@
       <years>2014</years>
     </credit>
 
-    <title type='link'>Using the Writer program</title>
+    <title type='link'>Using the Writer app</title>
     <title type='sort'>09</title>
-    <desc>A video showing how to use the Writer to create documents.</desc>
+    <desc>A video showing how to use the Writer app to create documents.</desc>
 </info>
 
-<title>Using the Writer program</title>
+<title>Using the Writer app</title>
 
 <ui:overlay width="384" height="240">
   <media type="video" its:translate="no" src="figures/endless-09-writer.m4v">
@@ -31,22 +31,39 @@
 </ui:overlay>
 
 <p></p>
-<p>Endless programs your computer has to be able to work documents and
- presentations.</p>
-<p>This program on your desktop called Writer, serves to documents. You can do
- this spreadsheet, which is in the working folder. And this from here, you can
- make presentations to help you to expose your ideas.</p>
-<p>We want to teach you some basic things you can use in these programs.</p>
-<p>You can copy text from another program easily. Suppose you want to copy text
- of the encyclopedia. Just select the text you want to copy, and right click on
- it. A button that says Copy appears. You must click on it.</p>
-<p>Let the program where you want to paste the information. You simply right
- click again, and then click Paste. The text will appear in your document.</p>
-<p>When you have selected the text, you can use the buttons at the top to make
- the bold print, italics, or underline text. You can also center or justify the
- paragraph, which means it will be straight to have better presentation.</p>
-<p>You can explore all the buttons to see what function each!</p>
-<p>You can save your document by clicking on File and then Save. Remember to
- write a name before saving to make it easier to find later.</p>
+
+<p>Your computer comes with apps for you to create the documents and
+presentations that you need.</p>
+
+<p>For example, you can find the <app>Writer</app> app on your desktop, with
+which you can create your documents. You can also create spreadsheets in the
+<app>Spreadsheets</app> app, which is located in the <gui>Work</gui> folder.
+And, you can use the <app>Presentation</app> app to create presentations that
+can help you communicate your ideas.</p>
+
+<p>Let’s walk through some basic things that you can do with the
+<app>Writer</app> app.</p>
+
+<p>You can easily copy text from other apps. Suppose you want to copy text from
+the <app>Encyclopedia</app> app. Just select the text you want to copy, and
+right click on it. A menu with the option to <gui>Copy</gui> will appear. Click
+on that option.</p>
+
+<p>Go back to the app where you want to paste the information. Then, simply
+right click again, and then click <gui>Paste</gui>. The text you copied from the
+encyclopedia will appear in your document.</p>
+
+<p>Select the text again with your mouse, or by pressing and holding
+<key>Shift</key> and the arrow buttons. You can then use the buttons at the top
+of the screen to make the text bold, italic, or underlined. You can also center
+or justify the paragraph format so that it looks the way you want it to
+look.</p>
+
+<p>Explore all of the buttons up top to see the function of each!</p>
+
+<p>You can save your document by clicking <gui>File</gui>, then <gui>Save</gui>.
+Remember to give your document a name that you will remember (usually something
+that describes what is in the document) before saving it to make it easier to
+find later.</p>
 
 </page>

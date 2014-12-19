@@ -32,33 +32,44 @@
 
 <p></p>
 
-<p>Endless Your computer comes with many free programs that you can install
- without internet.</p>
-<p>This gray square icon is used to add programs. When you click it, you'll see
- the window from which you can install.</p>
-<p>At the top of the window, under the title, there are several categories.
- Clicking on a category you will see options to install programs. For example, if
- you click in the Education category, you will find many programs that have
- content that can see without using internet. If you click on the category games,
- find other games that you can install.</p>
-<p>Programs that are already on your desktop appear in the Installed
- category.</p>
-<p>To install a program, click on it, for example we will click on this program
- on Guatemala, located in the Education category. A new window with more
- information about the program appears. Click on the green button that says add
- to the desktop, and after a while the name of the button will change to say
- open.</p>
-<p>By closing this window you will see that the program is already installed it
- on your desktop so you can open it.</p>
-<p>To remove a program, click on its icon and without releasing the click, drag
- it to the gray square that serves to add programs. You will see your icon
- changes for a paper. Release the click this icon and a window saying that you
- have removed the program from your desktop. Do not worry, you can reinstall the
- programs that take away from your desk.</p>
-<p>You can delete a folder in the same way, by clicking on its icon and drag it
- to release the gray button above the square where you add programs, which is now
- a trash can. Remember that the folder must be empty, or can not eliminate
- it.</p>
-<p>So easy you can add and remove programs and folders from your desktop.</p>
+<p>Your computer comes with a wide variety of apps that you can install for free
+and use even without an internet connection.</p>
+
+<p>From the desktop, click on <app>More Apps</app> to find and add more apps. It
+will open a window where you can browse and explore all the apps that are
+available to you so you can choose the ones you want to install or add to your
+desktop.</p>
+
+<p>You can browse the <app>App Store</app> by category. For example, if you
+click on the <gui>Education</gui> category, you’ll find several educational apps
+that you can add and use offline. Similarly, if you click on the Games category,
+you’ll find games you can add.</p>
+
+<p>You can find the apps that are already on your desktop in the
+<gui>Installed</gui> category.</p>
+
+<p>Click on the app that you want to download. For example, go to the
+<gui>Education</gui> category and click on the <app>Guatemala</app> app. A new
+window will come up with more information about the app. Click on the green
+button that says <gui>Add to Desktop</gui>, then after a moment the button will
+change to say <gui>Open</gui>.</p>
+
+<p>After closing this window you’ll see that the program you downloaded is now
+on your desktop. Now you can open it whenever you want to quickly and
+easily!</p>
+
+<p>To remove an app, click on the app’s icon without letting go and drag it on
+top of the <app>More Apps</app> icon. You’ll notice that the icon has changed
+from a grey square to a recycling bin. Let go of the click over this icon and
+you’ll see a window telling you that you’ve successfully removed the app from
+your desktop. Don’t worry, you can always reinstall the apps that you remove
+from your desktop!</p>
+
+<p>You can also delete a folder this same way, by clicking on it, dragging it
+over the recycling bin, and letting go. Remember that the folder has to be empty
+in order to delete it.</p>
+
+<p>That’s how easy it is to add and remove apps and folders from your
+desktop!</p>
 
 </page>

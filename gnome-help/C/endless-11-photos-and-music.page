@@ -31,31 +31,46 @@
 </ui:overlay>
 
 <p></p>
-<p>On your desktop you will find this program called photo editor. When you open
- it, you will be asked to choose a picture. You can use one of those already put
- on your computer, or one that you've put inside.</p>
-<p>Let's click Open Image. We will use one of the example photos. To view,
- double click on the examples folder, and double click again on the picture you
- want to open.</p>
-<p>By having an open photography, we can edit it in many fun ways. For example,
- we can turn it, cut it or change it so it looks like more like it.</p>
-<p>We have included many filters to give more options to create your perfect
- picture. There are even options to distort.</p>
-<p>You can also put a frame. When you finish editing, you can save it so that it
- can see below, post it to Facebook, or use your artwork as wallpaper.</p>
-<p>We have also placed this music program. When opened you will see the songs
- you can hear. You can add more songs.</p>
-<p>To listen to a song, you can double click on it. We can pause by clicking
- this button in the top left, and continue playing it by clicking the same
- button.</p>
-<p>These two buttons pair serve to go to the next or previous song. Also here
- you can choose to repeat the song, and if you want to play in order or
- disorder.</p>
-<p>On the right, find the button that serves to raise and lower volume. Placing
- your mouse over the button, a bar in which you can increase or decrease the
- volume by clicking the white box and dragging it up or down appears.</p>
-<p>Remember, to stream the videos have to have headphones or speakers connected.
- Also you can hear if your computer is connected to a television. If you still
- can not hear, try turning up the volume of your speakers or television.</p>
+
+<p>Editing your photos is easy! You can find the <app>Photo Editor</app> app
+right on your desktop. Click once to open it and then choose a picture you want
+to edit. You can use one of the photos that comes with your computer, or a photo
+that you have taken and uploaded.</p>
+
+<p>Click <gui>Open Image</gui> to begin. To view the photos that are already on
+your computer, double click on the <gui>Samples</gui> folder. You can click once
+on a photo’s name to view it in a preview, and can double click on the picture
+you want to open and edit it.</p>
+
+<p>Once you have a photo open, you can edit it in many fun ways. For example,
+you can rotate, cut or change it until you find a look that you really like for
+it.</p>
+
+<p>We have included many filters to give you more options to create your perfect
+image. There are even options to distort the photo and make it look funny.</p>
+
+<p>Add a frame to your masterpiece if you’d like, and when you are finished
+editing the photo you can save it, post it to Facebook, or use it as your
+wallpaper!</p>
+
+<p>Make sure you also check out the <app>Music</app> on your desktop. Open to
+see a bunch of songs we have already added. You can of course add more songs by
+transferring them from a USB or downloading them.</p>
+
+<p>To hear a song, double click on it. You can pause it by clicking on the
+button on the top left-hand side, and continue playing it by re-clicking the
+same button.</p>
+
+<p>You can also skip to the next song or replay a previous song with the arrow
+buttons, and can even choose to repeat the song over and over again. You can
+play all of the songs in your playlists in order or shuffle the songs and play
+them out of order.</p>
+
+<p>You can find the area to adjust volume on the top right-hand side. Click and
+drag the circle button to the left or right to adjust the volume.</p>
+
+<p>Remember, to hear audio, you have to connect headphones or speakers to your
+computer. If you have your computer connected to a TV and still cannot hear the
+audio, try turning up the volume of your computer or of your TV.</p>
 
 </page>

@@ -16,15 +16,25 @@
     </credit>
 
     <link type="guide" xref="shell-overview#search"/>
+    <desc>Search for things on your computer and on the internet right from your
+    desktop!</desc>
   </info>
 
-  <title>Use the system search</title>
+  <title>Use global search</title>
+
+  <p>The global search bar makes search easy! You can look for apps, documents,
+  photos and more, right from your desktop. If you have an internet conection,
+  you can even look for things that are on the internet, like you would on
+  google, with the global search tool.</p>
     
   <steps>
     <item>
-      <p>We have made search easy!</p>
-      <p>From the desktop, click on the <gui>global search bar</gui> at bottom
-       of your screen that says "Type to search...". Start typing to search.</p>
+      <p>From the desktop, click on the <app>global search bar</app> at bottom
+       of your screen that says <gui>Type to search...</gui>. Start typing to
+       search.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop.png"/>
+    </item>
+    <item>
       <p>Results matching what you have typed will appear as you type. The first
        result is always highlighted and shown at the top.</p>
       <p>Press <key>Enter</key> to choose the first highlighted
@@ -38,9 +48,10 @@
         <item><p>matching settings, and</p></item>
         <item><p>matching documents.</p></item>
       </list>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-search.png"/>
     </item>
     <item>
-      <p>In the search results, click on the item you want to open it.</p>
+      <p>In the search results, click on the item you want to open.</p>
       <p>Alternatively, highlight an item using the arrow keys and press
        <key>Enter</key>.</p>
     </item>
