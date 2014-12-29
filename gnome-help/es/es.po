@@ -18,9 +18,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2014-12-18 23:22-0800\n"
-"PO-Revision-Date: 2014-12-24 22:27+0000\n"
-"Last-Translator: Nuritzi Sanchez <ns@endlessm.com>\n"
+"POT-Creation-Date: 2014-12-29 14:26-0800\n"
+"PO-Revision-Date: 2014-12-29 22:33+0000\n"
+"Last-Translator: mattdangerw <watson@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-getting-started-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -154,8 +154,8 @@ msgstr "Agregando carpetas al escritorio"
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:34
 msgid ""
-"Your desktop comes with a lot of pre-installed apps on the desktop and some "
-"folders to help keep them organized by category. For example, if you click "
+"Your computer comes with a lot of pre-installed apps on the desktop and some"
+" folders to help keep them organized by category. For example, if you click "
 "once on the folder called <gui>Games</gui>, you’ll find icons with the names"
 " of all the games in that folder. Click on a game once to open it and start "
 "playing!"
@@ -1474,40 +1474,8 @@ msgstr "Junto a la palabra <gui>Escala</gui> verás un cuadro que dice <gui>\"Aj
 #: C/gs-fix-overscan.page:50
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
-"menu on the bottom right-hand corner of your screen!"
+"menu on the bottom left-hand corner of your screen!"
 msgstr "Ahora podrás ver una barra negra en la parte inferior de tu pantalla con el menú de usuario en la esquina inferior izquierda de tu pantalla."
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:25 C/gs-get-online.page:62
-msgctxt "_"
-msgid "external ref='figures/network-offline-symbolic.svg' md5='__failed__'"
-msgstr "external ref='figures/network-offline-symbolic.svg' md5='__failed__'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:47
-msgctxt "_"
-msgid "external ref='figures/network-wired-symbolic.svg' md5='__failed__'"
-msgstr "external ref='figures/network-wired-symbolic.svg' md5='__failed__'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:82
-msgctxt "_"
-msgid ""
-"external ref='figures/network-wireless-signal-excellent-symbolic.svg' "
-"md5='__failed__'"
-msgstr "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='__failed__'"
 
 #. (itstool) path: page/title
 #: C/gs-get-online.page:21
@@ -1518,9 +1486,8 @@ msgstr "¿Cómo puedo configurar mi internet?"
 #: C/gs-get-online.page:23
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
-"side of your screen will look like this <media type=\"image\" "
-"mime=\"image/svg\" src=\"figures/network-offline-symbolic.svg\"/>."
-msgstr "Si no tienes conexión al internet, el ícono en la parte inferior derecha de tu pantalla se verá así <media type=\"image\" mime=\"image/svg\" src=\"figures/network-offline-symbolic.svg\"/>."
+"side of your screen will look like this <_:media-1/>."
+msgstr "Si no tienes conexión al internet, el ícono en la parte inferior derecha de tu pantalla se verá así <_:media-1/>."
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:27
@@ -1552,12 +1519,11 @@ msgid ""
 msgstr "Mientras el equipo te configura una conexión de red, el ícono de conexión de red muestra tres puntos."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:45
+#: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
-"connection icon changes to this <media type=\"image\" mime=\"image/svg\" "
-"src=\"figures/network-wired-symbolic.svg\"/> networked computer symbol."
-msgstr "Una vez que haz correctamente configurado la conexión de red, el ícono de conexión de red cambia a este <media type=\"image\" mime=\"image/svg\" src=\"figures/network-wired-symbolic.svg\"/> símbolo de una computadora conectada a la red."
+"connection icon changes to this <_:media-1/> networked computer symbol."
+msgstr "Una vez que haz correctamente configurado la conexión de red, el ícono de conexión de red cambia a este <_:media-1/> símbolo de una computadora conectada a la red."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:56
@@ -1568,10 +1534,9 @@ msgstr "Conectándote a una red inalámbrica"
 #: C/gs-get-online.page:60
 msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
-"corner of your screen. You will see this icon <media type=\"image\" "
-"mime=\"image/svg\" src=\"figures/network-offline-symbolic.svg\"/>. Click on "
-"it and a menu should appear."
-msgstr "¿Tu Wi-Fi está conectado? Busca el ícono de red en la esquina inferior derecha de tu pantalla. Verás este ícon <media type=\"image\" mime=\"image/svg\" src=\"figures/network-offline-symbolic.svg\"/>. Hazle clic y un menú aparecerá."
+"corner of your screen. You will see this icon <_:media-1/>. Click on it and "
+"a menu should appear."
+msgstr "¿Tu Wi-Fi está conectado? Busca el ícono de red en la esquina inferior derecha de tu pantalla. Verás este ícon <_:media-1/>. Hazle clic y un menú aparecerá."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:66
@@ -1591,15 +1556,6 @@ msgid ""
 "Enter your network password, which is usually different than the password "
 "you use to log in to your computer."
 msgstr "Escribe la contraseña de tu red. Suele ser distinta a la contraseña que utilizas para iniciar la sesión de tu computadora."
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:80
-msgid ""
-"Once the network connection has been successfully set up, the network "
-"connection icon changes to this <media type=\"image\" mime=\"image/svg\" "
-"src=\"figures/network-wireless-signal-excellent-symbolic.svg\"/> networked "
-"computer symbol."
-msgstr "Una vez que haz correctamente configurado la conexión de red, el ícono de conexión de red cambiará a este <media type=\"image\" mime=\"image/svg\" src=\"figures/network-wireless-signal-excellent-symbolic.svg\"/> símbolo de una computadora conectada a la red."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:88

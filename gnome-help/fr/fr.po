@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2014-12-18 23:22-0800\n"
-"PO-Revision-Date: 2014-12-22 20:53+0000\n"
-"Last-Translator: mattdangerw <watson@endlessm.com>\n"
+"POT-Creation-Date: 2014-12-29 14:26-0800\n"
+"PO-Revision-Date: 2014-12-29 22:28+0000\n"
+"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/gnome-getting-started-docs/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -142,8 +142,8 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:34
 msgid ""
-"Your desktop comes with a lot of pre-installed apps on the desktop and some "
-"folders to help keep them organized by category. For example, if you click "
+"Your computer comes with a lot of pre-installed apps on the desktop and some"
+" folders to help keep them organized by category. For example, if you click "
 "once on the folder called <gui>Games</gui>, you’ll find icons with the names"
 " of all the games in that folder. Click on a game once to open it and start "
 "playing!"
@@ -1462,39 +1462,7 @@ msgstr ""
 #: C/gs-fix-overscan.page:50
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
-"menu on the bottom right-hand corner of your screen!"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:25 C/gs-get-online.page:62
-msgctxt "_"
-msgid "external ref='figures/network-offline-symbolic.svg' md5='__failed__'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:47
-msgctxt "_"
-msgid "external ref='figures/network-wired-symbolic.svg' md5='__failed__'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:82
-msgctxt "_"
-msgid ""
-"external ref='figures/network-wireless-signal-excellent-symbolic.svg' "
-"md5='__failed__'"
+"menu on the bottom left-hand corner of your screen!"
 msgstr ""
 
 #. (itstool) path: page/title
@@ -1506,8 +1474,7 @@ msgstr ""
 #: C/gs-get-online.page:23
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
-"side of your screen will look like this <media type=\"image\" "
-"mime=\"image/svg\" src=\"figures/network-offline-symbolic.svg\"/>."
+"side of your screen will look like this <_:media-1/>."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -1540,11 +1507,10 @@ msgid ""
 msgstr "Pendant que l'ordinateur configure une connexion réseau, l'îcone de connexion affiche trois points."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:45
+#: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
-"connection icon changes to this <media type=\"image\" mime=\"image/svg\" "
-"src=\"figures/network-wired-symbolic.svg\"/> networked computer symbol."
+"connection icon changes to this <_:media-1/> networked computer symbol."
 msgstr ""
 
 #. (itstool) path: section/title
@@ -1556,9 +1522,8 @@ msgstr ""
 #: C/gs-get-online.page:60
 msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
-"corner of your screen. You will see this icon <media type=\"image\" "
-"mime=\"image/svg\" src=\"figures/network-offline-symbolic.svg\"/>. Click on "
-"it and a menu should appear."
+"corner of your screen. You will see this icon <_:media-1/>. Click on it and "
+"a menu should appear."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -1578,15 +1543,6 @@ msgstr ""
 msgid ""
 "Enter your network password, which is usually different than the password "
 "you use to log in to your computer."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:80
-msgid ""
-"Once the network connection has been successfully set up, the network "
-"connection icon changes to this <media type=\"image\" mime=\"image/svg\" "
-"src=\"figures/network-wireless-signal-excellent-symbolic.svg\"/> networked "
-"computer symbol."
 msgstr ""
 
 #. (itstool) path: note/p
