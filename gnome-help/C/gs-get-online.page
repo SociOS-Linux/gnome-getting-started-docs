@@ -21,8 +21,8 @@
   <title>How do I set up my internet?</title>
 
   <p>If you are offline, the network connection icon on the bottom right-hand
-   side of your screen will look like this <media type="image" mime="image/svg"
-   src="figures/network-offline-symbolic.svg"/>.</p>
+   side of your screen will look like this <media its:translate="no" type="image"
+   mime="image/svg" src="figures/network-offline-symbolic.svg"/>.</p>
 
   <p>The offline status can be caused by a number of reasons: for example, a
    network cable has been unplugged, the computer has been set to run in
@@ -43,8 +43,8 @@
       </item>
       <item>
         <p>Once the network connection has been successfully set up, the network
-         connection icon changes to this <media type="image" mime="image/svg"
-         src="figures/network-wired-symbolic.svg"/>
+         connection icon changes to this <media its:translate="no" type="image"
+         mime="image/svg" src="figures/network-wired-symbolic.svg"/>
          networked computer symbol.</p>
       </item>
     </steps>
@@ -58,9 +58,9 @@
     <steps>
       <item>
         <p>Is your Wi-Fi connected? Look for the network icon at the bottom
-         right corner of your screen. You will see this icon <media type="image"
-         mime="image/svg" src="figures/network-offline-symbolic.svg"/>. Click on
-         it and a menu should appear.</p>
+         right corner of your screen. You will see this icon <media its:translate="no"
+         type="image" mime="image/svg" src="figures/network-offline-symbolic.svg"/>.
+         Click on it and a menu should appear.</p>
       </item>
       <item>
         <p>Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi”
@@ -78,8 +78,8 @@
       </item>
       <item>
         <p>Once the network connection has been successfully set up, the network
-         connection icon changes to this <media type="image" mime="image/svg"
-         src="figures/network-wireless-signal-excellent-symbolic.svg"/>
+         connection icon changes to this <media type="image" its:translate="no"
+         mime="image/svg" src="figures/network-wireless-signal-excellent-symbolic.svg"/>
          networked computer symbol.</p>
       </item>
     </steps>
