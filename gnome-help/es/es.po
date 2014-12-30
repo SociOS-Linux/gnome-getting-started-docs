@@ -19,7 +19,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2014-12-29 14:26-0800\n"
-"PO-Revision-Date: 2014-12-29 22:33+0000\n"
+"PO-Revision-Date: 2014-12-30 22:31+0000\n"
 "Last-Translator: mattdangerw <watson@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-getting-started-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -172,7 +172,7 @@ msgid ""
 "created and installed, you will see a confirmation telling you that your new"
 " folder has been added. Now you can close the window and find your new "
 "folder to the left of the <app>More Apps</app> icon."
-msgstr "También puedes hacer tus propias carpetas para organizar tus programas más. Para hacer una carpeta, haz clic en el ícono que dice <app>Más Programas</app>. Luego, haz clic en la palabra <gui>Carpetas</gui>, en la parte izquierda de tu pantalla. Selecciona un ícono para tu carpeta y dale un nombre. Haz clic en el botón verde con un signo más para agregar la carpeta a tu escritorio. Cuando termine de ser creada e instalada, verás una confirmación diciéndote que tu carpeta nueva ha sido agregada. Ahora puedes cerrar la ventana y encontrar tu carpeta nueva a la izquierda del ícono de <app>Más programas</gui>."
+msgstr "También puedes hacer tus propias carpetas para organizar tus programas más. Para hacer una carpeta, haz clic en el ícono que dice <app>Más Programas</app>. Luego, haz clic en la palabra <gui>Carpetas</gui>, en la parte izquierda de tu pantalla. Selecciona un ícono para tu carpeta y dale un nombre. Haz clic en el botón verde con un signo más para agregar la carpeta a tu escritorio. Cuando termine de ser creada e instalada, verás una confirmación diciéndote que tu carpeta nueva ha sido agregada. Ahora puedes cerrar la ventana y encontrar tu carpeta nueva a la izquierda del ícono de <app>Más programas</app>."
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:46
@@ -271,7 +271,7 @@ msgid ""
 " icon and you’ll see a window telling you that you’ve successfully removed "
 "the app from your desktop. Don’t worry, you can always reinstall the apps "
 "that you remove from your desktop!"
-msgstr "Para eliminar un programa, haz clic en su ícono, y sin soltar el clic, arrástralo hacía el ícono de <app>Más programas</gui>. Podrás ver que el ícono ha cambiado de un cuadrado gris a una papelera.  Suelta el clic sobre el este ícono y verás una ventana notificándote que se ha eliminado el programa de tu escritorio. No te preocupes, ¡puedes volver a instalar los programas que eliminas de tu escritorio!"
+msgstr "Para eliminar un programa, haz clic en su ícono, y sin soltar el clic, arrástralo hacía el ícono de <app>Más programas</app>. Podrás ver que el ícono ha cambiado de un cuadrado gris a una papelera.  Suelta el clic sobre el este ícono y verás una ventana notificándote que se ha eliminado el programa de tu escritorio. No te preocupes, ¡puedes volver a instalar los programas que eliminas de tu escritorio!"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:68
@@ -329,7 +329,7 @@ msgid ""
 "that your Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is "
 "turned on if there is a blue light to the right of the word <gui>Wi-"
 "Fi</gui>. If the light is not blue, you can click on it once to turn it on."
-msgstr "En la ventana que aparece, verás los nombres de todas las redes inalámbricas disponibles a las que te puedes conectar. Si no puedes ver los nombres de redes, asegúrate de tener encendida tu conexión inalámbrica en tu computadora. Si tu Wi-Fi está encendida verás una luz azul a la derecha de la palabra <gui> Wi-Fi </ gui>. Si no está de color azul, puedes hacerle clic una vez para encenderla."
+msgstr "En la ventana que aparece, verás los nombres de todas las redes inalámbricas disponibles a las que te puedes conectar. Si no puedes ver los nombres de redes, asegúrate de tener encendida tu conexión inalámbrica en tu computadora. Si tu Wi-Fi está encendida verás una luz azul a la derecha de la palabra <gui>Wi-Fi</gui>. Si no está de color azul, puedes hacerle clic una vez para encenderla."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:45
@@ -526,7 +526,7 @@ msgid ""
 "easily in the future. Click <gui>Finished</gui>. Now the page you saved will"
 " appear when you click on <gui>Favorites</gui> in your <app>Content "
 "Center</app>."
-msgstr "Cuando veas una página que te interese, puedes marcarla como favorita para poder encontrarla fácilmente en un futuro. Por ejemplo, vamos a entrar a la página de la <gui>Universidad Galileo</gui>. Si quieres marcar a esta página o a cualquier otra, solo tienes que hacer clic en la estrella, que se encuentra en el lado derecho de la barra en donde pones la dirección de internet. Si deseas, puedes cambiar el nombre que representa esta página. Hazle clic en </gui>Finalizado</gui>. Ahora, la página que guardaste aparecerá cuando hagas clic en <gui>Favoritos</gui> en el <app>Centro de contenido</app>."
+msgstr "Cuando veas una página que te interese, puedes marcarla como favorita para poder encontrarla fácilmente en un futuro. Por ejemplo, vamos a entrar a la página de la <gui>Universidad Galileo</gui>. Si quieres marcar a esta página o a cualquier otra, solo tienes que hacer clic en la estrella, que se encuentra en el lado derecho de la barra en donde pones la dirección de internet. Si deseas, puedes cambiar el nombre que representa esta página. Hazle clic en <gui>Finalizado</gui>. Ahora, la página que guardaste aparecerá cuando hagas clic en <gui>Favoritos</gui> en el <app>Centro de contenido</app>."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:61
@@ -743,7 +743,7 @@ msgid ""
 " the <app>Encyclopedia</app> app. Just select the text you want to copy, and"
 " right click on it. A menu with the option to <gui>Copy</gui> will appear. "
 "Click on that option."
-msgstr "Puedes copiar texto desde otros programas muy fácilmente. Supongamos que quieres copiar un texto de la <app>Enciclopedia</app>. Solo tienes que seleccionar el texto que deseas copiar, y hacer un clic derecho sobre él. Aparecerá un botón que dice </gui>Copiar</gui>. Haz clic en él."
+msgstr "Puedes copiar texto desde otros programas muy fácilmente. Supongamos que quieres copiar un texto de la <app>Enciclopedia</app>. Solo tienes que seleccionar el texto que deseas copiar, y hacer un clic derecho sobre él. Aparecerá un botón que dice <gui>Copiar</gui>. Haz clic en él."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:52
@@ -751,7 +751,7 @@ msgid ""
 "Go back to the app where you want to paste the information. Then, simply "
 "right click again, and then click <gui>Paste</gui>. The text you copied from"
 " the encyclopedia will appear in your document."
-msgstr "Regresa a el programa en donde quieres pegar la información. Simplemente debes hacer un clic derecho nuevamente, y luego hacer clic en </gui>Pegar</gui>. El texto aparecerá en tu documento."
+msgstr "Regresa a el programa en donde quieres pegar la información. Simplemente debes hacer un clic derecho nuevamente, y luego hacer clic en <gui>Pegar</gui>. El texto aparecerá en tu documento."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:56
@@ -2308,7 +2308,7 @@ msgid ""
 "Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
 "<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
 "section."
-msgstr "Haz clic en una categoría como <gui>Educación</gui>, <gui>Juegos</gui>, <gui>Recursos</gui> y <gui>Utilidades</ gui>, para ver los programas en cada sección."
+msgstr "Haz clic en una categoría como <gui>Educación</gui>, <gui>Juegos</gui>, <gui>Recursos</gui> y <gui>Utilidades</gui>, para ver los programas en cada sección."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:49
@@ -2356,7 +2356,7 @@ msgstr "<app>EduJuegos</app> - Ajedrez, rompecabezas y muchos más juegos y acti
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
-msgstr "<app>123 Tux</ app> - Una manera divertida para que los niños practiquen las sumas, sustracción, multiplicación y más."
+msgstr "<app>123 Tux</app> - Una manera divertida para que los niños practiquen las sumas, sustracción, multiplicación y más."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:81
@@ -2415,7 +2415,7 @@ msgstr "<app>X-Moto</app> - Trata de mover tu motocicleta alrededor de objetos y
 msgid ""
 "<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
 " that you don't blow up. This strategy game is addictive."
-msgstr "<app>Minetest</ app> - Evita las áreas que tienen minas enterradas para que no se exploten. ¡Este juego de estrategia es adictivo!"
+msgstr "<app>Minetest</app> - Evita las áreas que tienen minas enterradas para que no se exploten. ¡Este juego de estrategia es adictivo!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:118
@@ -2463,7 +2463,7 @@ msgstr "<app>Currículum </app> - Aprende a hacer un gran curriculum vitae para 
 msgid ""
 "<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
 "yourself and your family healthy."
-msgstr "<app?Salud</ app> - Busca acerca de enfermedades, tratamientos, y aprende cómo mantenerte a ti y a tu familia saludable."
+msgstr "<app>Salud</app> - Busca acerca de enfermedades, tratamientos, y aprende cómo mantenerte a ti y a tu familia saludable."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:147
@@ -2496,7 +2496,7 @@ msgstr "<app>Videos</app> - Hemos cargado tu computadora con algunos videos cort
 msgid ""
 "<app>Myths and Legends</app> - Read about myths and legends from all over "
 "the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr "<app>Mitos y leyendas</ app> - Lee mitos y leyendas de todo el mundo. ¡Encontrarás leyendas como la de la Llorona, Big Foot, y muchos, muchos más!"
+msgstr "<app>Mitos y leyendas</app> - Lee mitos y leyendas de todo el mundo. ¡Encontrarás leyendas como la de la Llorona, Big Foot, y muchos, muchos más!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:169
@@ -2510,7 +2510,7 @@ msgstr "<app>Celebridades</app> - ¡Aprende todo acerca de tus estrellas favorit
 msgid ""
 "<app>Travel</app> - Read about places around the world and see beautiful "
 "pictures that will make you feel like you're actually there!"
-msgstr "<app>¡Explora!</ app> - ¡Lee acerca de lugares del mundo que nunca has visitado y encuentra bellas imágenes que te harán sentir como si estuvieras realmente allí!"
+msgstr "<app>¡Explora!</app> - ¡Lee acerca de lugares del mundo que nunca has visitado y encuentra bellas imágenes que te harán sentir como si estuvieras realmente allí!"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:180
