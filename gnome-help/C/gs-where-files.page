@@ -58,7 +58,7 @@
     <title>If you do not know the name of your file</title>
 
     <p>Click on <app>Documents</app> from the desktop.</p>
-    <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-right-click.png"/>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-documents.png"/>
 
     <p>Endless tries to store files by categories like documents, music, photos,
     and videos, so that they are easier for you to find. You will see that the
