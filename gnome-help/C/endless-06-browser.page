@@ -24,7 +24,7 @@
 <title>Browsing the Internet</title>
 
 <ui:overlay width="384" height="240">
-  <media type="video" its:translate="no" src="figures/endless-06-browser.m4v">
+  <media type="video" its:translate="no" src="figures/endless-06-browser.webm">
     <ui:thumb type="image" mime="image/svg"
      src="figures/endless-06-browser-thumbnail.jpg"/>
   </media>

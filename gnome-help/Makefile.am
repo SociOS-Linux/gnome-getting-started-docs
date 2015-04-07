@@ -5,31 +5,31 @@ HELP_ID = gnome-help
 HELP_LINGUAS = as ca cs de el es fr gl gu hu id it ja kn lv mr pa pl pt_BR ru sk ta te
 
 HELP_MEDIA = \
-	figures/endless-01-desktop.m4v \
+	figures/endless-01-desktop.webm \
 	figures/endless-01-desktop-thumbnail.jpg \
-	figures/endless-02-folders.m4v \
+	figures/endless-02-folders.webm \
 	figures/endless-02-folders-thumbnail.jpg \
-	figures/endless-03-programs.m4v \
+	figures/endless-03-programs.webm \
 	figures/endless-03-programs-thumbnail.jpg \
-	figures/endless-04-wifi.m4v \
+	figures/endless-04-wifi.webm \
 	figures/endless-04-wifi-thumbnail.jpg \
-	figures/endless-05-files.m4v \
+	figures/endless-05-files.webm \
 	figures/endless-05-files-thumbnail.jpg \
-	figures/endless-06-browser.m4v \
+	figures/endless-06-browser.webm \
 	figures/endless-06-browser-thumbnail.jpg \
-	figures/endless-07-windows.m4v \
+	figures/endless-07-windows.webm \
 	figures/endless-07-windows-thumbnail.jpg \
-	figures/endless-08-offline.m4v \
+	figures/endless-08-offline.webm \
 	figures/endless-08-offline-thumbnail.jpg \
-	figures/endless-09-writer.m4v \
+	figures/endless-09-writer.webm \
 	figures/endless-09-writer-thumbnail.jpg \
-	figures/endless-10-video-player.m4v \
+	figures/endless-10-video-player.webm \
 	figures/endless-10-video-player-thumbnail.jpg \
-	figures/endless-11-photos-and-music.m4v \
+	figures/endless-11-photos-and-music.webm \
 	figures/endless-11-photos-and-music-thumbnail.jpg \
-	figures/endless-12-social-bar.m4v \
+	figures/endless-12-social-bar.webm \
 	figures/endless-12-social-bar-thumbnail.jpg \
-	figures/endless-13-printers.m4v \
+	figures/endless-13-printers.webm \
 	figures/endless-13-printers-thumbnail.jpg \
 	figures/gnome-change-wallpaper.webm \
 	figures/gnome-launching-applications.webm \
