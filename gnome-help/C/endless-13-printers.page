@@ -14,7 +14,7 @@
 <title>Setting up a printer</title>
 
 <ui:overlay width="384" height="240">
-  <media type="video" its:translate="no" src="figures/endless-13-printers.m4v">
+  <media type="video" its:translate="no" src="figures/endless-13-printers.webm">
     <ui:thumb type="image" mime="image/svg"
      src="figures/endless-13-printers-thumbnail.jpg"/>
   </media>

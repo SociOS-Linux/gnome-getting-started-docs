@@ -24,7 +24,7 @@
 <title>Photos and Music</title>
 
 <ui:overlay width="384" height="240">
-  <media type="video" its:translate="no" src="figures/endless-11-photos-and-music.m4v">
+  <media type="video" its:translate="no" src="figures/endless-11-photos-and-music.webm">
     <ui:thumb type="image" mime="image/svg"
      src="figures/endless-11-photos-and-music-thumbnail.jpg"/>
   </media>

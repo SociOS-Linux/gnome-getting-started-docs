@@ -24,7 +24,7 @@
 <title>Using Wi-Fi</title>
 
 <ui:overlay width="384" height="240">
-  <media type="video" its:translate="no" src="figures/endless-04-wifi.m4v">
+  <media type="video" its:translate="no" src="figures/endless-04-wifi.webm">
     <ui:thumb type="image" mime="image/svg"
      src="figures/endless-04-wifi-thumbnail.jpg"/>
   </media>

@@ -24,7 +24,7 @@
 <title>Installing programs</title>
 
 <ui:overlay width="384" height="240">
-  <media type="video" its:translate="no" src="figures/endless-03-programs.m4v">
+  <media type="video" its:translate="no" src="figures/endless-03-programs.webm">
     <ui:thumb type="image" mime="image/svg"
      src="figures/endless-03-programs-thumbnail.jpg"/>
   </media>

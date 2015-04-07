@@ -24,7 +24,7 @@
 <title>Using Facebook</title>
 
 <ui:overlay width="384" height="240">
-  <media type="video" its:translate="no" src="figures/endless-12-social-bar.m4v">
+  <media type="video" its:translate="no" src="figures/endless-12-social-bar.webm">
     <ui:thumb type="image" mime="image/svg"
      src="figures/endless-12-social-bar-thumbnail.jpg"/>
   </media>

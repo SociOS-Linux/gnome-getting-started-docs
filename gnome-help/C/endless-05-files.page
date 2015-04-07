@@ -24,7 +24,7 @@
 <title>Exploring your files</title>
 
 <ui:overlay width="384" height="240">
-  <media type="video" its:translate="no" src="figures/endless-05-files.m4v">
+  <media type="video" its:translate="no" src="figures/endless-05-files.webm">
     <ui:thumb type="image" mime="image/svg"
      src="figures/endless-05-files-thumbnail.jpg"/>
   </media>
