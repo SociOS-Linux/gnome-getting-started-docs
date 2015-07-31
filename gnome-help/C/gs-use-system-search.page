@@ -29,7 +29,7 @@
     
   <steps>
     <item>
-      <p>From the desktop, click on the <app>global search bar</app> at bottom
+      <p>From the desktop, click on the <app>global search bar</app> at the top
        of your screen that says <gui>Type to search...</gui>. Start typing to
        search.</p>
       <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop.png"/>
