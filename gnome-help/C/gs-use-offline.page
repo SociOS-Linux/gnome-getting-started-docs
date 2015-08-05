@@ -28,13 +28,13 @@
   you don't have an internet connection.</p>
 
   <section>
-    <title>Introducing the <app>App Store</app></title>
-    <p>The <app>App Store</app> is full of apps that are free and can be easily
+    <title>Introducing the <app>App Center</app></title>
+    <p>The <app>App Center</app> is full of apps that are free and can be easily
     added to your desktop. Most of the apps you'll find there have offline
     capability and you can browse by category to find just what you're looking
     for, or else just click around and explore.</p>
     <steps>
-      <title>How to get to the <app>App Store</app>:</title>
+      <title>How to get to the <app>App Center</app>:</title>
       <item>
         <p>Click on <app>More Apps</app> from the desktop.</p>
         <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-app-store.png"/>
@@ -55,7 +55,7 @@
 
   <section>
     <title>Here are a few examples of the offline content on your desktop and in
-    the <app>App Store</app>:</title>
+    the <app>App Center</app>:</title>
 
     <list>
       <title>Education</title>
