@@ -537,7 +537,7 @@ msgid ""
 "gui> folder."
 msgstr ""
 "Para utilizar os atalhos no lado esquerdo da tela clique no nome da pasta "
-"que você deseja abrir. Por exemplo, se você clicar no nome <gui>Imagens<."
+"que você deseja abrir. Por exemplo, se você clicar no nome <gui>Imagens</"
 "gui> com o botão esquerdo do mouse, você abrirá a pasta <gui>Imagens</gui>."
 
 #. (itstool) path: page/p
