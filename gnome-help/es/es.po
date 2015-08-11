@@ -131,7 +131,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:45
-#, fuzzy
 msgid ""
 "At the the bottom of your screen is the task bar. Here you can access wifi, "
 "bluetooth, control the volume of your computer, change the keyboard language "
@@ -276,7 +275,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:43
-#, fuzzy
 msgid ""
 "You can browse the <app>App Center</app> by category. For example, if you "
 "click on the <gui>Education</gui> category, you’ll find several educational "
@@ -389,7 +387,6 @@ msgstr "Puedes conectarte a una red de WiFi con estos pasos fáciles:"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:36
-#, fuzzy
 msgid ""
 "First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
 "right side of your desktop, on the task bar close to the clock."
@@ -624,7 +621,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:38
-#, fuzzy
 msgid ""
 "When your computer is connected to the internet, you can open the browser by "
 "clicking on the orange circle on your task bar on the bottom left-hand "
@@ -742,7 +738,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:38
-#, fuzzy
 msgid ""
 "You can minimize your programs one of two ways: clicking on the <key>-</key> "
 "icon, which is on the top right corner of each window, or clicking on the "
@@ -1062,7 +1057,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:46
-#, fuzzy
 msgid ""
 "Once the video is playing, you can pause it by clicking on the button in the "
 "lower left corner of the video. To continue playing it, click on that same "
@@ -1791,13 +1785,11 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/gs-fix-overscan.page:22
-#, fuzzy
 msgid "I can't see the task bar or start menu, what do I do?"
 msgstr "No puedo ver la barra de tareas o el menú de usuario, ¿qué hago?"
 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
-#, fuzzy
 msgid ""
 "If you do not see the task bar at the bottom of your screen with the user "
 "menu on the left and the time and facebook icon on the right, you need to "
@@ -2704,7 +2696,6 @@ msgstr "Te presentamos la <app>Tienda de programas</app>"
 
 #. (itstool) path: section/p
 #: C/gs-use-offline.page:32
-#, fuzzy
 msgid ""
 "The <app>App Center</app> is full of apps that are free and can be easily "
 "added to your desktop. Most of the apps you'll find there have offline "
