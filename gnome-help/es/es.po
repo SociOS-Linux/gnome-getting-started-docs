@@ -1,4 +1,4 @@
-# 
+#
 # Translators:
 # Alejandro Farfán <alejandro@endlessm.com>, 2014
 # Alejandro Farfán <alejandro@endlessm.com>, 2014
@@ -18,14 +18,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2014-12-29 14:26-0800\n"
+"POT-Creation-Date: 2015-08-11 11:56-0700\n"
 "PO-Revision-Date: 2014-12-30 22:31+0000\n"
 "Last-Translator: mattdangerw <watson@endlessm.com>\n"
-"Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/es/)\n"
+"Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/gnome-"
+"getting-started-docs/language/es/)\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
@@ -94,17 +95,20 @@ msgstr "Introducción al escritorio"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:34
-msgid ""
-"Welcome to Endless, the operating system that powers your new computer."
-msgstr "Bienvenido a Endless, el sistema operativo que hace tu nueva computadora increíblemente poderosa."
+msgid "Welcome to Endless, the operating system that powers your new computer."
+msgstr ""
+"Bienvenido a Endless, el sistema operativo que hace tu nueva computadora "
+"increíblemente poderosa."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:35
 msgid ""
 "We have made everything simple and easy to use. You can find your apps and "
-"your documents folder right on your desktop. Click on them once to open "
-"them."
-msgstr "Hemos hecho que todo sea simple y fácil de usar. Puedes encontrar tus programas y tu carpeta de documentos directamente en tu escritorio. Haz clic en ellos una vez para abrirlos."
+"your documents folder right on your desktop. Click on them once to open them."
+msgstr ""
+"Hemos hecho que todo sea simple y fácil de usar. Puedes encontrar tus "
+"programas y tu carpeta de documentos directamente en tu escritorio. Haz clic "
+"en ellos una vez para abrirlos."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:38
@@ -116,18 +120,32 @@ msgid ""
 "that you can also easily access the internet, your documents folder, and a "
 "button to return to the desktop on the right hand side with you are in the "
 "hot corner view mode."
-msgstr "Tu computadora tiene una esquina activa. Si mueves tu ratón a la esquina inferior derecha, verás todas las actividades y los programa que están abiertos. Para poder cambiar entre ellos más fácilmente, o incluso cerrarlos, haz clic en el botón negro con una X que aparece al poner el cursor sobre ellos. También verás que puedes fácilmente acceder al internet, tu carpeta de documentos y un botón para regresar al escritorio en el lado derecho cuando estás en la vista de la esquina activa."
+msgstr ""
+"Tu computadora tiene una esquina activa. Si mueves tu ratón a la esquina "
+"inferior derecha, verás todas las actividades y los programa que están "
+"abiertos. Para poder cambiar entre ellos más fácilmente, o incluso "
+"cerrarlos, haz clic en el botón negro con una X que aparece al poner el "
+"cursor sobre ellos. También verás que puedes fácilmente acceder al internet, "
+"tu carpeta de documentos y un botón para regresar al escritorio en el lado "
+"derecho cuando estás en la vista de la esquina activa."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:45
 msgid ""
-"At the the bottom of your screen is the taskbar. Here you can access wifi, "
-"bluetooth, control the volume of your computer, change the keyboard language"
-" and time, and see which apps you currently have open. On the left side of "
-"the taskbar, you will find an icon to access the internet browser. When you "
+"At the the bottom of your screen is the task bar. Here you can access wifi, "
+"bluetooth, control the volume of your computer, change the keyboard language "
+"and time, and see which apps you currently have open. On the left side of "
+"the task bar, you will find an icon to access the internet browser. When you "
 "finish using your computer, you'll be able to turn it off by clicking the "
 "user menu and selecting <gui>Exit</gui>."
-msgstr "En la parte inferior de tu pantalla hay una barra de tareas. Aquí puedes acceder al WiFi, Bluetooth, controlar el volumen de tu computadora, cambiar el idioma del teclado y la hora, y ver cuales programas tienes abiertos actualmente. En el lado izquierdo de la barra de tareas, encontrarás un ícono de acceso al navegador de internet. Cuando termines de usar tu computadora podrás apagarla haciendo clic en el menú del usuario y seleccionando <gui>Salir</gui>."
+msgstr ""
+"En la parte inferior de tu pantalla hay una barra de tareas. Aquí puedes "
+"acceder al WiFi, Bluetooth, controlar el volumen de tu computadora, cambiar "
+"el idioma del teclado y la hora, y ver cuales programas tienes abiertos "
+"actualmente. En el lado izquierdo de la barra de tareas, encontrarás un "
+"ícono de acceso al navegador de internet. Cuando termines de usar tu "
+"computadora podrás apagarla haciendo clic en el menú del usuario y "
+"seleccionando <gui>Salir</gui>."
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:19
@@ -154,12 +172,17 @@ msgstr "Agregando carpetas al escritorio"
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:34
 msgid ""
-"Your computer comes with a lot of pre-installed apps on the desktop and some"
-" folders to help keep them organized by category. For example, if you click "
-"once on the folder called <gui>Games</gui>, you’ll find icons with the names"
-" of all the games in that folder. Click on a game once to open it and start "
+"Your computer comes with a lot of pre-installed apps on the desktop and some "
+"folders to help keep them organized by category. For example, if you click "
+"once on the folder called <gui>Games</gui>, you’ll find icons with the names "
+"of all the games in that folder. Click on a game once to open it and start "
 "playing!"
-msgstr "Tu computadora viene con muchos programas preinstalados en el escritorio y algunos carpetas para ayudarte a mantenerlos organizados por categoría. Por ejemplo, si haces clic una vez en la carpeta llamada <gui>Juegos</gui>, encontrarás iconos con los nombres de todos los juegos en esa carpeta. ¡Haz clic en un juego para abrirlo y empezar a jugar!"
+msgstr ""
+"Tu computadora viene con muchos programas preinstalados en el escritorio y "
+"algunos carpetas para ayudarte a mantenerlos organizados por categoría. Por "
+"ejemplo, si haces clic una vez en la carpeta llamada <gui>Juegos</gui>, "
+"encontrarás iconos con los nombres de todos los juegos en esa carpeta. ¡Haz "
+"clic en un juego para abrirlo y empezar a jugar!"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:38
@@ -169,26 +192,42 @@ msgid ""
 "word <gui>Folders</gui>, on the left hand side of your screen. Choose an "
 "icon for your folder, and then give it a name. Click the green button with "
 "the plus sign to add the folder to your desktop. When it is finished being "
-"created and installed, you will see a confirmation telling you that your new"
-" folder has been added. Now you can close the window and find your new "
-"folder to the left of the <app>More Apps</app> icon."
-msgstr "También puedes hacer tus propias carpetas para organizar tus programas más. Para hacer una carpeta, haz clic en el ícono que dice <app>Más Programas</app>. Luego, haz clic en la palabra <gui>Carpetas</gui>, en la parte izquierda de tu pantalla. Selecciona un ícono para tu carpeta y dale un nombre. Haz clic en el botón verde con un signo más para agregar la carpeta a tu escritorio. Cuando termine de ser creada e instalada, verás una confirmación diciéndote que tu carpeta nueva ha sido agregada. Ahora puedes cerrar la ventana y encontrar tu carpeta nueva a la izquierda del ícono de <app>Más programas</app>."
+"created and installed, you will see a confirmation telling you that your new "
+"folder has been added. Now you can close the window and find your new folder "
+"to the left of the <app>More Apps</app> icon."
+msgstr ""
+"También puedes hacer tus propias carpetas para organizar tus programas más. "
+"Para hacer una carpeta, haz clic en el ícono que dice <app>Más Programas</"
+"app>. Luego, haz clic en la palabra <gui>Carpetas</gui>, en la parte "
+"izquierda de tu pantalla. Selecciona un ícono para tu carpeta y dale un "
+"nombre. Haz clic en el botón verde con un signo más para agregar la carpeta "
+"a tu escritorio. Cuando termine de ser creada e instalada, verás una "
+"confirmación diciéndote que tu carpeta nueva ha sido agregada. Ahora puedes "
+"cerrar la ventana y encontrar tu carpeta nueva a la izquierda del ícono de "
+"<app>Más programas</app>."
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:46
 msgid ""
-"To add apps to your new folder, simply click and hold on the app’s icon, and"
-" without letting go, drag it on top of the folder, and let go of the click. "
+"To add apps to your new folder, simply click and hold on the app’s icon, and "
+"without letting go, drag it on top of the folder, and let go of the click. "
 "When you open the folder, you’ll see the app inside. To remove an app from "
 "the folder, simply drag its icon out of the folder."
-msgstr "Para agregar programas a tu nueva carpeta, simplemente haz clic sobre el ícono del programa y sin soltarlo, arrástralo hacia la carpeta; cuando esté encima de ella, puedes soltar el clic. Cuando abras la carpeta, verás el programa ya dentro. Para quitar un programa de la carpeta, simplemente arrastra el ícono hacia afuera de la carpeta."
+msgstr ""
+"Para agregar programas a tu nueva carpeta, simplemente haz clic sobre el "
+"ícono del programa y sin soltarlo, arrástralo hacia la carpeta; cuando esté "
+"encima de ella, puedes soltar el clic. Cuando abras la carpeta, verás el "
+"programa ya dentro. Para quitar un programa de la carpeta, simplemente "
+"arrastra el ícono hacia afuera de la carpeta."
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:50
 msgid ""
 "Keep in mind that if you want to delete a folder, you’ll first have to "
 "remove all of the apps that are in it."
-msgstr "Ten en cuenta que si quieres eliminar una carpeta, debes antes sacar los programas que se encuentran dentro."
+msgstr ""
+"Ten en cuenta que si quieres eliminar una carpeta, debes antes sacar los "
+"programas que se encuentran dentro."
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:19
@@ -217,32 +256,45 @@ msgstr "Instalando programas. "
 msgid ""
 "Your computer comes with a wide variety of apps that you can install for "
 "free and use even without an internet connection."
-msgstr "Tu computadora contiene una gran variedad de programas gratis que puedes instalar y usar sin una conexión al internet."
+msgstr ""
+"Tu computadora contiene una gran variedad de programas gratis que puedes "
+"instalar y usar sin una conexión al internet."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:38
 msgid ""
 "From the desktop, click on <app>More Apps</app> to find and add more apps. "
-"It will open a window where you can browse and explore all the apps that are"
-" available to you so you can choose the ones you want to install or add to "
+"It will open a window where you can browse and explore all the apps that are "
+"available to you so you can choose the ones you want to install or add to "
 "your desktop."
-msgstr "Desde el escritorio, haz clic en <app>Más programas</app> para encontrar y agregar más programas. Abrirá una ventana donde puedes buscar y explorar todos los programas que están disponibles para ti para que puedas escoger los que quieres instalar o agregar a tu escritorio."
+msgstr ""
+"Desde el escritorio, haz clic en <app>Más programas</app> para encontrar y "
+"agregar más programas. Abrirá una ventana donde puedes buscar y explorar "
+"todos los programas que están disponibles para ti para que puedas escoger "
+"los que quieres instalar o agregar a tu escritorio."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:43
 msgid ""
-"You can browse the <app>App Store</app> by category. For example, if you "
+"You can browse the <app>App Center</app> by category. For example, if you "
 "click on the <gui>Education</gui> category, you’ll find several educational "
 "apps that you can add and use offline. Similarly, if you click on the Games "
 "category, you’ll find games you can add."
-msgstr "Puedes buscar en el <app>Centro de programas</app> por categoría. Por ejemplo, si haces clic en la categoría de <gui>Educación</gui>, encontrarás varios programas educativos que puedes agregar y usar sin internet. Similarmente, si haces clic en la categoría de Juegos, encontrarás juegos que puedes agregar."
+msgstr ""
+"Puedes buscar en el <app>Centro de programas</app> por categoría. Por "
+"ejemplo, si haces clic en la categoría de <gui>Educación</gui>, encontrarás "
+"varios programas educativos que puedes agregar y usar sin internet. "
+"Similarmente, si haces clic en la categoría de Juegos, encontrarás juegos "
+"que puedes agregar."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:48
 msgid ""
 "You can find the apps that are already on your desktop in the "
 "<gui>Installed</gui> category."
-msgstr "Puedes encontrar los programas que ya están en tu escritorio en la categoría <gui>Instalados</gui>."
+msgstr ""
+"Puedes encontrar los programas que ya están en tu escritorio en la categoría "
+"<gui>Instalados</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:51
@@ -252,26 +304,39 @@ msgid ""
 "new window will come up with more information about the app. Click on the "
 "green button that says <gui>Add to Desktop</gui>, then after a moment the "
 "button will change to say <gui>Open</gui>."
-msgstr "Haz clic en el programa que quieres instalar.  Por ejemplo, para instalar el programa <app>Guatemala</app>, dentro de la categoría de <gui>Educación</gui>, le hacemos clic sobre él y te mostrará una nueva ventana con información acerca del programa.  Haz clic sobre el botón color verde con el texto <gui>Agregar al escritorio</gui>, espera un momento y finalmente, el texto del botón cambiará a <gui>Abrir</gui>."
+msgstr ""
+"Haz clic en el programa que quieres instalar.  Por ejemplo, para instalar el "
+"programa <app>Guatemala</app>, dentro de la categoría de <gui>Educación</"
+"gui>, le hacemos clic sobre él y te mostrará una nueva ventana con "
+"información acerca del programa.  Haz clic sobre el botón color verde con el "
+"texto <gui>Agregar al escritorio</gui>, espera un momento y finalmente, el "
+"texto del botón cambiará a <gui>Abrir</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:57
 msgid ""
 "After closing this window you’ll see that the program you downloaded is now "
-"on your desktop. Now you can open it whenever you want to quickly and "
-"easily!"
-msgstr "Al cerrar esta venta, podrás ver que el programa ya ha sido instalado en tu escritorio. ¡Ahora puedes abrirlo fácilmente y rápidamente cuando tu quieras!"
+"on your desktop. Now you can open it whenever you want to quickly and easily!"
+msgstr ""
+"Al cerrar esta venta, podrás ver que el programa ya ha sido instalado en tu "
+"escritorio. ¡Ahora puedes abrirlo fácilmente y rápidamente cuando tu quieras!"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:61
 msgid ""
 "To remove an app, click on the app’s icon without letting go and drag it on "
 "top of the <app>More Apps</app> icon. You’ll notice that the icon has "
-"changed from a grey square to a recycling bin. Let go of the click over this"
-" icon and you’ll see a window telling you that you’ve successfully removed "
+"changed from a grey square to a recycling bin. Let go of the click over this "
+"icon and you’ll see a window telling you that you’ve successfully removed "
 "the app from your desktop. Don’t worry, you can always reinstall the apps "
 "that you remove from your desktop!"
-msgstr "Para eliminar un programa, haz clic en su ícono, y sin soltar el clic, arrástralo hacía el ícono de <app>Más programas</app>. Podrás ver que el ícono ha cambiado de un cuadrado gris a una papelera.  Suelta el clic sobre el este ícono y verás una ventana notificándote que se ha eliminado el programa de tu escritorio. No te preocupes, ¡puedes volver a instalar los programas que eliminas de tu escritorio!"
+msgstr ""
+"Para eliminar un programa, haz clic en su ícono, y sin soltar el clic, "
+"arrástralo hacía el ícono de <app>Más programas</app>. Podrás ver que el "
+"ícono ha cambiado de un cuadrado gris a una papelera.  Suelta el clic sobre "
+"el este ícono y verás una ventana notificándote que se ha eliminado el "
+"programa de tu escritorio. No te preocupes, ¡puedes volver a instalar los "
+"programas que eliminas de tu escritorio!"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:68
@@ -279,13 +344,17 @@ msgid ""
 "You can also delete a folder this same way, by clicking on it, dragging it "
 "over the recycling bin, and letting go. Remember that the folder has to be "
 "empty in order to delete it."
-msgstr "Puedes eliminar una carpeta de esta misma manera, haciendo clic en ella, arrastrándola sobre la papelera y soltando el clic. Recuerda que la carpeta debe estar vacía para poderla eliminar."
+msgstr ""
+"Puedes eliminar una carpeta de esta misma manera, haciendo clic en ella, "
+"arrastrándola sobre la papelera y soltando el clic. Recuerda que la carpeta "
+"debe estar vacía para poderla eliminar."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:72
 msgid ""
 "That’s how easy it is to add and remove apps and folders from your desktop!"
-msgstr "¡Es así de fácil agregar y eliminar programas y carpetas de tu escritorio!"
+msgstr ""
+"¡Es así de fácil agregar y eliminar programas y carpetas de tu escritorio!"
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:19
@@ -302,7 +371,9 @@ msgstr "04"
 #. (itstool) path: info/desc
 #: C/endless-04-wifi.page:21
 msgid "A video showing how to set up Wi-Fi with Endless."
-msgstr "Un video que enseña cómo configurar la conexión inalámbrica al internet con Endless."
+msgstr ""
+"Un video que enseña cómo configurar la conexión inalámbrica al internet con "
+"Endless."
 
 #. (itstool) path: page/title
 #: C/endless-04-wifi.page:24
@@ -318,8 +389,10 @@ msgstr "Puedes conectarte a una red de WiFi con estos pasos fáciles:"
 #: C/endless-04-wifi.page:36
 msgid ""
 "First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
-"right side of your desktop, on the taskbar close to the clock."
-msgstr "Primero, haz clic en el ícono de <gui>Wi-Fi</gui> que está en la esquina inferior derecha de tu escritorio, en la barra de tareas cerca del reloj."
+"right side of your desktop, on the task bar close to the clock."
+msgstr ""
+"Primero, haz clic en el ícono de <gui>Wi-Fi</gui> que está en la esquina "
+"inferior derecha de tu escritorio, en la barra de tareas cerca del reloj."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:39
@@ -327,33 +400,47 @@ msgid ""
 "On the window that comes up, you’ll see the names of all of the available "
 "Wi- Fi networks that you can connect to. If you don’t see any, make sure "
 "that your Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is "
-"turned on if there is a blue light to the right of the word <gui>Wi-"
-"Fi</gui>. If the light is not blue, you can click on it once to turn it on."
-msgstr "En la ventana que aparece, verás los nombres de todas las redes inalámbricas disponibles a las que te puedes conectar. Si no puedes ver los nombres de redes, asegúrate de tener encendida tu conexión inalámbrica en tu computadora. Si tu Wi-Fi está encendida verás una luz azul a la derecha de la palabra <gui>Wi-Fi</gui>. Si no está de color azul, puedes hacerle clic una vez para encenderla."
+"turned on if there is a blue light to the right of the word <gui>Wi-Fi</"
+"gui>. If the light is not blue, you can click on it once to turn it on."
+msgstr ""
+"En la ventana que aparece, verás los nombres de todas las redes inalámbricas "
+"disponibles a las que te puedes conectar. Si no puedes ver los nombres de "
+"redes, asegúrate de tener encendida tu conexión inalámbrica en tu "
+"computadora. Si tu Wi-Fi está encendida verás una luz azul a la derecha de "
+"la palabra <gui>Wi-Fi</gui>. Si no está de color azul, puedes hacerle clic "
+"una vez para encenderla."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:45
 msgid ""
 "Select the name of your wireless network. The network in this example is "
-"called <gui>Endless Wi-Fi</gui>, but the name of your own Wi-Fi network will"
-" be different. If you’re not sure what the name of your Wi-Fi network is, or"
-" don’t know the password, you can call the company that provides your "
+"called <gui>Endless Wi-Fi</gui>, but the name of your own Wi-Fi network will "
+"be different. If you’re not sure what the name of your Wi-Fi network is, or "
+"don’t know the password, you can call the company that provides your "
 "internet and ask them."
-msgstr "Selecciona el nombre de tu red inalámbrica.  El nombre de la red utilizada en este tutorial es:  <gui>Endless Wi-Fi</gui>, pero el nombre de tu red será diferente. Si no sabes cuál es el nombre de tu red inalámbrica o cuál es tu contraseña, puedes contactar a tu proveedor de servicio de internet. "
+msgstr ""
+"Selecciona el nombre de tu red inalámbrica.  El nombre de la red utilizada "
+"en este tutorial es:  <gui>Endless Wi-Fi</gui>, pero el nombre de tu red "
+"será diferente. Si no sabes cuál es el nombre de tu red inalámbrica o cuál "
+"es tu contraseña, puedes contactar a tu proveedor de servicio de internet. "
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:51
 msgid ""
 "After selecting the name of your network, you’ll have to type in your "
 "network’s password."
-msgstr "Después de seleccionar el nombre de tu red, tendrás que escribir tu contraseña de la red."
+msgstr ""
+"Después de seleccionar el nombre de tu red, tendrás que escribir tu "
+"contraseña de la red."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:54
 msgid ""
 "If your computer successfully connects to the internet, you’ll see a white "
 "circle to the left of the name of your network."
-msgstr "Si tu computadora se ha conectado al internet con éxito, verás un círculo blanco al lado izquierdo del nombre de tu red."
+msgstr ""
+"Si tu computadora se ha conectado al internet con éxito, verás un círculo "
+"blanco al lado izquierdo del nombre de tu red."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:57
@@ -385,58 +472,84 @@ msgstr "Explorando tus archivos"
 #. (itstool) path: page/p
 #: C/endless-05-files.page:35
 msgid ""
-"You can easily organize your documents and files with folders. Here’s how to"
-" do it."
-msgstr "Puedes fácilmente organizar tus documentos y archivos con carpetas. Aquí está como hacerlo."
+"You can easily organize your documents and files with folders. Here’s how to "
+"do it."
+msgstr ""
+"Puedes fácilmente organizar tus documentos y archivos con carpetas. Aquí "
+"está como hacerlo."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:38
 msgid ""
 "The <app>Documents</app> icon gives you access to your folders and files. "
-"You can find it on your desktop or by moving your mouse to the hot corner on"
-" the bottom left side of your screen and clicking on the "
-"<app>Documents</app> icon on the right side of the screen, even if you have "
-"an app open."
-msgstr "El ícono de <app>Documentos</app> te da acceso a tus carpetas y archivos. Puedes encontrarlo en tu escritorio o al mover tu ratón a la esquina activa en la parte inferior izquierda de tu pantalla y haciendo clic en el ícono de <app>Documentos</app> en la parte derecha de tu pantalla, aunque tengas un programa abierto."
+"You can find it on your desktop or by moving your mouse to the hot corner on "
+"the bottom left side of your screen and clicking on the <app>Documents</app> "
+"icon on the right side of the screen, even if you have an app open."
+msgstr ""
+"El ícono de <app>Documentos</app> te da acceso a tus carpetas y archivos. "
+"Puedes encontrarlo en tu escritorio o al mover tu ratón a la esquina activa "
+"en la parte inferior izquierda de tu pantalla y haciendo clic en el ícono de "
+"<app>Documentos</app> en la parte derecha de tu pantalla, aunque tengas un "
+"programa abierto."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:43
 msgid ""
 "Once you are in the <app>Documents</app> main folder, you can create new "
-"folders where you can place all of your documents and files so that they are"
-" organized and easy to find. On the left side of the window, you’ll see "
+"folders where you can place all of your documents and files so that they are "
+"organized and easy to find. On the left side of the window, you’ll see "
 "shortcuts to get to those folders. To open a file or folder that is "
-"displayed on the right, click your mouse’s button quickly two times. We call"
-" this a double click. To return to the previous folder, click the back arrow"
-" above."
-msgstr "Una vez que estés en la carpeta de <app>Documentos</app>, puedes crear nuevas carpetas donde puedes guardar todos tus documentos y archivos para que estén organizados y fáciles de encontrar. En la parte izquierda de la ventana, verás accesos directos para llegar a esas carpetas. Para abrir un archivo o una carpeta mostrada a la derecha, haz clic rápidamente en el botón de tu ratón dos veces. A esto le llamamos un doble clic. Para regresar a la carpeta anterior, haz clic en la flecha de regresar que aparece arriba."
+"displayed on the right, click your mouse’s button quickly two times. We call "
+"this a double click. To return to the previous folder, click the back arrow "
+"above."
+msgstr ""
+"Una vez que estés en la carpeta de <app>Documentos</app>, puedes crear "
+"nuevas carpetas donde puedes guardar todos tus documentos y archivos para "
+"que estén organizados y fáciles de encontrar. En la parte izquierda de la "
+"ventana, verás accesos directos para llegar a esas carpetas. Para abrir un "
+"archivo o una carpeta mostrada a la derecha, haz clic rápidamente en el "
+"botón de tu ratón dos veces. A esto le llamamos un doble clic. Para regresar "
+"a la carpeta anterior, haz clic en la flecha de regresar que aparece arriba."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:50
 msgid ""
 "You can also open a folder by clicking the right button of your mouse, and "
 "then clicking <gui>Open</gui> with the left button."
-msgstr "También puedes abrir una carpeta haciéndole clic con el botón derecho del ratón, y después haciendo clic en <gui>Abrir</gui> con el botón izquierdo."
+msgstr ""
+"También puedes abrir una carpeta haciéndole clic con el botón derecho del "
+"ratón, y después haciendo clic en <gui>Abrir</gui> con el botón izquierdo."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:53
 msgid ""
 "To use the shortcuts that are on the left side of the screen, click on the "
 "name of the folder you wish to open. For example, if you click the name "
-"<gui>Images</gui> with your left mouse button, you’ll open the "
-"<gui>Images</gui> folder."
-msgstr "Para usar los accesos directos que se encuentran en la parte izquierda de la ventana, puedes hacer clic en la carpeta a la que deseas entrar. Por ejemplo, si hacemos clic encima del nombre <gui>Imágenes</gui> con el botón izquierdo del ratón, entraremos en la carpeta de <gui>Imágenes</gui>."
+"<gui>Images</gui> with your left mouse button, you’ll open the <gui>Images</"
+"gui> folder."
+msgstr ""
+"Para usar los accesos directos que se encuentran en la parte izquierda de la "
+"ventana, puedes hacer clic en la carpeta a la que deseas entrar. Por "
+"ejemplo, si hacemos clic encima del nombre <gui>Imágenes</gui> con el botón "
+"izquierdo del ratón, entraremos en la carpeta de <gui>Imágenes</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:58
 msgid ""
-"When you download a file from the internet, it’ll go to the "
-"<gui>Downloads</gui> folder. If you want to move files to this folder or "
-"into another folder, simply click the file without letting go and drag it to"
-" the folder where you want it. For example, if I want to move my favorite "
-"song to the music folder, I click on the music file without letting go and "
-"drag it to the music folder. Now it’s in that folder!"
-msgstr "Cuando descargues un documento de internet, aparecerá en la carpeta descargas. Por ejemplo, acá tenemos dos canciones que descargué anteriormente. Si quieres mover archivos de una carpeta a otra, solamente debes hacer click sobre ellos y sin soltarlo, arrastrarlas a la carpeta en donde quieres que estén. Si quiero mover mi canción favorita a la carpeta de música, hago click sobre ella y sin soltar el click la arrastro hacia la carpeta de música. Ahora, ya se encuentra en esta carpeta."
+"When you download a file from the internet, it’ll go to the <gui>Downloads</"
+"gui> folder. If you want to move files to this folder or into another "
+"folder, simply click the file without letting go and drag it to the folder "
+"where you want it. For example, if I want to move my favorite song to the "
+"music folder, I click on the music file without letting go and drag it to "
+"the music folder. Now it’s in that folder!"
+msgstr ""
+"Cuando descargues un documento de internet, aparecerá en la carpeta "
+"descargas. Por ejemplo, acá tenemos dos canciones que descargué "
+"anteriormente. Si quieres mover archivos de una carpeta a otra, solamente "
+"debes hacer click sobre ellos y sin soltarlo, arrastrarlas a la carpeta en "
+"donde quieres que estén. Si quiero mover mi canción favorita a la carpeta de "
+"música, hago click sobre ella y sin soltar el click la arrastro hacia la "
+"carpeta de música. Ahora, ya se encuentra en esta carpeta."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:65
@@ -445,18 +558,30 @@ msgid ""
 "on it without letting go and drag it to the recycling bin. To delete my "
 "favorite song, for example, click it without letting go, drag it to the "
 "recycling bin, and let go of the click."
-msgstr "Para eliminar un archivo, ya sea una canción, una fotografía o cualquier otro tipo, solamente tienes que hacerle clic y sin soltar el botón del ratón, arrastrarlo hacia la papelera. Para borrar mi canción favorita, por ejemplo, hago clic sobre ella y sin soltarla, la arrastro hasta la papelera y suelto el botón del ratón."
+msgstr ""
+"Para eliminar un archivo, ya sea una canción, una fotografía o cualquier "
+"otro tipo, solamente tienes que hacerle clic y sin soltar el botón del "
+"ratón, arrastrarlo hacia la papelera. Para borrar mi canción favorita, por "
+"ejemplo, hago clic sobre ella y sin soltarla, la arrastro hasta la papelera "
+"y suelto el botón del ratón."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:70
 msgid ""
 "From the recycling bin, you can return the files that you’ve deleted to "
-"where they originally were by selecting them and clicking "
-"<gui>Restore</gui>. You can also delete these files permanently from your "
-"computer by clicking the button <gui>Empty</gui>. If you click this button, "
-"the files will no longer take up space on your computer, but you also won’t "
-"be able to restore them and will instead permanently delete them."
-msgstr "Desde la papelera, puedes regresar los archivos que eliminaste a la carpeta en donde estaban originalmente, seleccionándolos y haciendo clic en <gui>Restaurar</gui>. También puedes permanentemente eliminar de la computadora los archivos que se encuentran acá, haciendo clic en el botón <gui>Vaciar</gui>. Si haces clic en este botón, los archivos ya no ocuparán espacio en tu computadora, pero ya no se podrán recuperar y los borrarás permanentemente."
+"where they originally were by selecting them and clicking <gui>Restore</"
+"gui>. You can also delete these files permanently from your computer by "
+"clicking the button <gui>Empty</gui>. If you click this button, the files "
+"will no longer take up space on your computer, but you also won’t be able to "
+"restore them and will instead permanently delete them."
+msgstr ""
+"Desde la papelera, puedes regresar los archivos que eliminaste a la carpeta "
+"en donde estaban originalmente, seleccionándolos y haciendo clic en "
+"<gui>Restaurar</gui>. También puedes permanentemente eliminar de la "
+"computadora los archivos que se encuentran acá, haciendo clic en el botón "
+"<gui>Vaciar</gui>. Si haces clic en este botón, los archivos ya no ocuparán "
+"espacio en tu computadora, pero ya no se podrán recuperar y los borrarás "
+"permanentemente."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:77
@@ -490,29 +615,43 @@ msgstr "Navegando por el internet"
 msgid ""
 "If you’re connected to the internet you have access to websites from all "
 "around the world! Here, you can learn how to get to them."
-msgstr "¡Si estás conectado al internet puedes tener acceso a muchos sitios web de todo el mundo! Aquí puedes aprender a encontrarlos."
+msgstr ""
+"¡Si estás conectado al internet puedes tener acceso a muchos sitios web de "
+"todo el mundo! Aquí puedes aprender a encontrarlos."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:38
 msgid ""
-"When your computer is connected to the internet, you can open the browser by"
-" clicking on the orange circle on your taskbar on the bottom left-hand "
+"When your computer is connected to the internet, you can open the browser by "
+"clicking on the orange circle on your task bar on the bottom left-hand "
 "corner. We have put this orange icon in three different places so you can "
-"find it easily: on the desktop next to other apps’ icons, on the black "
-"taskbar on the bottom part of your screen, and on the right side of the "
-"screen when you move your mouse to the bottom right hot corner."
-msgstr "Cuando tu computadora esté conectada al internet, puedes entrar al navegador haciendo clic en el ícono de la esfera amarilla en la esquina inferior izquierda. Hemos puesto este ícono en tres lugares para que puedas accederlo fácilmente: en el escritorio, junto a los iconos de los otros programas, en la barra inferior de tu pantalla, y en el lado derecho cuando tocas la esquina activa en la parte inferior derecha con el ratón."
+"find it easily: on the desktop next to other apps’ icons, on the black task "
+"bar on the bottom part of your screen, and on the right side of the screen "
+"when you move your mouse to the bottom right hot corner."
+msgstr ""
+"Cuando tu computadora esté conectada al internet, puedes entrar al navegador "
+"haciendo clic en el ícono de la esfera amarilla en la esquina inferior "
+"izquierda. Hemos puesto este ícono en tres lugares para que puedas accederlo "
+"fácilmente: en el escritorio, junto a los iconos de los otros programas, en "
+"la barra inferior de tu pantalla, y en el lado derecho cuando tocas la "
+"esquina activa en la parte inferior derecha con el ratón."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:45
 msgid ""
 "When you first open the browser, you’ll see the <app>Content Center</app>. "
-"Here we have collected interesting websites for you to explore. If you click"
-" on the title <gui>Discover</gui> you’ll see different categories for you to"
-" look through to find useful websites. For example, in the <gui>News</gui> "
+"Here we have collected interesting websites for you to explore. If you click "
+"on the title <gui>Discover</gui> you’ll see different categories for you to "
+"look through to find useful websites. For example, in the <gui>News</gui> "
 "category, you’ll find links for different newspapers. You can explore the "
 "different categories to discover lots of cool websites!"
-msgstr "Al entrar en el navegador, verás el <app>Centro de Contenido</app>. En él hemos puesto algunos enlaces a sitios web interesantes. Debajo del título <gui>Descubre</gui> se encuentran algunas categorías para que puedas buscar páginas útiles. Por ejemplo, en la categoría de noticias encontrarás enlaces para diferentes periódicos. ¡Puedes explorar las diferentes categorías para descubrir muchas páginas de internet que te interesarán!"
+msgstr ""
+"Al entrar en el navegador, verás el <app>Centro de Contenido</app>. En él "
+"hemos puesto algunos enlaces a sitios web interesantes. Debajo del título "
+"<gui>Descubre</gui> se encuentran algunas categorías para que puedas buscar "
+"páginas útiles. Por ejemplo, en la categoría de noticias encontrarás enlaces "
+"para diferentes periódicos. ¡Puedes explorar las diferentes categorías para "
+"descubrir muchas páginas de internet que te interesarán!"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:52
@@ -521,12 +660,21 @@ msgid ""
 "save it and find it easily in the future. For example, open the page "
 "<gui>Universidad Galileo</gui>. If we want our computer to remember this "
 "page, or any other, all you have to do is click on the star that is located "
-"on the right side of the website’s URL in the top part of the window. If you"
-" want, you can change the name you save it as so that you can find it more "
-"easily in the future. Click <gui>Finished</gui>. Now the page you saved will"
-" appear when you click on <gui>Favorites</gui> in your <app>Content "
-"Center</app>."
-msgstr "Cuando veas una página que te interese, puedes marcarla como favorita para poder encontrarla fácilmente en un futuro. Por ejemplo, vamos a entrar a la página de la <gui>Universidad Galileo</gui>. Si quieres marcar a esta página o a cualquier otra, solo tienes que hacer clic en la estrella, que se encuentra en el lado derecho de la barra en donde pones la dirección de internet. Si deseas, puedes cambiar el nombre que representa esta página. Hazle clic en <gui>Finalizado</gui>. Ahora, la página que guardaste aparecerá cuando hagas clic en <gui>Favoritos</gui> en el <app>Centro de contenido</app>."
+"on the right side of the website’s URL in the top part of the window. If you "
+"want, you can change the name you save it as so that you can find it more "
+"easily in the future. Click <gui>Finished</gui>. Now the page you saved will "
+"appear when you click on <gui>Favorites</gui> in your <app>Content Center</"
+"app>."
+msgstr ""
+"Cuando veas una página que te interese, puedes marcarla como favorita para "
+"poder encontrarla fácilmente en un futuro. Por ejemplo, vamos a entrar a la "
+"página de la <gui>Universidad Galileo</gui>. Si quieres marcar a esta página "
+"o a cualquier otra, solo tienes que hacer clic en la estrella, que se "
+"encuentra en el lado derecho de la barra en donde pones la dirección de "
+"internet. Si deseas, puedes cambiar el nombre que representa esta página. "
+"Hazle clic en <gui>Finalizado</gui>. Ahora, la página que guardaste "
+"aparecerá cuando hagas clic en <gui>Favoritos</gui> en el <app>Centro de "
+"contenido</app>."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:61
@@ -534,18 +682,27 @@ msgid ""
 "Clicking on <gui>History</gui> allows you to see all of the websites that "
 "you have previously visited. If you want to return to a site that you once "
 "visited, you can find it here. If you want to clear the list of websites "
-"that you have visited, click on the button that says <gui>Clear "
-"History</gui>, then click to accept the action on the window that pops up."
-msgstr "Al hacer clic en <gui>Historial</gui> podrás ver las páginas que has visitado anteriormente. Si quieres volver a visitar una página que has visitado antes, podrás encontrarla aquí. Si quieres eliminar la lista de páginas que has visitado, puedes hacer clic en el botón que dice <gui>Borrar historial</gui>, y luego aceptar la acción en la ventana que aparecerá."
+"that you have visited, click on the button that says <gui>Clear History</"
+"gui>, then click to accept the action on the window that pops up."
+msgstr ""
+"Al hacer clic en <gui>Historial</gui> podrás ver las páginas que has "
+"visitado anteriormente. Si quieres volver a visitar una página que has "
+"visitado antes, podrás encontrarla aquí. Si quieres eliminar la lista de "
+"páginas que has visitado, puedes hacer clic en el botón que dice <gui>Borrar "
+"historial</gui>, y luego aceptar la acción en la ventana que aparecerá."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:67
 msgid ""
 "If you click on <gui>Feedback</gui> on the bottom left side of the content "
 "center, you can send us your comments or suggestions. Just write your "
-"message, your name, and your email address, then click <gui>Send "
-"Feedback</gui>. We would love to hear from you!"
-msgstr "Puedes escribirnos con tus comentarios o sugerencias si haces clic en <gui>Comentarios</gui> en la esquina inferior izquierda del centro de contenido. Escribe tu mensaje, tu nombre y correo electrónico, y luego haz clic en <gui>Enviar comentario</gui>. ¡Nos gustaría mucho saber de ti!"
+"message, your name, and your email address, then click <gui>Send Feedback</"
+"gui>. We would love to hear from you!"
+msgstr ""
+"Puedes escribirnos con tus comentarios o sugerencias si haces clic en "
+"<gui>Comentarios</gui> en la esquina inferior izquierda del centro de "
+"contenido. Escribe tu mensaje, tu nombre y correo electrónico, y luego haz "
+"clic en <gui>Enviar comentario</gui>. ¡Nos gustaría mucho saber de ti!"
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:19
@@ -574,17 +731,24 @@ msgstr "Minimizando y cerrando ventanas"
 msgid ""
 "If you want to keep an app or folder open while you work on another task on "
 "your desktop or in another app, the minimizing option is extremely useful!"
-msgstr "Si quieres mantener un programa o una carpeta abierta mientras que trabajes en otra cosa en tu escritorio o en otro programa, ¡la opción de minimizar es muy útil!"
+msgstr ""
+"Si quieres mantener un programa o una carpeta abierta mientras que trabajes "
+"en otra cosa en tu escritorio o en otro programa, ¡la opción de minimizar es "
+"muy útil!"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:38
 msgid ""
-"You can minimize your programs one of two ways: clicking on the <key>-</key>"
-" icon, which is on the top right corner of each window, or clicking on the "
-"program’s icon on the taskbar of your Endless screen. This will hide your "
-"app or folder in your taskbar so that you can work on different tasks at the"
-" same time."
-msgstr "Puedes minimizar tus programas de dos formas: haciendo clic en <key>-</key> que se encuentra en la esquina superior derecha de la ventana, o también puedes hacer clic en el ícono del programa en la barra inferior de tu pantalla. Esto permite que hagas varias tareas a la vez."
+"You can minimize your programs one of two ways: clicking on the <key>-</key> "
+"icon, which is on the top right corner of each window, or clicking on the "
+"program’s icon on the task bar of your Endless screen. This will hide your "
+"app or folder in your task bar so that you can work on different tasks at "
+"the same time."
+msgstr ""
+"Puedes minimizar tus programas de dos formas: haciendo clic en <key>-</key> "
+"que se encuentra en la esquina superior derecha de la ventana, o también "
+"puedes hacer clic en el ícono del programa en la barra inferior de tu "
+"pantalla. Esto permite que hagas varias tareas a la vez."
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:44
@@ -592,7 +756,11 @@ msgid ""
 "To make your app return to your screen, just click its icon once and it’ll "
 "return to its last size. When you’re done using a program, close it by "
 "clicking the <key>X</key> icon at the top right-hand corner of the window."
-msgstr "Para hacer que la ventana del programa que estabas usando regrese, simplemente haz clic en su ícono y regresará a su tamaño original. Cuando termines de usar un programa y lo quieras cerrar, haz clic en el ícono <key>X</key>, junto al ícono para minimizar."
+msgstr ""
+"Para hacer que la ventana del programa que estabas usando regrese, "
+"simplemente haz clic en su ícono y regresará a su tamaño original. Cuando "
+"termines de usar un programa y lo quieras cerrar, haz clic en el ícono "
+"<key>X</key>, junto al ícono para minimizar."
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:48
@@ -600,7 +768,10 @@ msgid ""
 "You can also move your mouse down to the bottom right-hand corner of your "
 "screen, then move over to the window of the app you want to close and click "
 "the <key>X</key> on the top right of that window to close it."
-msgstr "También puedes mover el ratón a la esquina inferior derecha de tu pantalla, moverlo a la ventana del programa que quieres cerrar y hacer clic en la <key>X</key> de la esquina superior derecha de esa ventana."
+msgstr ""
+"También puedes mover el ratón a la esquina inferior derecha de tu pantalla, "
+"moverlo a la ventana del programa que quieres cerrar y hacer clic en la "
+"<key>X</key> de la esquina superior derecha de esa ventana."
 
 #. (itstool) path: info/title
 #: C/endless-08-offline.page:19
@@ -617,7 +788,9 @@ msgstr "08"
 #. (itstool) path: info/desc
 #: C/endless-08-offline.page:21
 msgid "A video showing the offline content on your computer."
-msgstr "Un video que enseña el contenido en tu computadora al que puedes acceder sin conexión al internet"
+msgstr ""
+"Un video que enseña el contenido en tu computadora al que puedes acceder sin "
+"conexión al internet"
 
 #. (itstool) path: page/title
 #: C/endless-08-offline.page:24
@@ -627,18 +800,24 @@ msgstr "Usando Endless sin conexión al internet"
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:35
 msgid ""
-"Your computer includes a lot of offline content so you can learn and explore"
-" a great deal of things without having an internet connection!"
-msgstr "¡Tu computadora incluye mucho contenido accesible sin internet para que puedas aprender y explorar muchas cosas sin tener una conexión al internet!"
+"Your computer includes a lot of offline content so you can learn and explore "
+"a great deal of things without having an internet connection!"
+msgstr ""
+"¡Tu computadora incluye mucho contenido accesible sin internet para que "
+"puedas aprender y explorar muchas cosas sin tener una conexión al internet!"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:38
 msgid ""
 "For example, you’ll find a folder called <gui>Curiosities</gui> on your "
-"desktop where you can find apps like <app>Virtual School</app>, which allows"
-" you to watch hundreds of videos about all sorts of subjects you may find "
+"desktop where you can find apps like <app>Virtual School</app>, which allows "
+"you to watch hundreds of videos about all sorts of subjects you may find "
 "interesting."
-msgstr "Por ejemplo, encontrarás una carpeta llamada <gui>Curiosidades</gui> en tu escritorio donde puedes encontrar programas como <app>Escuela virtual</app>, el cual te permite ver cientos de videos sobre todo tipo de temas que tal vez encuentres interesantes."
+msgstr ""
+"Por ejemplo, encontrarás una carpeta llamada <gui>Curiosidades</gui> en tu "
+"escritorio donde puedes encontrar programas como <app>Escuela virtual</app>, "
+"el cual te permite ver cientos de videos sobre todo tipo de temas que tal "
+"vez encuentres interesantes."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:43
@@ -647,16 +826,23 @@ msgid ""
 "different subjects for which you can watch video lessons. You’ll see the "
 "number of videos available for each topic to the right of its name. For "
 "example, in <gui>Sciences</gui>, you can see that there are 4 videos on the "
-"topic <gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of"
-" this topic, you’ll be able to see the list of videos available."
-msgstr "Vamos a explorar el programa <app> Escuela Virtual</app>. Haz clic en el programa para ver todas las materias en los que se pueden encontrar video clases. Verás el número de videos disponibles para cada tema a la derecha de su nombre. Por ejemplo, en <gui>Ciencias</gui>, se puede ver que hay 4 videos sobre el tema <gui>Salud</gui> y <gui>Medicina</gui>. Si haces clic en el nombre de este tema, podrás ver la lista de videos disponibles."
+"topic <gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of "
+"this topic, you’ll be able to see the list of videos available."
+msgstr ""
+"Vamos a explorar el programa <app> Escuela Virtual</app>. Haz clic en el "
+"programa para ver todas las materias en los que se pueden encontrar video "
+"clases. Verás el número de videos disponibles para cada tema a la derecha de "
+"su nombre. Por ejemplo, en <gui>Ciencias</gui>, se puede ver que hay 4 "
+"videos sobre el tema <gui>Salud</gui> y <gui>Medicina</gui>. Si haces clic "
+"en el nombre de este tema, podrás ver la lista de videos disponibles."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:50
 msgid ""
-"For any video you’d like to watch, just click on it once to begin playing "
-"it."
-msgstr "Para cualquier video que quieras ver, simplemente hazle clic una vez para empezar a tocarlo."
+"For any video you’d like to watch, just click on it once to begin playing it."
+msgstr ""
+"Para cualquier video que quieras ver, simplemente hazle clic una vez para "
+"empezar a tocarlo."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:53
@@ -664,31 +850,45 @@ msgid ""
 "To end the video, just click on the <key>X</key> button at the top right-"
 "hand corner of the video. To learn more about how to control videos, please "
 "see the tutorial that talks about photos, music and video."
-msgstr "Si quieres cerrar este video, haz clic en el botón con una <key>X</key> que está en la parte superior derecha del vídeo. Para saber más sobre cómo controlar el vídeo, puedes ver el tutorial que habla sobre fotos, música y video."
+msgstr ""
+"Si quieres cerrar este video, haz clic en el botón con una <key>X</key> que "
+"está en la parte superior derecha del vídeo. Para saber más sobre cómo "
+"controlar el vídeo, puedes ver el tutorial que habla sobre fotos, música y "
+"video."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:57
 msgid ""
-"You may also be interested in using the <app>Encyclopedia</app> app. We have"
-" put it on your desktop to make it easy to find."
-msgstr "También te queremos enseñar el programa llamado <app>Enciclopedia</app>. Hemos puesto este programa en tu escritorio para que lo encuentras fácilmente."
+"You may also be interested in using the <app>Encyclopedia</app> app. We have "
+"put it on your desktop to make it easy to find."
+msgstr ""
+"También te queremos enseñar el programa llamado <app>Enciclopedia</app>. "
+"Hemos puesto este programa en tu escritorio para que lo encuentras "
+"fácilmente."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:60
 msgid ""
 "When you open this app, you will see a bar where you can search for any "
-"topic you want to investigate. For example, let's look for information about"
-" Guatemala. Once you start typing, a list will appear so that you can choose"
-" the item that best matches what you’d like to read about. Click on a title "
+"topic you want to investigate. For example, let's look for information about "
+"Guatemala. Once you start typing, a list will appear so that you can choose "
+"the item that best matches what you’d like to read about. Click on a title "
 "and all of the information on the topic you have chosen will appear."
-msgstr "Al abrir este programa, verás una barra en donde puedes buscar cualquier tema que quieras investigar. Por ejemplo, vamos a buscar por información acerca de Guatemala. Al empezar a escribir, aparecerá un listado en donde puedes elegir el resultado más relevante a lo que buscas. Al hacer clic en un título, aparecerá toda la información sobre el tema que has elegido."
+msgstr ""
+"Al abrir este programa, verás una barra en donde puedes buscar cualquier "
+"tema que quieras investigar. Por ejemplo, vamos a buscar por información "
+"acerca de Guatemala. Al empezar a escribir, aparecerá un listado en donde "
+"puedes elegir el resultado más relevante a lo que buscas. Al hacer clic en "
+"un título, aparecerá toda la información sobre el tema que has elegido."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:66
 msgid ""
 "Remember that there are many apps that do not require internet. Keep "
 "exploring your computer to find them!"
-msgstr "Recuerda que hay muchos programas que no necesitan internet. ¡Sigue explorando tu computadora para encontrarlos!"
+msgstr ""
+"Recuerda que hay muchos programas que no necesitan internet. ¡Sigue "
+"explorando tu computadora para encontrarlos!"
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:19
@@ -705,7 +905,8 @@ msgstr "09"
 #. (itstool) path: info/desc
 #: C/endless-09-writer.page:21
 msgid "A video showing how to use the Writer app to create documents."
-msgstr "Un video que enseña cómo usar el programa Escritor para crear documentos."
+msgstr ""
+"Un video que enseña cómo usar el programa Escritor para crear documentos."
 
 #. (itstool) path: page/title
 #: C/endless-09-writer.page:24
@@ -717,65 +918,92 @@ msgstr "Usando el programa Escritor"
 msgid ""
 "Your computer comes with apps for you to create the documents and "
 "presentations that you need."
-msgstr "Tu computadora viene con programas para que puedas trabajar en documentos y presentaciones."
+msgstr ""
+"Tu computadora viene con programas para que puedas trabajar en documentos y "
+"presentaciones."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:38
 msgid ""
 "For example, you can find the <app>Writer</app> app on your desktop, with "
-"which you can create your documents. You can also create spreadsheets in the"
-" <app>Spreadsheets</app> app, which is located in the <gui>Work</gui> "
-"folder. And, you can use the <app>Presentation</app> app to create "
-"presentations that can help you communicate your ideas."
-msgstr "Por ejemplo, puedes encontrar el programa <app>Escritor</app> en tu escritorio, con el cual puedes crear tus documentos. También puedes crear hojas de cálculo en el programa <app>Hoja de cálculo</app>, el cual está en la carpeta <gui>Trabajo</gui>. Además, puedes usar el programa <app>Presentaciones</app> para crear presentaciones que te pueden ayudar a comunicar tus ideas."
+"which you can create your documents. You can also create spreadsheets in the "
+"<app>Spreadsheets</app> app, which is located in the <gui>Work</gui> folder. "
+"And, you can use the <app>Presentation</app> app to create presentations "
+"that can help you communicate your ideas."
+msgstr ""
+"Por ejemplo, puedes encontrar el programa <app>Escritor</app> en tu "
+"escritorio, con el cual puedes crear tus documentos. También puedes crear "
+"hojas de cálculo en el programa <app>Hoja de cálculo</app>, el cual está en "
+"la carpeta <gui>Trabajo</gui>. Además, puedes usar el programa "
+"<app>Presentaciones</app> para crear presentaciones que te pueden ayudar a "
+"comunicar tus ideas."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:44
 msgid ""
-"Let’s walk through some basic things that you can do with the "
-"<app>Writer</app> app."
-msgstr "Queremos enseñarte algunas cosas básicas que puedes hacer con el programa <app>Escritor</app>."
+"Let’s walk through some basic things that you can do with the <app>Writer</"
+"app> app."
+msgstr ""
+"Queremos enseñarte algunas cosas básicas que puedes hacer con el programa "
+"<app>Escritor</app>."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:47
 msgid ""
-"You can easily copy text from other apps. Suppose you want to copy text from"
-" the <app>Encyclopedia</app> app. Just select the text you want to copy, and"
-" right click on it. A menu with the option to <gui>Copy</gui> will appear. "
+"You can easily copy text from other apps. Suppose you want to copy text from "
+"the <app>Encyclopedia</app> app. Just select the text you want to copy, and "
+"right click on it. A menu with the option to <gui>Copy</gui> will appear. "
 "Click on that option."
-msgstr "Puedes copiar texto desde otros programas muy fácilmente. Supongamos que quieres copiar un texto de la <app>Enciclopedia</app>. Solo tienes que seleccionar el texto que deseas copiar, y hacer un clic derecho sobre él. Aparecerá un botón que dice <gui>Copiar</gui>. Haz clic en él."
+msgstr ""
+"Puedes copiar texto desde otros programas muy fácilmente. Supongamos que "
+"quieres copiar un texto de la <app>Enciclopedia</app>. Solo tienes que "
+"seleccionar el texto que deseas copiar, y hacer un clic derecho sobre él. "
+"Aparecerá un botón que dice <gui>Copiar</gui>. Haz clic en él."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:52
 msgid ""
 "Go back to the app where you want to paste the information. Then, simply "
-"right click again, and then click <gui>Paste</gui>. The text you copied from"
-" the encyclopedia will appear in your document."
-msgstr "Regresa a el programa en donde quieres pegar la información. Simplemente debes hacer un clic derecho nuevamente, y luego hacer clic en <gui>Pegar</gui>. El texto aparecerá en tu documento."
+"right click again, and then click <gui>Paste</gui>. The text you copied from "
+"the encyclopedia will appear in your document."
+msgstr ""
+"Regresa a el programa en donde quieres pegar la información. Simplemente "
+"debes hacer un clic derecho nuevamente, y luego hacer clic en <gui>Pegar</"
+"gui>. El texto aparecerá en tu documento."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:56
 msgid ""
 "Select the text again with your mouse, or by pressing and holding "
 "<key>Shift</key> and the arrow buttons. You can then use the buttons at the "
-"top of the screen to make the text bold, italic, or underlined. You can also"
-" center or justify the paragraph format so that it looks the way you want it"
-" to look."
-msgstr "Selecciona el texto nuevamente con tu ratón, o usa las teclas con flechas mientras pulsando la tecla <key>Mayús</key> para seleccionarlo. Así podrás hacer a las letras más gruesas, cambiarlas a cursiva o puedes subrayar el texto. También puedes centrar o justificar el párrafo, lo cual significa que quedará recto para que tenga mejor presentación."
+"top of the screen to make the text bold, italic, or underlined. You can also "
+"center or justify the paragraph format so that it looks the way you want it "
+"to look."
+msgstr ""
+"Selecciona el texto nuevamente con tu ratón, o usa las teclas con flechas "
+"mientras pulsando la tecla <key>Mayús</key> para seleccionarlo. Así podrás "
+"hacer a las letras más gruesas, cambiarlas a cursiva o puedes subrayar el "
+"texto. También puedes centrar o justificar el párrafo, lo cual significa que "
+"quedará recto para que tenga mejor presentación."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:62
 msgid "Explore all of the buttons up top to see the function of each!"
-msgstr "¡Puedes explorar todos los botones de arriba para ver como funciona cada uno!"
+msgstr ""
+"¡Puedes explorar todos los botones de arriba para ver como funciona cada uno!"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:64
 msgid ""
-"You can save your document by clicking <gui>File</gui>, then "
-"<gui>Save</gui>. Remember to give your document a name that you will "
-"remember (usually something that describes what is in the document) before "
-"saving it to make it easier to find later."
-msgstr "Puedes guardar tu documento haciendo clic en <gui>Archivo</gui> y luego <gui>Guardar</gui>. Trata de darle un nombre que recordarás fácilmente (puede ser un nombre que piensas que describe el documento) antes de guardarlo para que sea más fácil encontrarlo después."
+"You can save your document by clicking <gui>File</gui>, then <gui>Save</"
+"gui>. Remember to give your document a name that you will remember (usually "
+"something that describes what is in the document) before saving it to make "
+"it easier to find later."
+msgstr ""
+"Puedes guardar tu documento haciendo clic en <gui>Archivo</gui> y luego "
+"<gui>Guardar</gui>. Trata de darle un nombre que recordarás fácilmente "
+"(puede ser un nombre que piensas que describe el documento) antes de "
+"guardarlo para que sea más fácil encontrarlo después."
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:19
@@ -806,26 +1034,40 @@ msgid ""
 "watch them whenever you want. You can also watch videos from a USB memory "
 "stick, or you can download and watch videos from the internet if you have a "
 "connection."
-msgstr "Hemos puesto algunos videos en tu computadora para que puedas verlos. También puedes ver videos que has puesto en una memoria USB o videos descargados del internet."
+msgstr ""
+"Hemos puesto algunos videos en tu computadora para que puedas verlos. "
+"También puedes ver videos que has puesto en una memoria USB o videos "
+"descargados del internet."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:40
+#, fuzzy
 msgid ""
 "First, let's find the <gui>Videos</gui> folder. From the desktop, click on "
-"the <app>Documents</app> folder. Then, double click on the "
-"folder<gui>Videos</gui> folder. Double click on the <gui>Samples</gui> "
-"folder to open it. This is where we have added the pre-installed short "
-"videos. To open a video, simply double click on its name."
-msgstr "Vamos a buscar la carpeta de <gui>Videos</gui>. En el escritorio, haz clic sobre <gui>Documentos</gui>. Ahora, haz doble clic sobre la carpeta que se llama <gui>Videos</gui>. Encontrarás una carpeta que se llama <gui>Ejemplos</gui> y allí es donde hemos puesto los videos de muestra. Haz doble clic para abrirla. Para abrir un video, simplemente haz doble clic sobre su nombre."
+"the <app>Documents</app> folder. Then, double click on the <gui>Videos</gui> "
+"folder. Double click on the <gui>Samples</gui> folder to open it. This is "
+"where we have added the pre-installed short videos. To open a video, simply "
+"double click on its name."
+msgstr ""
+"Vamos a buscar la carpeta de <gui>Videos</gui>. En el escritorio, haz clic "
+"sobre <gui>Documentos</gui>. Ahora, haz doble clic sobre la carpeta que se "
+"llama <gui>Videos</gui>. Encontrarás una carpeta que se llama <gui>Ejemplos</"
+"gui> y allí es donde hemos puesto los videos de muestra. Haz doble clic para "
+"abrirla. Para abrir un video, simplemente haz doble clic sobre su nombre."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:46
 msgid ""
-"Once the video is playing, you can pause it by clicking on the button in the"
-" lower left corner of the video. To continue playing it,click on that same "
+"Once the video is playing, you can pause it by clicking on the button in the "
+"lower left corner of the video. To continue playing it, click on that same "
 "button. You can click on the grey square that appears on the bottom bar of "
 "the video and drag it to advance or rewind the video."
-msgstr "Una vez que el video este tocando, le puedes poner pausa haciendo clic en el botón en la esquina inferior izquierda del video. Para seguir tocándolo, haz clic en ese mismo botón. Puedes hacer clic en el cuadrado gris que aparece en la barra inferior del video y arrastrarlo para adelantar y atrasar el video."
+msgstr ""
+"Una vez que el video este tocando, le puedes poner pausa haciendo clic en el "
+"botón en la esquina inferior izquierda del video. Para seguir tocándolo, haz "
+"clic en ese mismo botón. Puedes hacer clic en el cuadrado gris que aparece "
+"en la barra inferior del video y arrastrarlo para adelantar y atrasar el "
+"video."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:51
@@ -836,14 +1078,23 @@ msgid ""
 "the top left-hand side of your keyboard. This key can also be used to quit "
 "games that take you into full-screen mode, or when any other video is in "
 "full-screen."
-msgstr "Si te gustaría ver el video en pantalla completa, simplemente haz clic en las flechas abajo del video a la derecha. Para reducir el tamaño del video y ver otras cosas en tu pantalla, tendrás que presionar la tecla <key>ESC</key>, que se encuentra en la parte superior izquierda de tu teclado. Esta tecla también sirve para salir de juegos que son de pantalla completa, o cuando cualquier otro videos esté en pantalla completa."
+msgstr ""
+"Si te gustaría ver el video en pantalla completa, simplemente haz clic en "
+"las flechas abajo del video a la derecha. Para reducir el tamaño del video y "
+"ver otras cosas en tu pantalla, tendrás que presionar la tecla <key>ESC</"
+"key>, que se encuentra en la parte superior izquierda de tu teclado. Esta "
+"tecla también sirve para salir de juegos que son de pantalla completa, o "
+"cuando cualquier otro videos esté en pantalla completa."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:57
 msgid ""
-"You can find the button to adjust volume on the lower right-hand side of the"
-" video player. Click and then drag the bar up and down to adjust the volume."
-msgstr "Puedes encontrar el botón para ajustar el volumen en la parte inferior derecha del tocador de videos. Haz clic y luego arrastra la barra para arriba y abajo para ajustar el volumen."
+"You can find the button to adjust volume on the lower right-hand side of the "
+"video player. Click and then drag the bar up and down to adjust the volume."
+msgstr ""
+"Puedes encontrar el botón para ajustar el volumen en la parte inferior "
+"derecha del tocador de videos. Haz clic y luego arrastra la barra para "
+"arriba y abajo para ajustar el volumen."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:60
@@ -852,7 +1103,11 @@ msgid ""
 "the video’s sound. If your computer is connected to a TV, then the TV’s "
 "speakers should work to play sound. If you still cannot hear anything, try "
 "turning up the volume on your computer or on your TV."
-msgstr "Recuerda conectar audífonos o altavoces para poder escuchar el sonido de tu video. Si tu computadora está conectada a una televisión, el sonido de la televisión debería funcionara para tocar el sonido. Si aún así no puedes escuchar nada, intenta subir el volumen de tu computadora o de tu televisión."
+msgstr ""
+"Recuerda conectar audífonos o altavoces para poder escuchar el sonido de tu "
+"video. Si tu computadora está conectada a una televisión, el sonido de la "
+"televisión debería funcionara para tocar el sonido. Si aún así no puedes "
+"escuchar nada, intenta subir el volumen de tu computadora o de tu televisión."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:65
@@ -888,16 +1143,24 @@ msgid ""
 "right on your desktop. Click once to open it and then choose a picture you "
 "want to edit. You can use one of the photos that comes with your computer, "
 "or a photo that you have taken and uploaded."
-msgstr "¡Es fácil editar tus fotos! Puedes encontrar el <app>Editor de fotos</app> en tu escritorio. Hazle clic una vez y encuentra la foto que quieras editar. Puedes usar una de las fotos que viene en tu computadora, o una foto que has tomado y descargado."
+msgstr ""
+"¡Es fácil editar tus fotos! Puedes encontrar el <app>Editor de fotos</app> "
+"en tu escritorio. Hazle clic una vez y encuentra la foto que quieras editar. "
+"Puedes usar una de las fotos que viene en tu computadora, o una foto que has "
+"tomado y descargado."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:40
 msgid ""
-"Click <gui>Open Image</gui> to begin. To view the photos that are already on"
-" your computer, double click on the <gui>Samples</gui> folder. You can click"
-" once on a photo’s name to view it in a preview, and can double click on the"
-" picture you want to open and edit it."
-msgstr "Haz clic en <gui>Abrir imagen</gui> para empezar. Para ver las fotos que ya están en tu computadora, haz doble clic en la carpeta de <gui>Ejemplos</gui>. Puedes hacer un clic en el nombre de la foto para ver su vista previa, y hacer doble clic en la foto que quieras abrir y editar."
+"Click <gui>Open Image</gui> to begin. To view the photos that are already on "
+"your computer, double click on the <gui>Samples</gui> folder. You can click "
+"once on a photo’s name to view it in a preview, and can double click on the "
+"picture you want to open and edit it."
+msgstr ""
+"Haz clic en <gui>Abrir imagen</gui> para empezar. Para ver las fotos que ya "
+"están en tu computadora, haz doble clic en la carpeta de <gui>Ejemplos</"
+"gui>. Puedes hacer un clic en el nombre de la foto para ver su vista previa, "
+"y hacer doble clic en la foto que quieras abrir y editar."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:45
@@ -905,7 +1168,10 @@ msgid ""
 "Once you have a photo open, you can edit it in many fun ways. For example, "
 "you can rotate, cut or change it until you find a look that you really like "
 "for it."
-msgstr "Una vez que tengas la fotografía abierta, puedes modificarla de muchas maneras divertidas. Por ejemplo, la puedes girar, cortar o cambiar hasta que encuentres la apariencia que te guste más."
+msgstr ""
+"Una vez que tengas la fotografía abierta, puedes modificarla de muchas "
+"maneras divertidas. Por ejemplo, la puedes girar, cortar o cambiar hasta que "
+"encuentres la apariencia que te guste más."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:49
@@ -913,7 +1179,10 @@ msgid ""
 "We have included many filters to give you more options to create your "
 "perfect image. There are even options to distort the photo and make it look "
 "funny."
-msgstr "Hemos incluido muchos filtros para darte más opciones para crear tu fotografía perfecta. Incluso, hay opciones para distorsionar la foto y hacerla ver chistosa."
+msgstr ""
+"Hemos incluido muchos filtros para darte más opciones para crear tu "
+"fotografía perfecta. Incluso, hay opciones para distorsionar la foto y "
+"hacerla ver chistosa."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:52
@@ -921,39 +1190,55 @@ msgid ""
 "Add a frame to your masterpiece if you’d like, and when you are finished "
 "editing the photo you can save it, post it to Facebook, or use it as your "
 "wallpaper!"
-msgstr "¡Ponle un marco a tu obra maestra si quieres, y cuando termines de editar la foto puedes guardarla, publicarla a Facebook o usarla como fondo de escritorio!"
+msgstr ""
+"¡Ponle un marco a tu obra maestra si quieres, y cuando termines de editar la "
+"foto puedes guardarla, publicarla a Facebook o usarla como fondo de "
+"escritorio!"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:56
 msgid ""
 "Make sure you also check out the <app>Music</app> on your desktop. Open to "
-"see a bunch of songs we have already added. You can of course add more songs"
-" by transferring them from a USB or downloading them."
-msgstr "Asegúrate de también ver el programa <app>Música</app> en tu escritorio. Abrelo para ver varias canciones que ya hemos agregado. Puedes por supuesto agregar más canciones por medio de una memoria USB o descargándolos."
+"see a bunch of songs we have already added. You can of course add more songs "
+"by transferring them from a USB or downloading them."
+msgstr ""
+"Asegúrate de también ver el programa <app>Música</app> en tu escritorio. "
+"Abrelo para ver varias canciones que ya hemos agregado. Puedes por supuesto "
+"agregar más canciones por medio de una memoria USB o descargándolos."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:60
 msgid ""
 "To hear a song, double click on it. You can pause it by clicking on the "
-"button on the top left-hand side, and continue playing it by re-clicking the"
-" same button."
-msgstr "Para escuchar una canción, puedes hacerle doble clic. Puedes ponerle pausa haciendo clic en el botón en la parte superior izquierda, y continuar tocándola haciendo clic en el mismo botón."
+"button on the top left-hand side, and continue playing it by re-clicking the "
+"same button."
+msgstr ""
+"Para escuchar una canción, puedes hacerle doble clic. Puedes ponerle pausa "
+"haciendo clic en el botón en la parte superior izquierda, y continuar "
+"tocándola haciendo clic en el mismo botón."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:64
 msgid ""
 "You can also skip to the next song or replay a previous song with the arrow "
-"buttons, and can even choose to repeat the song over and over again. You can"
-" play all of the songs in your playlists in order or shuffle the songs and "
+"buttons, and can even choose to repeat the song over and over again. You can "
+"play all of the songs in your playlists in order or shuffle the songs and "
 "play them out of order."
-msgstr "También puedes pasar a la próxima canción y volver a tocar una canción con los botones de flechas, y hasta seleccionar que la misma canción se repita una y otra vez.  Puedes tocar todas las canciones en tu lista de reproducción en orden o mezclarlas y tocarlas fuera de orden."
+msgstr ""
+"También puedes pasar a la próxima canción y volver a tocar una canción con "
+"los botones de flechas, y hasta seleccionar que la misma canción se repita "
+"una y otra vez.  Puedes tocar todas las canciones en tu lista de "
+"reproducción en orden o mezclarlas y tocarlas fuera de orden."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:69
 msgid ""
-"You can find the area to adjust volume on the top right-hand side. Click and"
-" drag the circle button to the left or right to adjust the volume."
-msgstr "Puedes encontrar la área para ajustar el volumen en la parte superior derecha. Haz clic y arrastra el botón de forma circulo a la izquierda o derecha para ajustar el volumen."
+"You can find the area to adjust volume on the top right-hand side. Click and "
+"drag the circle button to the left or right to adjust the volume."
+msgstr ""
+"Puedes encontrar la área para ajustar el volumen en la parte superior "
+"derecha. Haz clic y arrastra el botón de forma circulo a la izquierda o "
+"derecha para ajustar el volumen."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:72
@@ -961,7 +1246,11 @@ msgid ""
 "Remember, to hear audio, you have to connect headphones or speakers to your "
 "computer. If you have your computer connected to a TV and still cannot hear "
 "the audio, try turning up the volume of your computer or of your TV."
-msgstr "Recuerda, para escuchar sonido, tienes que conectar audífonos o altavoces a tu computadora. Si tienes tu computadora conectada a una televisión y aún así no puedes escuchar sonido, intenta subir el volumen de tu computadora o de tu televisión."
+msgstr ""
+"Recuerda, para escuchar sonido, tienes que conectar audífonos o altavoces a "
+"tu computadora. Si tienes tu computadora conectada a una televisión y aún "
+"así no puedes escuchar sonido, intenta subir el volumen de tu computadora o "
+"de tu televisión."
 
 #. (itstool) path: info/title
 #: C/endless-12-social-bar.page:19
@@ -989,7 +1278,8 @@ msgstr "Usando Facebook"
 #: C/endless-12-social-bar.page:35
 msgid ""
 "If you have internet, there are two simple ways to access <em>Facebook</em>."
-msgstr "Si tienes internet, hay dos maneras simples para acceder a <em>Facebook</em>."
+msgstr ""
+"Si tienes internet, hay dos maneras simples para acceder a <em>Facebook</em>."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:38
@@ -997,7 +1287,11 @@ msgid ""
 "The first is opening the browser and entering <em>facebook.com</em> at the "
 "top, then entering your name and password in the login part of the site as "
 "you may already be used to doing."
-msgstr "La primera, es abriendo el navegador y escribiendo <em>Facebook.com</em> en la parte superior de tu pantalla, luego escribiendo tu nombre de usuario y contraseña en la parte del sitio web para iniciar sesión, como tal vez ya estés familiarizado."
+msgstr ""
+"La primera, es abriendo el navegador y escribiendo <em>Facebook.com</em> en "
+"la parte superior de tu pantalla, luego escribiendo tu nombre de usuario y "
+"contraseña en la parte del sitio web para iniciar sesión, como tal vez ya "
+"estés familiarizado."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:42
@@ -1006,17 +1300,28 @@ msgid ""
 "right-hand corner of your screen. By clicking on it, you will see a window "
 "that appears on the right side of the screen. Enter your email and password "
 "and start using Facebook immediately!"
-msgstr "La otra manera, es usando el botón de <em>Facebook</em> que se encuentra en la esquina inferior derecha de tu pantalla. Al hacerle clic, verás una ventana que aparecerá en el lado derecho de tu pantalla. ¡Escribe tu dirección de correo electrónico y contraseña para inmediatamente empezar a usar Facebook!"
+msgstr ""
+"La otra manera, es usando el botón de <em>Facebook</em> que se encuentra en "
+"la esquina inferior derecha de tu pantalla. Al hacerle clic, verás una "
+"ventana que aparecerá en el lado derecho de tu pantalla. ¡Escribe tu "
+"dirección de correo electrónico y contraseña para inmediatamente empezar a "
+"usar Facebook!"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:47
 msgid ""
 "If you access <em>Facebook</em> this second way, you'll have very easy "
-"access to <em>Facebook</em> while using other programs. For example, you can"
-" be using the <app>Writer</app> app, and while you are working on a "
-"document, you can check <em>Facebook</em> quickly during breaks, and you can"
-" even continue a conversation without having to switch programs to do so."
-msgstr "Si entras a <em>Facebook</em> de ésta segunda manera, tendrás acceso muy fácil a <em>Facebook</em> mientras que uses otros programas. Por ejemplo, puedes estar usando el programa <app>Escritor</app>, y mientras que estés trabajando en un documento, puedes revisar <em>Facebook</em> durante tus descansos, o incluso tener una conversación sin tener que cambiar entre programas."
+"access to <em>Facebook</em> while using other programs. For example, you can "
+"be using the <app>Writer</app> app, and while you are working on a document, "
+"you can check <em>Facebook</em> quickly during breaks, and you can even "
+"continue a conversation without having to switch programs to do so."
+msgstr ""
+"Si entras a <em>Facebook</em> de ésta segunda manera, tendrás acceso muy "
+"fácil a <em>Facebook</em> mientras que uses otros programas. Por ejemplo, "
+"puedes estar usando el programa <app>Escritor</app>, y mientras que estés "
+"trabajando en un documento, puedes revisar <em>Facebook</em> durante tus "
+"descansos, o incluso tener una conversación sin tener que cambiar entre "
+"programas."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:53
@@ -1024,7 +1329,10 @@ msgid ""
 "If you use this second method, be sure to logout of your Facebook account "
 "before you stop using the computer, otherwise, someone else may be able to "
 "access your Facebook account."
-msgstr "Si usas éste método, asegúrate de cerrar tu cuenta de Facebook antes de dejar de usar la computadora, porque si no, alguien más podrá entrar a tu cuenta de Facebook."
+msgstr ""
+"Si usas éste método, asegúrate de cerrar tu cuenta de Facebook antes de "
+"dejar de usar la computadora, porque si no, alguien más podrá entrar a tu "
+"cuenta de Facebook."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:57
@@ -1032,7 +1340,11 @@ msgid ""
 "To logout of <em>Facebook</em>, make sure you are in the <em>Facebook</em> "
 "window, click on the menu button on the top left-hand side, scroll to the "
 "bottom of the window, and click on the <em>logout</em> button."
-msgstr "Para salir de <em>Facebook</em>, asegúrate de que estés en la ventana de <em>Facebook</em>, haz clic en el botón de menú en la parte superior izquierda, desplázate hasta el final de la ventana y haz clic en el botón de <em>cerrar sesión</em>."
+msgstr ""
+"Para salir de <em>Facebook</em>, asegúrate de que estés en la ventana de "
+"<em>Facebook</em>, haz clic en el botón de menú en la parte superior "
+"izquierda, desplázate hasta el final de la ventana y haz clic en el botón de "
+"<em>cerrar sesión</em>."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:61
@@ -1066,42 +1378,57 @@ msgstr "Configurando una impresora"
 msgid ""
 "Click the <em>User Menu</em> button on the bottom left-hand corner of the "
 "screen, then select <gui>Settings</gui>."
-msgstr "Haz clic en el botón del <em>Menú de usuario</em> en la esquina inferior izquierda de la pantalla, luego selecciona <gui>Configuración</gui>."
+msgstr ""
+"Haz clic en el botón del <em>Menú de usuario</em> en la esquina inferior "
+"izquierda de la pantalla, luego selecciona <gui>Configuración</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:28
 msgid ""
-"In the window that appears, click <gui>Printers</gui>. To continue, you must"
-" unlock this window by clicking on the button that says <gui>Unlock</gui> in"
-" the upper right-hand corner. Enter your password and click "
+"In the window that appears, click <gui>Printers</gui>. To continue, you must "
+"unlock this window by clicking on the button that says <gui>Unlock</gui> in "
+"the upper right-hand corner. Enter your password and click "
 "<gui>Authenticate</gui> to finish unlocking the window."
-msgstr "En la ventana que aparece, haz clic en <gui>Impresoras</gui>. Para continuar, tienes que desbloquear esta ventana, haciendo clic en el botón que dice <gui>Desbloquear</gui> en la esquina superior derecha. Introduce tu contraseña de usuario y haz clic en <gui>Autenticar</gui> para terminar de desbloquear la ventana."
+msgstr ""
+"En la ventana que aparece, haz clic en <gui>Impresoras</gui>. Para "
+"continuar, tienes que desbloquear esta ventana, haciendo clic en el botón "
+"que dice <gui>Desbloquear</gui> en la esquina superior derecha. Introduce tu "
+"contraseña de usuario y haz clic en <gui>Autenticar</gui> para terminar de "
+"desbloquear la ventana."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:33
 msgid ""
 "Click the <key>+</key> symbol in the lower left-hand corner of this window."
-msgstr "Haz clic en el símbolo <key>+</key> en la esquina inferior izquierda de esta ventana."
+msgstr ""
+"Haz clic en el símbolo <key>+</key> en la esquina inferior izquierda de esta "
+"ventana."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:36
 msgid ""
 "Select your printer from the list that appears, and click <gui>Add</gui>."
-msgstr "Selecciona tu impresora de la lista que aparece, y haz clic en <gui>Agregar</gui>."
+msgstr ""
+"Selecciona tu impresora de la lista que aparece, y haz clic en <gui>Agregar</"
+"gui>."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:38
 msgid ""
-"You will see the name of your printer appear. If you want to check that your"
-" printer is configured correctly, click the button that says "
-"<gui>Print</gui> to print a sample page."
-msgstr "Verás que el nombre de tu impresora aparece. Si quieres comprobar que tu impresora se configuró correctamente, haz clic en el botón que dice <gui>Imprimir</gui> para imprimir una hoja de ejemplo."
+"You will see the name of your printer appear. If you want to check that your "
+"printer is configured correctly, click the button that says <gui>Print</gui> "
+"to print a sample page."
+msgstr ""
+"Verás que el nombre de tu impresora aparece. Si quieres comprobar que tu "
+"impresora se configuró correctamente, haz clic en el botón que dice "
+"<gui>Imprimir</gui> para imprimir una hoja de ejemplo."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:42
 msgid ""
 "You can now close this window and begin to use your printer with Endless!"
-msgstr "¡Ahora puedes cerrar esta ventana y empezar a usar tu impresora con Endless!"
+msgstr ""
+"¡Ahora puedes cerrar esta ventana y empezar a usar tu impresora con Endless!"
 
 #. (itstool) path: info/desc
 #: C/endless-videos.page:9
@@ -1370,48 +1697,66 @@ msgstr "Navegar por internet"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:27
+#, fuzzy
 msgid ""
-"Your computer comes with a pre-installed <gui>Internet application</gui> "
-"icon on your desktop. You can browse the internet by clicking on this "
-"desktop icon once."
-msgstr "Tu computadora viene con el ícono de un <gui>programa de internet</gui> preinstalado en tu escritorio. Puedes navegar por internet haciendo clic una vez en este ícono en tu escritorio."
+"Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
+"your desktop. You can browse the internet by clicking on this desktop icon "
+"once."
+msgstr ""
+"Tu computadora viene con el ícono de un <gui>programa de internet</gui> "
+"preinstalado en tu escritorio. Puedes navegar por internet haciendo clic una "
+"vez en este ícono en tu escritorio."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:33
+#, fuzzy
 msgid ""
-"You can also open this application by moving your mouse pointer to the "
+"You can also open this app by moving your mouse pointer to the "
 "<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
 "clicking once."
-msgstr "También puedes abrir este programa moviendo el cursor de tu ratón hacia el ícono con la esfera anaranjada del programa de <gui>Internet</gui> al lado izquierdo en la barra de menú y haciendo clic una vez sobre él."
+msgstr ""
+"También puedes abrir este programa moviendo el cursor de tu ratón hacia el "
+"ícono con la esfera anaranjada del programa de <gui>Internet</gui> al lado "
+"izquierdo en la barra de menú y haciendo clic una vez sobre él."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:39
 msgid "Click the address bar at the top of the browser window. Start typing!"
-msgstr "Haz clic en la barra de direcciones en la parte superior de la ventana del navegador de internet. ¡Empieza a escribir!"
+msgstr ""
+"Haz clic en la barra de direcciones en la parte superior de la ventana del "
+"navegador de internet. ¡Empieza a escribir!"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:43
 msgid ""
 "You do not need to remember the exact address if you have already visited "
 "the website because it will be stored in your history and/or bookmarks."
-msgstr "No necesitas recordar la dirección exacta si ya has visitado la página de internet antes porque se guardará en tu historial y/o en tus marcadores."
+msgstr ""
+"No necesitas recordar la dirección exacta si ya has visitado la página de "
+"internet antes porque se guardará en tu historial y/o en tus marcadores."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:46
 msgid ""
 "If the website is found in the history or bookmarks, you will see a drop-"
 "down list appear below the address bar."
-msgstr "Si la página de internet se encuentra en el historial o en los marcadores, verás aparecer una lista de donde la puedes elegir, debajo de la barra de direcciones."
+msgstr ""
+"Si la página de internet se encuentra en el historial o en los marcadores, "
+"verás aparecer una lista de donde la puedes elegir, debajo de la barra de "
+"direcciones."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:49
 msgid "Select the website you are looking for using the arrow keys."
-msgstr "Selecciona la página de internet que buscas usando las teclas con flechas."
+msgstr ""
+"Selecciona la página de internet que buscas usando las teclas con flechas."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:52
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr "Después de haber seleccionado una página de internet, pulsa <key>Intro</key> en tu teclado para visitarla."
+msgstr ""
+"Después de haber seleccionado una página de internet, pulsa <key>Intro</key> "
+"en tu teclado para visitarla."
 
 #. (itstool) path: note/p
 #: C/gs-browse-web.page:58
@@ -1422,26 +1767,37 @@ msgid ""
 "your desktop. You will be shown the top results that are already on your "
 "Endless computer, and it will also ask if you want to search the internet. "
 "Click on the option to search the internet."
-msgstr "Puedes navegar en internet directamente desde tu escritorio usando la <link xref=\"gs-use-system-search\">barra de búsqueda global</link>. Primero, <gui>escribe directamente lo que estás buscando</gui> en la barra de búsqueda en tu escritorio. Se te mostrarán los resultados principales que ya están dentro de tu computadora Endless, y también te preguntará si quieres buscar en internet. Haz click en la opción de buscar en internet."
+msgstr ""
+"Puedes navegar en internet directamente desde tu escritorio usando la <link "
+"xref=\"gs-use-system-search\">barra de búsqueda global</link>. Primero, "
+"<gui>escribe directamente lo que estás buscando</gui> en la barra de "
+"búsqueda en tu escritorio. Se te mostrarán los resultados principales que ya "
+"están dentro de tu computadora Endless, y también te preguntará si quieres "
+"buscar en internet. Haz click en la opción de buscar en internet."
 
 #. (itstool) path: info/desc
 #: C/gs-fix-overscan.page:19
 msgid ""
 "Fix a problem where your TV is cutting off the top and bottom of the screen."
-msgstr "Soluciona un problema donde tu televisión está cortando la parte superior e inferior de la pantalla."
+msgstr ""
+"Soluciona un problema donde tu televisión está cortando la parte superior e "
+"inferior de la pantalla."
 
 #. (itstool) path: page/title
 #: C/gs-fix-overscan.page:22
-msgid "I can't see the taskbar or start menu, what do I do?"
+msgid "I can't see the task bar or start menu, what do I do?"
 msgstr "No puedo ver la barra de tareas o el menú de usuario, ¿qué hago?"
 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
 msgid ""
-"If you do not see the taskbar at the bottom of your screen with the user "
+"If you do not see the task bar at the bottom of your screen with the user "
 "menu on the left and the time and facebook icon on the right, you need to "
 "adjust your screen to fit your TV."
-msgstr "Si no ves la barra de tareas en la parte inferior de tu pantalla con el menú de usuario en la izquierda y el tiempo y el ícono de Facebook en la derecha, tendrás que ajustar la pantalla para caber en tu televisión."
+msgstr ""
+"Si no ves la barra de tareas en la parte inferior de tu pantalla con el menú "
+"de usuario en la izquierda y el tiempo y el ícono de Facebook en la derecha, "
+"tendrás que ajustar la pantalla para caber en tu televisión."
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:29
@@ -1450,13 +1806,18 @@ msgstr "Para ajustar tu pantalla:"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:32
-msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
-msgstr "Haz clic derecho en el escritorio y selecciona <gui>Cambiar el fondo...</gui>."
+msgid ""
+"Right click on the desktop and select <gui>\"Change Background...\"</gui>."
+msgstr ""
+"Haz clic derecho en el escritorio y selecciona <gui>Cambiar el fondo...</"
+"gui>."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:37
 msgid "Click the back button on the top left corner of the dialog box."
-msgstr "Haz clic en el botón de regresar en la esquina superior izquierda de la ventana."
+msgstr ""
+"Haz clic en el botón de regresar en la esquina superior izquierda de la "
+"ventana."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:41
@@ -1468,14 +1829,18 @@ msgstr "Selecciona el ícono de <gui>Pantallas</gui>."
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
-msgstr "Junto a la palabra <gui>Escala</gui> verás un cuadro que dice <gui>\"Ajustar la pantalla para TV\"</gui>. Haz clic en ese cuadro."
+msgstr ""
+"Junto a la palabra <gui>Escala</gui> verás un cuadro que dice <gui>\"Ajustar "
+"la pantalla para TV\"</gui>. Haz clic en ese cuadro."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:50
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
-msgstr "Ahora podrás ver una barra negra en la parte inferior de tu pantalla con el menú de usuario en la esquina inferior izquierda de tu pantalla."
+msgstr ""
+"Ahora podrás ver una barra negra en la parte inferior de tu pantalla con el "
+"menú de usuario en la esquina inferior izquierda de tu pantalla."
 
 #. (itstool) path: page/title
 #: C/gs-get-online.page:21
@@ -1487,7 +1852,9 @@ msgstr "¿Cómo puedo configurar mi internet?"
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
 "side of your screen will look like this <_:media-1/>."
-msgstr "Si no tienes conexión al internet, el ícono en la parte inferior derecha de tu pantalla se verá así <_:media-1/>."
+msgstr ""
+"Si no tienes conexión al internet, el ícono en la parte inferior derecha de "
+"tu pantalla se verá así <_:media-1/>."
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:27
@@ -1496,7 +1863,10 @@ msgid ""
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
-msgstr "Tu estado puede aparecer como desconectado por varias razones: por ejemplo, el cable de red ha sido desconectado, la computadora ha sido configurada al <em>modo avión</em> o no existen redes Wi-Fi disponibles en tu área."
+msgstr ""
+"Tu estado puede aparecer como desconectado por varias razones: por ejemplo, "
+"el cable de red ha sido desconectado, la computadora ha sido configurada al "
+"<em>modo avión</em> o no existen redes Wi-Fi disponibles en tu área."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:34
@@ -1509,21 +1879,29 @@ msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
-msgstr "Si quieres utilizar una conexión cableada, simplemente conecta un cable de red para conectarte al internet. El equipo intentará crear una conexión de red automáticamente."
+msgstr ""
+"Si quieres utilizar una conexión cableada, simplemente conecta un cable de "
+"red para conectarte al internet. El equipo intentará crear una conexión de "
+"red automáticamente."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:41 C/gs-get-online.page:76
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
-msgstr "Mientras el equipo te configura una conexión de red, el ícono de conexión de red muestra tres puntos."
+msgstr ""
+"Mientras el equipo te configura una conexión de red, el ícono de conexión de "
+"red muestra tres puntos."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to this <_:media-1/> networked computer symbol."
-msgstr "Una vez que haz correctamente configurado la conexión de red, el ícono de conexión de red cambia a este <_:media-1/> símbolo de una computadora conectada a la red."
+msgstr ""
+"Una vez que haz correctamente configurado la conexión de red, el ícono de "
+"conexión de red cambia a este <_:media-1/> símbolo de una computadora "
+"conectada a la red."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:56
@@ -1536,14 +1914,19 @@ msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
 "corner of your screen. You will see this icon <_:media-1/>. Click on it and "
 "a menu should appear."
-msgstr "¿Tu Wi-Fi está conectado? Busca el ícono de red en la esquina inferior derecha de tu pantalla. Verás este ícon <_:media-1/>. Hazle clic y un menú aparecerá."
+msgstr ""
+"¿Tu Wi-Fi está conectado? Busca el ícono de red en la esquina inferior "
+"derecha de tu pantalla. Verás este ícon <_:media-1/>. Hazle clic y un menú "
+"aparecerá."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:66
 msgid ""
 "Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi” to turn "
 "it on. Check to make sure it is now blue."
-msgstr "¿Está azul el botón de Wi-Fi ? Si no está azul, haz click sobre las palabras \"Wi-Fi\" para encenderlo. Revisa para asegurarte que ahora si esté azul."
+msgstr ""
+"¿Está azul el botón de Wi-Fi ? Si no está azul, haz click sobre las palabras "
+"\"Wi-Fi\" para encenderlo. Revisa para asegurarte que ahora si esté azul."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:70
@@ -1555,7 +1938,9 @@ msgstr "A continuación, selecciona tu red Wi-Fi de la lista."
 msgid ""
 "Enter your network password, which is usually different than the password "
 "you use to log in to your computer."
-msgstr "Escribe la contraseña de tu red. Suele ser distinta a la contraseña que utilizas para iniciar la sesión de tu computadora."
+msgstr ""
+"Escribe la contraseña de tu red. Suele ser distinta a la contraseña que "
+"utilizas para iniciar la sesión de tu computadora."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:88
@@ -1563,7 +1948,11 @@ msgid ""
 "If you don’t see your network in the list, try unplugging your Wi-Fi router "
 "then plugging it back in. If it still doesn’t work, you may need to contact "
 "your internet provider directly."
-msgstr "Si no ves el nombre de tu red en la lista, trata de desconectar y reiniciar tu router Wi-Fi. Si aún no funciona, puede ser que necesites llamarle directamente a la compañía que te provee el internet para averiguar que está sucediendo."
+msgstr ""
+"Si no ves el nombre de tu red en la lista, trata de desconectar y reiniciar "
+"tu router Wi-Fi. Si aún no funciona, puede ser que necesites llamarle "
+"directamente a la compañía que te provee el internet para averiguar que está "
+"sucediendo."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:93
@@ -1571,7 +1960,11 @@ msgid ""
 "Remember that your friends or neighbors may have the same default network "
 "name you do, and your computer may be picking up their network signal. If "
 "your password isn’t working, make sure you have selected the right network."
-msgstr "Recuerda que tus amigos o vecinos pueden tener el mismo nombre de red que tu tienes, y que tu computadora puede seleccionar la señal de la red de ellos por accidente. Si la contraseña de tu red no está funcionando, asegúrate que has seleccionado la red correcta."
+msgstr ""
+"Recuerda que tus amigos o vecinos pueden tener el mismo nombre de red que tu "
+"tienes, y que tu computadora puede seleccionar la señal de la red de ellos "
+"por accidente. Si la contraseña de tu red no está funcionando, asegúrate que "
+"has seleccionado la red correcta."
 
 #. (itstool) path: page/title
 #: C/gs-give-feedback.page:19
@@ -1583,7 +1976,9 @@ msgstr "¿Cómo puedo ayudar a mejorar Endless?"
 msgid ""
 "What do you love about Endless? Is there anything you would change? Do you "
 "have any ideas or suggestions for new apps to include?"
-msgstr "¿Qué te encanta de Endless? ¿Hay algo que te gustaría cambiar? ¿Tienes algunas ideas o sugerencias para nuevos programas para incluir?"
+msgstr ""
+"¿Qué te encanta de Endless? ¿Hay algo que te gustaría cambiar? ¿Tienes "
+"algunas ideas o sugerencias para nuevos programas para incluir?"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
@@ -1599,36 +1994,48 @@ msgstr "Aquí está como darnos tus comentarios:"
 #: C/gs-give-feedback.page:29
 msgid ""
 "Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr "Haz clic en el botón <_:media-1/> en la parte inferior derecha de tu pantalla."
+msgstr ""
+"Haz clic en el botón <_:media-1/> en la parte inferior derecha de tu "
+"pantalla."
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:35
 msgid ""
 "Click the <gui>Give Us Feedback</gui> option. You can also access the "
-"feedback section by opening your browser and clicking the "
-"<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
-msgstr "Haz clic en la opción <gui>Danos tu opinion</gui>. También puedes acceder a la sección de comentarios si abres tu navegador y haces clic en el botón <gui>Comentarios</gui> en la parte inferior izquierda del navegador."
+"feedback section by opening your browser and clicking the <gui>Feedback</"
+"gui> button on the bottom left-hand corner of the browser."
+msgstr ""
+"Haz clic en la opción <gui>Danos tu opinion</gui>. También puedes acceder a "
+"la sección de comentarios si abres tu navegador y haces clic en el botón "
+"<gui>Comentarios</gui> en la parte inferior izquierda del navegador."
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:42
 msgid ""
 "Enter in your comment, name and email address. You must fill in all three "
 "fields in order to submit your feedback."
-msgstr "Escribe tus comentarios, tu nombre y tu dirección de correo electrónico. Tienes que llenar las tres secciones para poder mandarnos tus comentarios."
+msgstr ""
+"Escribe tus comentarios, tu nombre y tu dirección de correo electrónico. "
+"Tienes que llenar las tres secciones para poder mandarnos tus comentarios."
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:47
 msgid ""
 "You will receive a confirmation email to let you know that we have received "
 "your feedback. We will try to get back to you as soon as we can."
-msgstr "Recibirás un mensaje de confirmación por correo electrónico para informarte que hemos recibido tus comentarios. Intentaremos responderte lo más pronto posible."
+msgstr ""
+"Recibirás un mensaje de confirmación por correo electrónico para informarte "
+"que hemos recibido tus comentarios. Intentaremos responderte lo más pronto "
+"posible."
 
 #. (itstool) path: note/p
 #: C/gs-give-feedback.page:54
 msgid ""
 "Please note that you will need an internet connection in order to submit "
 "your feedback."
-msgstr "Por favor toma en cuenta que necesitarás una conexión al internet para poder mandarnos tus comentarios."
+msgstr ""
+"Por favor toma en cuenta que necesitarás una conexión al internet para poder "
+"mandarnos tus comentarios."
 
 #. (itstool) path: Work/format
 #: C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293
@@ -2264,7 +2671,8 @@ msgstr "Usa tu computadora sin conexión al internet"
 #. (itstool) path: info/desc
 #: C/gs-use-offline.page:22
 msgid "Discover all the offline content on your computer."
-msgstr "Descubre todo el contenido en tu computadora que es accessible sin internet."
+msgstr ""
+"Descubre todo el contenido en tu computadora que es accessible sin internet."
 
 #. (itstool) path: page/title
 #: C/gs-use-offline.page:25
@@ -2276,25 +2684,34 @@ msgstr "¿Qué puedo hacer si no tengo internet?"
 msgid ""
 "Your computer comes with a lot of great offline content you can use even if "
 "you don't have an internet connection."
-msgstr "Tu computadora viene con un montón de contenido que no requiere una conexión al internet."
+msgstr ""
+"Tu computadora viene con un montón de contenido que no requiere una conexión "
+"al internet."
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:31
-msgid "Introducing the <app>App Store</app>"
+#, fuzzy
+msgid "Introducing the <app>App Center</app>"
 msgstr "Te presentamos la <app>Tienda de programas</app>"
 
 #. (itstool) path: section/p
 #: C/gs-use-offline.page:32
 msgid ""
-"The <app>App Store</app> is full of apps that are free and can be easily "
+"The <app>App Center</app> is full of apps that are free and can be easily "
 "added to your desktop. Most of the apps you'll find there have offline "
 "capability and you can browse by category to find just what you're looking "
 "for, or else just click around and explore."
-msgstr "El <app>Centro de programas</app> está lleno de programas que son gratis y que se pueden agregar fácilmente a tu escritorio. La mayoría de los programas que encontrarás allí no requieren una conexión al internet y se pueden buscar por categoría. Así podrás encontrar exactamente lo que estés buscando, o simplemente explorar todo lo que está disponible."
+msgstr ""
+"El <app>Centro de programas</app> está lleno de programas que son gratis y "
+"que se pueden agregar fácilmente a tu escritorio. La mayoría de los "
+"programas que encontrarás allí no requieren una conexión al internet y se "
+"pueden buscar por categoría. Así podrás encontrar exactamente lo que estés "
+"buscando, o simplemente explorar todo lo que está disponible."
 
 #. (itstool) path: steps/title
 #: C/gs-use-offline.page:37
-msgid "How to get to the <app>App Store</app>:"
+#, fuzzy
+msgid "How to get to the <app>App Center</app>:"
 msgstr "Cómo llegar a la <app>Tienda de programas</app>:"
 
 #. (itstool) path: item/p
@@ -2308,21 +2725,29 @@ msgid ""
 "Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
 "<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
 "section."
-msgstr "Haz clic en una categoría como <gui>Educación</gui>, <gui>Juegos</gui>, <gui>Recursos</gui> y <gui>Utilidades</gui>, para ver los programas en cada sección."
+msgstr ""
+"Haz clic en una categoría como <gui>Educación</gui>, <gui>Juegos</gui>, "
+"<gui>Recursos</gui> y <gui>Utilidades</gui>, para ver los programas en cada "
+"sección."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:49
 msgid ""
 "Click on an app to read more about it and either install it or add it to "
 "your desktop."
-msgstr "Haz clic en un programa para leer mas sobre él y instalarlo o agregarlo a tu escritorio."
+msgstr ""
+"Haz clic en un programa para leer mas sobre él y instalarlo o agregarlo a tu "
+"escritorio."
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:57
+#, fuzzy
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
-"<app>App Store</app>:"
-msgstr "Aquí hay algunos ejemplos del contenido que no requiere conexión al internet y que podrás encontrar en la <app>Tienda de programas</app>:"
+"<app>App Center</app>:"
+msgstr ""
+"Aquí hay algunos ejemplos del contenido que no requiere conexión al internet "
+"y que podrás encontrar en la <app>Tienda de programas</app>:"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:61
@@ -2334,7 +2759,10 @@ msgstr "Educación"
 msgid ""
 "<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
 "encyclopedia with all the power of the internet's best."
-msgstr "<app>Enciclopedia</app> - Busca para aprender acerca de casi cualquier cosa. Una enciclopedia que funciona sin internet con todo el poder de las mejores enciclopedias del internet."
+msgstr ""
+"<app>Enciclopedia</app> - Busca para aprender acerca de casi cualquier cosa. "
+"Una enciclopedia que funciona sin internet con todo el poder de las mejores "
+"enciclopedias del internet."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:67
@@ -2342,41 +2770,55 @@ msgid ""
 "<app>Virtual School</app> - Hundreds of videos to help you lean more about "
 "your favorite subjects, or to help you understand subjects that are "
 "difficult for you."
-msgstr "<app>Escuela Virtual</app> - Cientos de vídeos para ayudarte a aprender más sobre tus materias favoritas, o para ayudarte a entender materias que son difíciles para ti."
+msgstr ""
+"<app>Escuela Virtual</app> - Cientos de vídeos para ayudarte a aprender más "
+"sobre tus materias favoritas, o para ayudarte a entender materias que son "
+"difíciles para ti."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:72
 msgid ""
-"<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
-" help children of all ages develop their mental abilities."
-msgstr "<app>EduJuegos</app> - Ajedrez, rompecabezas y muchos más juegos y actividades para ayudar a los niños de todas las edades a desarrollar sus habilidades mentales."
+"<app>Edu Games</app> - Chess, puzzles, and many more games and activities to "
+"help children of all ages develop their mental abilities."
+msgstr ""
+"<app>EduJuegos</app> - Ajedrez, rompecabezas y muchos más juegos y "
+"actividades para ayudar a los niños de todas las edades a desarrollar sus "
+"habilidades mentales."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:77
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
-msgstr "<app>123 Tux</app> - Una manera divertida para que los niños practiquen las sumas, sustracción, multiplicación y más."
+msgstr ""
+"<app>123 Tux</app> - Una manera divertida para que los niños practiquen las "
+"sumas, sustracción, multiplicación y más."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:81
 msgid ""
-"<app>Tux Typing</app> - Learn how to type with this game that guides you and"
-" helps you practice so that you can type faster and more accurately."
-msgstr "<app>Teclea Tux</app> - Aprende a teclear con este juego te guiará y te ayudará a practicar para que puedas escribir más rápido y con mayor precisión."
+"<app>Tux Typing</app> - Learn how to type with this game that guides you and "
+"helps you practice so that you can type faster and more accurately."
+msgstr ""
+"<app>Teclea Tux</app> - Aprende a teclear con este juego te guiará y te "
+"ayudará a practicar para que puedas escribir más rápido y con mayor "
+"precisión."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:86
 msgid ""
 "<app>World Literature</app> - Read many of the world's greatest stories."
-msgstr "<app>Literatura</app> - Lee muchos de los cuentos más famosos del mundo."
+msgstr ""
+"<app>Literatura</app> - Lee muchos de los cuentos más famosos del mundo."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:90
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
-msgstr "<app>Animales</app> - ¡Aprende más acerca de tus animales favoritos y acerca de los animales que ni siquiera sabías que existían!"
+msgstr ""
+"<app>Animales</app> - ¡Aprende más acerca de tus animales favoritos y acerca "
+"de los animales que ni siquiera sabías que existían!"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:96
@@ -2388,41 +2830,53 @@ msgstr "Juegos"
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
-msgstr "<app>Tux Kart</app> - Juega contra tu computadora o contra tus amigos. ¡Gana superpoderes y evita las trampas para terminar en primero lugar!"
+msgstr ""
+"<app>Tux Kart</app> - Juega contra tu computadora o contra tus amigos. ¡Gana "
+"superpoderes y evita las trampas para terminar en primero lugar!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:102
-msgid ""
-"<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
-msgstr "<app>Cara de papa</app> - Crea un rostro y carácter para tu Señor o Señora de papa."
+msgid "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
+msgstr ""
+"<app>Cara de papa</app> - Crea un rostro y carácter para tu Señor o Señora "
+"de papa."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:106
 msgid ""
-"<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
-" you get to the next level."
-msgstr "<app>Física Numpty</app> - Dibuja objetos y usa las leyes de la física para ayudarte a llegar al siguiente nivel."
+"<app>Numpty Physics</app> - Draw objects and use the laws of physics to help "
+"you get to the next level."
+msgstr ""
+"<app>Física Numpty</app> - Dibuja objetos y usa las leyes de la física para "
+"ayudarte a llegar al siguiente nivel."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:110
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
-msgstr "<app>X-Moto</app> - Trata de mover tu motocicleta alrededor de objetos y hacia el final del curso tan rápido como puedas para ganar."
+msgstr ""
+"<app>X-Moto</app> - Trata de mover tu motocicleta alrededor de objetos y "
+"hacia el final del curso tan rápido como puedas para ganar."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:114
 msgid ""
-"<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
-" that you don't blow up. This strategy game is addictive."
-msgstr "<app>Minetest</app> - Evita las áreas que tienen minas enterradas para que no se exploten. ¡Este juego de estrategia es adictivo!"
+"<app>Minetest</app> - Avoid the areas that have mines buried beneath them so "
+"that you don't blow up. This strategy game is addictive."
+msgstr ""
+"<app>Minetest</app> - Evita las áreas que tienen minas enterradas para que "
+"no se exploten. ¡Este juego de estrategia es adictivo!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:118
 msgid ""
-"<app>Blockout2</app> - A tetris-like game where you need to match the colors"
-" as best you can before the screen fills up and you lose."
-msgstr "<app>Blockout2</app> - Parecido a Tetris, este es un juego en donde tienes que poner a los bloques de colores parecidos juntos para hacerlos desaparecer y ganar. Si se te llena tu pantalla de bloques pierdes."
+"<app>Blockout2</app> - A tetris-like game where you need to match the colors "
+"as best you can before the screen fills up and you lose."
+msgstr ""
+"<app>Blockout2</app> - Parecido a Tetris, este es un juego en donde tienes "
+"que poner a los bloques de colores parecidos juntos para hacerlos "
+"desaparecer y ganar. Si se te llena tu pantalla de bloques pierdes."
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:124
@@ -2434,14 +2888,18 @@ msgstr "Recursos"
 msgid ""
 "<app>Writer</app> - Write papers for school, work or for anything else you "
 "need. Compatible with Microsoft's Word."
-msgstr "<app>Escritor </app> - Escribe documentos para la escuela, el trabajo o para cualquier cosa que necesites. Compatible con Microsoft Word."
+msgstr ""
+"<app>Escritor </app> - Escribe documentos para la escuela, el trabajo o para "
+"cualquier cosa que necesites. Compatible con Microsoft Word."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:130
 msgid ""
 "<app>Presentation</app> - Create beautiful presentations! Compatible with "
 "Microsoft's Powerpoint."
-msgstr "<app>Presentaciones</app> - ¡Crea presentaciones hermosas! Compatible con Powerpoint de Microsoft."
+msgstr ""
+"<app>Presentaciones</app> - ¡Crea presentaciones hermosas! Compatible con "
+"Powerpoint de Microsoft."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:134
@@ -2449,27 +2907,36 @@ msgid ""
 "<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
 "yourself in ways you never thought possible with this powerful spreadsheet "
 "app. Compatible with Microsoft's Excel."
-msgstr "<app>Hoja de cálculo</app> - Haz cálculos simples o complejos, o organízate en formas que nunca creíste posible con este programa potente de hoja de cálculo. Este programa es compatible con Microsoft Excel."
+msgstr ""
+"<app>Hoja de cálculo</app> - Haz cálculos simples o complejos, o organízate "
+"en formas que nunca creíste posible con este programa potente de hoja de "
+"cálculo. Este programa es compatible con Microsoft Excel."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:139
 msgid ""
 "<app>Resume</app> - Learn how to make a great resume to help you find your "
 "ideal job."
-msgstr "<app>Currículum </app> - Aprende a hacer un gran curriculum vitae para ayudarte a encontrar tu trabajo ideal."
+msgstr ""
+"<app>Currículum </app> - Aprende a hacer un gran curriculum vitae para "
+"ayudarte a encontrar tu trabajo ideal."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:143
 msgid ""
 "<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
 "yourself and your family healthy."
-msgstr "<app>Salud</app> - Busca acerca de enfermedades, tratamientos, y aprende cómo mantenerte a ti y a tu familia saludable."
+msgstr ""
+"<app>Salud</app> - Busca acerca de enfermedades, tratamientos, y aprende "
+"cómo mantenerte a ti y a tu familia saludable."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:147
 msgid ""
 "<app>How To</app> - Learn how to do just about anything with this handy app."
-msgstr "<app>Cómo Se Hace</app> - Aprende a hacer casi cualquier cosa con este útil programa."
+msgstr ""
+"<app>Cómo Se Hace</app> - Aprende a hacer casi cualquier cosa con este útil "
+"programa."
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:153
@@ -2479,9 +2946,11 @@ msgstr "Entretenimiento"
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:155
 msgid ""
-"<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
-" webcam, not included with Endless."
-msgstr "<app>Sonrisas</app> - ¡Tomate fotos chistosas con amigos y con tu familia! *Requiere una cámara web, que no se incluye con Endless."
+"<app>Cheese</app> - Take funny pictures with friends and family! *Requires a "
+"webcam, not included with Endless."
+msgstr ""
+"<app>Sonrisas</app> - ¡Tomate fotos chistosas con amigos y con tu familia! "
+"*Requiere una cámara web, que no se incluye con Endless."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:159
@@ -2489,28 +2958,38 @@ msgid ""
 "<app>Videos</app> - Watch some of the pre-installed videos that come with "
 "Endless, or transfer videos from a USB or DVD and watch them on this great "
 "and easy-to use media player."
-msgstr "<app>Videos</app> - Hemos cargado tu computadora con algunos videos cortos que puedes ver. También puedes transferir vídeos que tienes desde un USB o un DVD y verlos con este programa."
+msgstr ""
+"<app>Videos</app> - Hemos cargado tu computadora con algunos videos cortos "
+"que puedes ver. También puedes transferir vídeos que tienes desde un USB o "
+"un DVD y verlos con este programa."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:164
 msgid ""
 "<app>Myths and Legends</app> - Read about myths and legends from all over "
 "the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr "<app>Mitos y leyendas</app> - Lee mitos y leyendas de todo el mundo. ¡Encontrarás leyendas como la de la Llorona, Big Foot, y muchos, muchos más!"
+msgstr ""
+"<app>Mitos y leyendas</app> - Lee mitos y leyendas de todo el mundo. "
+"¡Encontrarás leyendas como la de la Llorona, Big Foot, y muchos, muchos más!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:169
 msgid ""
 "<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
 "stars, and other celebrities"
-msgstr "<app>Celebridades</app> - ¡Aprende todo acerca de tus estrellas favoritas de deportes, estrellas de cine y muchos más!"
+msgstr ""
+"<app>Celebridades</app> - ¡Aprende todo acerca de tus estrellas favoritas de "
+"deportes, estrellas de cine y muchos más!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:173
 msgid ""
 "<app>Travel</app> - Read about places around the world and see beautiful "
 "pictures that will make you feel like you're actually there!"
-msgstr "<app>¡Explora!</app> - ¡Lee acerca de lugares del mundo que nunca has visitado y encuentra bellas imágenes que te harán sentir como si estuvieras realmente allí!"
+msgstr ""
+"<app>¡Explora!</app> - ¡Lee acerca de lugares del mundo que nunca has "
+"visitado y encuentra bellas imágenes que te harán sentir como si estuvieras "
+"realmente allí!"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:180
@@ -2520,9 +2999,11 @@ msgstr "Utilidades"
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:182
 msgid ""
-"<app>Notes</app> - A handy app to help you jot down things you don't want to"
-" forget!"
-msgstr "<app>Notas</app> - Un programa simple y útil para ayudarte a anotar las cosas que no quieres olvidar."
+"<app>Notes</app> - A handy app to help you jot down things you don't want to "
+"forget!"
+msgstr ""
+"<app>Notas</app> - Un programa simple y útil para ayudarte a anotar las "
+"cosas que no quieres olvidar."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:186
@@ -2530,28 +3011,36 @@ msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
 "something of your own!"
-msgstr "<app> Editor de videos</app> - toma vídeo con tu teléfono y luego usa este programa para crear una obra de arte, o simplemente toma clips de vídeo existentes y crea algo nuevo. "
+msgstr ""
+"<app> Editor de videos</app> - toma vídeo con tu teléfono y luego usa este "
+"programa para crear una obra de arte, o simplemente toma clips de vídeo "
+"existentes y crea algo nuevo. "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:191
 msgid ""
-"<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
-" and more, to make them even more awesome!"
-msgstr "<app>Editor de fotos</app> - ¡Ponles filtros y bordes a las fotos que tomas, recortarlas, y más, para que sean aún más impresionantes!"
+"<app>Photo Editor</app> - Add filters and borders to your photos, crop them, "
+"and more, to make them even more awesome!"
+msgstr ""
+"<app>Editor de fotos</app> - ¡Ponles filtros y bordes a las fotos que tomas, "
+"recortarlas, y más, para que sean aún más impresionantes!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:195
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
-msgstr "<app>Editor de audio</app> - Corta, mezcla y crea ritmos y canciones que harán a todos tus amigos y familiares querer empezar a bailar."
+msgstr ""
+"<app>Editor de audio</app> - Corta, mezcla y crea ritmos y canciones que "
+"harán a todos tus amigos y familiares querer empezar a bailar."
 
 #. (itstool) path: info/desc
 #: C/gs-use-system-search.page:19
 msgid ""
 "Search for things on your computer and on the internet right from your "
 "desktop!"
-msgstr "¡Busca por cosas en tu computadora y en el internet desde tu escritorio!"
+msgstr ""
+"¡Busca por cosas en tu computadora y en el internet desde tu escritorio!"
 
 #. (itstool) path: page/title
 #: C/gs-use-system-search.page:23
@@ -2562,39 +3051,55 @@ msgstr "Usar la búsqueda global"
 #: C/gs-use-system-search.page:25
 msgid ""
 "The global search bar makes search easy! You can look for apps, documents, "
-"photos and more, right from your desktop. If you have an internet conection,"
-" you can even look for things that are on the internet, like you would on "
+"photos and more, right from your desktop. If you have an internet conection, "
+"you can even look for things that are on the internet, like you would on "
 "google, with the global search tool."
-msgstr "La barra de búsqueda global te ayuda a buscar cosas fácilmente! Puedes buscar programas, documentos, fotos y más - todo directamente desde tu escritorio. Si tienes una conexión a internet, incluso puedes buscar cosas que estén en el internet con la misma barra de búsqueda global, como lo harías en google."
+msgstr ""
+"La barra de búsqueda global te ayuda a buscar cosas fácilmente! Puedes "
+"buscar programas, documentos, fotos y más - todo directamente desde tu "
+"escritorio. Si tienes una conexión a internet, incluso puedes buscar cosas "
+"que estén en el internet con la misma barra de búsqueda global, como lo "
+"harías en google."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
+#, fuzzy
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at bottom of "
+"From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr "Desde el escritorio, haz click en la <app>barra de búsqueda global</app> en la parte inferior de tu pantalla que dice <gui>Escribe aquí para buscar...</gui>. Empieza a escribir para buscar algo."
+msgstr ""
+"Desde el escritorio, haz click en la <app>barra de búsqueda global</app> en "
+"la parte inferior de tu pantalla que dice <gui>Escribe aquí para buscar...</"
+"gui>. Empieza a escribir para buscar algo."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
-msgstr "Los resultados que coincidan con lo que estas escribiendo aparecerán. El primer resultado siempre se resalta y se muestra en la parte superior."
+msgstr ""
+"Los resultados que coincidan con lo que estas escribiendo aparecerán. El "
+"primer resultado siempre se resalta y se muestra en la parte superior."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40
 msgid "Press <key>Enter</key> to choose the first highlighted result."
-msgstr "Presiona la tecla <key>Intro</key> en tu teclado para elegir el resultado que está resaltado."
+msgstr ""
+"Presiona la tecla <key>Intro</key> en tu teclado para elegir el resultado "
+"que está resaltado."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:44 C/gs-where-files.page:40
 msgid "Items that may appear in the search results include:"
-msgstr "Los elementos que pueden aparecer en los resultados de búsqueda incluyen:"
+msgstr ""
+"Los elementos que pueden aparecer en los resultados de búsqueda incluyen:"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:46 C/gs-where-files.page:42
 msgid "matching applications, shown at the top of the search results,"
-msgstr "programas que coincidan con las palabras que has escrito, mostradas en la parte superior de los resultados de búsqueda"
+msgstr ""
+"programas que coincidan con las palabras que has escrito, mostradas en la "
+"parte superior de los resultados de búsqueda"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:48 C/gs-where-files.page:44
@@ -2614,9 +3119,11 @@ msgstr "En los resultados de la búsqueda, haz clic en lo que quieras abrir."
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:55 C/gs-where-files.page:50
 msgid ""
-"Alternatively, highlight an item using the arrow keys and press "
-"<key>Enter</key>."
-msgstr "También puedes seleccionar algo utilizando las teclas de flecha y presionando la tecla <key>Intro</key>."
+"Alternatively, highlight an item using the arrow keys and press <key>Enter</"
+"key>."
+msgstr ""
+"También puedes seleccionar algo utilizando las teclas de flecha y "
+"presionando la tecla <key>Intro</key>."
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
@@ -2674,9 +3181,11 @@ msgstr "¿Dónde están mis documentos y archivos?"
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
-"When you store files to your computer, they are automatically stored in your"
-" <app>Documents</app> folder on your desktop."
-msgstr "Cuando guardas archivos en tu computadora, se guardan automáticamente en la carpeta llamada <app>Documentos</app> en tu escritorio."
+"When you store files to your computer, they are automatically stored in your "
+"<app>Documents</app> folder on your desktop."
+msgstr ""
+"Cuando guardas archivos en tu computadora, se guardan automáticamente en la "
+"carpeta llamada <app>Documentos</app> en tu escritorio."
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:24
@@ -2693,15 +3202,21 @@ msgstr "Si sabes cuál es el nombre de tu archivo"
 msgid ""
 "If you know the name of your file, then you can easily search for it right "
 "from the desktop."
-msgstr "Si sabes cuál es el nombre de tu archivo, puedes fácilmente buscarlo desde el escritorio."
+msgstr ""
+"Si sabes cuál es el nombre de tu archivo, puedes fácilmente buscarlo desde "
+"el escritorio."
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:33
+#, fuzzy
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at bottom of "
-"your screen that says <gui>Type to search...</gui>. Start typing the name of"
-" the file you are looking for."
-msgstr "Desde el escritorio, haz click en la <app>barra de búsqueda global</app> en la parte inferior de tu pantalla que dice <gui>Escribe aquí para buscar...</gui>. Empieza a escribir el nombre del archivo que buscas."
+"From the desktop, click on the <app>global search bar</app> at the top of "
+"your screen that says <gui>Type to search...</gui>. Start typing the name of "
+"the file you are looking for."
+msgstr ""
+"Desde el escritorio, haz click en la <app>barra de búsqueda global</app> en "
+"la parte inferior de tu pantalla que dice <gui>Escribe aquí para buscar...</"
+"gui>. Empieza a escribir el nombre del archivo que buscas."
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58
@@ -2721,7 +3236,11 @@ msgid ""
 "and videos, so that they are easier for you to find. You will see that the "
 "menu on the left shows these categories. Click on them once to go to that "
 "folder."
-msgstr "Endless intenta guardar tus archivos por categorías como documentos, música, fotos y vídeos, para que sean más fáciles de encontrar. Encontrarás que el menú de la izquierda muestra estas categorías. Haz clic en una de ellas para ir a esa carpeta."
+msgstr ""
+"Endless intenta guardar tus archivos por categorías como documentos, música, "
+"fotos y vídeos, para que sean más fáciles de encontrar. Encontrarás que el "
+"menú de la izquierda muestra estas categorías. Haz clic en una de ellas para "
+"ir a esa carpeta."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:69
@@ -2730,7 +3249,11 @@ msgid ""
 "click through the different folders you create to get to the files you have "
 "stored there. Clicking through folders is especially helpful if you are not "
 "sure what the file you saved is named."
-msgstr "Puedes crear tus propias carpetas para mejor organizar tus archivos. Luego puedes hacer clic en las carpetas que has creado para llegar a los archivos que ha guardado allí. Haciendo esto es especialmente útil si no estás seguro del nombre del archivo que buscas."
+msgstr ""
+"Puedes crear tus propias carpetas para mejor organizar tus archivos. Luego "
+"puedes hacer clic en las carpetas que has creado para llegar a los archivos "
+"que ha guardado allí. Haciendo esto es especialmente útil si no estás seguro "
+"del nombre del archivo que buscas."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:74
@@ -2738,11 +3261,19 @@ msgid ""
 "See the bar at the top with a magnifying glass in it? Click there and start "
 "typing at least part of the name of the file you are looking for. As you "
 "start typing, files that match what you are typing are displayed below. If "
-"you see the file you are looking for in the list, you can use your arrow key"
-" to highlight the file and press <key>Enter</key> to open it. Or, you can "
+"you see the file you are looking for in the list, you can use your arrow key "
+"to highlight the file and press <key>Enter</key> to open it. Or, you can "
 "click on the result you want with your mouse to higlight it, and double "
 "click to open it."
-msgstr "¿Ves a la barra en la parte superior con una lupa en ella? Haz clic allí y empieza a escribir el nombre del archivo que estás buscando. Cuando empieces a escribir, podrás ver archivos que coinciden con lo que estás escribiendo. Si ves el archivo que estás buscando en la lista, puedes usar una tecla de flecha para resaltar el archivo. Cuando el archivo que quieres abrir esté resaltado, pulsa la tecla <key>Intro</key>  para abrirlo. También puedes hacer clic en el resultado deseado con el ratón para resaltarlo y hacer doble clic en él para abrirlo."
+msgstr ""
+"¿Ves a la barra en la parte superior con una lupa en ella? Haz clic allí y "
+"empieza a escribir el nombre del archivo que estás buscando. Cuando empieces "
+"a escribir, podrás ver archivos que coinciden con lo que estás escribiendo. "
+"Si ves el archivo que estás buscando en la lista, puedes usar una tecla de "
+"flecha para resaltar el archivo. Cuando el archivo que quieres abrir esté "
+"resaltado, pulsa la tecla <key>Intro</key>  para abrirlo. También puedes "
+"hacer clic en el resultado deseado con el ratón para resaltarlo y hacer "
+"doble clic en él para abrirlo."
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:84
@@ -2760,15 +3291,23 @@ msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
 "something with the device's brand, unless you have changed it."
-msgstr "Haz clic en el nombre de tu aparato en el menú de la izquierda de la ventana. El nombre del aparato debe aparecer cerca del icono de la papelera y por lo general su nombre contiene el nombre de su marca al menos que se lo hayas cambiado."
+msgstr ""
+"Haz clic en el nombre de tu aparato en el menú de la izquierda de la "
+"ventana. El nombre del aparato debe aparecer cerca del icono de la papelera "
+"y por lo general su nombre contiene el nombre de su marca al menos que se lo "
+"hayas cambiado."
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:98
 msgid ""
-"Browse the files on the USB. Clicking on them once will let you preview them"
-" and clicking twice will open them. You can also click on the top bar with "
+"Browse the files on the USB. Clicking on them once will let you preview them "
+"and clicking twice will open them. You can also click on the top bar with "
 "the magnifying glass to search for the file name if you know it."
-msgstr "Examina los archivos en el USB. Al hacer un sólo clic sobre uno de ellos podrás tener una vista previa. Haz clic dos veces para abrirlos. También puedes hacer clic en la barra superior con la lupa para buscar el nombre del archivo si te lo sabes."
+msgstr ""
+"Examina los archivos en el USB. Al hacer un sólo clic sobre uno de ellos "
+"podrás tener una vista previa. Haz clic dos veces para abrirlos. También "
+"puedes hacer clic en la barra superior con la lupa para buscar el nombre del "
+"archivo si te lo sabes."
 
 #. (itstool) path: note/p
 #: C/gs-where-files.page:105
@@ -2777,4 +3316,9 @@ msgid ""
 "without saving your work, you might not be able to find it again since not "
 "all programs auto-save. Save as often as you can in order to make sure that "
 "your work does not get lost."
-msgstr "¡Asegúrate de que verdaderamente has guardado tu archivo! Si cierras un programa sin guardar tu trabajo, es posible que no podrás encontrarlo de nuevo ya que no todos los programas auto-guardan el trabajo. Guarda tu trabajo varias veces mientras que todavía estés trabajando con el fin de asegurarte de que tu trabajo no se pierda."
+msgstr ""
+"¡Asegúrate de que verdaderamente has guardado tu archivo! Si cierras un "
+"programa sin guardar tu trabajo, es posible que no podrás encontrarlo de "
+"nuevo ya que no todos los programas auto-guardan el trabajo. Guarda tu "
+"trabajo varias veces mientras que todavía estés trabajando con el fin de "
+"asegurarte de que tu trabajo no se pierda."
