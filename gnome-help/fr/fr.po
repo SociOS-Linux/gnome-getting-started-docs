@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2014-12-29 14:26-0800\n"
-"PO-Revision-Date: 2014-12-29 22:28+0000\n"
+"POT-Creation-Date: 2015-08-11 11:56-0700\n"
+"PO-Revision-Date: 2015-08-11 23:50+0000\n"
 "Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
 "Language-Team: French (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -109,11 +109,11 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:45
 msgid ""
-"At the the bottom of your screen is the taskbar. Here you can access wifi, "
+"At the the bottom of your screen is the task bar. Here you can access wifi, "
 "bluetooth, control the volume of your computer, change the keyboard language"
 " and time, and see which apps you currently have open. On the left side of "
-"the taskbar, you will find an icon to access the internet browser. When you "
-"finish using your computer, you'll be able to turn it off by clicking the "
+"the task bar, you will find an icon to access the internet browser. When you"
+" finish using your computer, you'll be able to turn it off by clicking the "
 "user menu and selecting <gui>Exit</gui>."
 msgstr ""
 
@@ -219,7 +219,7 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:43
 msgid ""
-"You can browse the <app>App Store</app> by category. For example, if you "
+"You can browse the <app>App Center</app> by category. For example, if you "
 "click on the <gui>Education</gui> category, you’ll find several educational "
 "apps that you can add and use offline. Similarly, if you click on the Games "
 "category, you’ll find games you can add."
@@ -306,7 +306,7 @@ msgstr ""
 #: C/endless-04-wifi.page:36
 msgid ""
 "First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
-"right side of your desktop, on the taskbar close to the clock."
+"right side of your desktop, on the task bar close to the clock."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -484,11 +484,11 @@ msgstr ""
 #: C/endless-06-browser.page:38
 msgid ""
 "When your computer is connected to the internet, you can open the browser by"
-" clicking on the orange circle on your taskbar on the bottom left-hand "
+" clicking on the orange circle on your task bar on the bottom left-hand "
 "corner. We have put this orange icon in three different places so you can "
-"find it easily: on the desktop next to other apps’ icons, on the black "
-"taskbar on the bottom part of your screen, and on the right side of the "
-"screen when you move your mouse to the bottom right hot corner."
+"find it easily: on the desktop next to other apps’ icons, on the black task "
+"bar on the bottom part of your screen, and on the right side of the screen "
+"when you move your mouse to the bottom right hot corner."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -569,9 +569,9 @@ msgstr ""
 msgid ""
 "You can minimize your programs one of two ways: clicking on the <key>-</key>"
 " icon, which is on the top right corner of each window, or clicking on the "
-"program’s icon on the taskbar of your Endless screen. This will hide your "
-"app or folder in your taskbar so that you can work on different tasks at the"
-" same time."
+"program’s icon on the task bar of your Endless screen. This will hide your "
+"app or folder in your task bar so that you can work on different tasks at "
+"the same time."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -800,17 +800,17 @@ msgstr ""
 #: C/endless-10-video-player.page:40
 msgid ""
 "First, let's find the <gui>Videos</gui> folder. From the desktop, click on "
-"the <app>Documents</app> folder. Then, double click on the "
-"folder<gui>Videos</gui> folder. Double click on the <gui>Samples</gui> "
-"folder to open it. This is where we have added the pre-installed short "
-"videos. To open a video, simply double click on its name."
+"the <app>Documents</app> folder. Then, double click on the <gui>Videos</gui>"
+" folder. Double click on the <gui>Samples</gui> folder to open it. This is "
+"where we have added the pre-installed short videos. To open a video, simply "
+"double click on its name."
 msgstr ""
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:46
 msgid ""
 "Once the video is playing, you can pause it by clicking on the button in the"
-" lower left corner of the video. To continue playing it,click on that same "
+" lower left corner of the video. To continue playing it, click on that same "
 "button. You can click on the grey square that appears on the bottom bar of "
 "the video and drag it to advance or rewind the video."
 msgstr ""
@@ -1359,15 +1359,15 @@ msgstr "Navigation sur le Web"
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:27
 msgid ""
-"Your computer comes with a pre-installed <gui>Internet application</gui> "
-"icon on your desktop. You can browse the internet by clicking on this "
-"desktop icon once."
+"Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
+"your desktop. You can browse the internet by clicking on this desktop icon "
+"once."
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:33
 msgid ""
-"You can also open this application by moving your mouse pointer to the "
+"You can also open this app by moving your mouse pointer to the "
 "<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
 "clicking once."
 msgstr ""
@@ -1420,13 +1420,13 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/gs-fix-overscan.page:22
-msgid "I can't see the taskbar or start menu, what do I do?"
+msgid "I can't see the task bar or start menu, what do I do?"
 msgstr ""
 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
 msgid ""
-"If you do not see the taskbar at the bottom of your screen with the user "
+"If you do not see the task bar at the bottom of your screen with the user "
 "menu on the left and the time and facebook icon on the right, you need to "
 "adjust your screen to fit your TV."
 msgstr ""
@@ -2268,13 +2268,13 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:31
-msgid "Introducing the <app>App Store</app>"
+msgid "Introducing the <app>App Center</app>"
 msgstr ""
 
 #. (itstool) path: section/p
 #: C/gs-use-offline.page:32
 msgid ""
-"The <app>App Store</app> is full of apps that are free and can be easily "
+"The <app>App Center</app> is full of apps that are free and can be easily "
 "added to your desktop. Most of the apps you'll find there have offline "
 "capability and you can browse by category to find just what you're looking "
 "for, or else just click around and explore."
@@ -2282,7 +2282,7 @@ msgstr ""
 
 #. (itstool) path: steps/title
 #: C/gs-use-offline.page:37
-msgid "How to get to the <app>App Store</app>:"
+msgid "How to get to the <app>App Center</app>:"
 msgstr ""
 
 #. (itstool) path: item/p
@@ -2309,7 +2309,7 @@ msgstr ""
 #: C/gs-use-offline.page:57
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
-"<app>App Store</app>:"
+"<app>App Center</app>:"
 msgstr ""
 
 #. (itstool) path: list/title
@@ -2558,7 +2558,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at bottom of "
+"From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing to search."
 msgstr ""
 
@@ -2686,7 +2686,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/gs-where-files.page:33
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at bottom of "
+"From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing the name of"
 " the file you are looking for."
 msgstr ""
