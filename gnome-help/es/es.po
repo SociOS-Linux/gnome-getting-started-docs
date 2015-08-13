@@ -19,7 +19,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2015-08-13 01:29+0000\n"
+"PO-Revision-Date: 2015-08-13 01:35+0000\n"
 "Last-Translator: c.sanchez <cassandra@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -816,7 +816,7 @@ msgid ""
 " folder. Double click on the <gui>Samples</gui> folder to open it. This is "
 "where we have added the pre-installed short videos. To open a video, simply "
 "double click on its name."
-msgstr "Primero, tenemos que encontrar la carpeta de <gui>Videos</gui>. Desde el escritorio, haz clic en la carpeta <app>Documentos</app>. Después, haz doble clic en la carpeta <gui>Videos</gui>. Haz doble clic en la carpeta <gui>Muestras</gui> para abrirla. Aquí es donde hemos incluido los videos cortos precargados. Para abrir un video, simplemente haz doble clic en su nombre."
+msgstr "Primero, tenemos que encontrar la carpeta de <gui>Videos</gui>. Desde el escritorio, haz clic en la carpeta <app>Documentos</app>. Después, haz doble clic en la carpeta <gui>Videos</gui>. Haz doble clic en la carpeta <gui>Ejemplos</gui> para abrirla. Aquí es donde hemos incluido los videos cortos precargados. Para abrir un video, simplemente haz doble clic en su nombre."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:46
@@ -1382,7 +1382,7 @@ msgid ""
 "You can also open this app by moving your mouse pointer to the "
 "<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
 "clicking once."
-msgstr ""
+msgstr "También puedes abrir este programa con mover tu cursor al globo anaranjado de <gui>Internet</gui> en la parte inferior izquierda de tu pantalla y haciendo clic una vez."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:39
@@ -2572,7 +2572,7 @@ msgstr "La barra de búsqueda global te ayuda a buscar cosas fácilmente! Puedes
 msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr ""
+msgstr "Desde el escritorio, haz clic en la <app>barra de búsqueda global</app> en la parte superior de tu pantalla que dice <gui>Escribe aquí para buscar...</gui>. Empieza a escribir para buscar."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
@@ -2701,7 +2701,7 @@ msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "Desde el escritorio, haz clic en la <app>barra de búsqueda global</app> en la parte superior de tu pantalla que dice <gui>Escribe aquí para buscar...</gui>. Empieza a escribir el nombre del archivo que quieres buscar."
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58
