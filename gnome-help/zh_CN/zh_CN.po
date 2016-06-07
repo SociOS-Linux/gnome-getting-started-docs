@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Marco Mai <marco@endlessm.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2016-04-12 20:48+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"PO-Revision-Date: 2016-06-06 20:30+0000\n"
+"Last-Translator: Marco Mai <marco@endlessm.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +30,7 @@ msgstr ""
 #: C/gs-give-feedback.page:8 C/gs-use-offline.page:8
 #: C/gs-use-system-search.page:15 C/gs-where-files.page:8
 msgid "Nuritzi Sanchez"
-msgstr ""
+msgstr "Nuritzi Sanchez"
 
 #. (itstool) path: credit/name
 #: C/endless-01-desktop.page:15 C/endless-02-folders.page:15
@@ -41,7 +42,7 @@ msgstr ""
 #: C/gs-fix-overscan.page:12 C/gs-give-feedback.page:12
 #: C/gs-use-offline.page:12 C/gs-where-files.page:12
 msgid "Endless Mobile, Inc."
-msgstr ""
+msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/endless-01-desktop.page:16 C/endless-02-folders.page:16
@@ -53,7 +54,7 @@ msgstr ""
 #: C/gs-fix-overscan.page:13 C/gs-give-feedback.page:13
 #: C/gs-use-offline.page:13 C/gs-where-files.page:13
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 #. (itstool) path: info/title
 #: C/endless-01-desktop.page:19
