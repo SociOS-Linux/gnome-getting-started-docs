@@ -1,12 +1,14 @@
 # 
 # Translators:
+# chenzibing <chenzibing_endless@126.com>, 2016
 # Marco Mai <marco@endlessm.com>, 2016
+# tanyuanxing <tanyuanxingendless@126.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2016-06-06 20:30+0000\n"
-"Last-Translator: Marco Mai <marco@endlessm.com>\n"
+"PO-Revision-Date: 2016-06-11 15:10+0000\n"
+"Last-Translator: chenzibing <chenzibing_endless@126.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,7 +19,7 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "译者鸣谢"
 
 #. (itstool) path: credit/name
 #: C/endless-01-desktop.page:11 C/endless-02-folders.page:11
@@ -60,29 +62,29 @@ msgstr "2014"
 #: C/endless-01-desktop.page:19
 msgctxt "link"
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "桌面介绍"
 
 #. (itstool) path: info/title
 #: C/endless-01-desktop.page:20
 msgctxt "sort"
 msgid "01"
-msgstr ""
+msgstr "01"
 
 #. (itstool) path: info/desc
 #: C/endless-01-desktop.page:21
 msgid "A video showing the basics of the Endless desktop."
-msgstr ""
+msgstr "介绍Endless桌面基本知识的视频"
 
 #. (itstool) path: page/title
 #: C/endless-01-desktop.page:24
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "桌面介绍"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:34
 msgid ""
 "Welcome to Endless, the operating system that powers your new computer."
-msgstr ""
+msgstr "欢迎使用Endless——让您的新电脑变得强大的操作系统。"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:35
@@ -90,7 +92,7 @@ msgid ""
 "We have made everything simple and easy to use. You can find your apps and "
 "your documents folder right on your desktop. Click on them once to open "
 "them."
-msgstr ""
+msgstr "我们致力于让一切变得简便。您可以在您的桌面上找到您的应用程序与文件夹。单击即可打开。"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:38
@@ -102,7 +104,7 @@ msgid ""
 "that you can also easily access the internet, your documents folder, and a "
 "button to return to the desktop on the right hand side with you are in the "
 "hot corner view mode."
-msgstr ""
+msgstr "您的电脑设置有热区。将鼠标移到右下角您就可以看到全部已打开的应用程序与运行中活动。您可以在这里按下滑动过时出现的“X”按钮以切换或关闭它们。您还可以轻松访问互联网、文件夹，然后按下右侧热区视图里的按钮就可以返回桌面。"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:45
@@ -113,29 +115,29 @@ msgid ""
 "the task bar, you will find an icon to access the internet browser. When you"
 " finish using your computer, you'll be able to turn it off by clicking the "
 "user menu and selecting <gui>Exit</gui>."
-msgstr ""
+msgstr "屏幕底部是任务栏。在这里您可以访问WiFi、蓝牙、电脑音量，还可以更改键盘语言与时间，查看已打开的应用程序。在任务栏左侧，您可以找到访问互联网浏览器的图标。当您使用完电脑后，您可以点击用户菜单，选择 <gui>退出</gui>以关机。"
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:19
 msgctxt "link"
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "在桌面上添加文件夹"
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:20
 msgctxt "sort"
 msgid "02"
-msgstr ""
+msgstr "02"
 
 #. (itstool) path: info/desc
 #: C/endless-02-folders.page:21
 msgid "A video showing how to add a folder to the desktop."
-msgstr ""
+msgstr "介绍如何在桌面添加文件夹的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-02-folders.page:24
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "在桌面上添加文件夹"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:34
@@ -145,7 +147,7 @@ msgid ""
 "once on the folder called <gui>Games</gui>, you’ll find icons with the names"
 " of all the games in that folder. Click on a game once to open it and start "
 "playing!"
-msgstr ""
+msgstr "您的电脑桌面和文件夹里都预装了许多应用程序，并已分类放置好。例如，当您单击名称为<gui>游戏</gui>的用文件夹，您就可以在那里找到各种游戏。单击打开，开始享受游戏吧！"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:38
@@ -158,7 +160,7 @@ msgid ""
 "created and installed, you will see a confirmation telling you that your new"
 " folder has been added. Now you can close the window and find your new "
 "folder to the left of the <app>More Apps</app> icon."
-msgstr ""
+msgstr "您还可以进一步管理您的文件夹。要创建一个文件夹，请点击标有 <app>更多应用</app>的图标，然后点击屏幕左侧的<gui>文件夹</gui>，选择文件夹图标并命名。点击带有加号的绿色按钮可以将文件夹添加到桌面上。当完成创建与安装，您会看到一个确认消息提示您已添加新文件夹。现在您可以关闭窗口，在左侧的<app>更多应用</app>图标找到您的新文件夹了。"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:46
@@ -167,43 +169,43 @@ msgid ""
 " without letting go, drag it on top of the folder, and let go of the click. "
 "When you open the folder, you’ll see the app inside. To remove an app from "
 "the folder, simply drag its icon out of the folder."
-msgstr ""
+msgstr "要在新文件夹中添加应用程序，只需点击应用程序的图标，按住不放将其拖拽到文件夹顶部，之后松开。当您打开文件夹时就可以看到该应用程序了。移除应用程序时只需将其图标拖出文件夹即可。"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:50
 msgid ""
 "Keep in mind that if you want to delete a folder, you’ll first have to "
 "remove all of the apps that are in it."
-msgstr ""
+msgstr "请记住，当您想要删除文件夹时，首先移除里面的所有应用程序。"
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:19
 msgctxt "link"
 msgid "Installing programs"
-msgstr ""
+msgstr "安装应用程序"
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:20
 msgctxt "sort"
 msgid "03"
-msgstr ""
+msgstr "03"
 
 #. (itstool) path: info/desc
 #: C/endless-03-programs.page:21
 msgid "A video showing how to install programs."
-msgstr ""
+msgstr "介绍如何安装应用程序的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-03-programs.page:24
 msgid "Installing programs"
-msgstr ""
+msgstr "安装应用程序"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:35
 msgid ""
 "Your computer comes with a wide variety of apps that you can install for "
 "free and use even without an internet connection."
-msgstr ""
+msgstr "您的电脑自带有多种应用程序，即使没有互联网连接，您也可以免费安装并使用。"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:38
@@ -212,7 +214,7 @@ msgid ""
 "It will open a window where you can browse and explore all the apps that are"
 " available to you so you can choose the ones you want to install or add to "
 "your desktop."
-msgstr ""
+msgstr "在桌面上点击 <app>更多应有</app>以添加更多应用。您可以在打开的窗口里浏览并探索全部可使用的应用程序，选择你想安装的并添加到桌面上。"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:43
@@ -221,14 +223,14 @@ msgid ""
 "click on the <gui>Education</gui> category, you’ll find several educational "
 "apps that you can add and use offline. Similarly, if you click on the Games "
 "category, you’ll find games you can add."
-msgstr ""
+msgstr "您可以浏览<app>应用中心</app>。例如，当您点击<gui>教育</gui>类时，您会找到许多教育类应用，您可以添加并离线使用。同样的，当您点击游戏类时，您会找到可添加的游戏。"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:48
 msgid ""
 "You can find the apps that are already on your desktop in the "
 "<gui>Installed</gui> category."
-msgstr ""
+msgstr "你可以在<gui>已安装</gui>目录里找到已安装在您桌面上的应用程序，"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:51
@@ -238,7 +240,7 @@ msgid ""
 "new window will come up with more information about the app. Click on the "
 "green button that says <gui>Add to Desktop</gui>, then after a moment the "
 "button will change to say <gui>Open</gui>."
-msgstr ""
+msgstr "点击您想下载的应用程序。例如，在<gui>教育</gui>类目录里点击 <app>Guatemala</app> 应用，会打开一个介绍更多有关该应用程序信息的新窗口。点击标有<gui>添加到桌面</gui>的绿色按钮，稍等片刻，按钮即会显示<gui>打开</gui>。"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:57
@@ -246,7 +248,7 @@ msgid ""
 "After closing this window you’ll see that the program you downloaded is now "
 "on your desktop. Now you can open it whenever you want to quickly and "
 "easily!"
-msgstr ""
+msgstr "关闭窗口后，您就可以在桌面上看到您下载的应用程序了。现在您随时都可以简便快捷地打开它！"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:61
@@ -257,7 +259,7 @@ msgid ""
 " icon and you’ll see a window telling you that you’ve successfully removed "
 "the app from your desktop. Don’t worry, you can always reinstall the apps "
 "that you remove from your desktop!"
-msgstr ""
+msgstr "要移除应有程序，点击其图标并按住不放，拖拽到<app>更多应用</app> 图标顶部。您会看到该图标由灰色方块变成回收箱。松开鼠标您可以看到一个窗口提示您已成功从桌面移除该应用。别担心，您随时都可以重新安装您从桌面移除的应用。"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:68
@@ -265,47 +267,47 @@ msgid ""
 "You can also delete a folder this same way, by clicking on it, dragging it "
 "over the recycling bin, and letting go. Remember that the folder has to be "
 "empty in order to delete it."
-msgstr ""
+msgstr "您可以用同样的方式删除文件夹：点击并将其拖拽到回收箱上，然后松开。请记住删除前清空文件夹。"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:72
 msgid ""
 "That’s how easy it is to add and remove apps and folders from your desktop!"
-msgstr ""
+msgstr "添加、移除应用程序和文件夹就是这么简单！"
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:19
 msgctxt "link"
 msgid "Using Wi-Fi"
-msgstr ""
+msgstr "使用Wi-Fi"
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:20
 msgctxt "sort"
 msgid "04"
-msgstr ""
+msgstr "04"
 
 #. (itstool) path: info/desc
 #: C/endless-04-wifi.page:21
 msgid "A video showing how to set up Wi-Fi with Endless."
-msgstr ""
+msgstr "介绍如何在Endless设置Wi-Fi 的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-04-wifi.page:24
 msgid "Using Wi-Fi"
-msgstr ""
+msgstr "使用Wi-Fi "
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:34
 msgid "You can connect to a Wi-Fi network with these easy steps:"
-msgstr ""
+msgstr "您可以按照以下步骤连接Wi-Fi 网络："
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:36
 msgid ""
 "First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
 "right side of your desktop, on the task bar close to the clock."
-msgstr ""
+msgstr "首先，点击桌面右下角的时钟旁边任务栏里的<gui>Wi-Fi</gui>图标"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:39
@@ -315,7 +317,7 @@ msgid ""
 "that your Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is "
 "turned on if there is a blue light to the right of the word <gui>Wi-"
 "Fi</gui>. If the light is not blue, you can click on it once to turn it on."
-msgstr ""
+msgstr "在打开的窗口里，您可以看到可连接的可用Wi-Fi网络。如果您没有看到任何可用网络，请确认您已打开您的Wi-Fi。在<gui>Wi-Fi</gui>旁边蓝色灯亮即表明您的电脑已开启Wi-Fi，否则您可以单击以打开。"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:45
@@ -325,55 +327,55 @@ msgid ""
 " be different. If you’re not sure what the name of your Wi-Fi network is, or"
 " don’t know the password, you can call the company that provides your "
 "internet and ask them."
-msgstr ""
+msgstr "选择无线网络的名称。您自己的Wi-Fi网络名称可能与这里展示的名称<gui>Endless Wi-Fi</gui>不相同。如果您不确定Wi-Fi网络名称或密码，您可以询问您的互联网供应商。"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:51
 msgid ""
 "After selecting the name of your network, you’ll have to type in your "
 "network’s password."
-msgstr ""
+msgstr "选择网络名称后，请输入您的密码。"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:54
 msgid ""
 "If your computer successfully connects to the internet, you’ll see a white "
 "circle to the left of the name of your network."
-msgstr ""
+msgstr "如果您的电脑已成功连接互联网，您会看到网络名称旁边出现一个白色圆圈。"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:57
 msgid "And just like that, you’re connected to the internet!"
-msgstr ""
+msgstr "这样您就连接上互联网啦！"
 
 #. (itstool) path: info/title
 #: C/endless-05-files.page:19
 msgctxt "link"
 msgid "Exploring your files"
-msgstr ""
+msgstr "探索您的文件"
 
 #. (itstool) path: info/title
 #: C/endless-05-files.page:20
 msgctxt "sort"
 msgid "05"
-msgstr ""
+msgstr "05"
 
 #. (itstool) path: info/desc
 #: C/endless-05-files.page:21
 msgid "A video showing how to use the file system."
-msgstr ""
+msgstr "介绍如何使用文件系统的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-05-files.page:24
 msgid "Exploring your files"
-msgstr ""
+msgstr "探索您的文件"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:35
 msgid ""
 "You can easily organize your documents and files with folders. Here’s how to"
 " do it."
-msgstr ""
+msgstr "您可以使用文件夹轻松管理您的文档和文件。以下是管理方法。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:38
@@ -383,7 +385,7 @@ msgid ""
 " the bottom left side of your screen and clicking on the "
 "<app>Documents</app> icon on the right side of the screen, even if you have "
 "an app open."
-msgstr ""
+msgstr "点击<app>文档</app>图标您可以访问您的文件夹和文件。您可以在桌面上找到该图标，或者将鼠标移动到屏幕左下角的热区并点击右侧的<app>文档</app>图标。即使您已打开了一个应用程序也可按此操作。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:43
@@ -395,14 +397,14 @@ msgid ""
 "displayed on the right, click your mouse’s button quickly two times. We call"
 " this a double click. To return to the previous folder, click the back arrow"
 " above."
-msgstr ""
+msgstr "当您进入<app>文档</app> 主文件夹，您可以创建一个可以放置您所有文档和文件的文件夹，以此来管理它们。在窗口左侧，您可以看到一个进入这些文件夹的快捷方式。双击鼠标以打开右侧显示的文件和文件夹。点击上方的返回箭头以返回上一层。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:50
 msgid ""
 "You can also open a folder by clicking the right button of your mouse, and "
 "then clicking <gui>Open</gui> with the left button."
-msgstr ""
+msgstr "您可以点击鼠标右键，之后用左键点击<gui>打开</gui>以打开文件夹。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:53
@@ -411,7 +413,7 @@ msgid ""
 "name of the folder you wish to open. For example, if you click the name "
 "<gui>Images</gui> with your left mouse button, you’ll open the "
 "<gui>Images</gui> folder."
-msgstr ""
+msgstr "点击想打开的文件夹名称以使用屏幕左侧的快捷方式。例如，当您用鼠标左键点击<gui>图像</gui>时，您可以打开<gui>图像</gui>文件夹。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:58
@@ -422,7 +424,7 @@ msgid ""
 " the folder where you want it. For example, if I want to move my favorite "
 "song to the music folder, I click on the music file without letting go and "
 "drag it to the music folder. Now it’s in that folder!"
-msgstr ""
+msgstr "从互联网上下载的文件将会放置在 <gui>下载</gui> 文件夹。如果您想要移动文件，只需点击该文件，按住不放将其拖拽到您想放置的文件夹里。例如，如果我想要将我喜爱的歌曲放到音乐文件夹里时，我可以点击该音乐文件，按住不放将其拖拽到音乐文件夹。它就在那个文件夹里了。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:65
@@ -431,7 +433,7 @@ msgid ""
 "on it without letting go and drag it to the recycling bin. To delete my "
 "favorite song, for example, click it without letting go, drag it to the "
 "recycling bin, and let go of the click."
-msgstr ""
+msgstr "不管是歌曲、照片还是其他文件，如果您想删除它们，只需点击并按住不放，将其拖拽到回收箱里。例如，如果我要删除我喜爱的歌曲，点击并按住不放，将其拖拽到回收箱里然后松开。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:70
@@ -442,41 +444,41 @@ msgid ""
 "computer by clicking the button <gui>Empty</gui>. If you click this button, "
 "the files will no longer take up space on your computer, but you also won’t "
 "be able to restore them and will instead permanently delete them."
-msgstr ""
+msgstr "在回收箱里，只需选择并点击 <gui>恢复</gui>，您就可以恢复已删除的文件。您还可以点击 <gui>清空</gui>按钮以永久删除这些文件。如果您点击<gui>清空</gui>按钮，这些文件将不会再占用您的电脑空间，但是您也无法再恢复它们。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:77
 msgid "It’s easy to organize your files on Endless, right?"
-msgstr ""
+msgstr "在Endless里管理您的文件很简单吧？"
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:19
 msgctxt "link"
 msgid "Browsing the Internet"
-msgstr ""
+msgstr "浏览互联网"
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:20
 msgctxt "sort"
 msgid "06"
-msgstr ""
+msgstr "06"
 
 #. (itstool) path: info/desc
 #: C/endless-06-browser.page:21
 msgid "A video explaining how to user browse web pages."
-msgstr ""
+msgstr "介绍如何浏览网页的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-06-browser.page:24
 msgid "Browsing the Internet"
-msgstr ""
+msgstr "浏览互联网"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:35
 msgid ""
 "If you’re connected to the internet you have access to websites from all "
 "around the world! Here, you can learn how to get to them."
-msgstr ""
+msgstr "如果您已经连接上互联网，您就可以访问全世界的网站了！在这里您可以了解如何访问网站。"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:38
@@ -487,7 +489,7 @@ msgid ""
 "find it easily: on the desktop next to other apps’ icons, on the black task "
 "bar on the bottom part of your screen, and on the right side of the screen "
 "when you move your mouse to the bottom right hot corner."
-msgstr ""
+msgstr "如果您的电脑已经连接上互联网，您可以点击右下角任务栏里的橙色圆圈打开浏览器。我们在不同的地方放置了这个橙色图标以便您能找到：桌面应用程序图标旁；屏幕底端黑色任务栏里；移动鼠标到右下角热区时屏幕右侧。"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:45
@@ -498,7 +500,7 @@ msgid ""
 " look through to find useful websites. For example, in the <gui>News</gui> "
 "category, you’ll find links for different newspapers. You can explore the "
 "different categories to discover lots of cool websites!"
-msgstr ""
+msgstr "当您首次打开浏览器时，您会看见<app>资源中心</app>。我们在这里为您收藏了许多有趣的网站。当您点击<gui>发现</gui>标题时，您可以看到各种类型的有用的网站供您浏览。例如，在<gui>新闻</gui> 类目录里，您会看到许多报纸的链接。您可以探索不同类型的目录，发现更多精彩网站！"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:52
@@ -512,7 +514,7 @@ msgid ""
 "easily in the future. Click <gui>Finished</gui>. Now the page you saved will"
 " appear when you click on <gui>Favorites</gui> in your <app>Content "
 "Center</app>."
-msgstr ""
+msgstr "你可以将感兴趣的网页标记为收藏并保存以便下次找到。例如，如果您想要保存<gui>伽利略大学</gui>或其他网页，您只需点击窗口顶部网页URL旁边的星星。您还可以根据需要更爱保存时的名称然后点击<gui>完成</gui>。现在您保存的网页就在<app>资源中心</app>的<gui>收藏</gui> 里了。"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:61
@@ -522,7 +524,7 @@ msgid ""
 "visited, you can find it here. If you want to clear the list of websites "
 "that you have visited, click on the button that says <gui>Clear "
 "History</gui>, then click to accept the action on the window that pops up."
-msgstr ""
+msgstr "点击<gui>历史</gui> 您可以看到之前访问的所有网站。如果您想要返回您曾经访问的网站，您可以在那里找到它。如果您想要清空访问记录，点击标有<gui>清空历史</gui> 的按钮，然后在弹出窗口中点击接受。"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:67
@@ -531,36 +533,36 @@ msgid ""
 "center, you can send us your comments or suggestions. Just write your "
 "message, your name, and your email address, then click <gui>Send "
 "Feedback</gui>. We would love to hear from you!"
-msgstr ""
+msgstr "点击资源中心左下角的<gui>反馈</gui> 按钮，可以将您的意见和建议发送给我们。请写下您的信息、名字和邮箱地址然后点击<gui>发送反馈</gui> 。我们很乐意收到您的信息！"
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:19
 msgctxt "link"
 msgid "Minimizing and closing windows"
-msgstr ""
+msgstr "最小化和关闭窗口"
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:20
 msgctxt "sort"
 msgid "07"
-msgstr ""
+msgstr "07"
 
 #. (itstool) path: info/desc
 #: C/endless-07-windows.page:21
 msgid "A video showing how to minimize and close your windows."
-msgstr ""
+msgstr "介绍如何最小化和关闭窗口的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-07-windows.page:24
 msgid "Minimizing and closing windows"
-msgstr ""
+msgstr "最小化和关闭窗口"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:35
 msgid ""
 "If you want to keep an app or folder open while you work on another task on "
 "your desktop or in another app, the minimizing option is extremely useful!"
-msgstr ""
+msgstr "如果您想要在桌面或其他应用程序里工作时想要打开其他应用程序或文件夹，最小化窗口是特别有用的选择！"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:38
@@ -570,7 +572,7 @@ msgid ""
 "program’s icon on the task bar of your Endless screen. This will hide your "
 "app or folder in your task bar so that you can work on different tasks at "
 "the same time."
-msgstr ""
+msgstr "您可以通过以下两种方式最小化应用程序：点击 窗口右上角的<key>-</key>图标，或者点击任务栏上的程序图标。这样，您的应用程序或文件夹将会隐藏在任务栏里，您就可以同时进行不同的任务。"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:44
@@ -578,7 +580,7 @@ msgid ""
 "To make your app return to your screen, just click its icon once and it’ll "
 "return to its last size. When you’re done using a program, close it by "
 "clicking the <key>X</key> icon at the top right-hand corner of the window."
-msgstr ""
+msgstr "只需点击应用程序的图标就可以让其回到屏幕上并恢复原始大小。当您不再使用应用程序时，可以点击窗口右上角的 <key>X</key>图标以关闭。"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:48
@@ -586,36 +588,36 @@ msgid ""
 "You can also move your mouse down to the bottom right-hand corner of your "
 "screen, then move over to the window of the app you want to close and click "
 "the <key>X</key> on the top right of that window to close it."
-msgstr ""
+msgstr "您还可以将鼠标移动到屏幕右下角，到您想关闭的应用程序窗口点击窗口右上角的<key>X</key>图标以关闭。"
 
 #. (itstool) path: info/title
 #: C/endless-08-offline.page:19
 msgctxt "link"
 msgid "Using Endless offline"
-msgstr ""
+msgstr "离线使用Endless"
 
 #. (itstool) path: info/title
 #: C/endless-08-offline.page:20
 msgctxt "sort"
 msgid "08"
-msgstr ""
+msgstr "08"
 
 #. (itstool) path: info/desc
 #: C/endless-08-offline.page:21
 msgid "A video showing the offline content on your computer."
-msgstr ""
+msgstr "介绍电脑离线内容的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-08-offline.page:24
 msgid "Using Endless offline"
-msgstr ""
+msgstr "离线使用Endless"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:35
 msgid ""
 "Your computer includes a lot of offline content so you can learn and explore"
 " a great deal of things without having an internet connection!"
-msgstr ""
+msgstr "您的电脑里有许多离线内容，没有互联网连接，您也可以了解并探索无穷精彩！"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:38
@@ -624,7 +626,7 @@ msgid ""
 "desktop where you can find apps like <app>Virtual School</app>, which allows"
 " you to watch hundreds of videos about all sorts of subjects you may find "
 "interesting."
-msgstr ""
+msgstr "例如，您可以在桌面上的<gui>新奇</gui>文件夹里找到像 <app>虚拟学校</app>这样的应用，您可以在上面观看您感兴趣学科的数百个视频。"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:43
@@ -635,14 +637,14 @@ msgid ""
 "example, in <gui>Sciences</gui>, you can see that there are 4 videos on the "
 "topic <gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of"
 " this topic, you’ll be able to see the list of videos available."
-msgstr ""
+msgstr "让我们一起探索 <app>虚拟学校</app>吧。打开该应用，您就可以看到带有视频课程的不同学科。每个主题名称的右边都有许多可观看的视频。例如，在<gui>科学</gui>里，您可以看到4个有关<gui>健康</gui>与<gui>医药</gui>的视频。点击主题名字就可以看到视频列表。"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:50
 msgid ""
 "For any video you’d like to watch, just click on it once to begin playing "
 "it."
-msgstr ""
+msgstr "只需单击您想看的视频就可以开始观看。"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:53
@@ -650,14 +652,14 @@ msgid ""
 "To end the video, just click on the <key>X</key> button at the top right-"
 "hand corner of the video. To learn more about how to control videos, please "
 "see the tutorial that talks about photos, music and video."
-msgstr ""
+msgstr "要关闭视频，只需点击视频右上角的 <key>X</key>按钮。要了解更多视频技巧，请查看照片、音乐和视频教程。"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:57
 msgid ""
 "You may also be interested in using the <app>Encyclopedia</app> app. We have"
 " put it on your desktop to make it easy to find."
-msgstr ""
+msgstr "您可能会对<app>百科全书</app> 感兴趣。我们已经将它放在桌面以便您找到。"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:60
@@ -667,43 +669,43 @@ msgid ""
 " Guatemala. Once you start typing, a list will appear so that you can choose"
 " the item that best matches what you’d like to read about. Click on a title "
 "and all of the information on the topic you have chosen will appear."
-msgstr ""
+msgstr "当您打开该应用时，您会看到您一个搜索栏，你可以搜索任何想要查询的主题。例如，当你想要查找有关危地马拉的信息时，您可以在输入时选择下方出现列表中最想阅读的条目。点击标题就可以看到您选择的主题的所有信息。"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:66
 msgid ""
 "Remember that there are many apps that do not require internet. Keep "
 "exploring your computer to find them!"
-msgstr ""
+msgstr "请记住很多应用程序都不需要互联网。继续探索您的电脑来发掘它们！"
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:19
 msgctxt "link"
 msgid "Using the Writer app"
-msgstr ""
+msgstr "使用文字处理器"
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:20
 msgctxt "sort"
 msgid "09"
-msgstr ""
+msgstr "09"
 
 #. (itstool) path: info/desc
 #: C/endless-09-writer.page:21
 msgid "A video showing how to use the Writer app to create documents."
-msgstr ""
+msgstr "介绍如何使用文字处理器来创建文档的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-09-writer.page:24
 msgid "Using the Writer app"
-msgstr ""
+msgstr "使用文字处理器"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:35
 msgid ""
 "Your computer comes with apps for you to create the documents and "
 "presentations that you need."
-msgstr ""
+msgstr "您的电脑自带有多种应用，可以让您创建您需要的文档和演示文稿。"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:38
@@ -713,14 +715,14 @@ msgid ""
 " <app>Spreadsheets</app> app, which is located in the <gui>Work</gui> "
 "folder. And, you can use the <app>Presentation</app> app to create "
 "presentations that can help you communicate your ideas."
-msgstr ""
+msgstr "例如，您可以在桌面上找到可以创建文档的<app>文字处理器</app>应用。您还可以在<app>制表软件</app>应用里创建表格。还可以使用<app>演示文稿</app>创建帮助您传递想法的演示文稿。"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:44
 msgid ""
 "Let’s walk through some basic things that you can do with the "
 "<app>Writer</app> app."
-msgstr ""
+msgstr "让我们了解一些使用<app>文字处理器</app>应用的基础技巧吧。"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:47
@@ -729,7 +731,7 @@ msgid ""
 " the <app>Encyclopedia</app> app. Just select the text you want to copy, and"
 " right click on it. A menu with the option to <gui>Copy</gui> will appear. "
 "Click on that option."
-msgstr ""
+msgstr "您可以轻松从其他应用中复制文本。如果您想要从<app>百科全书</app>应用中复制文本，只需选择您想复制的文本，然后右击，在菜单中选择<gui>复制</gui> 。"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:52
@@ -737,7 +739,7 @@ msgid ""
 "Go back to the app where you want to paste the information. Then, simply "
 "right click again, and then click <gui>Paste</gui>. The text you copied from"
 " the encyclopedia will appear in your document."
-msgstr ""
+msgstr "返回您想粘贴文本的应用，然后只需再次右击选择<gui>粘贴</gui> ，您从百科全书中复制的内容就会出现在您的文档里了。"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:56
@@ -747,12 +749,12 @@ msgid ""
 "top of the screen to make the text bold, italic, or underlined. You can also"
 " center or justify the paragraph format so that it looks the way you want it"
 " to look."
-msgstr ""
+msgstr "再次用鼠标选择文本，按住<key>Shift</key>和方向键，您可以使用屏幕上方的按钮来让文本加粗，变斜体或者加下划线。您还可以根据自己的想法让段落居中或对齐。"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:62
 msgid "Explore all of the buttons up top to see the function of each!"
-msgstr ""
+msgstr "探索所有的按钮，来看看都有什么功能吧！"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:64
@@ -761,29 +763,29 @@ msgid ""
 "<gui>Save</gui>. Remember to give your document a name that you will "
 "remember (usually something that describes what is in the document) before "
 "saving it to make it easier to find later."
-msgstr ""
+msgstr "您可以点击 <gui>文件</gui>，选择 <gui>保存</gui>来保存您的文档。保存前请给您的文档命名以方便记忆和找到(使用一些描述该文档的名称)。"
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:19
 msgctxt "link"
 msgid "Playing videos"
-msgstr ""
+msgstr "播放视频"
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:20
 msgctxt "sort"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. (itstool) path: info/desc
 #: C/endless-10-video-player.page:21
 msgid "A video showing how to play movies and videos with Endless."
-msgstr ""
+msgstr "介绍如何用Endless播放电影和视频的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-10-video-player.page:24
 msgid "Playing videos"
-msgstr ""
+msgstr "播放视频"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:35
@@ -792,7 +794,7 @@ msgid ""
 "watch them whenever you want. You can also watch videos from a USB memory "
 "stick, or you can download and watch videos from the internet if you have a "
 "connection."
-msgstr ""
+msgstr "我们在您的电脑上预装了许多有趣的短片，您可以随时观看。您还可以观看USB记忆棒的视频或者有网络连接时在互联网下载和观看视频。"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:40
@@ -802,7 +804,7 @@ msgid ""
 " folder. Double click on the <gui>Samples</gui> folder to open it. This is "
 "where we have added the pre-installed short videos. To open a video, simply "
 "double click on its name."
-msgstr ""
+msgstr "让我们先找到 <gui>视频</gui>吧。在桌面上点击<app>文档</app> 文件夹，然后双击<gui>视频</gui>文件夹以及里面的<gui>样本</gui>文件夹以打开。这里就有我们预装的短片。只需双击名称就可以打开视频。"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:46
@@ -811,7 +813,7 @@ msgid ""
 " lower left corner of the video. To continue playing it, click on that same "
 "button. You can click on the grey square that appears on the bottom bar of "
 "the video and drag it to advance or rewind the video."
-msgstr ""
+msgstr "播放视频时，您可以点击视频左下角的按钮以暂停视频。再次点击该按钮可以继续播放。您还可以点击视频底端进度栏的灰色小方块来调整视频进度。"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:51
@@ -822,14 +824,14 @@ msgid ""
 "the top left-hand side of your keyboard. This key can also be used to quit "
 "games that take you into full-screen mode, or when any other video is in "
 "full-screen."
-msgstr ""
+msgstr "只需点击视频右下方的箭头就可全屏观看视频。按下键盘左上角的<key>ESC</key> 键可以缩小视频并查看其他东西。该键还可用于退出全屏模式的游戏或其他任何全屏的视频。"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:57
 msgid ""
 "You can find the button to adjust volume on the lower right-hand side of the"
 " video player. Click and then drag the bar up and down to adjust the volume."
-msgstr ""
+msgstr "您可以在视频播放器底部右侧找到调整音量的按钮。点击并上下拖拽音量条以调整音量。"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:60
@@ -838,34 +840,34 @@ msgid ""
 "the video’s sound. If your computer is connected to a TV, then the TV’s "
 "speakers should work to play sound. If you still cannot hear anything, try "
 "turning up the volume on your computer or on your TV."
-msgstr ""
+msgstr "请记住将您的电脑连接到耳机或者扬声器上以听到视频声音。如果您的电脑连接的是电视，电视扬声器可以播放声音。如果仍无法听到声音，您可以调大电脑或电视的音量。"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:65
 msgid "We hope you enjoy all the videos we chose for you!"
-msgstr ""
+msgstr "我们希望您喜欢我们为您挑选的视频！"
 
 #. (itstool) path: info/title
 #: C/endless-11-photos-and-music.page:19
 msgctxt "link"
 msgid "Photos and Music"
-msgstr ""
+msgstr "照片和音乐"
 
 #. (itstool) path: info/title
 #: C/endless-11-photos-and-music.page:20
 msgctxt "sort"
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #. (itstool) path: info/desc
 #: C/endless-11-photos-and-music.page:21
 msgid "A video showing how to edit photos and listen to music."
-msgstr ""
+msgstr "介绍如何编辑照片和听音乐的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-11-photos-and-music.page:24
 msgid "Photos and Music"
-msgstr ""
+msgstr "照片和音乐"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:35
@@ -874,7 +876,7 @@ msgid ""
 "right on your desktop. Click once to open it and then choose a picture you "
 "want to edit. You can use one of the photos that comes with your computer, "
 "or a photo that you have taken and uploaded."
-msgstr ""
+msgstr "编辑你的照片很简单！您可以在桌面上找到<app>照片编辑器</app>。单击打开然后选择您想编辑的照片。您可以使用电脑自带的照片或者您自己拍摄并上传的照片。"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:40
@@ -883,7 +885,7 @@ msgid ""
 " your computer, double click on the <gui>Samples</gui> folder. You can click"
 " once on a photo’s name to view it in a preview, and can double click on the"
 " picture you want to open and edit it."
-msgstr ""
+msgstr "点击 <gui>打开图片</gui>开始选择。如果您想要查看电脑上的照片，双击 <gui>样本</gui>文件夹，单击照片名称可以预览照片，双击照片打开并编辑。"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:45
@@ -891,7 +893,7 @@ msgid ""
 "Once you have a photo open, you can edit it in many fun ways. For example, "
 "you can rotate, cut or change it until you find a look that you really like "
 "for it."
-msgstr ""
+msgstr "当您打开照片后，您就可以用许多有趣的方法来编辑它了。例如，您可以旋转、剪切或修改，直到您满意为止。"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:49
@@ -899,7 +901,7 @@ msgid ""
 "We have included many filters to give you more options to create your "
 "perfect image. There are even options to distort the photo and make it look "
 "funny."
-msgstr ""
+msgstr "我们为您准备了多种滤镜，让您创建出您的完美图片。您甚至可以扭曲照片让它变得有趣。"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:52
@@ -907,7 +909,7 @@ msgid ""
 "Add a frame to your masterpiece if you’d like, and when you are finished "
 "editing the photo you can save it, post it to Facebook, or use it as your "
 "wallpaper!"
-msgstr ""
+msgstr "您喜欢的话还给您的杰作加个边框。完成编辑时您可以保存，上传到Facebook，或者将其设置为您的墙纸！"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:56
@@ -915,7 +917,7 @@ msgid ""
 "Make sure you also check out the <app>Music</app> on your desktop. Open to "
 "see a bunch of songs we have already added. You can of course add more songs"
 " by transferring them from a USB or downloading them."
-msgstr ""
+msgstr "您一定要查看桌面上的<app>音乐</app>，听听我们为您添加的歌曲。您还可以从USB传送或者下载更多歌曲。"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:60
@@ -923,7 +925,7 @@ msgid ""
 "To hear a song, double click on it. You can pause it by clicking on the "
 "button on the top left-hand side, and continue playing it by re-clicking the"
 " same button."
-msgstr ""
+msgstr "双击歌曲便可聆听。您可以点击左上角的按钮以暂停播放，再次按下该按钮以继续播放。"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:64
@@ -932,14 +934,14 @@ msgid ""
 "buttons, and can even choose to repeat the song over and over again. You can"
 " play all of the songs in your playlists in order or shuffle the songs and "
 "play them out of order."
-msgstr ""
+msgstr "您还可以用方向键跳到下一首歌或重播上一首歌，甚至还可以循环播放。您可以选择顺序播放或随机播放。"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:69
 msgid ""
 "You can find the area to adjust volume on the top right-hand side. Click and"
 " drag the circle button to the left or right to adjust the volume."
-msgstr ""
+msgstr "播放器右边有调整音量区域，您可以点击并左右拖拽圆圈按钮以调整音量。"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:72
@@ -947,35 +949,35 @@ msgid ""
 "Remember, to hear audio, you have to connect headphones or speakers to your "
 "computer. If you have your computer connected to a TV and still cannot hear "
 "the audio, try turning up the volume of your computer or of your TV."
-msgstr ""
+msgstr "请记住你需要将耳机或扬声器连接到电脑上才能听到音频。如果您的电脑连接的是电视，而且您无法听到音频，您可以试试调大电脑或电视的音量。"
 
 #. (itstool) path: info/title
 #: C/endless-12-social-bar.page:19
 msgctxt "link"
 msgid "Using Facebook"
-msgstr ""
+msgstr "使用Facebook"
 
 #. (itstool) path: info/title
 #: C/endless-12-social-bar.page:20
 msgctxt "sort"
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. (itstool) path: info/desc
 #: C/endless-12-social-bar.page:21
 msgid "A video showing how to use Facebook with other programs."
-msgstr ""
+msgstr "介绍如何用其他应用程序使用Facebook的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-12-social-bar.page:24
 msgid "Using Facebook"
-msgstr ""
+msgstr "使用 Facebook"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:35
 msgid ""
 "If you have internet, there are two simple ways to access <em>Facebook</em>."
-msgstr ""
+msgstr "如果您有互联网，您可以通过以下两种简单的方式访问 <em>Facebook</em>。"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:38
@@ -983,7 +985,7 @@ msgid ""
 "The first is opening the browser and entering <em>facebook.com</em> at the "
 "top, then entering your name and password in the login part of the site as "
 "you may already be used to doing."
-msgstr ""
+msgstr "第一个方式是打开浏览器，在顶部输入<em>facebook.com</em> ，然后在登陆处输入您使用过的的用户名和密码。"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:42
@@ -992,7 +994,7 @@ msgid ""
 "right-hand corner of your screen. By clicking on it, you will see a window "
 "that appears on the right side of the screen. Enter your email and password "
 "and start using Facebook immediately!"
-msgstr ""
+msgstr "另一个方式是使用屏幕右下角的<em>Facebook</em>按钮。点击该按钮，屏幕右侧会出现一个窗口，您可以再次输入您的邮箱和密码，立即开始使用Facebook！"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:47
@@ -1002,7 +1004,7 @@ msgid ""
 " be using the <app>Writer</app> app, and while you are working on a "
 "document, you can check <em>Facebook</em> quickly during breaks, and you can"
 " even continue a conversation without having to switch programs to do so."
-msgstr ""
+msgstr "如果您使用第二种方式访问 <em>Facebook</em>，您可以在使用其他应用程序时轻松访问 <em>Facebook</em>。例如，当您在使用<app>文字处理器</app>应用编辑文档时，您可以在休息时快速访问<em>Facebook</em> ，甚至无需切换程序即可继续对话。"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:53
@@ -1010,7 +1012,7 @@ msgid ""
 "If you use this second method, be sure to logout of your Facebook account "
 "before you stop using the computer, otherwise, someone else may be able to "
 "access your Facebook account."
-msgstr ""
+msgstr "如果您使用第二种方法，请记住使用完电脑后注销您的Facebook账户，否则其他人可能会访问您的Facebook账户。"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:57
@@ -1018,41 +1020,41 @@ msgid ""
 "To logout of <em>Facebook</em>, make sure you are in the <em>Facebook</em> "
 "window, click on the menu button on the top left-hand side, scroll to the "
 "bottom of the window, and click on the <em>logout</em> button."
-msgstr ""
+msgstr "要注销<em>Facebook</em>，请在<em>Facebook</em>窗口点击左上角的菜单，滑动选项，点击<em>注销</em>。"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:61
 msgid "There you go, Facebook is now just a click away!"
-msgstr ""
+msgstr "轻轻一点，随时随地使用Facebook！"
 
 #. (itstool) path: info/title
 #: C/endless-13-printers.page:9
 msgctxt "link"
 msgid "Setting up a printer"
-msgstr ""
+msgstr "安装打印机"
 
 #. (itstool) path: info/title
 #: C/endless-13-printers.page:10
 msgctxt "sort"
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #. (itstool) path: info/desc
 #: C/endless-13-printers.page:11
 msgid "A video showing how to set up a printer for the first time."
-msgstr ""
+msgstr "介绍如何首次安装打印机的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-13-printers.page:14
 msgid "Setting up a printer"
-msgstr ""
+msgstr "安装打印机"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:25
 msgid ""
 "Click the <em>User Menu</em> button on the bottom left-hand corner of the "
 "screen, then select <gui>Settings</gui>."
-msgstr ""
+msgstr "点击屏幕左下角的<em>用户菜单</em> ，然后选择<gui>设置</gui>。"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:28
@@ -1061,19 +1063,19 @@ msgid ""
 " unlock this window by clicking on the button that says <gui>Unlock</gui> in"
 " the upper right-hand corner. Enter your password and click "
 "<gui>Authenticate</gui> to finish unlocking the window."
-msgstr ""
+msgstr "在出现的窗口中,点击< gui > 打印机< / gui >。想要继续，你必须打开窗口，点击右上角的按钮< gui >解锁 < / gui >。输入密码,然后点击< gui > 进行身份验证< / gui >完成打开窗口。"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:33
 msgid ""
 "Click the <key>+</key> symbol in the lower left-hand corner of this window."
-msgstr ""
+msgstr " 点击本窗口左下角的<key>+</key> 。"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:36
 msgid ""
 "Select your printer from the list that appears, and click <gui>Add</gui>."
-msgstr ""
+msgstr "从列表中选择打印机，然后点击<gui>添加</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:38
@@ -1081,110 +1083,110 @@ msgid ""
 "You will see the name of your printer appear. If you want to check that your"
 " printer is configured correctly, click the button that says "
 "<gui>Print</gui> to print a sample page."
-msgstr ""
+msgstr "您将看到打印机的名字。如果你想检查打印机是正确配置,点击按钮< gui >打印 < / gui >打印示例页面。"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:42
 msgid ""
 "You can now close this window and begin to use your printer with Endless!"
-msgstr ""
+msgstr "现在可以关闭窗口开始使用Endless与打印机。"
 
 #. (itstool) path: info/desc
 #: C/endless-videos.page:9
 msgid "Watch videos explaining how to use EndlessOS."
-msgstr ""
+msgstr "观看视频，了解如何使用Endless OS."
 
 #. (itstool) path: info/title
 #: C/endless-videos.page:10
 msgctxt "link"
 msgid "Videos Tutorials"
-msgstr ""
+msgstr "视频教程"
 
 #. (itstool) path: info/title
 #: C/endless-videos.page:11
 msgctxt "sort"
 msgid "Videos Tutorials"
-msgstr ""
+msgstr "视频教程"
 
 #. (itstool) path: page/title
 #: C/endless-videos.page:14
 msgid "Endless Videos"
-msgstr ""
+msgstr "Endless视频"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:3
 msgid "Welcome"
-msgstr ""
+msgstr "欢迎"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:4
 msgid "Launching Applications"
-msgstr ""
+msgstr "启动应用程序"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:5
 msgid "Getting Started"
-msgstr ""
+msgstr "开始"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:6
 msgid "Changing Wallpaper"
-msgstr ""
+msgstr "改变墙纸"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:7
 msgid "Responding to Messages"
-msgstr ""
+msgstr "回复信息"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:8
 msgid "Switching Tasks"
-msgstr ""
+msgstr "切换任务"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:9
 msgid "Delayed Response"
-msgstr ""
+msgstr "延迟反应"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:10
 msgid "Windows and Workspaces"
-msgstr ""
+msgstr "窗口与任务区"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
 msgid "Changing Date, Time and Timezone"
-msgstr ""
+msgstr "变更日期、时间、时区"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:12
 msgid "Maximize"
-msgstr ""
+msgstr "最大化"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:13
 msgid "Restore"
-msgstr ""
+msgstr "恢复"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:14
 msgid "Left half of screen"
-msgstr ""
+msgstr "屏幕左半部分"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:15
 msgid "Workspace down"
-msgstr ""
+msgstr "任务区下载"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:16
 msgid "Workspace up"
-msgstr ""
+msgstr "任务区上传"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:17
 msgid "Right half of screen"
-msgstr ""
+msgstr "屏幕右半部分"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -1196,47 +1198,47 @@ msgstr ""
 #: C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
-msgstr ""
+msgstr "活动"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:19
 msgid "Enter"
-msgstr ""
+msgstr "进入"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:20
 msgid "Ctrl"
-msgstr ""
+msgstr "ctrl"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:21
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:22
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:23
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:24
 msgid "help"
-msgstr ""
+msgstr "帮助"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:25
 msgid "web"
-msgstr ""
+msgstr "网页"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:26
 msgid "Just start typing…"
-msgstr ""
+msgstr "开始打印..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -1244,115 +1246,115 @@ msgstr ""
 #: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
-msgstr ""
+msgstr "John Doe"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:28
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:29
 msgid "Background"
-msgstr ""
+msgstr "背景"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:30
 msgid "Wallpapers"
-msgstr ""
+msgstr "墙纸 "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:31
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:32
 msgid "Ready for the meeting?"
-msgstr ""
+msgstr "准备好会议了吗？"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:33
 msgid "I'll be there in a sec..."
-msgstr ""
+msgstr "我马上到..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "Good stuff, thanks again"
-msgstr ""
+msgstr "好产品，再次感谢。"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:35
 msgid "Thanks for the support"
-msgstr ""
+msgstr "谢谢支持"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:36
 msgid "No worries."
-msgstr ""
+msgstr "不用担心"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:37
 msgid "Too kind."
-msgstr ""
+msgstr "太好了"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:38
 msgid "Open Calendar"
-msgstr ""
+msgstr "打开日历"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
 msgid "Open Clocks"
-msgstr ""
+msgstr "打开时钟"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:40
 msgid "Date and Time Settings"
-msgstr ""
+msgstr "日期与时间设置"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:41
 msgid "Automatic Date and Time"
-msgstr ""
+msgstr "原始日期与时间"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
 msgid "Automatic Timezone"
-msgstr ""
+msgstr "原始时区"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:43
 msgid "14 October 2013, 20:00"
-msgstr ""
+msgstr "2013年10月14日，20：00··"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:44
 msgid "14 October 2013, 14:00"
-msgstr ""
+msgstr "2013年10月14日，14：00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-get-online.page:9 C/gs-use-system-search.page:9
 msgid "Jakub Steiner"
-msgstr ""
+msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:12 C/gs-get-online.page:12
 #: C/gs-use-system-search.page:12
 msgid "Petr Kovar"
-msgstr ""
+msgstr "Petr Kovar"
 
 #. (itstool) path: info/desc
 #: C/gs-browse-web.page:20
 msgid "Use Facebook, Google and other popular websites with your browser."
-msgstr ""
+msgstr "使用Facebook, Google以及其他网页浏览器。"
 
 #. (itstool) path: page/title
 #: C/gs-browse-web.page:23
 msgid "Browse the web"
-msgstr ""
+msgstr "浏览网页"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:27
@@ -1360,7 +1362,7 @@ msgid ""
 "Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
 "your desktop. You can browse the internet by clicking on this desktop icon "
 "once."
-msgstr ""
+msgstr "你的电脑在桌面上有预装< gui >互联网应用程序</gui > 图标。您可以通过点击桌面图标浏览互联网。"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:33
@@ -1368,36 +1370,36 @@ msgid ""
 "You can also open this app by moving your mouse pointer to the "
 "<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
 "clicking once."
-msgstr ""
+msgstr "你也可以通过移动鼠标指针到屏幕左下角的< gui > 全球互联网< / gui >橙色图标并点击一次来打开这个应用程序。"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:39
 msgid "Click the address bar at the top of the browser window. Start typing!"
-msgstr ""
+msgstr "点击浏览器窗口顶部的地址栏，开始输入。"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:43
 msgid ""
 "You do not need to remember the exact address if you have already visited "
 "the website because it will be stored in your history and/or bookmarks."
-msgstr ""
+msgstr "如果你已经访问了网站，你不需要记得确切的地址，因为它将存储在你的浏览历史或书签中。"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:46
 msgid ""
 "If the website is found in the history or bookmarks, you will see a drop-"
 "down list appear below the address bar."
-msgstr ""
+msgstr "如果找到该网站的浏览历史和书签,您将会在地址栏下面看到一个下拉列表。"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:49
 msgid "Select the website you are looking for using the arrow keys."
-msgstr ""
+msgstr "使用箭头键选择您正在寻找的网站。"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:52
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
+msgstr "选择网站后，点击<key>进入</key>浏览。"
 
 #. (itstool) path: note/p
 #: C/gs-browse-web.page:58
@@ -1408,18 +1410,18 @@ msgid ""
 "your desktop. You will be shown the top results that are already on your "
 "Endless computer, and it will also ask if you want to search the internet. "
 "Click on the option to search the internet."
-msgstr ""
+msgstr "你可以通过使用<linkxref = \" gs-use-system-search \" >全球搜索栏< /link>直接从你的桌面搜索互联网使用。首先,在桌面搜索栏上< gui >直接输入你寻找的东西< / gui >。结果会显示在Endless计算机上，它也会问你是否想搜索互联网。点击选择搜索互联网。"
 
 #. (itstool) path: info/desc
 #: C/gs-fix-overscan.page:19
 msgid ""
 "Fix a problem where your TV is cutting off the top and bottom of the screen."
-msgstr ""
+msgstr "修复一个问题：你的电视屏幕从顶部和底部切断。"
 
 #. (itstool) path: page/title
 #: C/gs-fix-overscan.page:22
 msgid "I can't see the task bar or start menu, what do I do?"
-msgstr ""
+msgstr "无法看到任务栏和开始菜单，怎么办？"
 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
@@ -1427,53 +1429,53 @@ msgid ""
 "If you do not see the task bar at the bottom of your screen with the user "
 "menu on the left and the time and facebook icon on the right, you need to "
 "adjust your screen to fit your TV."
-msgstr ""
+msgstr "如果您没有看到屏幕底部的任务栏与左边的用户菜单，以及时间和右边的facebook图标，那么你需要调整你的屏幕，以适应你的电视。"
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:29
 msgid "To adjust your screen:"
-msgstr ""
+msgstr "调节屏幕"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:32
 msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
-msgstr ""
+msgstr "右键点击桌面并选择<gui>改变背景</gui>。"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:37
 msgid "Click the back button on the top left corner of the dialog box."
-msgstr ""
+msgstr "点击对话框左上角的返回键"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:41
 msgid "Select the <gui>Displays</gui> icon."
-msgstr ""
+msgstr "选择<gui>显示器</gui>图标。"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:45
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
-msgstr ""
+msgstr "检查<gui>缩放比例</gui>旁边的对话框，对话框上写着<gui>调节电视屏幕</gui>。"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:50
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
-msgstr ""
+msgstr "现在，您应该看到屏幕底部的黑条，以及屏幕左下角的用户菜单!"
 
 #. (itstool) path: page/title
 #: C/gs-get-online.page:21
 msgid "How do I set up my internet?"
-msgstr ""
+msgstr "如何开始使用互联网？"
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:23
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
 "side of your screen will look like this <_:media-1/>."
-msgstr ""
+msgstr "如果你处于离线,屏幕底部右边的网络连接图标会像这样< _:media-1 / >。"
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:27
@@ -1482,12 +1484,12 @@ msgid ""
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
-msgstr ""
+msgstr "造成离线状态的原因较多：例如，网络电缆被拔出，电脑已经设置为< em >飞行模式 < / em >，或没有可用的无线网络。"
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:34
 msgid "Connect to a wired network"
-msgstr ""
+msgstr "连接有线网络"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
@@ -1495,26 +1497,26 @@ msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
-msgstr ""
+msgstr "如果你想使用有线连接，只需插入网线上网。计算机将尝试为您自动设置网络连接。"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:41 C/gs-get-online.page:76
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
-msgstr ""
+msgstr "电脑为您设置了网络连接后，网络连接图标显示三个点。"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to this <_:media-1/> networked computer symbol."
-msgstr ""
+msgstr "网络连接成功设置后,网络连接图标更改为< _:media-1 / >，表示连接了网络的计算机。"
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:56
 msgid "Connect to a Wi-Fi network"
-msgstr ""
+msgstr "连接WIFI"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:60
@@ -1522,26 +1524,26 @@ msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
 "corner of your screen. You will see this icon <_:media-1/>. Click on it and "
 "a menu should appear."
-msgstr ""
+msgstr "你连接WI-FI了吗？寻找屏幕右下角的网络图标。你会看到这个图标 <_:media-1 / >。点击它，就会出现一个菜单。 "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:66
 msgid ""
 "Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi” to turn "
 "it on. Check to make sure it is now blue."
-msgstr ""
+msgstr "无线网络开关是蓝色的吗?如果不是,请单击“WI-FI”来打开它。检查以确保现在是蓝色的。"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:70
 msgid "Next, select your Wi-Fi network from the list."
-msgstr ""
+msgstr "下一步，从列表中选择WIFI网络"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:73
 msgid ""
 "Enter your network password, which is usually different than the password "
 "you use to log in to your computer."
-msgstr ""
+msgstr "输入您的网络密码，网络密码与电脑登陆密码最好不同。"
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:88
@@ -1549,7 +1551,7 @@ msgid ""
 "If you don’t see your network in the list, try unplugging your Wi-Fi router "
 "then plugging it back in. If it still doesn’t work, you may need to contact "
 "your internet provider directly."
-msgstr ""
+msgstr "如果您在列表中仍未找到网络连接，请试着拔掉你的WI-FI路由器，再插回去。如果它仍然不工作,你可能需要直接联系您的互联网服务提供商。"
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:93
@@ -1557,35 +1559,35 @@ msgid ""
 "Remember that your friends or neighbors may have the same default network "
 "name you do, and your computer may be picking up their network signal. If "
 "your password isn’t working, make sure you have selected the right network."
-msgstr ""
+msgstr "记住你的朋友或邻居可能和你有相同的默认网络名称，你的电脑可能接收他们的网络信号。如果你的密码不起作用，请确保你选择正确的网络。"
 
 #. (itstool) path: page/title
 #: C/gs-give-feedback.page:19
 msgid "How can I help make Endless better?"
-msgstr ""
+msgstr "如何让Endless更好？"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:21
 msgid ""
 "What do you love about Endless? Is there anything you would change? Do you "
 "have any ideas or suggestions for new apps to include?"
-msgstr ""
+msgstr "你喜欢Endless哪些方面?你希望Endless做出什么改变?你对新应用有什么新想法或新建议吗？"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
 msgid "We want to hear from you!"
-msgstr ""
+msgstr "我们诚恳期盼您的建议"
 
 #. (itstool) path: steps/title
 #: C/gs-give-feedback.page:27
 msgid "Here's how to give us your feedback:"
-msgstr ""
+msgstr "如何给我们建议？"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:29
 msgid ""
 "Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr ""
+msgstr "点击屏幕左下角的< _:media-1 / >。"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:35
@@ -1593,28 +1595,28 @@ msgid ""
 "Click the <gui>Give Us Feedback</gui> option. You can also access the "
 "feedback section by opening your browser and clicking the "
 "<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
-msgstr ""
+msgstr "点击< gui > 反馈意见< / gui >选项。您还可以通过打开您的浏览器并点击左下角的<gui > 反馈< / gui >按钮访问反馈部分。"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:42
 msgid ""
 "Enter in your comment, name and email address. You must fill in all three "
 "fields in order to submit your feedback."
-msgstr ""
+msgstr "输入你的评论，姓名和电子邮件地址。您必须填写以上三个字段才能提交您的反馈。"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:47
 msgid ""
 "You will receive a confirmation email to let you know that we have received "
 "your feedback. We will try to get back to you as soon as we can."
-msgstr ""
+msgstr "我们收到反馈后，将发送给您一封电子邮件确认。我们会尽快回复您!"
 
 #. (itstool) path: note/p
 #: C/gs-give-feedback.page:54
 msgid ""
 "Please note that you will need an internet connection in order to submit "
 "your feedback."
-msgstr ""
+msgstr "请注意，提交您的反馈需要网络连接。"
 
 #. (itstool) path: Work/format
 #: C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293
@@ -1628,7 +1630,7 @@ msgstr ""
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
 #: C/gs-web-browser2.svg:102
 msgid "image/svg+xml"
-msgstr ""
+msgstr "image/svg+xml "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:242 C/gs-go-online2.svg:278 C/gs-goa1.svg:80
@@ -1637,7 +1639,7 @@ msgstr ""
 #: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
@@ -1646,7 +1648,7 @@ msgstr ""
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
-msgstr ""
+msgstr "14：30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:266 C/gs-go-online3.svg:306 C/gs-goa1.svg:84
@@ -1655,256 +1657,256 @@ msgstr ""
 #: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
-msgstr ""
+msgstr "WI-FI"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
 #, no-wrap
 msgid "homenetwork"
-msgstr ""
+msgstr "家庭网络"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
 #, no-wrap
 msgid "Select Network"
-msgstr ""
+msgstr "选择网络"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:339
 #, no-wrap
 msgid "Turn Off"
-msgstr ""
+msgstr "关闭"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
 msgid "Network Settings"
-msgstr ""
+msgstr "网络设置"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr ""
+msgstr "WI-FI网络"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "Connect"
-msgstr ""
+msgstr "连接"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "wireless"
-msgstr ""
+msgstr "无线"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:317
 #, no-wrap
 msgid "netgear"
-msgstr ""
+msgstr "网件"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:318
 #, no-wrap
 msgid "weak"
-msgstr ""
+msgstr "弱"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:319
 #, no-wrap
 msgid "private"
-msgstr ""
+msgstr "隐私"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:320
 #, no-wrap
 msgid "Select a network"
-msgstr ""
+msgstr "选择网络"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:343 C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
 #, no-wrap
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
 #: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
-msgstr ""
+msgstr "在线用户"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:71 C/gs-goa3.svg:115
 #, no-wrap
 msgid "Add an online account"
-msgstr ""
+msgstr "添加在线用户"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
 #: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:66
 #, no-wrap
 msgid "Add Account"
-msgstr ""
+msgstr "添加账户"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:73 C/gs-goa4.svg:124
 #, no-wrap
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:74 C/gs-goa4.svg:125
 #, no-wrap
 msgid "Windows Live"
-msgstr ""
+msgstr "Windows Live"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:75 C/gs-goa4.svg:126
 #, no-wrap
 msgid "Microsoft Exchange"
-msgstr ""
+msgstr "Microsoft Exchange "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:76 C/gs-goa4.svg:127
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
-msgstr ""
+msgstr "企业登录(Kerberos)"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
 #: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
-msgstr ""
+msgstr "Google账号"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:69
 #, no-wrap
 msgid "SIGN UP"
-msgstr ""
+msgstr "注册"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:70
 #, no-wrap
 msgid "Sign in"
-msgstr ""
+msgstr "注册"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:71
 #, no-wrap
 msgid "Email"
-msgstr ""
+msgstr "邮件"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:73
 #, no-wrap
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:76
 #, no-wrap
 msgid "Sign In"
-msgstr ""
+msgstr "注册"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
 #, no-wrap
 msgid "john.doe@gmail.com"
-msgstr ""
+msgstr "john.doe@gmail.com "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:103
 #, no-wrap
 msgid "Grant Access"
-msgstr ""
+msgstr "授权访问"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:108
 #, no-wrap
 msgid "Deny Access"
-msgstr ""
+msgstr "拒绝访问"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
 #, no-wrap
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:92
 #, no-wrap
 msgid "Use for"
-msgstr ""
+msgstr "用于"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:93
 #, no-wrap
 msgid "Mail"
-msgstr ""
+msgstr "信件"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:98
 #, no-wrap
 msgid "Calendar"
-msgstr ""
+msgstr "日历"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:103 C/gs-search2.svg:293
 #, no-wrap
 msgid "Contacts"
-msgstr ""
+msgstr "联系人"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:108
 #, no-wrap
 msgid "Chat"
-msgstr ""
+msgstr "聊天"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:113
 #, no-wrap
 msgid "Documents"
-msgstr ""
+msgstr "文件"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
@@ -1912,7 +1914,7 @@ msgstr ""
 #: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
 #, no-wrap
 msgid "ON"
-msgstr ""
+msgstr "打开"
 
 #. (itstool) path: p/link
 #: C/gs-legal.xml:3
