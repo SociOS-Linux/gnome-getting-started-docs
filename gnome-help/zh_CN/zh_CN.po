@@ -3,12 +3,14 @@
 # chenzibing <chenzibing_endless@126.com>, 2016
 # Marco Mai <marco@endlessm.com>, 2016
 # tanyuanxing <tanyuanxingendless@126.com>, 2016
+# zhifeng peng <jnufeng@126.com>, 2016
+# zhoushumin <zhoushumin_endless@126.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2016-06-11 15:10+0000\n"
-"Last-Translator: chenzibing <chenzibing_endless@126.com>\n"
+"PO-Revision-Date: 2016-06-21 01:11+0000\n"
+"Last-Translator: zhifeng peng <jnufeng@126.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -104,7 +106,7 @@ msgid ""
 "that you can also easily access the internet, your documents folder, and a "
 "button to return to the desktop on the right hand side with you are in the "
 "hot corner view mode."
-msgstr "您的电脑设置有热区。将鼠标移到右下角您就可以看到全部已打开的应用程序与运行中活动。您可以在这里按下滑动过时出现的“X”按钮以切换或关闭它们。您还可以轻松访问互联网、文件夹，然后按下右侧热区视图里的按钮就可以返回桌面。"
+msgstr "您的电脑设置有热点区。将鼠标移到右下角您就可以看到全部已打开的应用程序与运行中活动。您可以在这里按下滑动过时出现的“X”按钮以切换或关闭它们。您还可以轻松访问互联网、文件夹，然后按下右侧热区视图里的按钮就可以返回桌面。"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:45
@@ -1075,7 +1077,7 @@ msgstr " 点击本窗口左下角的<key>+</key> 。"
 #: C/endless-13-printers.page:36
 msgid ""
 "Select your printer from the list that appears, and click <gui>Add</gui>."
-msgstr "从列表中选择打印机，然后点击<gui>添加</gui>."
+msgstr "从列表中选择打印机，然后点击<gui>添加</gui>。"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:38
@@ -1083,13 +1085,13 @@ msgid ""
 "You will see the name of your printer appear. If you want to check that your"
 " printer is configured correctly, click the button that says "
 "<gui>Print</gui> to print a sample page."
-msgstr "您将看到打印机的名字。如果你想检查打印机是正确配置,点击按钮< gui >打印 < / gui >打印示例页面。"
+msgstr "您将看到打印机的名字。如果你想检查打印机是正确配置，点击< gui >打印 < / gui >按钮来打印示例页面。"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:42
 msgid ""
 "You can now close this window and begin to use your printer with Endless!"
-msgstr "现在可以关闭窗口开始使用Endless与打印机。"
+msgstr "现在可以关闭窗口并开始在Endless上使用打印机。"
 
 #. (itstool) path: info/desc
 #: C/endless-videos.page:9
@@ -1131,7 +1133,7 @@ msgstr "开始"
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:6
 msgid "Changing Wallpaper"
-msgstr "改变墙纸"
+msgstr "更改墙纸"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:7
@@ -1328,12 +1330,12 @@ msgstr "原始时区"
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:43
 msgid "14 October 2013, 20:00"
-msgstr "2013年10月14日，20：00··"
+msgstr "2013年10月14日，20:00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:44
 msgid "14 October 2013, 14:00"
-msgstr "2013年10月14日，14：00"
+msgstr "2013年10月14日，14:00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-get-online.page:9 C/gs-use-system-search.page:9
@@ -1362,7 +1364,7 @@ msgid ""
 "Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
 "your desktop. You can browse the internet by clicking on this desktop icon "
 "once."
-msgstr "你的电脑在桌面上有预装< gui >互联网应用程序</gui > 图标。您可以通过点击桌面图标浏览互联网。"
+msgstr "你的电脑在桌面上有预装的< gui >互联网app</gui > 图标。您可以通过点击桌面图标浏览互联网。"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:33
@@ -1399,7 +1401,7 @@ msgstr "使用箭头键选择您正在寻找的网站。"
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:52
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr "选择网站后，点击<key>进入</key>浏览。"
+msgstr "选择网站后，点击<key>回车键</key>浏览。"
 
 #. (itstool) path: note/p
 #: C/gs-browse-web.page:58
@@ -1416,7 +1418,7 @@ msgstr "你可以通过使用<linkxref = \" gs-use-system-search \" >全球搜�
 #: C/gs-fix-overscan.page:19
 msgid ""
 "Fix a problem where your TV is cutting off the top and bottom of the screen."
-msgstr "修复一个问题：你的电视屏幕从顶部和底部切断。"
+msgstr "修复你的电视屏幕从顶部和底部切断这一问题。"
 
 #. (itstool) path: page/title
 #: C/gs-fix-overscan.page:22
@@ -1439,7 +1441,7 @@ msgstr "调节屏幕"
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:32
 msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
-msgstr "右键点击桌面并选择<gui>改变背景</gui>。"
+msgstr "右键点击桌面并选择<gui>更改背景</gui>。"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:37
@@ -1475,7 +1477,7 @@ msgstr "如何开始使用互联网？"
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
 "side of your screen will look like this <_:media-1/>."
-msgstr "如果你处于离线,屏幕底部右边的网络连接图标会像这样< _:media-1 / >。"
+msgstr "如果你处于离线状态，屏幕右下端的网络连接图标会显示< _:media-1 / >。"
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:27
@@ -1497,7 +1499,7 @@ msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
-msgstr "如果你想使用有线连接，只需插入网线上网。计算机将尝试为您自动设置网络连接。"
+msgstr "如果你想使用有线连接，只需插入网线上网。电脑将会为您自动设置网络连接。"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:41 C/gs-get-online.page:76
@@ -1524,7 +1526,7 @@ msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
 "corner of your screen. You will see this icon <_:media-1/>. Click on it and "
 "a menu should appear."
-msgstr "你连接WI-FI了吗？寻找屏幕右下角的网络图标。你会看到这个图标 <_:media-1 / >。点击它，就会出现一个菜单。 "
+msgstr "你连接WI-FI了吗？寻找屏幕右下角的网络图标，你会看到<_:media-1 / 图标 。点击它，就会出现一个菜单。 "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:66
@@ -1536,7 +1538,7 @@ msgstr "无线网络开关是蓝色的吗?如果不是,请单击“WI-FI”来�
 #. (itstool) path: item/p
 #: C/gs-get-online.page:70
 msgid "Next, select your Wi-Fi network from the list."
-msgstr "下一步，从列表中选择WIFI网络"
+msgstr "下一步，从列表中选择WIFI网络。"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:73
@@ -1551,7 +1553,7 @@ msgid ""
 "If you don’t see your network in the list, try unplugging your Wi-Fi router "
 "then plugging it back in. If it still doesn’t work, you may need to contact "
 "your internet provider directly."
-msgstr "如果您在列表中仍未找到网络连接，请试着拔掉你的WI-FI路由器，再插回去。如果它仍然不工作,你可能需要直接联系您的互联网服务提供商。"
+msgstr "如果您在列表中仍未找到网络连接，请试着拔掉你的WI-FI路由器，再插回去。如果它仍然不能运作，你可能需要直接联系您的互联网服务提供商。"
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:93
@@ -1564,7 +1566,7 @@ msgstr "记住你的朋友或邻居可能和你有相同的默认网络名称，
 #. (itstool) path: page/title
 #: C/gs-give-feedback.page:19
 msgid "How can I help make Endless better?"
-msgstr "如何让Endless更好？"
+msgstr "如何让Endless运行得更好？"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:21
@@ -1648,7 +1650,7 @@ msgstr "1"
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
-msgstr "14：30"
+msgstr "14:30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:266 C/gs-go-online3.svg:306 C/gs-goa1.svg:84
@@ -1748,13 +1750,13 @@ msgstr "3"
 #: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
-msgstr "在线用户"
+msgstr "在线账户"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:71 C/gs-goa3.svg:115
 #, no-wrap
 msgid "Add an online account"
-msgstr "添加在线用户"
+msgstr "添加在线账户"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
@@ -1810,7 +1812,7 @@ msgstr "5"
 #: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
-msgstr "Google账号"
+msgstr "Google账户"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:69
@@ -1822,7 +1824,7 @@ msgstr "注册"
 #: C/gs-goa4.svg:70
 #, no-wrap
 msgid "Sign in"
-msgstr "注册"
+msgstr "登陆"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:71
@@ -1840,7 +1842,7 @@ msgstr "密码"
 #: C/gs-goa4.svg:76
 #, no-wrap
 msgid "Sign In"
-msgstr "注册"
+msgstr "登陆"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
@@ -1906,7 +1908,7 @@ msgstr "聊天"
 #: C/gs-goa5.svg:113
 #, no-wrap
 msgid "Documents"
-msgstr "文件"
+msgstr "文档"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
@@ -1919,126 +1921,126 @@ msgstr "打开"
 #. (itstool) path: p/link
 #: C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr ""
+msgstr "知识共享署名 3.0 Unported许可协议"
 
 #. (itstool) path: license/p
 #: C/gs-legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
-msgstr ""
+msgstr "此任务由<_:link-1/>授权。"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:137
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:148
 #, no-wrap
 msgid "Files"
-msgstr ""
+msgstr "文件"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:149
 #, no-wrap
 msgid "Enabled"
-msgstr ""
+msgstr "已启用"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:264
 #, no-wrap
 msgid "Web"
-msgstr ""
+msgstr "网页"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:265
 #, no-wrap
 msgid "Photos"
-msgstr ""
+msgstr "图片"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:266
 #, no-wrap
 msgid "Music"
-msgstr ""
+msgstr "音乐"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:293
 #, no-wrap
 msgid "OFF"
-msgstr ""
+msgstr "关闭"
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:229
 #, no-wrap
 msgid "just type"
-msgstr ""
+msgstr "仅输入"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:182
 #, no-wrap
 msgid "con"
-msgstr ""
+msgstr "con"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:246
 #, no-wrap
 msgid "Accounts"
-msgstr ""
+msgstr "账户"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr ""
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:248
 #, no-wrap
 msgid "config"
-msgstr ""
+msgstr "配置"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:249 C/gs-search2.svg:252
 #, no-wrap
 msgid "fontconfig"
-msgstr ""
+msgstr "fontconfig"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:250
 #, no-wrap
 msgid "system-config-http.zip"
-msgstr ""
+msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:251
 #, no-wrap
 msgid "Icon guidelines"
-msgstr ""
+msgstr "图标指引"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:269
 #, no-wrap
 msgid "Secure Linux Containers"
-msgstr ""
+msgstr "安全LXC"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:270
 #, no-wrap
 msgid "Developer Conference 2012"
-msgstr ""
+msgstr "2012年开发者大会"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
 #, no-wrap
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Thanks f"
-msgstr ""
+msgstr "感谢 f"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
@@ -2046,14 +2048,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. (itstool) path: text/tspan
 #. Translators: M stands for Monday here
 #: C/gs-thumb-timezone.svg:94
 #, no-wrap
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Tuesday here
@@ -2061,14 +2063,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
 #: C/gs-thumb-timezone.svg:96
 #, no-wrap
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
@@ -2076,14 +2078,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
 #: C/gs-thumb-timezone.svg:98
 #, no-wrap
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
@@ -2091,185 +2093,185 @@ msgstr ""
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:109
 #, no-wrap
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:110
 #, no-wrap
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:111
 #, no-wrap
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:112
 #, no-wrap
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:113
 #, no-wrap
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:114
 #, no-wrap
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:116
 #, no-wrap
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:117
 #, no-wrap
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:118
 #, no-wrap
 msgid "17"
-msgstr ""
+msgstr "17"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:119
 #, no-wrap
 msgid "18"
-msgstr ""
+msgstr "18"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:120
 #, no-wrap
 msgid "19"
-msgstr ""
+msgstr "9"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:121
 #, no-wrap
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:122
 #, no-wrap
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:124
 #, no-wrap
 msgid "22"
-msgstr ""
+msgstr "22"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:125
 #, no-wrap
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:126
 #, no-wrap
 msgid "24"
-msgstr ""
+msgstr "24"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:127
 #, no-wrap
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:128
 #, no-wrap
 msgid "26"
-msgstr ""
+msgstr "26"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:129
 #, no-wrap
 msgid "27"
-msgstr ""
+msgstr "27"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:130
 #, no-wrap
 msgid "28"
-msgstr ""
+msgstr "28"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:132
 #, no-wrap
 msgid "29"
-msgstr ""
+msgstr "29"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:133
 #, no-wrap
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:134
 #, no-wrap
 msgid "31"
-msgstr ""
+msgstr "31"
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:20
 msgctxt "link:shell-overview"
 msgid "Find apps that work without the internet"
-msgstr ""
+msgstr "查找不需连接互联网的的app"
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:21
 msgctxt "link:net"
 msgid "Use your computer offline"
-msgstr ""
+msgstr "离线使用电脑"
 
 #. (itstool) path: info/desc
 #: C/gs-use-offline.page:22
 msgid "Discover all the offline content on your computer."
-msgstr ""
+msgstr "发现电脑中的离线内容。"
 
 #. (itstool) path: page/title
 #: C/gs-use-offline.page:25
 msgid "What can I do if I don't have internet?"
-msgstr ""
+msgstr "没有互联网连接时该怎么做？"
 
 #. (itstool) path: page/p
 #: C/gs-use-offline.page:27
 msgid ""
 "Your computer comes with a lot of great offline content you can use even if "
 "you don't have an internet connection."
-msgstr ""
+msgstr "您的电脑里自带很多离线内容，即便没有互联网连接时也可以使用。"
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:31
 msgid "Introducing the <app>App Center</app>"
-msgstr ""
+msgstr "<app>应用中心</app>简介"
 
 #. (itstool) path: section/p
 #: C/gs-use-offline.page:32
@@ -2278,17 +2280,17 @@ msgid ""
 "added to your desktop. Most of the apps you'll find there have offline "
 "capability and you can browse by category to find just what you're looking "
 "for, or else just click around and explore."
-msgstr ""
+msgstr "<app>应用中心</app>中有海量免费的app，可以很便捷地添加到桌面。其中大部分app都可以离线操作，您可以通过分类浏览来查找想要下载的app，或者四处点击进行探索。"
 
 #. (itstool) path: steps/title
 #: C/gs-use-offline.page:37
 msgid "How to get to the <app>App Center</app>:"
-msgstr ""
+msgstr "如何访问 <app>应用中心</app>"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:39
 msgid "Click on <app>More Apps</app> from the desktop."
-msgstr ""
+msgstr "点击桌面的 <app>更多应用</app>"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:43
@@ -2296,33 +2298,33 @@ msgid ""
 "Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
 "<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
 "section."
-msgstr ""
+msgstr "点击 <gui>教育</gui>, <gui>游戏</gui>, <gui>资源</gui> 和 <gui>实用工具</gui>等分类，以查看每个类别中的app。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:49
 msgid ""
 "Click on an app to read more about it and either install it or add it to "
 "your desktop."
-msgstr ""
+msgstr "点击app可以查看更多相信息，您可以安装此应用或将其添加到桌面。"
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:57
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
 "<app>App Center</app>:"
-msgstr ""
+msgstr "这里列举了一些在桌面或<app>应用中心</app>中的离线内容："
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:61
 msgid "Education"
-msgstr ""
+msgstr "教育"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:63
 msgid ""
 "<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
 "encyclopedia with all the power of the internet's best."
-msgstr ""
+msgstr "<app>Encyclopedia</app> - 搜索了解各种知识和内容吧。一本离线的百科全书，涵盖了互联网上的丰富内容。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:67
@@ -2330,106 +2332,106 @@ msgid ""
 "<app>Virtual School</app> - Hundreds of videos to help you lean more about "
 "your favorite subjects, or to help you understand subjects that are "
 "difficult for you."
-msgstr ""
+msgstr "<app>Virtual Schoo</app> - 涵盖海量视频，供您更多地了解喜欢的学科，克服有障碍的学科。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:72
 msgid ""
 "<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
 " help children of all ages develop their mental abilities."
-msgstr ""
+msgstr "<app>Edu Games</app> - 里面有象棋、拼图等游戏和活动，能够提高各个年龄阶段小孩思维能力。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:77
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
-msgstr ""
+msgstr "<app>Tux 数学</app> - 为孩子提供有趣的方式来练习加法、减法、乘法等运算。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:81
 msgid ""
 "<app>Tux Typing</app> - Learn how to type with this game that guides you and"
 " helps you practice so that you can type faster and more accurately."
-msgstr ""
+msgstr "<app>Tux 打字</app> - 通过此游戏了解如何打字。它指引您进行打字练习，提高您打字的速度和准确度。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:86
 msgid ""
 "<app>World Literature</app> - Read many of the world's greatest stories."
-msgstr ""
+msgstr "<app>世界文学</app> - 阅读各种世界名作。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:90
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
-msgstr ""
+msgstr "<app>动物</app> - 更多地了解您喜欢的动物，以及一些您闻所未闻的物种！"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:96
 msgid "Games"
-msgstr ""
+msgstr "游戏"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:98
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
-msgstr ""
+msgstr "<app>Tux Kart</app> - 与电脑或朋友控制的角色进行赛跑。可以通过获得超能力、躲避陷阱来获得第一名。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:102
 msgid ""
 "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
-msgstr ""
+msgstr "<app>Potato Guy</app> - 设计Mr. Potato Guy的脸部及人物特征。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:106
 msgid ""
 "<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
 " you get to the next level."
-msgstr ""
+msgstr "<app>Numpty Physics</app> - 绘制物体然后借助物理定律来通关。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:110
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
-msgstr ""
+msgstr "<app>X-Moto</app> - 尝试以最快的控制您的摩托车来翻越山区、绕过障碍物，来完成一个个关卡。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:114
 msgid ""
 "<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
 " that you don't blow up. This strategy game is addictive."
-msgstr ""
+msgstr "<app>Minetest</app> - 不要踩到地下有矿井的地方以避免发生爆炸。这种策略游戏非常让人着迷！"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:118
 msgid ""
 "<app>Blockout2</app> - A tetris-like game where you need to match the colors"
 " as best you can before the screen fills up and you lose."
-msgstr ""
+msgstr "<app>Blockout2</app> - 一款类似于俄罗斯方块的游戏，您需对相同颜色的方块进行匹配，方块堆满屏幕时，您就输了游戏。"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:124
 msgid "Resources"
-msgstr ""
+msgstr "资源"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:126
 msgid ""
 "<app>Writer</app> - Write papers for school, work or for anything else you "
 "need. Compatible with Microsoft's Word."
-msgstr ""
+msgstr "<app>Writer</app> - 可以写学校论文、工作报告等您要写的东西，与Microsoft's Word兼容。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:130
 msgid ""
 "<app>Presentation</app> - Create beautiful presentations! Compatible with "
 "Microsoft's Powerpoint."
-msgstr ""
+msgstr "<app>Presentation</app>  - 创建美观的展示报告吧！与Microsoft's Powerpoint兼容。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:134
@@ -2437,39 +2439,39 @@ msgid ""
 "<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
 "yourself in ways you never thought possible with this powerful spreadsheet "
 "app. Compatible with Microsoft's Excel."
-msgstr ""
+msgstr "<app>Spreadsheet</app> - 可以进行简单或复杂的计算，或者运用这个功能强大的app来整理数据，给您前所未有的体验。与Microsoft's Excel兼容。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:139
 msgid ""
 "<app>Resume</app> - Learn how to make a great resume to help you find your "
 "ideal job."
-msgstr ""
+msgstr "<app>Resume</app> - 学会如何创建一份好的简历，以找到理想的工作。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:143
 msgid ""
 "<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
 "yourself and your family healthy."
-msgstr ""
+msgstr "<app>Health</app> - 查找了解基本、治疗方法，以及学会如何让您和您的家人保持健康的身体。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:147
 msgid ""
 "<app>How To</app> - Learn how to do just about anything with this handy app."
-msgstr ""
+msgstr "<app>How To</app> - 通过这个便捷的app学习如何处理各种事情。"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:153
 msgid "Entertainment"
-msgstr ""
+msgstr "娱乐"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:155
 msgid ""
 "<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
 " webcam, not included with Endless."
-msgstr ""
+msgstr "<app>Cheese</app> - 和您的朋友、家人拍下有趣的照片吧！*需要 Endless中未配备的网络摄像机。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:159
@@ -2477,40 +2479,40 @@ msgid ""
 "<app>Videos</app> - Watch some of the pre-installed videos that come with "
 "Endless, or transfer videos from a USB or DVD and watch them on this great "
 "and easy-to use media player."
-msgstr ""
+msgstr "<app>Videos</app> -  观看一些预先下载在 Endless中的视频，或者将 USB 或 DVD中的视频传输到电脑中，用这个强大、便捷的媒体播放器来观看。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:164
 msgid ""
 "<app>Myths and Legends</app> - Read about myths and legends from all over "
 "the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr ""
+msgstr "<app>Myths and Legends</app> - 阅读世界各地的神话与传说！从La Llorona到Big Foot，应有尽有。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:169
 msgid ""
 "<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
 "stars, and other celebrities"
-msgstr ""
+msgstr "<app>Celebrities</app> - 了解体育明星、电影明星和其他名人的各种信息。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:173
 msgid ""
 "<app>Travel</app> - Read about places around the world and see beautiful "
 "pictures that will make you feel like you're actually there!"
-msgstr ""
+msgstr "<app>Travel</app> - 阅读世界各地的简介、欣赏让你身临其境的精美图片！"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:180
 msgid "Utility"
-msgstr ""
+msgstr "实用工具"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:182
 msgid ""
 "<app>Notes</app> - A handy app to help you jot down things you don't want to"
 " forget!"
-msgstr ""
+msgstr "<app>Notes</app> - 一个方便的app，方便您记下一下担心会忘记的事情。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:186
@@ -2518,33 +2520,33 @@ msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
 "something of your own!"
-msgstr ""
+msgstr "<app>视频编辑器</app> - 用您的手机拍摄视频，来创建属于您的杰作吧。或者将已有的视频按照您自己的风格进行编辑！"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:191
 msgid ""
 "<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
 " and more, to make them even more awesome!"
-msgstr ""
+msgstr "<app>图片编辑器</app> - 为您的图片添加滤镜和边框，或者进行剪切等操作，让图片更加的美观！"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:195
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
-msgstr ""
+msgstr "<app>音频编辑器</app> - 剪切、混合以及创建歌曲和音乐，然后和您的朋友们随歌起舞吧！"
 
 #. (itstool) path: info/desc
 #: C/gs-use-system-search.page:19
 msgid ""
 "Search for things on your computer and on the internet right from your "
 "desktop!"
-msgstr ""
+msgstr "直接从桌面上搜索您电脑中和互联网中的内容！"
 
 #. (itstool) path: page/title
 #: C/gs-use-system-search.page:23
 msgid "Use global search"
-msgstr ""
+msgstr "使用全局搜索"
 
 #. (itstool) path: page/p
 #: C/gs-use-system-search.page:25
@@ -2553,135 +2555,135 @@ msgid ""
 "photos and more, right from your desktop. If you have an internet conection,"
 " you can even look for things that are on the internet, like you would on "
 "google, with the global search tool."
-msgstr ""
+msgstr "全局搜索栏让搜索变得非常简单！您可以在桌面上通过它来查找app，文档，图片等。如果您有互联网连接，甚至可以查找互联网上的内容，比如说google等网站。"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr ""
+msgstr "在桌面上点击屏幕顶端的<app>全局搜索栏</app>，那里显示着 <gui>输入以搜索</gui>。开始输入您要查找的文件名称吧。"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
-msgstr ""
+msgstr "在您进行输入时，会显示相应的匹配结果。最后的搜索结果将会在顶部高亮显示。"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40
 msgid "Press <key>Enter</key> to choose the first highlighted result."
-msgstr ""
+msgstr "按下<key>回车键</key>选择第一个高亮显示的结果。 "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:44 C/gs-where-files.page:40
 msgid "Items that may appear in the search results include:"
-msgstr ""
+msgstr "出现在搜索结果中的项目包括："
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:46 C/gs-where-files.page:42
 msgid "matching applications, shown at the top of the search results,"
-msgstr ""
+msgstr "匹配的应用会显示在搜索结果的顶端，"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:48 C/gs-where-files.page:44
 msgid "matching settings, and"
-msgstr ""
+msgstr "匹配的设置，以及"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:49 C/gs-where-files.page:45
 msgid "matching documents."
-msgstr ""
+msgstr "匹配的文档"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:54 C/gs-where-files.page:49
 msgid "In the search results, click on the item you want to open."
-msgstr ""
+msgstr "在搜索结果中，点击打开您想要的项目。"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:55 C/gs-where-files.page:50
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
-msgstr ""
+msgstr "或者，使用箭头按键选中一个项目后按下 <key>回车键</key>。"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
 #, no-wrap
 msgid "Applications"
-msgstr ""
+msgstr "应用"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
-msgstr ""
+msgstr "gnome"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
 #, no-wrap
 msgid "Planet Gnome"
-msgstr ""
+msgstr "Planet Gnome"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
 #, no-wrap
 msgid "GNOME 3"
-msgstr ""
+msgstr "GNOME 3"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
 #, no-wrap
 msgid "http://planet.gnome.org"
-msgstr ""
+msgstr "http://planet.gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
 #, no-wrap
 msgid "http://gnome.org"
-msgstr ""
+msgstr "http://gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
-msgstr ""
+msgstr "planet.gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2.svg:247
 #, no-wrap
 msgid "Planet GNOME"
-msgstr ""
+msgstr "Planet GNOME"
 
 #. (itstool) path: page/title
 #: C/gs-where-files.page:19
 msgid "Where are my documents and files?"
-msgstr ""
+msgstr "我的文档和文件在哪里？"
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
 "When you store files to your computer, they are automatically stored in your"
 " <app>Documents</app> folder on your desktop."
-msgstr ""
+msgstr "您将文件存储到电脑时，文件会自动存在桌面的<app>文档</app>文件夹中。"
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:24
 msgid "Here are some ways to look for a file you have saved:"
-msgstr ""
+msgstr "以下是一些查看您已保存的文件的方法："
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:27
 msgid "If you know the name of your file"
-msgstr ""
+msgstr "如果您知道文件名称"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:29
 msgid ""
 "If you know the name of your file, then you can easily search for it right "
 "from the desktop."
-msgstr ""
+msgstr "如果您知道文件的名称，就可以很方便地从桌面进行查找。"
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:33
@@ -2689,18 +2691,18 @@ msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "在桌面上点击屏幕顶侧的<app>全局搜索栏</app>，那里显示着 <gui>输入以搜索..</gui>。开始输入您要查找的文件名称吧。"
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58
 msgid "If you do not know the name of your file"
-msgstr ""
+msgstr "如果您不知道文件名称"
 
 #. (itstool) path: section/p
 #. (itstool) path: item/p
 #: C/gs-where-files.page:60 C/gs-where-files.page:90
 msgid "Click on <app>Documents</app> from the desktop."
-msgstr ""
+msgstr "点击桌面上的 <app>文档</app>。"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:63
@@ -2709,7 +2711,7 @@ msgid ""
 "and videos, so that they are easier for you to find. You will see that the "
 "menu on the left shows these categories. Click on them once to go to that "
 "folder."
-msgstr ""
+msgstr "Endless会以文档、音乐、图片、视频等分类来保存您的文件，方便您进行查找。您会在左侧菜单中看到这些分类，单击某个类别就可打开文件夹。"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:69
@@ -2718,7 +2720,7 @@ msgid ""
 "click through the different folders you create to get to the files you have "
 "stored there. Clicking through folders is especially helpful if you are not "
 "sure what the file you saved is named."
-msgstr ""
+msgstr "您可以创建自定义文件夹以更好地对文件进行管理。通过点击不同的自定义文件夹来找到您保存在那里的文件。在您不确定所保存的文件名称时，逐个文件夹进行点击就尤其有帮助。"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:74
@@ -2730,17 +2732,17 @@ msgid ""
 " to highlight the file and press <key>Enter</key> to open it. Or, you can "
 "click on the result you want with your mouse to higlight it, and double "
 "click to open it."
-msgstr ""
+msgstr "看到顶部带有放大镜图标的一栏吗？单击那里，输入您要查找的文件名称。在您开始输入时，与所输文字所匹配的文件会显示在下方。如果您在列表中看到您想找的文件，可以使用箭头按键进行选择然后按下 <key>回车键</key>来打开。或者，对于您想要的结果，可以点击鼠标进行高亮显示，双击进行打开。"
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:84
 msgid "If your file is on a USB"
-msgstr ""
+msgstr "如果您的文件在USB上"
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:87
 msgid "Make sure that the USB is properly plugged in."
-msgstr ""
+msgstr "确保USB已正确插入。"
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:93
@@ -2748,7 +2750,7 @@ msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
 "something with the device's brand, unless you have changed it."
-msgstr ""
+msgstr "点击窗口左端菜单的设备名称。设备名称在垃圾桶图标的上方显示。如果您没有对名称进行修改的话，通常显示的是该设备的品牌名。"
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:98
@@ -2756,7 +2758,7 @@ msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
 "the magnifying glass to search for the file name if you know it."
-msgstr ""
+msgstr "在 USB浏览文件。单击进行预览，双击进行打开。如果您知道要查找的文件名称，还可以点击带有放大镜图标的顶栏进行搜索。"
 
 #. (itstool) path: note/p
 #: C/gs-where-files.page:105
@@ -2765,4 +2767,4 @@ msgid ""
 "without saving your work, you might not be able to find it again since not "
 "all programs auto-save. Save as often as you can in order to make sure that "
 "your work does not get lost."
-msgstr ""
+msgstr "确保您真的已经将文件保存好了！如果您关闭了一个尚未保存的程序，可能就再也找不回来了，因为不是所有的程序都会自动保存的。请频繁地进行保存，以确保不丢失您的资料。"
