@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2016-06-25 00:29+0000\n"
+"PO-Revision-Date: 2016-07-01 18:38+0000\n"
 "Last-Translator: Marco Mai <marco@endlessm.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -75,7 +75,7 @@ msgstr "01"
 #. (itstool) path: info/desc
 #: C/endless-01-desktop.page:21
 msgid "A video showing the basics of the Endless desktop."
-msgstr "介绍Endless桌面基本知识的视频"
+msgstr "介绍Endless安迪思桌面基本知识的视频"
 
 #. (itstool) path: page/title
 #: C/endless-01-desktop.page:24
@@ -86,7 +86,7 @@ msgstr "桌面介绍"
 #: C/endless-01-desktop.page:34
 msgid ""
 "Welcome to Endless, the operating system that powers your new computer."
-msgstr "欢迎使用Endless——让您的新电脑变得强大的操作系统。"
+msgstr "欢迎使用Endless安迪思 —— 让您的新电脑变得强大的操作系统。"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:35
@@ -149,7 +149,7 @@ msgid ""
 "once on the folder called <gui>Games</gui>, you’ll find icons with the names"
 " of all the games in that folder. Click on a game once to open it and start "
 "playing!"
-msgstr "您的电脑桌面和文件夹里都预装了许多应用程序，并已分类放置好。例如，当您单击名称为<gui>游戏</gui>的用文件夹，您就可以在那里找到各种游戏。单击打开，开始享受游戏吧！"
+msgstr "您的电脑桌面和文件夹里都预装了许多应用程序，并已分类放置好。例如，当您单击名称为<gui>游戏</gui>的文件夹，您就可以在那里找到各种游戏。单击打开，开始享受游戏吧！"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:38
@@ -162,7 +162,7 @@ msgid ""
 "created and installed, you will see a confirmation telling you that your new"
 " folder has been added. Now you can close the window and find your new "
 "folder to the left of the <app>More Apps</app> icon."
-msgstr "您还可以进一步管理您的文件夹。要创建一个文件夹，请点击标有 <app>更多应用</app>的图标，然后点击屏幕左侧的<gui>文件夹</gui>，选择文件夹图标并命名。点击带有加号的绿色按钮可以将文件夹添加到桌面上。当完成创建与安装，您会看到一个确认消息提示您已添加新文件夹。现在您可以关闭窗口，在左侧的<app>更多应用</app>图标找到您的新文件夹了。"
+msgstr "您还可以进一步管理您的文件夹。要创建一个文件夹，请点击标有 <app>更多应用</app>的图标，然后点击屏幕左侧的<gui>文件夹</gui>，选择文件夹图标并命名。点击带有加号的绿色按钮可以将文件夹添加到桌面上。当完成创建与安装，您会看到一个确认消息提示您已添加新文件夹。现在您可以关闭窗口，在<app>更多应用</app>图标的左侧找到您的新文件夹了。"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:46
@@ -225,7 +225,7 @@ msgid ""
 "click on the <gui>Education</gui> category, you’ll find several educational "
 "apps that you can add and use offline. Similarly, if you click on the Games "
 "category, you’ll find games you can add."
-msgstr "您可以浏览<app>应用中心</app>。例如，当您点击<gui>教育</gui>类时，您会找到许多教育类应用，您可以添加并离线使用。同样的，当您点击游戏类时，您会找到可添加的游戏。"
+msgstr "您可以浏览<app>应用中心</app>。例如，当您点击<gui>教育</gui>类时，您会找到许多教育类应用，您可以添加并离线使用。同样地，当您点击游戏类时，您会找到可添加的游戏。"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:48
@@ -269,13 +269,13 @@ msgid ""
 "You can also delete a folder this same way, by clicking on it, dragging it "
 "over the recycling bin, and letting go. Remember that the folder has to be "
 "empty in order to delete it."
-msgstr "您可以用同样的方式删除文件夹：点击并将其拖拽到回收箱上，然后松开。请记住删除前清空文件夹。"
+msgstr "您可以用同样的方式删除文件夹：点击并将其拖拽到回收箱上，然后松开。请记住删除前先清空文件夹。"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:72
 msgid ""
 "That’s how easy it is to add and remove apps and folders from your desktop!"
-msgstr "添加、移除应用程序和文件夹就是这么简单！"
+msgstr "添加、删除应用程序和文件夹就是这么简单！"
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:19
@@ -292,7 +292,7 @@ msgstr "04"
 #. (itstool) path: info/desc
 #: C/endless-04-wifi.page:21
 msgid "A video showing how to set up Wi-Fi with Endless."
-msgstr "介绍如何在Endless设置Wi-Fi 的视频。"
+msgstr "介绍如何在Endless安迪思设置Wi-Fi 的视频。"
 
 #. (itstool) path: page/title
 #: C/endless-04-wifi.page:24
@@ -329,7 +329,7 @@ msgid ""
 " be different. If you’re not sure what the name of your Wi-Fi network is, or"
 " don’t know the password, you can call the company that provides your "
 "internet and ask them."
-msgstr "选择无线网络的名称。您自己的Wi-Fi网络名称可能与这里展示的名称<gui>Endless Wi-Fi</gui>不相同。如果您不确定Wi-Fi网络名称或密码，您可以询问您的互联网供应商。"
+msgstr "选择无线网络的名称。您自己的Wi-Fi网络名称可能与这里展示的名称<gui>Endless Wi-Fi</gui>不相同。如果您不确定Wi-Fi网络名称或密码，您可以询问您的网络供应商。"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:51
@@ -354,7 +354,7 @@ msgstr "这样您就连接上互联网啦！"
 #: C/endless-05-files.page:19
 msgctxt "link"
 msgid "Exploring your files"
-msgstr "探索您的文件"
+msgstr "管理您的文件"
 
 #. (itstool) path: info/title
 #: C/endless-05-files.page:20
@@ -370,14 +370,14 @@ msgstr "介绍如何使用文件系统的视频。"
 #. (itstool) path: page/title
 #: C/endless-05-files.page:24
 msgid "Exploring your files"
-msgstr "探索您的文件"
+msgstr "管理您的文件"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:35
 msgid ""
 "You can easily organize your documents and files with folders. Here’s how to"
 " do it."
-msgstr "您可以使用文件夹轻松管理您的文档和文件。以下是管理方法。"
+msgstr "您可以使用文件夹轻松管理您的文档和文件。以下是具体操作。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:38
@@ -406,7 +406,7 @@ msgstr "当您进入<app>文档</app> 主文件夹，您可以创建一个可以
 msgid ""
 "You can also open a folder by clicking the right button of your mouse, and "
 "then clicking <gui>Open</gui> with the left button."
-msgstr "您可以点击鼠标右键，之后用左键点击<gui>打开</gui>以打开文件夹。"
+msgstr "您也可以点击鼠标右键，之后用左键点击<gui>打开</gui>以打开文件夹。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:53
@@ -415,7 +415,7 @@ msgid ""
 "name of the folder you wish to open. For example, if you click the name "
 "<gui>Images</gui> with your left mouse button, you’ll open the "
 "<gui>Images</gui> folder."
-msgstr "点击想打开的文件夹名称以使用屏幕左侧的快捷方式。例如，当您用鼠标左键点击<gui>图像</gui>时，您可以打开<gui>图像</gui>文件夹。"
+msgstr "也可以使用屏幕左侧的快捷方式来直接打开相应文件夹。例如，当您用鼠标左键点击<gui>图像</gui>时，您可以打开<gui>图像</gui>文件夹。"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:58
@@ -451,7 +451,7 @@ msgstr "在回收箱里，只需选择并点击 <gui>恢复</gui>，您就可以
 #. (itstool) path: page/p
 #: C/endless-05-files.page:77
 msgid "It’s easy to organize your files on Endless, right?"
-msgstr "在Endless里管理您的文件很简单吧？"
+msgstr "在Endless安迪思里管理您的文件很简单吧？"
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:19
@@ -491,7 +491,7 @@ msgid ""
 "find it easily: on the desktop next to other apps’ icons, on the black task "
 "bar on the bottom part of your screen, and on the right side of the screen "
 "when you move your mouse to the bottom right hot corner."
-msgstr "如果您的电脑已经连接上互联网，您可以点击右下角任务栏里的橙色圆圈打开浏览器。我们在不同的地方放置了这个橙色图标以便您能找到：桌面应用程序图标旁；屏幕底端黑色任务栏里；移动鼠标到右下角热区时屏幕右侧。"
+msgstr "如果您的电脑已经连接上互联网，您可以点击左下方任务栏里的橙色圆圈打开浏览器。我们在不同的地方放置了这个橙色图标以便您能找到：桌面应用程序图标旁；屏幕底端黑色任务栏里；移动鼠标到右下角热区时屏幕右侧。"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:45
