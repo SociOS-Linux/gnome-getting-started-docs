@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2016-08-08 17:04+0000\n"
+"PO-Revision-Date: 2016-08-16 01:20+0000\n"
 "Last-Translator: Aditi Kabir <aditi.kabir@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -71,18 +71,18 @@ msgstr "01 "
 #. (itstool) path: info/desc
 #: C/endless-01-desktop.page:21
 msgid "A video showing the basics of the Endless desktop."
-msgstr ""
+msgstr "এন্ডলেস ডেস্কটপ প্রাথমিকভাবে দেখা"
 
 #. (itstool) path: page/title
 #: C/endless-01-desktop.page:24
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "ডেস্কটপ পরিচিতি  "
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:34
 msgid ""
 "Welcome to Endless, the operating system that powers your new computer."
-msgstr ""
+msgstr "এন্ডলেস-এ স্বাগতম, আপনার কম্পিউটারকে উজ্জ্বীবিত করার এক নতুন অপারেটিং সিস্টেম। "
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:35
@@ -90,7 +90,7 @@ msgid ""
 "We have made everything simple and easy to use. You can find your apps and "
 "your documents folder right on your desktop. Click on them once to open "
 "them."
-msgstr ""
+msgstr "আমরা ব্যবহার করার জন্য সবকিছু সহজ-সরল করেছি। আপনি আপনার অ্যাপসগুলো আর ডকুমেন্টগুলো একেবারে ডেস্কটপেই পাবেন। এগুলো খুলতে ক্লিক করুন। "
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:38
@@ -102,7 +102,7 @@ msgid ""
 "that you can also easily access the internet, your documents folder, and a "
 "button to return to the desktop on the right hand side with you are in the "
 "hot corner view mode."
-msgstr ""
+msgstr "আপনার কম্পিউটারের একটি হট কর্নার আছে। আপনার মাউসটা নিচের ডান হাতের কোণায় নিন তাহলে আপনি আপনার খোলা অ্যাপস আর কাজকর্ম দেখতে পাবেন যেন দু'টোর মধ্যে যাওয়া-আসা করতে পারেন বা সেগুলোর ওপর দিয়ে যাবার সময় যে কালো X বোতাম দেখা যায়, তাতে ক্লিক করে বন্ধ করে দিতে পারেন। আপনি খেয়াল করবেন যে আপনি সহজেই ইন্টারনেট, আপনার ডকুমেন্ট ফোল্ডার এবং ডান দিকে ডেস্কটপে ফিরে যাবার জন্য বোতাম রয়েছে হট কর্নার ভিউ মোডে।  "
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:45
@@ -113,29 +113,29 @@ msgid ""
 "the task bar, you will find an icon to access the internet browser. When you"
 " finish using your computer, you'll be able to turn it off by clicking the "
 "user menu and selecting <gui>Exit</gui>."
-msgstr ""
+msgstr "আপনার পর্দার নিচে রয়েছে টাস্ক বার। এখান থেকে আপনি ওয়াইফাই, ব্লুটুথে ঢুকতে পারবেন, কম্পিউটারের শব্দ নিয়ন্ত্রণ করতে পারবেন, কীবোর্ডের ভাষা ও সময় পরিবর্তন করতে পারবেন এবং দেখতে পারবেন কোন অ্যাপস খোলা রয়েছে। টাস্কবারের বাম দিকে দেখতে পাবেন ইন্টারনেট ব্রাউজারে ঢোকার আইকন। আপনার কম্পিউটার ব্যবহার যখন শেষ হবে, আপনি ইউজার তালিকাতে ক্লিক করে <gui>Exit</gui> নির্বাচন করে বন্ধ করে দিতে পারবেন। "
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:19
 msgctxt "link"
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "ডেস্কটপে ফোল্ডার যোগ করা হচ্ছে "
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:20
 msgctxt "sort"
 msgid "02"
-msgstr ""
+msgstr "02 "
 
 #. (itstool) path: info/desc
 #: C/endless-02-folders.page:21
 msgid "A video showing how to add a folder to the desktop."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে ডেস্কটপে ফোল্ডার যোগ করতে হয় "
 
 #. (itstool) path: page/title
 #: C/endless-02-folders.page:24
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "ডেস্কটপে ফোল্ডার যোগ করা হচ্ছে "
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:34
@@ -145,7 +145,7 @@ msgid ""
 "once on the folder called <gui>Games</gui>, you’ll find icons with the names"
 " of all the games in that folder. Click on a game once to open it and start "
 "playing!"
-msgstr ""
+msgstr "আপনার কম্পিউটারের ডেস্কটপে আগের থেকেই অনেকগুলো অ্যাপস ইনস্টল করা আছে আর কিছু ফোল্ডার আছে ওগুলোকে গুছিয়ে রাখতে সাহায্য করার জন্য। যেমন, যদি আপনি <gui>খেলা</gui> ফোল্ডারে একবার ক্লিক করলেন, কোন একটা খেলায় একবার ক্লিক করুন এবং খেলা শুরু করুন! "
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:38
@@ -158,7 +158,7 @@ msgid ""
 "created and installed, you will see a confirmation telling you that your new"
 " folder has been added. Now you can close the window and find your new "
 "folder to the left of the <app>More Apps</app> icon."
-msgstr ""
+msgstr "আপনি আপনার অ্যাপস গোছাতে নিজের ফোল্ডার করতে পারেন। ফোল্ডার তৈরি করতে যে আইকনে বলা আছে <app>আরও অ্যাপস</app> সেখানে ক্লিক করুন। এরপর ক্লিক করুন<gui>ফোল্ডার</gui> শব্দে, আপনার পর্দার বাম দিকে। আপনার ফোল্ডারের জন্য একটি আইকন বাছুন, তারপর সেটার নাম দিন। যোগ চিহ্নওয়ালা সবুজ বোতামে চাপ দিন আপনার ডেস্কটপে ফোল্ডার যোগ করার জন্য। যখন তৈরি আর ইনস্টল করা হয়ে গেলে, আপনি একটি নিশ্চিতকরণ বার্তা পাবেন যাতে বলবে যে আপনার নতুন ফোল্ডার যোগ হয়েছে। এখন আপনি উইন্ডো বন্ধ করে নতুন ফোল্ডারটি <app>আরও অ্যাপস</app> আইকনের বামে খুঁজে নিন।  "
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:46
@@ -167,43 +167,43 @@ msgid ""
 " without letting go, drag it on top of the folder, and let go of the click. "
 "When you open the folder, you’ll see the app inside. To remove an app from "
 "the folder, simply drag its icon out of the folder."
-msgstr ""
+msgstr "নতুন ফোল্ডারে অ্যাপস যোগ করতে হলে, শুধু ক্লিক করে নতুন অ্যাপসের আইকন ধরে থাকুন, তারপর ছেড়ে না দিয়ে ফোল্ডারের ওপরে টেনে নিয়ে ক্লিক করে ছেড়ে ছাড়ুন। আপনি যখন ফোল্ডারটা খুলবেন, আপনি ভেতরে অ্যাপসটা দেখতে পাবেন। কোন অ্যাপস ফেলে দিতে হলে শুধু আইকনটি ফোল্ডারের বাইরে ফেলে দিন।  "
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:50
 msgid ""
 "Keep in mind that if you want to delete a folder, you’ll first have to "
 "remove all of the apps that are in it."
-msgstr ""
+msgstr "মনে রাখবেন যে আপনি একটা ফোল্ডার মুছে ফেলতে চাইছেন, প্রথমে আপনাকে ওটার ভেতরকার সব অ্যাপস মুছে ফেলতে হবে। "
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:19
 msgctxt "link"
 msgid "Installing programs"
-msgstr ""
+msgstr "প্রোগ্রাম ইনস্টল করা হচ্ছে "
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:20
 msgctxt "sort"
 msgid "03"
-msgstr ""
+msgstr "03 "
 
 #. (itstool) path: info/desc
 #: C/endless-03-programs.page:21
 msgid "A video showing how to install programs."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে প্রোগ্রাম ইনস্টল করা হয়। "
 
 #. (itstool) path: page/title
 #: C/endless-03-programs.page:24
 msgid "Installing programs"
-msgstr ""
+msgstr "প্রোগ্রাম ইনস্টল করা হচ্ছে  "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:35
 msgid ""
 "Your computer comes with a wide variety of apps that you can install for "
 "free and use even without an internet connection."
-msgstr ""
+msgstr "আপনার কম্পিউটারে নানান ধরনের অ্যাপস বিনামূল্যে ইনস্টল করার জন্য আছে যা এমনকি ইন্টারনেট সংযোগ ছাড়াও ব্যবহার করা যাবে। "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:38
@@ -212,7 +212,7 @@ msgid ""
 "It will open a window where you can browse and explore all the apps that are"
 " available to you so you can choose the ones you want to install or add to "
 "your desktop."
-msgstr ""
+msgstr "ডেস্কটপ থেকে ক্লিক করুন <app>আরও অ্যাপস</app> কিছু খুঁজতে এবং আরও অ্যাপস যোগ করতে। ওটাতে একটা উইন্ডো খুলে যাবে যেখানে আপনি ব্রাউজ করতে আর দেখতে পারবেন সেসব অ্যাপস যা আপনি ইনস্টল করতে বা আপনার ডেস্কটপে যোগ করতে বেছে নিতে পারেন।  "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:43
@@ -221,14 +221,14 @@ msgid ""
 "click on the <gui>Education</gui> category, you’ll find several educational "
 "apps that you can add and use offline. Similarly, if you click on the Games "
 "category, you’ll find games you can add."
-msgstr ""
+msgstr "আপনি<app>অ্যাপ কেন্দ্র</app>  ব্রাউজ করুন বিভাগ ধরে। যেমন, যদি আপনি <gui>শিক্ষা</gui>  বিভাগে ক্লিক করেন, আপনি অনেকগুলো শিক্ষামূলক অ্যাপস পাবেন যেগুলো অফলাইনে ব্যবহার করার জন্য যোগ করতে পারবেন। তেমনিভাবে, আপনি যদি গেমসের বিভাগে ক্লিক করেন, আপনি যোগ করার জন্য গেমস পাবেন।  "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:48
 msgid ""
 "You can find the apps that are already on your desktop in the "
 "<gui>Installed</gui> category."
-msgstr ""
+msgstr "আপনি অ্যাপস পাবেন ডেস্কটপে যা আগে থেকেই <gui>ইনস্টল করা</gui>বিভাগে আছে। "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:51
@@ -238,7 +238,7 @@ msgid ""
 "new window will come up with more information about the app. Click on the "
 "green button that says <gui>Add to Desktop</gui>, then after a moment the "
 "button will change to say <gui>Open</gui>."
-msgstr ""
+msgstr "আপনি যে অ্যাপটা নামাতে চান সেটার ওপর ক্লিক করুন। যেমন, <gui>শিক্ষা</gui>  বিভাগে যান  এবং ক্লিক করুন <app>গুয়াতেমালা</app> অ্যাপে। একটা নতুন উইন্ডো খুলে যাবে অ্যাপটা নিয়ে আরও তথ্য নিয়ে। সবুজ বোতামে চাপ দিন যেটাতে বলবে <gui>ডেস্কটপে যোগ করুন</gui>, তারপর একটু পরে বদলে গিয়ে বলবে <gui>খুলুন</gui> । "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:57
@@ -246,7 +246,7 @@ msgid ""
 "After closing this window you’ll see that the program you downloaded is now "
 "on your desktop. Now you can open it whenever you want to quickly and "
 "easily!"
-msgstr ""
+msgstr "উইন্ডোটা বন্ধ করার পর আপনি যে প্রোগ্রামটা নামিয়েছে সেটা আপনার ডেস্কটপে। এখন আপনি এটা যখন খুশি দ্রুত এবং সহজেই খুলতে পারবেন। "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:61
@@ -257,7 +257,7 @@ msgid ""
 " icon and you’ll see a window telling you that you’ve successfully removed "
 "the app from your desktop. Don’t worry, you can always reinstall the apps "
 "that you remove from your desktop!"
-msgstr ""
+msgstr "কোন অ্যাপস সরিয়ে নিতে হলে, অ্যাপের ওপর ক্লিক করুন ছেড়ে না দিয়ে এবং ওটাকে <app>আরও অ্যাপস</app> আইকনের ওপর টেনে আনুন। আপনি লক্ষ্য করবেন আইকনটি ধূসর থেকে আবর্জনায় পরিণত হয়েছে। ক্লিকটা ছেড়ে দিন তাহলে একটি উইন্ডো আপনাকে জানাবে যে আপনি সফলভাবে আপনার ডেস্কটপ থেকে অ্যাপটি সরিয়ে ফেলেছেন। চিন্তা করবেন না, আপনি যে কোন সময় ফেলে দেয়া অ্যাপ পুনঃ ইনস্টল করতে পারবেন! "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:68
@@ -265,47 +265,47 @@ msgid ""
 "You can also delete a folder this same way, by clicking on it, dragging it "
 "over the recycling bin, and letting go. Remember that the folder has to be "
 "empty in order to delete it."
-msgstr ""
+msgstr "আপনি এমনভাবেই ফোল্ডারও মুছে দিতে পারবেন, এর ওপরে ক্লিক করে, ওটাকে টেনে আবর্জনায় ফেলে দিতে। মনে রাখবেন ফোল্ডার খালি করতে হবে মুছতে হলে। "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:72
 msgid ""
 "That’s how easy it is to add and remove apps and folders from your desktop!"
-msgstr ""
+msgstr "এমনই সহজ আপনার ডেস্কটপ থেকে অ্যাপস আর ফোল্ডার যোগ ও বিয়োগ করা! "
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:19
 msgctxt "link"
 msgid "Using Wi-Fi"
-msgstr ""
+msgstr "ওয়াই-ফাই ব্যবহার হচ্ছে "
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:20
 msgctxt "sort"
 msgid "04"
-msgstr ""
+msgstr "04 "
 
 #. (itstool) path: info/desc
 #: C/endless-04-wifi.page:21
 msgid "A video showing how to set up Wi-Fi with Endless."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে এন্ডলেস দিয়ে ওয়াই-ফাই সেট আপ করতে হয়। "
 
 #. (itstool) path: page/title
 #: C/endless-04-wifi.page:24
 msgid "Using Wi-Fi"
-msgstr ""
+msgstr "ওয়াই-ফাই ব্যবহার হচ্ছে "
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:34
 msgid "You can connect to a Wi-Fi network with these easy steps:"
-msgstr ""
+msgstr "আমি এই সহজ ধাপগুলো দিয়ে ওয়াই-ফাই নেটওয়ার্কে যুক্ত হতে পারবেন: "
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:36
 msgid ""
 "First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
 "right side of your desktop, on the task bar close to the clock."
-msgstr ""
+msgstr "প্রথমে, <gui>ওয়াই-ফাই</gui> আইকনে ক্লিক করুন যেটা নিচে ডান দিকে রয়েছে আপনার ডেস্কটপের, টাস্ক বারে ঘড়ির কাছে।  "
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:39
@@ -315,7 +315,7 @@ msgid ""
 "that your Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is "
 "turned on if there is a blue light to the right of the word <gui>Wi-"
 "Fi</gui>. If the light is not blue, you can click on it once to turn it on."
-msgstr ""
+msgstr "যে উইন্ডোটা আসবে, আপনি দেখবেন তাতে যেসব ওয়াই-ফাই নেটওয়ার্ক পাওয়া যাবে সেগুলোর নাম আছে। আপনি যদি দেখতে না পান, তাহলে নিশ্চিত হোন যে আপনার ওয়াই-ফাই চালান আছে। আপনি বুঝতে পারবেন আপনার ওয়াই-ফাই চালু আছে যখন দেখবেন <gui>ওয়াই-ফাই</gui>  শব্দের ওপর নীল বাতি জ্বলছে। যদি বাতিটা নীল না হয়, তবে একবার ক্লিক করুন ওটা চালু করতে।  "
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:45
@@ -325,55 +325,55 @@ msgid ""
 " be different. If you’re not sure what the name of your Wi-Fi network is, or"
 " don’t know the password, you can call the company that provides your "
 "internet and ask them."
-msgstr ""
+msgstr "আপনার ওয়্যারলেস নেটওয়ার্কের নাম ঠিক করুন। এই উদাহরণে নেটওয়ার্কের নাম <gui>এন্ডলেস ওয়াই-ফাই</gui>, কিন্তু আপনার নেটওয়ার্কের নাম অন্যরকম হবে। আপনি যদি নিশ্চিত না থাকেন আপনার ওয়াই-ফাই নেটওয়ার্কের নামটি, বা যদি পাসওয়ার্ড না জানেন, তাহলে আপনার ইন্টারনেট সেবাদাতাকে জিজ্ঞেস করুন।  "
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:51
 msgid ""
 "After selecting the name of your network, you’ll have to type in your "
 "network’s password."
-msgstr ""
+msgstr "আপনার নেটওয়ার্কের নামটি নির্বাচন করার পর, আপনাকে নেটওয়ার্কের পাসওয়ার্ডটি লিখতে হবে।  "
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:54
 msgid ""
 "If your computer successfully connects to the internet, you’ll see a white "
 "circle to the left of the name of your network."
-msgstr ""
+msgstr "আপনি কম্পিউটার যদি সফলভাবে ইন্টারনেটের সাথে যুক্ত হয়, তাহলে আপনার নেটওয়ার্কের নামের বাম দিকে একটি সাদা বৃত্ত দেখতে পাবেন।  "
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:57
 msgid "And just like that, you’re connected to the internet!"
-msgstr ""
+msgstr "আর এভাবেই আপনি ইন্টারনেটের সাথে যুক্ত হয়ে গেছেন! "
 
 #. (itstool) path: info/title
 #: C/endless-05-files.page:19
 msgctxt "link"
 msgid "Exploring your files"
-msgstr ""
+msgstr "আপনার ফাইলগুলো দেখা হছে "
 
 #. (itstool) path: info/title
 #: C/endless-05-files.page:20
 msgctxt "sort"
 msgid "05"
-msgstr ""
+msgstr "05 "
 
 #. (itstool) path: info/desc
 #: C/endless-05-files.page:21
 msgid "A video showing how to use the file system."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে ফাইল সিস্টেম ব্যবহার করতে হয়। "
 
 #. (itstool) path: page/title
 #: C/endless-05-files.page:24
 msgid "Exploring your files"
-msgstr ""
+msgstr "আপনার ফাইলগুলো দেখা হছে "
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:35
 msgid ""
 "You can easily organize your documents and files with folders. Here’s how to"
 " do it."
-msgstr ""
+msgstr "আপনি সহজেই আপনার ডকুমেন্টগুলো এবং ফাইলগুলো গুছিয়ে রাখতে পারবেন ফোল্ডারে। এইযে কীভাবে তা করবেন। "
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:38
@@ -383,7 +383,7 @@ msgid ""
 " the bottom left side of your screen and clicking on the "
 "<app>Documents</app> icon on the right side of the screen, even if you have "
 "an app open."
-msgstr ""
+msgstr "<app>ডকুমেন্টস</app> আইকন আপনাকে আপনার ফাইল ও ফোল্ডারে ঢুকতে দেয়। আপনি তা পাবেন আপনার ডেস্কটপে বা মাউসটিকে সরিয়ে পর্দার বামে নিচের দিকের হট কর্নারে নিন এবং ডানদিকে <app>ডকুমেন্টস</app> আইকনে ক্লিক করুন, এমনকি কোন অ্যাপ খোলা থাকলেও। "
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:43
@@ -395,14 +395,14 @@ msgid ""
 "displayed on the right, click your mouse’s button quickly two times. We call"
 " this a double click. To return to the previous folder, click the back arrow"
 " above."
-msgstr ""
+msgstr "আপনি একবার যখন <app>ডকুমেন্টস</app> -এর মূল ফোল্ডারে আছেন, আপনি তখন নতুন ফোল্ডার তৈরি করতে পারবেন যেখানে আপনার সব ডকুমেন্ট ও ফাইল রাখতে পারবেন যেন সেগুলো গোছান থাকে আর সহজেই খুঁজে পাওয়া যায়। ডানদিকে রাখা ফাইলগুলো খুলতে খুব দ্রুত দুইবার আপনার মাউসের বোতাম চাপুন। একে বলা হয় ডাবল ক্লিক। আগের ফোল্ডারে যেতে গেলে পিছনের তীরচিহ্নে ক্লিক করুন।  "
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:50
 msgid ""
 "You can also open a folder by clicking the right button of your mouse, and "
 "then clicking <gui>Open</gui> with the left button."
-msgstr ""
+msgstr "আপনি আপনার মাউসের ডান বোতাম চেপেও কোন ফোল্ডার খুলতে পারেন, বাম বোতামে তারপর ক্লিক করুন <gui>খুলুন</gui> । "
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:53
@@ -411,7 +411,7 @@ msgid ""
 "name of the folder you wish to open. For example, if you click the name "
 "<gui>Images</gui> with your left mouse button, you’ll open the "
 "<gui>Images</gui> folder."
-msgstr ""
+msgstr "পর্দার বাম দিকের শর্টকাট ব্যবহার করার জন্য ক্লিক করুন, যে ফোল্ডারটি খুলতে চান, সেটার নামের ওপরে ক্লিক করুন। যেমন, যদি আপনি <gui>ছবি</gui> নামের ওপর ক্লিক করেন আপনার বাম মাউস বোতাম দিয়ে তাহলে আপনি খুলবেন  <gui>ছবি</gui> । "
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:58
@@ -422,7 +422,7 @@ msgid ""
 " the folder where you want it. For example, if I want to move my favorite "
 "song to the music folder, I click on the music file without letting go and "
 "drag it to the music folder. Now it’s in that folder!"
-msgstr ""
+msgstr "আপনি যখন ইন্টারনেট থেকে ফাইল নামাবেন, সেটা যাবে <gui>ডাউনলোড</gui> ফোল্ডারে। আপনি যদি কোন ফাইল এই ফোল্ডারে বা অন্য কোন ফোল্ডারে কিছু আনতে চান, শুধু ফাইলে ক্লিক করুন এবং ছেড়ে না দিয়ে যে ফোল্ডারে আনতে চান, সেখানে টানুন। যেমন, আমি যদি আমার পছন্দের গান সঙ্গীত ফোল্ডারে নিতে চাই, আমি সঙ্গীত ফাইলে ক্লিক করব ও ছেড়ে না দিয়ে সঙ্গীত ফোল্ডারে টেনে আনব। ব্যস ওটা এখন ঐ ফোল্ডারে! "
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:65
@@ -431,7 +431,7 @@ msgid ""
 "on it without letting go and drag it to the recycling bin. To delete my "
 "favorite song, for example, click it without letting go, drag it to the "
 "recycling bin, and let go of the click."
-msgstr ""
+msgstr "কোন ফাইল মুছতে হলে, সেটা গান হোক বা ফটো বা অন্যকোন কিছু, শুধু সেটাতে ক্লিক করুন এবং ছেড়ে না দিয়ে আবর্জনায় টানুন, তারপর ক্লিক ছেড়ে দিন।  "
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:70
@@ -442,41 +442,41 @@ msgid ""
 "computer by clicking the button <gui>Empty</gui>. If you click this button, "
 "the files will no longer take up space on your computer, but you also won’t "
 "be able to restore them and will instead permanently delete them."
-msgstr ""
+msgstr "আবর্জনা থেকে যেখান থেকে ফাইল মুছেছিলেন, সেখানে ফিরিয়ে নিতে পারেন সেগুলো নির্বাচন করে এবং <gui>পুনঃস্থাপন</gui> ক্লিক করে। আপি এই ফাইলগুলো চিরতরে আপনার কম্পিউটার থেকে মুছে দিতে পারবেন <gui>খালি</gui>বোতাম চেপে। আপনি যদি এই বোতামে ক্লিক করেন, ফাইলগুলো আর আপনার কম্পিউটারে আর জায়গা দখল করবে না, আবার আপনিও পুনঃস্থাপন করতে পারবেন না এবং চিরতরে মুছে ফেলবেন। "
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:77
 msgid "It’s easy to organize your files on Endless, right?"
-msgstr ""
+msgstr "এন্ডলেসে আপনার ফাইল গোছান খুব সহজ, তাই না? "
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:19
 msgctxt "link"
 msgid "Browsing the Internet"
-msgstr ""
+msgstr "ইন্টারনেটে ব্রাউজ করুন "
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:20
 msgctxt "sort"
 msgid "06"
-msgstr ""
+msgstr "06 "
 
 #. (itstool) path: info/desc
 #: C/endless-06-browser.page:21
 msgid "A video explaining how to user browse web pages."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে ওয়েব পেজে ব্রাউজ করতে হয়। "
 
 #. (itstool) path: page/title
 #: C/endless-06-browser.page:24
 msgid "Browsing the Internet"
-msgstr ""
+msgstr "ইন্টারনেটে ব্রাউজ করুন "
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:35
 msgid ""
 "If you’re connected to the internet you have access to websites from all "
 "around the world! Here, you can learn how to get to them."
-msgstr ""
+msgstr "আপনি যদি ইন্টারনেটের সাথে যুক্ত থাকেন তাহলে সারা পৃথিবীর সব ওয়েব পেজে ঢুকতে পারবেন! এখানে শিখে নিন কীভাবে ঢুকবেন। "
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:38
@@ -487,7 +487,7 @@ msgid ""
 "find it easily: on the desktop next to other apps’ icons, on the black task "
 "bar on the bottom part of your screen, and on the right side of the screen "
 "when you move your mouse to the bottom right hot corner."
-msgstr ""
+msgstr "আপনার কম্পউটারটি যখন ইন্টারনেটের সাথে যুক্ত থাকবে, আপনি আপমাত টাস্ক বারের বাম কোণায় কমলা রংয়ের বৃত্তে ক্লিক করে ব্রাউজার চালু করতে পারবেন। আমরা এই কমলা আইকনটি তিন জায়গায় দিয়েছি যেন আপনি সহজেই খুঁজে পান: ডেস্কটপের ওপর অন্যান্য অ্যাপসের আইকনের পাশে, আপনার পর্দার নিচে কালো টাস্কবারে, এবং পর্দার ডানদিকে যখন আপনি মাউস নেড়ে নিচের ডানে হট কর্নারে যান। "
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:45
@@ -498,7 +498,7 @@ msgid ""
 " look through to find useful websites. For example, in the <gui>News</gui> "
 "category, you’ll find links for different newspapers. You can explore the "
 "different categories to discover lots of cool websites!"
-msgstr ""
+msgstr "আপনি যখন ব্রাউজার খুলবেন, দেখতে পাবেন <app>বিষয় কেন্দ্রr</app> । এখানে আমরা কৌতুহলোদ্দীপক ওয়েবসাইট রেখেছি আপনার দেখার জন্য। আপনি যদি  <gui>আবিষ্কার</gui>  শিরোনামে ক্লিক করেন, দেখতে পাবেন দরকারী ওয়েবসাইট খুঁজে পাবার জন্য নানান বিভাগ। যেমন, <gui>খবর</gui> বিভাগে, বিভিন্ন সংবাদপত্রের লিঙ্ক। আপনি বিভিন্ন বিভাগ দেখতে পারেন দারুণ সব ওয়েবসাইট আবিষ্কার করার জন্য। "
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:52
