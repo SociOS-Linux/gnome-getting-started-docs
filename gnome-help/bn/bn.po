@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2016-08-16 01:20+0000\n"
+"PO-Revision-Date: 2016-08-20 08:51+0000\n"
 "Last-Translator: Aditi Kabir <aditi.kabir@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -512,7 +512,7 @@ msgid ""
 "easily in the future. Click <gui>Finished</gui>. Now the page you saved will"
 " appear when you click on <gui>Favorites</gui> in your <app>Content "
 "Center</app>."
-msgstr ""
+msgstr "আপনি যখন কোন পাতা দেখবেন যা আপনাকে আগ্রহী করে তুলেছে, আপনি সেটাকে পছনীয় বলে চিহ্ন দিয়ে সেভ করে রাখবেন যেন পরে সহজে খুঁজে পাওয়া যায়। যেমন, খুলুন <gui>গ্যালিলিও বিশ্ববিদ্যালয়</gui> পাতাটি। আমরা যদি চাই আমাদের কম্পিউটার এ পাতাটি, বা অন্য কোন পাতা মনে রাখুক, আপনাকে শুধু ওয়েবসাইটের ইউআরএল-এর ডান দিকের তারাটিতে ক্লিক করতে হবে উইন্ডর ওপরের দিকে। আপনি চাইলে এর নাম বদলে রাখতে পারেন পরে আরও সহজে খুঁজে বের করার জন্য। ক্লিক করুন <gui>শেষ</gui>। আপনি যখন আপনার  <app>বিষয় কেন্দ্র</app>-তে <gui>পছন্দনীয়</gui> -তে ক্লিক করবেন তখন পাতাটি আসবে। "
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:61
@@ -522,7 +522,7 @@ msgid ""
 "visited, you can find it here. If you want to clear the list of websites "
 "that you have visited, click on the button that says <gui>Clear "
 "History</gui>, then click to accept the action on the window that pops up."
-msgstr ""
+msgstr "<gui>ইতিহাস</gui> ক্লিক করলে আপনি আগে যেসব ওয়েব পাতা দেখেছেন, সেগুলো পাবেন। আপনি যদি আগে দেখা কোন সাইটে আবার যেতে চান, সেটা এখানেই পাবেন। আপনি যদি আগে দেখা ওয়েবসাইটের তালিকা মুছে ফেলতে চান তবে <gui>ইতিহাস সাফ</gui> বলছে যে বোতাম, সেটায় ক্লিক করুন, তারপর উইন্ডো থেকে বেরিয়ে আসা পপ-আপে যা লেখা থাকবে তাতে ক্লিক করে সম্মতি দিন।  "
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:67
@@ -531,36 +531,36 @@ msgid ""
 "center, you can send us your comments or suggestions. Just write your "
 "message, your name, and your email address, then click <gui>Send "
 "Feedback</gui>. We would love to hear from you!"
-msgstr ""
+msgstr "আপনি যদি <gui>ফিডব্যাক</gui> ক্লিক করেন বিষয় কেন্দ্রের নিচের বামদিকে, আপনি আমাদেরকে আপনার মন্তব্য বা পরামর্শ জানাতে পারবেন। শুধু আপনার বার্তাটি, আপনার নাম এবং আপনার ইমেল ঠিকানাটি লিখুন, তারপর ক্লিক করুন <gui>ফিডব্যাক পাঠান</gui>। আপনার আপনার কথা শুনতে পছন্দ করি!  "
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:19
 msgctxt "link"
 msgid "Minimizing and closing windows"
-msgstr ""
+msgstr "উইন্ডোজ ছোট করা ও বন্ধ করা হচ্ছে "
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:20
 msgctxt "sort"
 msgid "07"
-msgstr ""
+msgstr "07 "
 
 #. (itstool) path: info/desc
 #: C/endless-07-windows.page:21
 msgid "A video showing how to minimize and close your windows."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে উইন্ডোজ ছোট করা ও বন্ধ করা হচ্ছে । "
 
 #. (itstool) path: page/title
 #: C/endless-07-windows.page:24
 msgid "Minimizing and closing windows"
-msgstr ""
+msgstr "উইন্ডোজ ছোট করা ও বন্ধ করা হচ্ছে  "
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:35
 msgid ""
 "If you want to keep an app or folder open while you work on another task on "
 "your desktop or in another app, the minimizing option is extremely useful!"
-msgstr ""
+msgstr "আপনি যদি চান যে কোন অ্যাপ না ফোল্ডার খোলা থাকবে আপনি যখন কাজ করবেন বা ডেস্কটপে বা অন্য অ্যাপে কাজ করবেন, তাহলে ছোট করে রাখাটা খুবই কাজের! "
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:38
@@ -570,7 +570,7 @@ msgid ""
 "program’s icon on the task bar of your Endless screen. This will hide your "
 "app or folder in your task bar so that you can work on different tasks at "
 "the same time."
-msgstr ""
+msgstr "আপনার প্রোগ্রাম দুইভাবে ছোট করে রাখতে পারেন: <key>-</key> আইকনে ক্লিক করে,  যেটা উইন্ডোর সবচাইতে ওপরে ডান দিকে আছে, বা আপনার এন্ডলেস পর্দার টাস্কবারে প্রোগ্রাম আইকনে। এতে করে আপনার অ্যাপ বা ফোল্ডার লুকিয়ে যাবে আপনার টাস্কবারে যেন আপনি একই সময়ে অন্য কাজ করতে পারেন। "
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:44
@@ -578,7 +578,7 @@ msgid ""
 "To make your app return to your screen, just click its icon once and it’ll "
 "return to its last size. When you’re done using a program, close it by "
 "clicking the <key>X</key> icon at the top right-hand corner of the window."
-msgstr ""
+msgstr "আপনার অ্যাপটিকে আবারপর্দায় আনতে হলে, শুধু ক্লিক করুন ওটার আইকনে এবং ওটা ফিরে আসবে আগের আকারেই। আপনার যখন কোন প্রোগ্রাম ব্যবহার করা শেষ হয়ে যাবে, সেটা উইন্ডোজের সবচাইতে ওপরে হাতের ডান দিকে <key>X</key> আইকনে ক্লিক করে বন্ধ করে  দিন"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:48
@@ -586,36 +586,36 @@ msgid ""
 "You can also move your mouse down to the bottom right-hand corner of your "
 "screen, then move over to the window of the app you want to close and click "
 "the <key>X</key> on the top right of that window to close it."
-msgstr ""
+msgstr "আপনি আপনার মাউসটি পর্দার নিচের ডান হাতের কোণায়  নিতে পারেন, তারপর সরিয়ে যেন অ্যাপুটি বন্ধ করতে চান সেটার উইন্ডোর ওপরে নিন এবং সবচাইতে ওপরে <key>X</key> -তে ক্লিক করুন বন্ধা করতে। "
 
 #. (itstool) path: info/title
 #: C/endless-08-offline.page:19
 msgctxt "link"
 msgid "Using Endless offline"
-msgstr ""
+msgstr "অফলাইনে এন্ডলেস ব্যবহার করা "
 
 #. (itstool) path: info/title
 #: C/endless-08-offline.page:20
 msgctxt "sort"
 msgid "08"
-msgstr ""
+msgstr "08 "
 
 #. (itstool) path: info/desc
 #: C/endless-08-offline.page:21
 msgid "A video showing the offline content on your computer."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে আপনার কম্পিউটারে অফলাইন বিষয়াবলী। "
 
 #. (itstool) path: page/title
 #: C/endless-08-offline.page:24
 msgid "Using Endless offline"
-msgstr ""
+msgstr "অফলাইনে এন্ডলেস ব্যবহার করা  "
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:35
 msgid ""
 "Your computer includes a lot of offline content so you can learn and explore"
 " a great deal of things without having an internet connection!"
-msgstr ""
+msgstr "আপনার কম্পিউটারে অনেক অফলাইন বিষয়াদী রয়েছে যেন আপনি ইন্টারনেট সংযোগ ছাড়াই অনেক কিছু শিখতে এবং দেখতে পারবেন।  "
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:38
@@ -624,7 +624,7 @@ msgid ""
 "desktop where you can find apps like <app>Virtual School</app>, which allows"
 " you to watch hundreds of videos about all sorts of subjects you may find "
 "interesting."
-msgstr ""
+msgstr "যেমন, আপনি একটা ফোল্ডার পাবেন নাম <gui>কৌতুহল</gui> আপনার ডেস্কটপে, যেখানে আপনি <app>ভার্চুয়াল বিদ্যালয়</app> নামের অ্যাপ পাবেন, যাতে আপনি শত শত ভিডিও দেখতে পাবেন নানা বিষয়ে যা আপনার কৌতুহলোদ্দীপক লাগতে পারে।  "
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:43
@@ -635,14 +635,14 @@ msgid ""
 "example, in <gui>Sciences</gui>, you can see that there are 4 videos on the "
 "topic <gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of"
 " this topic, you’ll be able to see the list of videos available."
-msgstr ""
+msgstr "দেখা যাক <app>ভার্চুয়াল বিদ্যালয়</app>।অ্যাপসটি খুলুন সমস্ত বিভিন্ন বিষয়ের ওপর ভিডিও থেকে শিখবার জন্য। আপনি দেখতে পাবেন যে প্রতিটা বিষয়ের ওপর কতগুলো ভিডিও আছে সেটার শিরোনামের ডান দিকে লেখা আছে। যেমন, <gui>বিজ্ঞান</gui>, দেখতে পাবেন 4টি ভিডিও আছে এর ওপর  <gui>স্বাস্থ্য</gui> এবং <gui>ঔষধ</gui>। আপনি যদি এই বিষয়ের নামের ওপর ক্লিক করেন, তাহলে ভিডিওর তালিকা দেখতে পাবেন। "
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:50
 msgid ""
 "For any video you’d like to watch, just click on it once to begin playing "
 "it."
-msgstr ""
+msgstr "কোন ভিডিও দেখতে চাইলে ওটার ওপর একবার ক্লিক করলেই চলতে থাকবে। "
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:53
@@ -650,14 +650,14 @@ msgid ""
 "To end the video, just click on the <key>X</key> button at the top right-"
 "hand corner of the video. To learn more about how to control videos, please "
 "see the tutorial that talks about photos, music and video."
-msgstr ""
+msgstr "ভিডিও শেষ করতে, ক্লিক করুন <key>X</key> বোতামে ভিডিওর ওপরে ডান হাতের কোণায়। ভিডিও নিয়ন্ত্রণের ওপরে আরও জানতে হলে অনুগ্রহ করে দেখুন যে টিউটোরিয়ালে ছবি, গান আর ভিডিও নিয়ে কথা বলা হয়েছে।  "
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:57
 msgid ""
 "You may also be interested in using the <app>Encyclopedia</app> app. We have"
 " put it on your desktop to make it easy to find."
-msgstr ""
+msgstr "আপনি অ্যাপটি ব্যবহারে আগ্রহী হতে পারেন। আমরা ওটাকে ডেস্কটপে রেখেছি যেন আপনি সহজেই খুঁজে পান। "
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:60
@@ -667,43 +667,43 @@ msgid ""
 " Guatemala. Once you start typing, a list will appear so that you can choose"
 " the item that best matches what you’d like to read about. Click on a title "
 "and all of the information on the topic you have chosen will appear."
-msgstr ""
+msgstr "আপনি যখন এই অ্যাপটি খুলবেন, দেখতে পাবেন একটা বার তাতে যে কোন বিষয়েই খুঁজতে পারবেন খতিয়ে দেখতে। যেমন, দেখা যাক গুয়াতেমালা সম্পর্কে তথ্য। আপনি লেখা শুরু করতেই একটি তালিকা আসবে যেন আপনি যেটার সাথে আপনি যা পড়তে চান তার সাথে সবচাইতে ভাল মেলে। একটা শিরোনামে ক্লিক করুন এবং সেই বিষয় সম্পর্কিত সব তথ্য এসে যাবে। "
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:66
 msgid ""
 "Remember that there are many apps that do not require internet. Keep "
 "exploring your computer to find them!"
-msgstr ""
+msgstr "মনে রাখবেন অনেক অ্যাপ আছে যাতে ইন্টারনেট সংযোগ লাগে না, আপনার কম্পিউটারে সেগুলো খুঁজে বের করতে থাকুন! "
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:19
 msgctxt "link"
 msgid "Using the Writer app"
-msgstr ""
+msgstr "লেখক অ্যাপ ব্যবহার করা "
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:20
 msgctxt "sort"
 msgid "09"
-msgstr ""
+msgstr "09 "
 
 #. (itstool) path: info/desc
 #: C/endless-09-writer.page:21
 msgid "A video showing how to use the Writer app to create documents."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে লেখক অ্যাপ ব্যবহার করে ডকুমেন্ট তৈরি করতে হয়। "
 
 #. (itstool) path: page/title
 #: C/endless-09-writer.page:24
 msgid "Using the Writer app"
-msgstr ""
+msgstr "লেখক অ্যাপ ব্যবহার করা  "
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:35
 msgid ""
 "Your computer comes with apps for you to create the documents and "
 "presentations that you need."
-msgstr ""
+msgstr "আপনার জন্য কম্পিউটারে আছে এমন অ্যাপ যা দিয়ে আপনি ডকুমেন্ট আর উপস্থাপনা তৈরি করতে পারবেন দরকার মত। "
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:38
@@ -713,14 +713,14 @@ msgid ""
 " <app>Spreadsheets</app> app, which is located in the <gui>Work</gui> "
 "folder. And, you can use the <app>Presentation</app> app to create "
 "presentations that can help you communicate your ideas."
-msgstr ""
+msgstr "যেমন, আপনি আপনার ডেস্কটপে পাবেন <app>লেখক</app> অ্যাপ, যা দিয়ে আপনি নিজের ডকুমেন্ট তৈরি করতে পারবেন। আপনি স্প্রেডশিটও তৈরি করতে পারবেন <app>স্প্রেডশিটও</app>  অ্যাপ দিয়ে, যা <gui>কাজ</gui> ফোল্ডারে আছে। আর আপনি দিয়ে উপস্থাপনা তৈরি করতে পারবেন যা আপনার চিন্তাভাবনার সাথে সংযোগ করাতে পারবে। "
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:44
 msgid ""
 "Let’s walk through some basic things that you can do with the "
 "<app>Writer</app> app."
-msgstr ""
+msgstr "<app>লেখক</app> দিয়ে আপনি যেসব প্রাথমিক কাজ করতে পারবেন সেগুলো ঘুরেফিরে দেখা যাক। "
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:47
@@ -729,7 +729,7 @@ msgid ""
 " the <app>Encyclopedia</app> app. Just select the text you want to copy, and"
 " right click on it. A menu with the option to <gui>Copy</gui> will appear. "
 "Click on that option."
-msgstr ""
+msgstr "আপনি সহজেই লেখা অনুলিপি করতে পারবেন অন্য অ্যাপস থেকে। ধরুন আপনি অ্যাপ <app>বিশ্বকোষ</app> থেকে লেখার অনুলিপি করতে চাইছেন। নির্বাচন করুন যে লেখাটা অনুলিপি করতে চান, তারপর ডান ক্লিক করুন। একটা মেনু তালিকা <gui>অনুলিপি </gui> আসবে । কি করবেন বেছে ক্লিক করুন। "
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:52
@@ -737,7 +737,7 @@ msgid ""
 "Go back to the app where you want to paste the information. Then, simply "
 "right click again, and then click <gui>Paste</gui>. The text you copied from"
 " the encyclopedia will appear in your document."
-msgstr ""
+msgstr "ফিরে যান ঐ অ্যাপে যেখানে আপনি তথ্য আটকাতে চান। তারপর, স্রেফ ডান দিকে ক্লিক করুন আবারও, এবং ক্লিক করুন <gui>আটকান</gui>–এ। আপনি বিশ্বকোষ থেকে যে লেখাটুকু অনুলিপি করেছিলেন সেটা আপনার ডকুমেন্টে দেখাবে।  "
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:56
@@ -747,12 +747,12 @@ msgid ""
 "top of the screen to make the text bold, italic, or underlined. You can also"
 " center or justify the paragraph format so that it looks the way you want it"
 " to look."
-msgstr ""
+msgstr "আপনার মাউস দিয়ে আবারও লেখা নির্বাচন করুন, বা চেপে ধরুন <key>শিফট</key> এবং তীরচিহ্নের বোতামগুলো। আপনি পর্দার অপরের বোতামগুলো ব্যবহার করতে পারেন লেখা মোটা, বাঁকা বা নিচে দাগ দেবার জন্য। আপনি লেখা মাঝে বা সমানভাবে রাখতে পারেন, যেমনটা আপনি দেখতে চান। "
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:62
 msgid "Explore all of the buttons up top to see the function of each!"
-msgstr ""
+msgstr "ওপরের প্রতিটা বোতামের কাজগুলো কী কী দেখা যাক! "
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:64
@@ -761,29 +761,29 @@ msgid ""
 "<gui>Save</gui>. Remember to give your document a name that you will "
 "remember (usually something that describes what is in the document) before "
 "saving it to make it easier to find later."
-msgstr ""
+msgstr "আপনি আপনার ডকুমেন্ট সেভ করতে পারেন <gui>ফাইল</gui> ক্লিক করে, তারপর <gui>সেভ</gui> । ডকুমেন্টের একটা নাম রাখার কথা মনে রাখবেন (ডকুমেন্টটা কী নিয়ে সাধারণত সেটা বর্ণনা করে এমন)সেভ করার আগে যেন পরে খুঁজে বের করা সহজ হয়। "
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:19
 msgctxt "link"
 msgid "Playing videos"
-msgstr ""
+msgstr "ভিডিও চালান "
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:20
 msgctxt "sort"
 msgid "10"
-msgstr ""
+msgstr "10 "
 
 #. (itstool) path: info/desc
 #: C/endless-10-video-player.page:21
 msgid "A video showing how to play movies and videos with Endless."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে এন্ডলেসে চলচ্চিত্র আর ভিডিও চালান যায়। "
 
 #. (itstool) path: page/title
 #: C/endless-10-video-player.page:24
 msgid "Playing videos"
-msgstr ""
+msgstr "ভিডিও চালান "
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:35
@@ -792,7 +792,7 @@ msgid ""
 "watch them whenever you want. You can also watch videos from a USB memory "
 "stick, or you can download and watch videos from the internet if you have a "
 "connection."
-msgstr ""
+msgstr "আমরা আগে থেকেই ছোট মজার ভিডিও দিয়ে রেখেছি আপনার কম্পিউটারে যেন আপনি যখন খুশি তা দেখতে পারেন। আপনি মেমোরি কাঠি থেকেও ভিডিও দেখতে পারেন, বা বা ইন্টারনেট সংযোগ থাকলে নামিয়ে নিয়েও দেখতে পারেন। "
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:40
@@ -802,7 +802,7 @@ msgid ""
 " folder. Double click on the <gui>Samples</gui> folder to open it. This is "
 "where we have added the pre-installed short videos. To open a video, simply "
 "double click on its name."
-msgstr ""
+msgstr "প্রথমে আসুন বের করি <gui>ভিডিও</gui> ফোল্ডার। ডেস্কটপ থেকে, ক্লিক করুন <app>ডকুমেন্ট</app> ফোল্ডার। তারপর দু’বার ক্লিক করুন  <gui>ভিডিও</gui> ফোল্ডারে। দু’বার ক্লিক করুন <gui>নমুনা</gui> ফোল্ডার খোলার জন্য। এখানেই আমরা আগে থেকেই ছোট ভিডিও দিয়ে রেখেছি। লোন ভিডিও খোলার জন্য স্রেফ ওটার নামের ওপরে দু’বার ক্লিক করুন।    "
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:46
@@ -811,7 +811,7 @@ msgid ""
 " lower left corner of the video. To continue playing it, click on that same "
 "button. You can click on the grey square that appears on the bottom bar of "
 "the video and drag it to advance or rewind the video."
-msgstr ""
+msgstr "ভিডিও যখন চলছে, আপনি নিচের বাম কোণায় ক্লিক করে ভিডিও থামাতে পারেন। আবার চালু করতে ঠিক ঐ বোতামটিই ক্লিক করুন। আপনি ভিডিওর নিচের বারে দেখা যাচ্ছে যে ধূসর চৌকাটি সেটায় ক্লিক করতে পারেন এবং সেটাকে টেনে ভিডিও এগোতে বা পেছোতে পারেন।  "
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:51
@@ -822,14 +822,14 @@ msgid ""
 "the top left-hand side of your keyboard. This key can also be used to quit "
 "games that take you into full-screen mode, or when any other video is in "
 "full-screen."
-msgstr ""
+msgstr "আপনি ভিডিওটি পুরো পর্দা জুড়ে দেখতে চান, স্রেফ ভিডিওর নিচের ডানদিকের তীরচিহ্নে ক্লিক করুন। ভিডিওটি ছোট করে পর্দায় আবার অন্য কিছু দেখতে চাইলে, আপনাকে চাপতে হবে <key>বেরোন</key> বোতাম, যেটা পাএবন কীবোর্ডের ওপরের ডান দিকে। এই বোতামটি খেলা থেকে বের হয়ে যাওয়া যা নিয়ে যাবে আপনাকে পুরো-পর্দা জোড়া অবস্থায় বা অন্য যে কোন ভিডিও পুরো-পর্দায়।  "
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:57
 msgid ""
 "You can find the button to adjust volume on the lower right-hand side of the"
 " video player. Click and then drag the bar up and down to adjust the volume."
-msgstr ""
+msgstr "ভিডিও চালানোর নিচে হাতের ডান দিকে শব্দ মাত্রা ঠিক করার বোতামটি পাবেন। এতে ক্লিক করুন তারপর বারটি ওপর নিচে করুন শব্দ মাত্রা ঠিক করতে।  "
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:60
@@ -838,34 +838,34 @@ msgid ""
 "the video’s sound. If your computer is connected to a TV, then the TV’s "
 "speakers should work to play sound. If you still cannot hear anything, try "
 "turning up the volume on your computer or on your TV."
-msgstr ""
+msgstr "আপনার কম্পিউটারটি হেডফোন বা স্পিকারের সাথে যুক্ত করার কথা মনে রাখবেন যেন আপনি ভিডিওর শব্দ শুনতে পান। যদি আপনার কম্পিউটারটি কোন টিভির সাথে যুক্ত থাকে, তাহলে টিভির স্পিকারটি শব্দ চালাতে কাজ করবে। তারপরও আপনি যদি শব্দ শুনতে না পারেন, তাহলে আপনার কম্পিউটার বা টিভির শব্দ বাড়ান। "
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:65
 msgid "We hope you enjoy all the videos we chose for you!"
-msgstr ""
+msgstr "আশা করি আপনার জন্য আমাদের পছন্দ করা ভিডিওগুলো আপনার ভাল লাগবে! "
 
 #. (itstool) path: info/title
 #: C/endless-11-photos-and-music.page:19
 msgctxt "link"
 msgid "Photos and Music"
-msgstr ""
+msgstr "আলোকচিত্র ও সঙ্গীত "
 
 #. (itstool) path: info/title
 #: C/endless-11-photos-and-music.page:20
 msgctxt "sort"
 msgid "11"
-msgstr ""
+msgstr "11 "
 
 #. (itstool) path: info/desc
 #: C/endless-11-photos-and-music.page:21
 msgid "A video showing how to edit photos and listen to music."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে আলোকচিত্র সম্পাদনা করে এবং গান শোনে। "
 
 #. (itstool) path: page/title
 #: C/endless-11-photos-and-music.page:24
 msgid "Photos and Music"
-msgstr ""
+msgstr "আলোকচিত্র ও সঙ্গীত  "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:35
@@ -874,7 +874,7 @@ msgid ""
 "right on your desktop. Click once to open it and then choose a picture you "
 "want to edit. You can use one of the photos that comes with your computer, "
 "or a photo that you have taken and uploaded."
-msgstr ""
+msgstr "আপনার আলোকচিত্র সম্পাদনা সহজ! আপনি ডেস্কটপের ডান দিকে পাবেন <app>আলোকচিত্র </app> অ্যাপ। ওটায় একবার ক্লিক করুন খুলতে এবং তারপর একটি ছবি বাছাই করুন যেটা আপনি সম্পাদনা করতে চান। আপনি কম্পিউটারে আছে এমন ছবি থেকে বাছাই করতে আবার নিজে তুলে আপলোড করেছেন এমন ছবিও বাছতে পারেন। "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:40
@@ -883,7 +883,7 @@ msgid ""
 " your computer, double click on the <gui>Samples</gui> folder. You can click"
 " once on a photo’s name to view it in a preview, and can double click on the"
 " picture you want to open and edit it."
-msgstr ""
+msgstr "শুরু করতে ক্লিক করুন <gui>ছবি খোলা</gui>। আপনার কম্পিউটারে আগে থেকে রাখা ছবি দেখতে দু’বার ক্লিক করুন <gui>নমুনা</gui>  ফোল্ডারে। আপনি ছবি পূর্ব-দেখার জন্য ছবির নামের ওপর একবার ক্লিক করতেপারেন, তারপর দু’বার ক্লিক করতেপারেন ছবিটা খুলে সম্পাদনা করার জন্য।  "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:45
@@ -891,7 +891,7 @@ msgid ""
 "Once you have a photo open, you can edit it in many fun ways. For example, "
 "you can rotate, cut or change it until you find a look that you really like "
 "for it."
-msgstr ""
+msgstr "কোন ছবি খোলার পরে নানান মজার উপায়ে ছবি সম্পাদনা করতে পারেন। যেমন, আপনি ঘোরাতে পারেন, কাটতে পারেন বা বদলাতে পারেন যতক্ষণ পর্যন্ত আপনি আপনার দেখতে ভাল না লাগছে। "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:49
@@ -899,7 +899,7 @@ msgid ""
 "We have included many filters to give you more options to create your "
 "perfect image. There are even options to distort the photo and make it look "
 "funny."
-msgstr ""
+msgstr "আমরা আপনার জন্য অনেকগুলো ফিল্টার দিয়েছি যেন আপনি নিখুঁত ছবি তৈরি করতে পারেন। ছবিকে বিকৃত করে মজার বানানোর উপায় পর্যন্ত আছে।  "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:52
@@ -907,7 +907,7 @@ msgid ""
 "Add a frame to your masterpiece if you’d like, and when you are finished "
 "editing the photo you can save it, post it to Facebook, or use it as your "
 "wallpaper!"
-msgstr ""
+msgstr "আপনার ইচ্ছা মাফিক আপনার মাস্টারপিসের জন্য একটা ফ্রেম যোগ করুন, আপনার ছবি সম্পাদনা হয়ে গেলে তা সেভ করুন, ফেসবুকে দিন বা নিজের ওয়াল্পেপার হিসেবে ব্যবহার করুন!  "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:56
@@ -915,7 +915,7 @@ msgid ""
 "Make sure you also check out the <app>Music</app> on your desktop. Open to "
 "see a bunch of songs we have already added. You can of course add more songs"
 " by transferring them from a USB or downloading them."
-msgstr ""
+msgstr "আপনার ডেস্কটপে <app>সঙ্গীত</app> অ্যাপটি দেখছেন সেটা নিশ্চিত করুন। খুলে দেখুন আপম্রা আগে থেকেই একগুচ্ছ গান দিয়ে রেখেছি। আপনি অবশ্যই আরও গান যোগ করতে পারেন ইউএসবি দিয়ে স্থানান্তর করে বা নামিয়ে নিয়ে।  "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:60
@@ -923,7 +923,7 @@ msgid ""
 "To hear a song, double click on it. You can pause it by clicking on the "
 "button on the top left-hand side, and continue playing it by re-clicking the"
 " same button."
-msgstr ""
+msgstr "কোন গান শুনতে সেটার ওপর দু’বার ক্লিক করুন। আপনি সেটা ওপরে বাম হাতের দিকের বোতামে ক্লিক করে থামাতে পারেন, আবার চালাতে পারেন ঐ একই বোতামে ক্লিক করে।  "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:64
@@ -932,14 +932,14 @@ msgid ""
 "buttons, and can even choose to repeat the song over and over again. You can"
 " play all of the songs in your playlists in order or shuffle the songs and "
 "play them out of order."
-msgstr ""
+msgstr "আপনি তীরচিহ্ন দেয়া বোতাম দিয়ে পরের গানে চলে যেতে পারেন বা আগের গানটি শুনতে পারেন, এমনকি একই গান বারবার শুনতে পারেন। আপনি সব গান একাদিক্রমে অথবা উল্টোপাল্টা করেও শুনতে পারেন।  "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:69
 msgid ""
 "You can find the area to adjust volume on the top right-hand side. Click and"
 " drag the circle button to the left or right to adjust the volume."
-msgstr ""
+msgstr "আপনি শব্দ শব্দ মাত্রা ঠিক করার জিনিষটি পাবেন ওপরে হাতের ডান দিকে। ক্লিক করে টেনে আনুন বাম বা ডান দিকের বৃত্ত বোতামে শব্দ নিয়ন্ত্রণ করার জন্য।  "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:72
@@ -947,35 +947,35 @@ msgid ""
 "Remember, to hear audio, you have to connect headphones or speakers to your "
 "computer. If you have your computer connected to a TV and still cannot hear "
 "the audio, try turning up the volume of your computer or of your TV."
-msgstr ""
+msgstr "মনে রাখুন, শব্দ শুনতে আপনাকে কম্পিউটারের সাথে হেডফোন বা স্পিকার যুক্ত করতে হবে। যদি আপনার কম্পিউটারটি কোন টিভির সাথে যুক্ত থাকে, তারপরও আপনি যদি শব্দ শুনতে না পারেন, তাহলে আপনার কম্পিউটার বা টিভির শব্দ বাড়ান। "
 
 #. (itstool) path: info/title
 #: C/endless-12-social-bar.page:19
 msgctxt "link"
 msgid "Using Facebook"
-msgstr ""
+msgstr "ফেসবুক ব্যবহার করা "
 
 #. (itstool) path: info/title
 #: C/endless-12-social-bar.page:20
 msgctxt "sort"
 msgid "12"
-msgstr ""
+msgstr "12 "
 
 #. (itstool) path: info/desc
 #: C/endless-12-social-bar.page:21
 msgid "A video showing how to use Facebook with other programs."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে ফেসবুকের সাথে অন্য প্রোগ্রাম ব্যবহার করতে হয়। "
 
 #. (itstool) path: page/title
 #: C/endless-12-social-bar.page:24
 msgid "Using Facebook"
-msgstr ""
+msgstr "ফেসবুক ব্যবহার করা  "
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:35
 msgid ""
 "If you have internet, there are two simple ways to access <em>Facebook</em>."
-msgstr ""
+msgstr "আপনার যদি ইন্টারনেট থাকে তবে <em>ফেসবুক</em> ঢুকবার দু'টো সহজ উপায় আছে। "
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:38
@@ -983,7 +983,7 @@ msgid ""
 "The first is opening the browser and entering <em>facebook.com</em> at the "
 "top, then entering your name and password in the login part of the site as "
 "you may already be used to doing."
-msgstr ""
+msgstr "প্রথমে ব্রাউজার খুলে ওপরে <em>ফেসবুক.কম</em> প্রবেশ করান, তারপর প্রবেশ করান আপনার নাম এবং লগিন অংশে সাইটের পাসওয়ার্ড, যেটা আপনি দিয়ে আসছেন।  "
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:42
@@ -992,7 +992,7 @@ msgid ""
 "right-hand corner of your screen. By clicking on it, you will see a window "
 "that appears on the right side of the screen. Enter your email and password "
 "and start using Facebook immediately!"
-msgstr ""
+msgstr "আরেকটা উপায় হচ্ছে <em>ফেসবুক</em> ব্যবহার করা যেটা পর্দার নিচের ডান হাতের কোণায় রয়েছে। ওটাতে ক্লিক করলে দেখবেন পর্দার ডান দিকে একটা উইন্ডো আসবে। আপনার ইমেল ও পাসওয়ার্ড দিন এবং তখুনি ফেসবুক ব্যবহার করতে শুরু করুন!   "
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:47
@@ -1002,7 +1002,7 @@ msgid ""
 " be using the <app>Writer</app> app, and while you are working on a "
 "document, you can check <em>Facebook</em> quickly during breaks, and you can"
 " even continue a conversation without having to switch programs to do so."
-msgstr ""
+msgstr "আপনি যদি <em>ফেসবুক</em> দ্বিতীয় উপায়ে ঢোকেন, আপনি খুবই সহজ উপায় পাবেন <em>ফেসবুক</em> ঢোকার অন্য প্রোগ্রামগুলো ব্যবহার করার সাথে। যেমন, আপনি <app>লেখক</app>  অ্যাপ ব্যবহার করছেন, কোন ডকুমেন্ট নিয়ে কাজ করার ফাঁক দ্রুত <em>ফেসবুক</em> দেখে নিতে পারেন, আপনি এক প্রোগ্রাম থেকে অন্য প্রোগ্রামে না যেয়েই কথা চালিয়ে যেতে পারেন।  "
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:53
@@ -1010,7 +1010,7 @@ msgid ""
 "If you use this second method, be sure to logout of your Facebook account "
 "before you stop using the computer, otherwise, someone else may be able to "
 "access your Facebook account."
-msgstr ""
+msgstr "আপনি যদি দ্বিতীয় পদ্ধতিটি ব্যবহার করেন, তাহলে কম্পিউটার ব্যবহার বন্ধ করার আগে ফেসবুক থেকে বেরিয়ে যাওয়া নিশ্চিত করুন। তা না হলে অন্য কেউ আপনার ফেসবুকে প্রবেশ করতে পারবে।  "
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:57
@@ -1018,41 +1018,41 @@ msgid ""
 "To logout of <em>Facebook</em>, make sure you are in the <em>Facebook</em> "
 "window, click on the menu button on the top left-hand side, scroll to the "
 "bottom of the window, and click on the <em>logout</em> button."
-msgstr ""
+msgstr "<em>ফেসবুক</em> থেকে বের হবার সময় নিশ্চিত হোন যে আপনি <em>ফেসবুক</em> উইন্ডোতে আছেন, ওপরে বাম হাতের কোণায় মেনু বোতামে ক্লিক করুন, উইন্ডোর নিচে্র দিকে নেমে আসুন, এবং ক্লিক করুন <em>বেরোন</em> বোতামে।  "
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:61
 msgid "There you go, Facebook is now just a click away!"
-msgstr ""
+msgstr "হয়ে এসেছে, ফেসবুক এখন শুধু একটি ক্লিকের দূরত্বে! "
 
 #. (itstool) path: info/title
 #: C/endless-13-printers.page:9
 msgctxt "link"
 msgid "Setting up a printer"
-msgstr ""
+msgstr "প্রিন্টার সেট করা হচ্ছে "
 
 #. (itstool) path: info/title
 #: C/endless-13-printers.page:10
 msgctxt "sort"
 msgid "13"
-msgstr ""
+msgstr "13 "
 
 #. (itstool) path: info/desc
 #: C/endless-13-printers.page:11
 msgid "A video showing how to set up a printer for the first time."
-msgstr ""
+msgstr "একটি ভিডিওতে দেখান হচ্ছে কীভাবে প্রথমবারের মত প্রিন্টার সেট করা যায়। "
 
 #. (itstool) path: page/title
 #: C/endless-13-printers.page:14
 msgid "Setting up a printer"
-msgstr ""
+msgstr "প্রিন্টার সেট করা হচ্ছে  "
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:25
 msgid ""
 "Click the <em>User Menu</em> button on the bottom left-hand corner of the "
 "screen, then select <gui>Settings</gui>."
-msgstr ""
+msgstr "পর্দার বাম হাতের কোণায় নিচের <em>ব্যবহারকারী মেনু</em>-তে ক্লিক করুন, তারপর নির্বাচন করুন <gui>সেটিংস</gui>।  "
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:28
@@ -1061,19 +1061,19 @@ msgid ""
 " unlock this window by clicking on the button that says <gui>Unlock</gui> in"
 " the upper right-hand corner. Enter your password and click "
 "<gui>Authenticate</gui> to finish unlocking the window."
-msgstr ""
+msgstr "যে উইন্ডোটি আসবে তাতে <gui>প্রিন্টার</gui> ক্লিক করুন। চালিয়ে যাবার জন্য, আপনাকে অবশ্যই উইন্ডোটি খুলতে হবে ওপরে ডান হাতের কোণায় যে বোতামে লেখা <gui>খোলা</gui> তাতে ক্লিক করে। আপনার পাসওয়ার্ড দিন এবং <gui>অনুমোদন</gui> -এ ক্লিক করুন উইন্ডো খুলতে। "
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:33
 msgid ""
 "Click the <key>+</key> symbol in the lower left-hand corner of this window."
-msgstr ""
+msgstr "এই উইন্ডোর নিচের বাম হাতের কোণায় <key>+</key>  চিহ্নটিতে ক্লিক করুন।  "
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:36
 msgid ""
 "Select your printer from the list that appears, and click <gui>Add</gui>."
-msgstr ""
+msgstr "আপনার প্রিন্টার নির্বাচন করুন যে তালিকাটি দেখা যাচ্ছে, তা থেকে, তারপর ক্লিক করুন <gui>যোগ করা</gui> । "
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:38
@@ -1081,110 +1081,110 @@ msgid ""
 "You will see the name of your printer appear. If you want to check that your"
 " printer is configured correctly, click the button that says "
 "<gui>Print</gui> to print a sample page."
-msgstr ""
+msgstr "আপনার প্রিন্টারের নামটি দেখা যাবে। আপনি যদি দেখতে চান যে আপনার প্রিন্টার ঠিকভাবে কনফিগার হয়েছে কিনা, যে বোতামে লেখা আছে <gui>ছাপান</gui> সেখানে ক্লিক করে নমুনা পৃষ্ঠা ছাপান।  "
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:42
 msgid ""
 "You can now close this window and begin to use your printer with Endless!"
-msgstr ""
+msgstr "আপনি এখন এই উইন্ডো বন্ধ করে এন্ডলেস দিয়ে প্রিন্টার ব্যবহার শুরু করতে পারেন! "
 
 #. (itstool) path: info/desc
 #: C/endless-videos.page:9
 msgid "Watch videos explaining how to use EndlessOS."
-msgstr ""
+msgstr "কীভাবে এন্ডলেসওএস ব্যবহার করতে হয় সেই ব্যখ্যার ভিডিও দেখুন। "
 
 #. (itstool) path: info/title
 #: C/endless-videos.page:10
 msgctxt "link"
 msgid "Videos Tutorials"
-msgstr ""
+msgstr "ভিডিও টিউটোরিয়াল "
 
 #. (itstool) path: info/title
 #: C/endless-videos.page:11
 msgctxt "sort"
 msgid "Videos Tutorials"
-msgstr ""
+msgstr "ভিডিও টিউটোরিয়াল  "
 
 #. (itstool) path: page/title
 #: C/endless-videos.page:14
 msgid "Endless Videos"
-msgstr ""
+msgstr "এন্ডলেস ভিডিও "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:3
 msgid "Welcome"
-msgstr ""
+msgstr "স্বাগতম "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:4
 msgid "Launching Applications"
-msgstr ""
+msgstr "প্রারম্ভিক অ্যাপ্লিকেশনসমূহ "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:5
 msgid "Getting Started"
-msgstr ""
+msgstr "শুরু করা "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:6
 msgid "Changing Wallpaper"
-msgstr ""
+msgstr "ওয়ালপেপার পরিবর্তন "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:7
 msgid "Responding to Messages"
-msgstr ""
+msgstr "বার্তার উত্তর দেয়া "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:8
 msgid "Switching Tasks"
-msgstr ""
+msgstr "এক কাজ থেকে আরেক কাজে যাওয়া "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:9
 msgid "Delayed Response"
-msgstr ""
+msgstr "দেরীতে দেয়া উত্তর "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:10
 msgid "Windows and Workspaces"
-msgstr ""
+msgstr "উইন্ডোজ ও কাজের স্থানগুলো "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
 msgid "Changing Date, Time and Timezone"
-msgstr ""
+msgstr "তারিখ, সময় ও সময়াঞ্চল পরিবর্তন করা  "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:12
 msgid "Maximize"
-msgstr ""
+msgstr "বড় করা "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:13
 msgid "Restore"
-msgstr ""
+msgstr "পুনঃস্থাপন "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:14
 msgid "Left half of screen"
-msgstr ""
+msgstr "পর্দার বামের অর্ধেকে "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:15
 msgid "Workspace down"
-msgstr ""
+msgstr "কাজের স্থান নিচে "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:16
 msgid "Workspace up"
-msgstr ""
+msgstr "কাজের স্থান ওপরে "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:17
 msgid "Right half of screen"
-msgstr ""
+msgstr "পর্দার ডানের অর্ধেকে "
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -1196,47 +1196,47 @@ msgstr ""
 #: C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
-msgstr ""
+msgstr "কর্মকাণ্ড "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:19
 msgid "Enter"
-msgstr ""
+msgstr "প্রবেশ "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:20
 msgid "Ctrl"
-msgstr ""
+msgstr "কন্ট্রোল "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:21
 msgid "Alt"
-msgstr ""
+msgstr "অল্ট "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:22
 msgid "Tab"
-msgstr ""
+msgstr "ট্যাব "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:23
 msgid "Esc"
-msgstr ""
+msgstr "বেরোন "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:24
 msgid "help"
-msgstr ""
+msgstr "সাহায্য "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:25
 msgid "web"
-msgstr ""
+msgstr "ওয়েব "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:26
 msgid "Just start typing…"
-msgstr ""
+msgstr "স্রেফ লেখা শুরু করুন... "
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -1244,115 +1244,115 @@ msgstr ""
 #: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
-msgstr ""
+msgstr "জন ডো "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:28
 msgid "Settings"
-msgstr ""
+msgstr "সেটিংসসমূহ "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:29
 msgid "Background"
-msgstr ""
+msgstr "পেছন "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:30
 msgid "Wallpapers"
-msgstr ""
+msgstr "ওয়ালপেপারসমূহ "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:31
 msgid "Select"
-msgstr ""
+msgstr "নির্বাচন "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:32
 msgid "Ready for the meeting?"
-msgstr ""
+msgstr "বৈঠকের জন্য প্রস্তুত? "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:33
 msgid "I'll be there in a sec..."
-msgstr ""
+msgstr "আমি এক সেকেন্ডের ভেতর ওখানে আসছি... "
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "Good stuff, thanks again"
-msgstr ""
+msgstr "ভাল জিনিষ, আবারও ধন্যবাদ "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:35
 msgid "Thanks for the support"
-msgstr ""
+msgstr "সহায়তার জন্য ধন্যবাদ "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:36
 msgid "No worries."
-msgstr ""
+msgstr "চিন্তা করবেন না। "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:37
 msgid "Too kind."
-msgstr ""
+msgstr "অনেক দয়াশীল।  "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:38
 msgid "Open Calendar"
-msgstr ""
+msgstr "খোলা দিনপঞ্জী "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
 msgid "Open Clocks"
-msgstr ""
+msgstr "খোলা ঘড়ি "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:40
 msgid "Date and Time Settings"
-msgstr ""
+msgstr "তারিখ ও সময় সেটিংস "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:41
 msgid "Automatic Date and Time"
-msgstr ""
+msgstr "স্বয়ংক্রিয় তারিখ ও সময় "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
 msgid "Automatic Timezone"
-msgstr ""
+msgstr "স্বয়ংক্রিয় সময়াঞ্চল "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:43
 msgid "14 October 2013, 20:00"
-msgstr ""
+msgstr "14 অক্টোবর 2013, 20:00 "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:44
 msgid "14 October 2013, 14:00"
-msgstr ""
+msgstr "14 অক্টোবর 2013,   14:00 "
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-get-online.page:9 C/gs-use-system-search.page:9
 msgid "Jakub Steiner"
-msgstr ""
+msgstr "জ্যাকুব স্টেইনার "
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:12 C/gs-get-online.page:12
 #: C/gs-use-system-search.page:12
 msgid "Petr Kovar"
-msgstr ""
+msgstr "পিট্র কোভার "
 
 #. (itstool) path: info/desc
 #: C/gs-browse-web.page:20
 msgid "Use Facebook, Google and other popular websites with your browser."
-msgstr ""
+msgstr "ফেসবুক, গুগুল এবং অন্যান্য বিখ্যাত ওয়েবসাইট ব্যবহারকরুন আপনার ব্রাউজারে। "
 
 #. (itstool) path: page/title
 #: C/gs-browse-web.page:23
 msgid "Browse the web"
-msgstr ""
+msgstr "ওয়েবে ব্রাউজ করুন "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:27
@@ -1360,7 +1360,7 @@ msgid ""
 "Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
 "your desktop. You can browse the internet by clicking on this desktop icon "
 "once."
-msgstr ""
+msgstr "আপনার কম্পিউটারের ডেস্কটপে আগে থেকেই <gui>ইন্টারনেট অ্যাপ</gui> আইকন ইনস্টল করা। আপনি ডেস্কটপের ঐ আইকনে একবার ক্লিক করেই ব্রাউজ করতে পারবেন। "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:33
@@ -1368,36 +1368,36 @@ msgid ""
 "You can also open this app by moving your mouse pointer to the "
 "<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
 "clicking once."
-msgstr ""
+msgstr "আপনি এই অ্যাপটি মাউস পয়েন্টারটি নাড়িয়ে পর্দ্র নিচের বামে  <gui>ইন্টারনেট</gui> কমলা ভূগোলকের একবার ক্লিক করুন। "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:39
 msgid "Click the address bar at the top of the browser window. Start typing!"
-msgstr ""
+msgstr "ব্রাউজার উইন্ডোর ওপরের বারের ঠিকানায় ক্লিক করুন। লিখতে থাকুন! "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:43
 msgid ""
 "You do not need to remember the exact address if you have already visited "
 "the website because it will be stored in your history and/or bookmarks."
-msgstr ""
+msgstr "আপনাকে ঠিক ঠিকানাটা মনে রাখতে হবে না যদি আপনি ওয়েবসাইটটি আগেই দেখে থাকেন, কেননা ওটা আপনার ইতিহার বা চিহ্নতে মজুদ আছে। "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:46
 msgid ""
 "If the website is found in the history or bookmarks, you will see a drop-"
 "down list appear below the address bar."
-msgstr ""
+msgstr "যদি ওয়েবসাইটটি ইতিহাস বা চিহ্নতে পাওয়া যায়, আপনি দেখবেন ঠিকানা বারে একটি ড্রপ-ডাউন তালিকা দেখা দিচ্ছে। "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:49
 msgid "Select the website you are looking for using the arrow keys."
-msgstr ""
+msgstr "তীরচিহ্নের বোতাম দিয়ে আপনি যে ওয়েবসাইট খুঁজছেন তা নির্বাচন করুন "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:52
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
+msgstr "আপনি একটি ওয়েবসাইট নির্বাচন করার পরে তা দেখতে  <key>প্রবেশ</key>  চাপুন।  "
 
 #. (itstool) path: note/p
 #: C/gs-browse-web.page:58
@@ -1408,18 +1408,18 @@ msgid ""
 "your desktop. You will be shown the top results that are already on your "
 "Endless computer, and it will also ask if you want to search the internet. "
 "Click on the option to search the internet."
-msgstr ""
+msgstr "আপনি সরাসরি ইন্টারনেটে খূঁজতে পারেন আপনার ডেস্কটপ থেকে <link xref=\"gs-use-system-search\">বিশ্ব খোঁজ বার</link> জিনিষটি ব্যবহার করে। প্রথমে, <gui> লিখুন আপনি সরাসরি যা খুঁজছেন</gui> আপনার ডেস্কটপের খোঁজ বারে। আপনাকে আপনার এন্ডলেস কম্পিউটারে আগে থেকেই আছে, এমন সর্বোচ্চ মেলা ফলাফল দেখান হবে, ওটা আপনাকে এটাও জিজ্ঞেস করবে আপনি ইন্টারনেটে খুঁজতে চান কিনা। ইন্টারনেটে খোঁজার উপায়ে ক্লিক করুন। "
 
 #. (itstool) path: info/desc
 #: C/gs-fix-overscan.page:19
 msgid ""
 "Fix a problem where your TV is cutting off the top and bottom of the screen."
-msgstr ""
+msgstr "আপনার পর্দার ওপর আর নিচের যে অংশগুলো আপনার টিভি কেটে দিচ্ছে সে সমস্যাটি ঠিক করুন। "
 
 #. (itstool) path: page/title
 #: C/gs-fix-overscan.page:22
 msgid "I can't see the task bar or start menu, what do I do?"
-msgstr ""
+msgstr "আমি টাস্ক বা বা শুরু তালিকা দেখতে পাচ্ছি না, কী করব? "
 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
@@ -1427,53 +1427,53 @@ msgid ""
 "If you do not see the task bar at the bottom of your screen with the user "
 "menu on the left and the time and facebook icon on the right, you need to "
 "adjust your screen to fit your TV."
-msgstr ""
+msgstr "আপনি যদি আপনার পর্দার নিচের দিকে টাস্ক বার না দেখতে পান বামে ব্যবহারকারী তালিকা দিয়ে আর ডানে সময় ও ফেসবুক আইকন, তাহলে আপনাকে আপনার টিভির পর্দার সাথে  আপনার পর্দাটা ঠিক করে নিতে হবে। "
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:29
 msgid "To adjust your screen:"
-msgstr ""
+msgstr "আপনার পর্দা ঠিক করুন: "
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:32
 msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
-msgstr ""
+msgstr "ডেস্কটপে ডানে ক্লিক করুন এবং  <gui>\"পেছন পরিবর্তন...\"</gui> নির্বাচন করুন। "
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:37
 msgid "Click the back button on the top left corner of the dialog box."
-msgstr ""
+msgstr "ওপরের বাম কোণার ডায়ালগ বাক্সের পেছন বোতামে ক্লিক করুন। "
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:41
 msgid "Select the <gui>Displays</gui> icon."
-msgstr ""
+msgstr "নির্বাচন করুন  <gui>প্রদর্শন</gui> আইকন। "
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:45
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
-msgstr ""
+msgstr " <gui>পরিমাপণ</gui> -এর পাশের ডায়ালগ বাক্স দেখুন যেখানে বলেছে <gui>\"টিভির জন্য পর্দা ঠিক করুন\"</gui> । "
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:50
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
-msgstr ""
+msgstr "আপনি এখন কালো একটা বার দেখতে পাবার কথা আপনার পর্দার নিচে আর ব্যবহার মেনু পর্দার নিচে ডান হাতের কোণায়!   "
 
 #. (itstool) path: page/title
 #: C/gs-get-online.page:21
 msgid "How do I set up my internet?"
-msgstr ""
+msgstr "কীভাবে মার ইন্টারনেট সেট করব? "
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:23
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
 "side of your screen will look like this <_:media-1/>."
-msgstr ""
+msgstr "আপনি যদি অফলাইন থাকেন, পর্দার ডান হাতে আপনার নেটওয়ার্কের সংযোগের আইকন দেখাবে এমন <_:media-1/> । "
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:27
@@ -1482,12 +1482,12 @@ msgid ""
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
-msgstr ""
+msgstr "অফলাইন হবার অনেকগুলো কারণ আছে: যেমন, নেটওয়ার্কের তার খোলা, কম্পিউটারটি <em>উড়োজাহাজ অবস্থা</em> -তে থাকা, বা আপনার এলাকায়  ওয়াই-ফাই নেটওয়ার্ক নেই। "
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:34
 msgid "Connect to a wired network"
-msgstr ""
+msgstr "তারযুক্ত নেটওয়ার্কের সাথে যুক্ত হোন "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
@@ -1495,26 +1495,26 @@ msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
-msgstr ""
+msgstr "আপনি যদি কোন সংযোগ ব্যবহার করতে চান, নেটওয়ার্ক তারটি লাগান অনলাইন হতে। কম্পিউটার নিজে থেকেই আপনার জন্য নেটওয়ার্ক ঠিক করে নেবে। "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:41 C/gs-get-online.page:76
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
-msgstr ""
+msgstr "কল্পিউটার যখন নেটওয়ার্ক সংযোগ ঠীক করতে থাকবে আপনার জন্য, তখন নেটওয়ার্ক সংযোগ আইকনে তিনটি বিন্দু দেখা যাবে। "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to this <_:media-1/> networked computer symbol."
-msgstr ""
+msgstr "যখন সফলভাবে নেটওয়ার্ক সংযোগ ঠিক করা যাবে, নেটওয়ার্ক সংযোগ আইকন এমন <_:media-1/> নেটওয়ার্কে যুক্ত চিহ্ন দেখাবে।  "
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:56
 msgid "Connect to a Wi-Fi network"
-msgstr ""
+msgstr "ওয়াই-ফাই নেটওয়ার্কের সাথে যুক্ত হোন "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:60
@@ -1522,26 +1522,26 @@ msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
 "corner of your screen. You will see this icon <_:media-1/>. Click on it and "
 "a menu should appear."
-msgstr ""
+msgstr "আপনার ওয়াই-ফাই কি সংযুক্ত? আপনার পর্দার নিচের ডান কোণায় নেটওয়ার্ক আইকন দেখুন। আপনি এই <_:media-1/> আইকনটি দেখবেন । ওটার ওপর ক্লিক করুন  একটা মেনু আসার কথা। "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:66
 msgid ""
 "Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi” to turn "
 "it on. Check to make sure it is now blue."
-msgstr ""
+msgstr "ওয়াই-ফাই বোতামটি কি নীল? যদি তা না হয় তবে \"ওয়াই-ফাই\" লেখাটির ওপরে ক্লিক করুন। নিশ্চিত করুন ওটা নীল হয়েছে কিনা।  "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:70
 msgid "Next, select your Wi-Fi network from the list."
-msgstr ""
+msgstr "এরপর, আপনার ওয়াই-ফাই নেটওয়ার্ক নির্বাচন করুন তালিকা থেকে। "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:73
 msgid ""
 "Enter your network password, which is usually different than the password "
 "you use to log in to your computer."
-msgstr ""
+msgstr "আপনার নেটওয়ার্কের পাসওয়ার্ড দিন, এটা সাধারণত আলাদা হবে আপনার কম্পিউটারের পাসওয়ার্ডের থেকে। "
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:88
@@ -1549,7 +1549,7 @@ msgid ""
 "If you don’t see your network in the list, try unplugging your Wi-Fi router "
 "then plugging it back in. If it still doesn’t work, you may need to contact "
 "your internet provider directly."
-msgstr ""
+msgstr "আপনি যদি তালিকায় আপনার নেটোয়ার্কটি না দেখেন, তবে আপনার ওয়াই-ফাই-রাউটারটি লহুলে আবার লাগান। তারপরও যদি কাজ না করে, আপনার ইন্টারনেট সেবাদাতার সাথে যোগাযোগ করতে হতে পারে। "
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:93
@@ -1557,35 +1557,35 @@ msgid ""
 "Remember that your friends or neighbors may have the same default network "
 "name you do, and your computer may be picking up their network signal. If "
 "your password isn’t working, make sure you have selected the right network."
-msgstr ""
+msgstr "মনে রাখনেম আপনার বন্ধু বার প্রতিবেশীদের আপনার নামের মত একই নামের ডিফল্ট নেটওয়ার্ক থেক্তে পারে, আপনার কম্পিউটার হয়তো তাদের সিগনাল নিয়েছে, নিশ্চিত হয়ে নিন যে আপনি ঠিক নেটওয়ার্ক নির্বাচন করেছেন। "
 
 #. (itstool) path: page/title
 #: C/gs-give-feedback.page:19
 msgid "How can I help make Endless better?"
-msgstr ""
+msgstr "কীভাবে আমি এন্ডলেসকে আরও ভাল করতে সাহায্য করতে পারি? "
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:21
 msgid ""
 "What do you love about Endless? Is there anything you would change? Do you "
 "have any ideas or suggestions for new apps to include?"
-msgstr ""
+msgstr "এন্ডলেসের কোন জিনিষটা আপনার ভাল লাগে? এমন কোন কিছু কী আছে যা আপনি বদলাতে চান? আপনার কোন বুদ্ধি বা পরামর্শ আছে নতুন অ্যাপস অন্তর্ভুক্ত করার জন্য?  "
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
 msgid "We want to hear from you!"
-msgstr ""
+msgstr "আমরা আপনার কাছ থেকে শুনতে চাই! "
 
 #. (itstool) path: steps/title
 #: C/gs-give-feedback.page:27
 msgid "Here's how to give us your feedback:"
-msgstr ""
+msgstr "দেখুন কীভাবে আমাদেরকে ফিডব্যাক দেবেন: "
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:29
 msgid ""
 "Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr ""
+msgstr "আপনার পর্দার বাম হাতের কোণায়  <_:media-1/> -তে ক্লিক করুন "
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:35
@@ -1593,28 +1593,28 @@ msgid ""
 "Click the <gui>Give Us Feedback</gui> option. You can also access the "
 "feedback section by opening your browser and clicking the "
 "<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
-msgstr ""
+msgstr "ক্লিক করুন <gui>আমাদের ফিডব্যাক দিন</gui> -এ। আপনি ফিডব্যাক বিভাগে যেতে পারেন ব্রাউজার খুলে এর বাম হাতের দিকে কোণায় <gui>ফিডব্যাক</gui> -এ ক্লিক করুন। "
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:42
 msgid ""
 "Enter in your comment, name and email address. You must fill in all three "
 "fields in order to submit your feedback."
-msgstr ""
+msgstr "আপনার মন্তব্য, নাম ও ইমেল ঠিকানা  লিখুন। আপনাকে অবশ্যই তিনটি স্থানই পূরণ করতে হবে আমাদেরকে ফিডব্যাক দিতে হলে। "
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:47
 msgid ""
 "You will receive a confirmation email to let you know that we have received "
 "your feedback. We will try to get back to you as soon as we can."
-msgstr ""
+msgstr "আপনি একটি নিশ্চিতকরণ বার্তা পাবেন ইমেলে যেখানে আমার জানাব যে আপনার ফিডব্যাকটি পেয়েছি। যত দ্রুত সম্ভব, আমার আপনার সাথে যোগাযোগ করব। "
 
 #. (itstool) path: note/p
 #: C/gs-give-feedback.page:54
 msgid ""
 "Please note that you will need an internet connection in order to submit "
 "your feedback."
-msgstr ""
+msgstr "অনুগ্রহ করে মনে রাখবেন যে আপনার ইন্টারনেট সংযোগ থাকতে হবে ফিডব্যাক পাঠাতে হলে। "
 
 #. (itstool) path: Work/format
 #: C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293
@@ -1628,7 +1628,7 @@ msgstr ""
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
 #: C/gs-web-browser2.svg:102
 msgid "image/svg+xml"
-msgstr ""
+msgstr "ছবি/svg+xml "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:242 C/gs-go-online2.svg:278 C/gs-goa1.svg:80
@@ -1637,7 +1637,7 @@ msgstr ""
 #: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
-msgstr ""
+msgstr "1 "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
@@ -1646,7 +1646,7 @@ msgstr ""
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
-msgstr ""
+msgstr "14:30 "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:266 C/gs-go-online3.svg:306 C/gs-goa1.svg:84
@@ -1655,43 +1655,43 @@ msgstr ""
 #: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
-msgstr ""
+msgstr "2 "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
-msgstr ""
+msgstr "ওয়াই-ফাই "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
 #, no-wrap
 msgid "homenetwork"
-msgstr ""
+msgstr "নীড়নেটওয়ার্ক "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
 #, no-wrap
 msgid "Select Network"
-msgstr ""
+msgstr "নেটওয়ার্ক নির্বাচন "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:339
 #, no-wrap
 msgid "Turn Off"
-msgstr ""
+msgstr "বন্ধ করা "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
 msgid "Network Settings"
-msgstr ""
+msgstr "নেটওয়ার্ক সেটিংস "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr ""
+msgstr "ওয়াই-ফাই নেটওয়ার্ক "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:313
@@ -1922,7 +1922,7 @@ msgstr ""
 #. (itstool) path: license/p
 #: C/gs-legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
-msgstr ""
+msgstr "এই কাজটি <_:link-1/> অধীনে লাইসেন্সকৃত। "
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:137
@@ -2262,7 +2262,7 @@ msgstr ""
 msgid ""
 "Your computer comes with a lot of great offline content you can use even if "
 "you don't have an internet connection."
-msgstr ""
+msgstr "আপনার কম্পিউটারে দারুণ সব অফলাইন জিনিষ আছে আপনার ব্যবহারের জন্য এমনকি আপনার ইন্টারনেট সংযোগ না থাকলেও।  "
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:31
@@ -2276,7 +2276,7 @@ msgid ""
 "added to your desktop. Most of the apps you'll find there have offline "
 "capability and you can browse by category to find just what you're looking "
 "for, or else just click around and explore."
-msgstr ""
+msgstr "<app>অ্যাপ কেন্দ্র</app> বিনামূল্যের অ্যাপে পূর্ণ এবং আপনি সহজেই এগুলো ডেস্কটপে যোগ করতে পারবেন আপনি। আপনি যে সব অ্যাপস পাবেন সেগুলোর বেশিরভাগই অফলাইনের ক্ষমতা আছে এবং আপনি এগুলো বিভাগ ধরে খুঁজতে পারবেন আপনি যা চাইছেন তা খোঁজার জন্য, বা শুধু ওখানে ক্লিক করুন এবং দেখুন। "
 
 #. (itstool) path: steps/title
 #: C/gs-use-offline.page:37
@@ -2320,7 +2320,7 @@ msgstr ""
 msgid ""
 "<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
 "encyclopedia with all the power of the internet's best."
-msgstr ""
+msgstr "<app>বিশ্বকোষ</app> -  প্রায় সব কিছু জানার জন্য দেখুন। একটি অফলাইন বিশ্বকোষ যার ইন্টারনেটের সমস্ত ক্ষমতা আছে।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:67
@@ -2328,41 +2328,41 @@ msgid ""
 "<app>Virtual School</app> - Hundreds of videos to help you lean more about "
 "your favorite subjects, or to help you understand subjects that are "
 "difficult for you."
-msgstr ""
+msgstr "<app>ভার্চুয়াল বিদ্যালয়</app> - শতশত ভিডিও আছে আপনাকে আপনার সবচাইতের পছন্দের বিষয় সম্পর্কে জানতে সাহায্য করার জন্য, বা যে সব বিষয় কঠিন আপনার জন্য তা বুঝতে সাহায্য করা।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:72
 msgid ""
 "<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
 " help children of all ages develop their mental abilities."
-msgstr ""
+msgstr "<app>শিক্ষা খেলা</app> - দাবা, ধাঁধাঁ এবং আরও অনেক খেলা এবং কর্মকাণ্ড আছে সব বয়সের শিশুদের মানসিক সক্ষমতার উন্নয়নে সাহায্য করার জন্য।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:77
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
-msgstr ""
+msgstr "<app>টাক্স অংক</app> - শিশুদের মজাদার উপায়ে যোগ, বিয়োগ, গুণ ও আরও কিছু শেখানো।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:81
 msgid ""
 "<app>Tux Typing</app> - Learn how to type with this game that guides you and"
 " helps you practice so that you can type faster and more accurately."
-msgstr ""
+msgstr "<app>টাক্স লিখন</app> - কীভাবে লিখবেন এই খেলাটি দিয়ে শিখুন যা আপনাকে শেখানে এবং সাহায্য করবে আপনি যেন দ্রুত ও নিখুঁতভাবে লেখায় অনুশীলন করতে।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:86
 msgid ""
 "<app>World Literature</app> - Read many of the world's greatest stories."
-msgstr ""
+msgstr "<app>বিশ্ব সাহিত্য</app> - পড়ুন বিশ্বের মহান কাহিনীগুলো।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:90
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
-msgstr ""
+msgstr "<app> প্রাণী</app> - জানুন আপনার প্রিয় প্রাণী সম্পর্কে, এবং যেসব প্রাণী আছে বলেই আপনি জানতেন না! "
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:96
@@ -2374,41 +2374,41 @@ msgstr ""
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
-msgstr ""
+msgstr "<app>টাক্স কার্ট</app> - আপনার বন্ধুদের কম্পিউটারের সাথে পাল্লা দিন। চরম শক্তি নিন আর প্রথম হয়ে শেষ করতে ফাঁদ এড়িয়ে চলুন!  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:102
 msgid ""
 "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
-msgstr ""
+msgstr "<app>আলু মানব</app> - জনাব আলু মানবের চেহারা ও চরিত্র তৈরি করুন।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:106
 msgid ""
 "<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
 " you get to the next level."
-msgstr ""
+msgstr "<app>বোকা পদার্থবিজ্ঞান</app> - জিনিষের ছনি আঁজুন এবং পরের স্তরের উঠতে পদার্থবিজ্ঞানের সূত্র ব্যবহার করুন।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:110
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
-msgstr ""
+msgstr "<app>X-মোটো</app> - আপনার মোটরসাইকেলটি নিয়ে ঢিবির ওপরে উঠতে এবং বস্তুর কাছে নিতে চেষ্টা করুন যত দ্রুত সম্ভব প্রতিটা কোর্স শেষ করতে।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:114
 msgid ""
 "<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
 " that you don't blow up. This strategy game is addictive."
-msgstr ""
+msgstr "<app>বোমাপরীক্ষা</app> - যে সব স্থানের নিচে বোমা আছে তা এড়িয়ে চলুন যে আপনি উড়ে না যান। এই কৌশলের খেলাটি আসক্তির সৃষ্টি করে।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:118
 msgid ""
 "<app>Blockout2</app> - A tetris-like game where you need to match the colors"
 " as best you can before the screen fills up and you lose."
-msgstr ""
+msgstr "<app>ব্লকআউট2</app> - টেট্রিসের মত খেলা যেখানে আপনাকে রং মেলাতে হবে খুব ভালভাবে পুরো পর্দা ভরে গিয়ে আপনি হেরে যাবার আগেই।  "
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:124
@@ -2420,14 +2420,14 @@ msgstr ""
 msgid ""
 "<app>Writer</app> - Write papers for school, work or for anything else you "
 "need. Compatible with Microsoft's Word."
-msgstr ""
+msgstr "<app>লেখক</app> - বিদ্যালয়, কাজ বা যে কোন কিছুর জন্য পেপার লিখুন। মাইক্রোসফট ওয়ার্ডের সাথে সামঞ্জস্যপূর্ণ।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:130
 msgid ""
 "<app>Presentation</app> - Create beautiful presentations! Compatible with "
 "Microsoft's Powerpoint."
-msgstr ""
+msgstr "<app>উপস্থাপনা</app> - চমৎকার উপস্থাপনা তৈরি করুন! মাইক্রোসফট পাওয়ারপয়েন্টের সাথে সামঞ্জস্যপূর্ণ।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:134
@@ -2435,27 +2435,27 @@ msgid ""
 "<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
 "yourself in ways you never thought possible with this powerful spreadsheet "
 "app. Compatible with Microsoft's Excel."
-msgstr ""
+msgstr "<app>স্প্রেডশিট</app> - সহজ অংক করুন, বা নিজেকে এমনভাবে গুছিয়ে নিন যা আপনি এই শক্তিশাকী স্প্রেডশিট অ্যাপ দিয়ে করা সম্ভব বলে আপনার মনে হয়নি। মাইক্রোদফট এক্সেলের সাথে সামঞ্জস্যপূর্ণ। "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:139
 msgid ""
 "<app>Resume</app> - Learn how to make a great resume to help you find your "
 "ideal job."
-msgstr ""
+msgstr "<app>জীবনবৃত্তান্ত</app> - শিখে নিন কীভাবে আপনার আদর্শ চাকুরী খুঁজে পেতে দারুণ জীবনবৃত্তান্ত  তৈরি করবেন।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:143
 msgid ""
 "<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
 "yourself and your family healthy."
-msgstr ""
+msgstr "<app>স্বাস্থ্য</app> - দেখুন অসুখ, নিরাময় এবং জানুন কীভাবে আপনি ও আপনার পরিবার সুস্থ থাকবেন।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:147
 msgid ""
 "<app>How To</app> - Learn how to do just about anything with this handy app."
-msgstr ""
+msgstr "<app>কীভাবে</app> - কীভাবে যে কোন কিছু করবেন এই সুবিধাজনক অ্যাপ থেকে শিখুন। "
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:153
@@ -2467,7 +2467,7 @@ msgstr ""
 msgid ""
 "<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
 " webcam, not included with Endless."
-msgstr ""
+msgstr "<app>চিজ</app> - বন্ধু আর পরিবারের সাথে মজার ছবি তুলুন! *ওয়েবক্যাম লাগবে যা এন্ডলেসের সাথে দেয়া নেই। "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:159
@@ -2475,28 +2475,28 @@ msgid ""
 "<app>Videos</app> - Watch some of the pre-installed videos that come with "
 "Endless, or transfer videos from a USB or DVD and watch them on this great "
 "and easy-to use media player."
-msgstr ""
+msgstr "<app>ভিডিও</app> - এন্ডলেসে আগে থেকেই রাখা ভিডিও দেখুন, অথবা ইউএসবি বা ডিভিডি থেকে ভিডিও স্থানান্তর করুন এবং সেগুলো দারুণ ও সহজ-ব্যবহারযোগ্য মিডিয়া প্লেয়ারে দেখুন।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:164
 msgid ""
 "<app>Myths and Legends</app> - Read about myths and legends from all over "
 "the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr ""
+msgstr "<app>পৌরাণিক এবং কিংবদন্তী</app> - সারা পৃথিবীর পৌরাণিক এবং কিংবদন্তী সম্পর্কে পড়ুন!  লা লোরনা থেকে বিগ ফুট পর্যন্ত সব এবং আরও অনেক কিছু  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:169
 msgid ""
 "<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
 "stars, and other celebrities"
-msgstr ""
+msgstr "<app>তারকা</app> - আপনার পছন্দের ক্রীড়া, চলচ্চিত্র, এবং অন্য তারকাদের সম্পর্কে জানুন "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:173
 msgid ""
 "<app>Travel</app> - Read about places around the world and see beautiful "
 "pictures that will make you feel like you're actually there!"
-msgstr ""
+msgstr "<app>ভ্রমণ</app> - পৃথিবীর বিভিন্ন স্থান সম্পর্কে পড়ুন এবং এবং সুন্দর ছবি দেখুন যেন আপনি আসলেই সেখানে আছেন!  "
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:180
@@ -2508,7 +2508,7 @@ msgstr ""
 msgid ""
 "<app>Notes</app> - A handy app to help you jot down things you don't want to"
 " forget!"
-msgstr ""
+msgstr "<app>নোট</app> - আপনি ভুলে যেতে চান না এমন কথা টুকে রাখার জন্য একটি সুবিধাজনক অ্যাপ! "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:186
@@ -2516,21 +2516,21 @@ msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
 "something of your own!"
-msgstr ""
+msgstr "<app>ভিডিও সম্পাদক</app> - আপনার ফোনে ভিডিও তুলুন এবং মাস্টারপিস তৈরি করতে সম্পাদনা করুন, বা স্রেফ আগে থেকে আছে এমন ভিডিওর অংশ নিন এবং নিজস্ব কিছু একটা বানান!  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:191
 msgid ""
 "<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
 " and more, to make them even more awesome!"
-msgstr ""
+msgstr "<app>আলোকচিত্র সম্পাদক</app> - ফিল্টার আর বর্ডার যোগ করুন আপনার আলোকচিত্রে, ছোট করুন, এবং আরও অনেক কিছু, সেগুলোকে আরও দারুণ করে তুলতে!  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:195
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
-msgstr ""
+msgstr "<app>শব্দ সম্পাদক</app> - কাটুন, মেলান এবং তৈরি করুন গান ও বাজনা যাতে আপনার সব বন্ধু আপনার সাথে নাচে।  "
 
 #. (itstool) path: info/desc
 #: C/gs-use-system-search.page:19
@@ -2551,21 +2551,21 @@ msgid ""
 "photos and more, right from your desktop. If you have an internet conection,"
 " you can even look for things that are on the internet, like you would on "
 "google, with the global search tool."
-msgstr ""
+msgstr "খোঁজাকে আরও সহজ করে গ্লোবাল সার্চ বার! আপনি অ্যাপস, ডকুমেন্ট, আলোকচিত্র এবং আরও অনেক কিছু খুঁজতে পারেন। আপনার যদি ইন্টারনেট সংযোগ থাকে, আপনি ইন্টারনেটের থেকেও কিছু খুঁজতে পারেন, যা আপনি গুগুল দিয়ে করতে পারতেন,  গ্লোবাল সার্চ টুল দিয়ে। "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr ""
+msgstr "ডেস্কটপের পর্দার ওপরে <app>গ্লোবাল সার্চ বার</app> - এ  ক্লিক করুন যেখানে লেখা আছে <gui>খুঁজতে লিখুন...</gui> । এবার খুঁজতে লিখুন। "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
-msgstr ""
+msgstr "আপনার লেখার সাথে মিলে যাওয়া ফলাফলগুলো লেখার সময়েই দেখা যাবে। প্রথম যেটা মিলবে তা সবসময়ই উজ্জ্বলভাবে ওপরে দেখাবে। "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40
@@ -2655,31 +2655,31 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/gs-where-files.page:19
 msgid "Where are my documents and files?"
-msgstr ""
+msgstr "আমার ডকুমেন্টস আর ফাইলগুলো কোথায়? "
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
 "When you store files to your computer, they are automatically stored in your"
 " <app>Documents</app> folder on your desktop."
-msgstr ""
+msgstr "আপনি যখন কোন ফাইল কম্পিউটারে রাখেন, সেগুলো স্বয়ংক্রিয়ভাবে <app>ডকুমেন্ট</app> ফোল্ডারে রাখা হয়। "
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:24
 msgid "Here are some ways to look for a file you have saved:"
-msgstr ""
+msgstr "আপনার সেভ করা কোন ফাইল কীভাবে খুঁজে বের করবেন তার কিছু উপায়: "
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:27
 msgid "If you know the name of your file"
-msgstr ""
+msgstr "আপনি যদি আপনার ফাইলের নাম জানেন "
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:29
 msgid ""
 "If you know the name of your file, then you can easily search for it right "
 "from the desktop."
-msgstr ""
+msgstr "আপনি যদি আপনার ফাইলের নাম জানেন, তাহলে আপনি সহজেই তা ডেস্কটপ থেকেই খুঁজতে পারবেন।"
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:33
@@ -2687,18 +2687,18 @@ msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "ডেস্কটপের পর্দার ওপরে <app>গ্লোবাল সার্চ বার</app> - এ ক্লিক করুন যেখানে লেখা আছে <gui>খুঁজতে লিখুন...</gui> । এবার যে ফাইলটা খুঁজছেন সেটার নাম লিখুন। "
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58
 msgid "If you do not know the name of your file"
-msgstr ""
+msgstr "আপনি যদি আপনার ফাইলের নাম না জানেন  "
 
 #. (itstool) path: section/p
 #. (itstool) path: item/p
 #: C/gs-where-files.page:60 C/gs-where-files.page:90
 msgid "Click on <app>Documents</app> from the desktop."
-msgstr ""
+msgstr "ক্লিক করুন  <app>ডকুমেন্ট</app> ডেস্কটপ থেকে। "
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:63
@@ -2707,7 +2707,7 @@ msgid ""
 "and videos, so that they are easier for you to find. You will see that the "
 "menu on the left shows these categories. Click on them once to go to that "
 "folder."
-msgstr ""
+msgstr "এন্ডলেস চেষ্টা করে ফাইলগুলো বিভাগ অনুসারে যেমন ডকুমেন্ট, সঙ্গীত, আলোকচিত্র এবং ভিডিও অনুসারে রাখতে, যেন আপনি সহজে খুঁজে পান। আপনি দেখবেন বাম দিকে এসব বিভাগের তালিকা দেখা যাচ্ছে। এদের ওপর একবার ক্লিক করুন ফোল্ডারটিতে যেতে।  "
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:69
@@ -2716,7 +2716,7 @@ msgid ""
 "click through the different folders you create to get to the files you have "
 "stored there. Clicking through folders is especially helpful if you are not "
 "sure what the file you saved is named."
-msgstr ""
+msgstr "আপনি নিজের ফাইলগুলো আরও ভালভাবে গুছিয়ে রাখতে নিজস্ব ফোল্ডার তৈরি করতে পারেন। আপনাকে আপনার তৈরি করা বিভিন্ন ফোল্ডারে ক্লিক করতে হবে ভেতরে রাখা ফাইলগুলোর জন্য। আপনার যদি মনে না থাকে কোন ফাইল কী নামে রেখেছেন তাহলে ফোল্ডারগুলোতে ক্লিক করা বিশেষভাবে উপকারী।  "
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:74
@@ -2728,12 +2728,12 @@ msgid ""
 " to highlight the file and press <key>Enter</key> to open it. Or, you can "
 "click on the result you want with your mouse to higlight it, and double "
 "click to open it."
-msgstr ""
+msgstr "ওপরে ম্যাগনিফাইং গ্লাসটি দেখতে পাচ্ছেন? ওটাতে ক্লিক করে যে ফাইলটা খুঁজছেন, সেটার নামের অংশ লিখতে থাকুন। আপনি যখন লিখছেন, যে সব ফাইলের নাম মিলে যাবে সেগুলো নিচে দেখা যাবে। আপনি যে ফাইলটা খুঁজছেন তা তালিকায় দেখেন, আপনি তীরচিহ্নের বোতামটা দিয়ে ফাইলে মার্কা করে <key>প্রবেশ</key> চাপুন খোলার জন্য। বা মাউস দিয়ে ফলাফলের ওপর ক্লিক করুন মার্কা দেবার জন্য। আর খোলার জন্য দু’বার ক্লিক করুন।   "
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:84
 msgid "If your file is on a USB"
-msgstr ""
+msgstr "আপনি এই উইন্ডোটা বন্ধ করে দিয়ে আপনার প্রিন্টার ব্যবহার শুরু করতে পারেন এন্ডলেস দিয়ে। "
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:87
@@ -2746,7 +2746,7 @@ msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
 "something with the device's brand, unless you have changed it."
-msgstr ""
+msgstr "উইন্ডর বামের মেনুতে আপনার ডিভাইসের নামের ওপর ক্লিক করুন। ডিভাইসের নামটি আবর্জনার আইকনের ওপর আসার কথা এবং সেটা ডিভাইসের প্রস্তুতকারী সংস্থার নামের সাথে, যদি আপনি তা না বদলান।  "
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:98
@@ -2754,7 +2754,7 @@ msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
 "the magnifying glass to search for the file name if you know it."
-msgstr ""
+msgstr "ইউএসবিতে ফাইল ব্রাউজ করুন। এগুলোর ওপর একবার ক্লিক করলে পূর্ব-দেখ পাবেন আর দু’বার ক্লিকে খুলে যাবে। আপনি ওপরের বারে ক্লিক করতে পারেন ম্যাগনিফাইং গ্লাসে আপনি যে ফাইলটা খুঁজছেন তা পেতে, যদি নাম জানেন।  "
 
 #. (itstool) path: note/p
 #: C/gs-where-files.page:105
@@ -2763,4 +2763,4 @@ msgid ""
 "without saving your work, you might not be able to find it again since not "
 "all programs auto-save. Save as often as you can in order to make sure that "
 "your work does not get lost."
-msgstr ""
+msgstr "নিশ্চিত হোন যে আপনি আপনার ফাইলটি সত্যই সেভ করেছেন! আপনি যদি কোন প্রোগ্রাম কাজ সেভ না করেই বন্ধ করে দেন, আপনি সেটি আর নাও পেতে পারেন যেহেতু সব প্রোগ্রাম স্বয়ংক্রিয় সেভ থাকে না। মাঝে মাঝে সেভ করুন আপনার কাজ যেন হারিয়ে না যায় তা নিশ্চিত করতে।  "
