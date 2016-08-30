@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2016-08-20 08:51+0000\n"
+"PO-Revision-Date: 2016-08-28 09:59+0000\n"
 "Last-Translator: Aditi Kabir <aditi.kabir@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -1697,214 +1697,214 @@ msgstr "ওয়াই-ফাই নেটওয়ার্ক "
 #: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "Connect"
-msgstr ""
+msgstr "সংযোগ "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "wireless"
-msgstr ""
+msgstr "তারবিহীন "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:317
 #, no-wrap
 msgid "netgear"
-msgstr ""
+msgstr "নেটগিয়ার "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:318
 #, no-wrap
 msgid "weak"
-msgstr ""
+msgstr "দুর্বল "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:319
 #, no-wrap
 msgid "private"
-msgstr ""
+msgstr "ব্যক্তিগত "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:320
 #, no-wrap
 msgid "Select a network"
-msgstr ""
+msgstr "একটি নেটওয়ার্ক নির্বাচন  করুন "
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:343 C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
 #, no-wrap
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
 #: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
-msgstr ""
+msgstr "3 "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
-msgstr ""
+msgstr "অনলাইন অ্যাকাউন্ট "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:71 C/gs-goa3.svg:115
 #, no-wrap
 msgid "Add an online account"
-msgstr ""
+msgstr "অনলাইন অ্যাকাউন্টে যোগ করুন "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
 #: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
 msgid "4"
-msgstr ""
+msgstr "4 "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:66
 #, no-wrap
 msgid "Add Account"
-msgstr ""
+msgstr "অ্যাকাউন্ট যোগ করুন "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
-msgstr ""
+msgstr "গুগল "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:73 C/gs-goa4.svg:124
 #, no-wrap
 msgid "Facebook"
-msgstr ""
+msgstr "ফেসবুক "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:74 C/gs-goa4.svg:125
 #, no-wrap
 msgid "Windows Live"
-msgstr ""
+msgstr "উইন্ডোজ লাইভ "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:75 C/gs-goa4.svg:126
 #, no-wrap
 msgid "Microsoft Exchange"
-msgstr ""
+msgstr "মাইক্রোসফট এক্সচেঞ্জ "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:76 C/gs-goa4.svg:127
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
-msgstr ""
+msgstr "এন্টারপ্রাইজ লগিন (কেবেরোস) "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
 #: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
-msgstr ""
+msgstr "5 "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
-msgstr ""
+msgstr "গুগল অ্যাকাউন্ট "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:69
 #, no-wrap
 msgid "SIGN UP"
-msgstr ""
+msgstr "সাইন আপ "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:70
 #, no-wrap
 msgid "Sign in"
-msgstr ""
+msgstr "সাইন ইন "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:71
 #, no-wrap
 msgid "Email"
-msgstr ""
+msgstr "ইমেল "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:73
 #, no-wrap
 msgid "Password"
-msgstr ""
+msgstr "পাসওয়ার্ড "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:76
 #, no-wrap
 msgid "Sign In"
-msgstr ""
+msgstr "সাইন ইন "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
 #, no-wrap
 msgid "john.doe@gmail.com"
-msgstr ""
+msgstr "john.doe@gmail.com "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:103
 #, no-wrap
 msgid "Grant Access"
-msgstr ""
+msgstr "প্রবেশ অনুমোদন "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:108
 #, no-wrap
 msgid "Deny Access"
-msgstr ""
+msgstr "প্রবেশ অননুমোদন "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
-msgstr ""
+msgstr "6 "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
 #, no-wrap
 msgid "7"
-msgstr ""
+msgstr "7 "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:92
 #, no-wrap
 msgid "Use for"
-msgstr ""
+msgstr "ব্যবহারের জন্য "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:93
 #, no-wrap
 msgid "Mail"
-msgstr ""
+msgstr "চিঠি "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:98
 #, no-wrap
 msgid "Calendar"
-msgstr ""
+msgstr "দিনপঞ্জী "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:103 C/gs-search2.svg:293
 #, no-wrap
 msgid "Contacts"
-msgstr ""
+msgstr "যোগাযোগ "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:108
 #, no-wrap
 msgid "Chat"
-msgstr ""
+msgstr "আলাপ "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:113
 #, no-wrap
 msgid "Documents"
-msgstr ""
+msgstr "ডকুমেন্ট "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
@@ -1912,12 +1912,12 @@ msgstr ""
 #: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
 #, no-wrap
 msgid "ON"
-msgstr ""
+msgstr "চালু "
 
 #. (itstool) path: p/link
 #: C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr ""
+msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License "
 
 #. (itstool) path: license/p
 #: C/gs-legal.xml:3
@@ -1928,115 +1928,115 @@ msgstr "এই কাজটি <_:link-1/> অধীনে লাইসেন্
 #: C/gs-search-settings.svg:137
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "খোঁজ "
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:148
 #, no-wrap
 msgid "Files"
-msgstr ""
+msgstr "ফাইলসমূহ "
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:149
 #, no-wrap
 msgid "Enabled"
-msgstr ""
+msgstr "সক্রিয় "
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:264
 #, no-wrap
 msgid "Web"
-msgstr ""
+msgstr "ওয়েব "
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:265
 #, no-wrap
 msgid "Photos"
-msgstr ""
+msgstr "আলোকচিত্রসমূহ "
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:266
 #, no-wrap
 msgid "Music"
-msgstr ""
+msgstr "সঙ্গীত "
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:293
 #, no-wrap
 msgid "OFF"
-msgstr ""
+msgstr "বন্ধ "
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:229
 #, no-wrap
 msgid "just type"
-msgstr ""
+msgstr "স্রেফ লিখুন "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:182
 #, no-wrap
 msgid "con"
-msgstr ""
+msgstr "কন "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:246
 #, no-wrap
 msgid "Accounts"
-msgstr ""
+msgstr "অ্যাকাউন্টসমূহ "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr ""
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con... "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:248
 #, no-wrap
 msgid "config"
-msgstr ""
+msgstr "কনফিগ "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:249 C/gs-search2.svg:252
 #, no-wrap
 msgid "fontconfig"
-msgstr ""
+msgstr "ফন্টকনফিগ "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:250
 #, no-wrap
 msgid "system-config-http.zip"
-msgstr ""
+msgstr "system-config-http.zip "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:251
 #, no-wrap
 msgid "Icon guidelines"
-msgstr ""
+msgstr "আইকন নির্দেশাবলী "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:269
 #, no-wrap
 msgid "Secure Linux Containers"
-msgstr ""
+msgstr "লিনাক্স কন্টেনার সংরক্ষণ করুন "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:270
 #, no-wrap
 msgid "Developer Conference 2012"
-msgstr ""
+msgstr "ডেভেলপার সমাবেশ 2012 "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
 #, no-wrap
 msgid "Firefox"
-msgstr ""
+msgstr "ফায়ারফক্স "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Thanks f"
-msgstr ""
+msgstr "ধন্যবাদ এফ "
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
@@ -2044,14 +2044,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
-msgstr ""
+msgstr "S "
 
 #. (itstool) path: text/tspan
 #. Translators: M stands for Monday here
 #: C/gs-thumb-timezone.svg:94
 #, no-wrap
 msgid "M"
-msgstr ""
+msgstr "M "
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Tuesday here
@@ -2059,14 +2059,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
-msgstr ""
+msgstr "T "
 
 #. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
 #: C/gs-thumb-timezone.svg:96
 #, no-wrap
 msgid "W"
-msgstr ""
+msgstr "W "
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
@@ -2074,14 +2074,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
-msgstr ""
+msgstr "T "
 
 #. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
 #: C/gs-thumb-timezone.svg:98
 #, no-wrap
 msgid "F"
-msgstr ""
+msgstr "F "
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
@@ -2089,173 +2089,173 @@ msgstr ""
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
-msgstr ""
+msgstr "S "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
-msgstr ""
+msgstr "8 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:109
 #, no-wrap
 msgid "9"
-msgstr ""
+msgstr "9 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:110
 #, no-wrap
 msgid "10"
-msgstr ""
+msgstr "10 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:111
 #, no-wrap
 msgid "11"
-msgstr ""
+msgstr "11 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:112
 #, no-wrap
 msgid "12"
-msgstr ""
+msgstr "12 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:113
 #, no-wrap
 msgid "13"
-msgstr ""
+msgstr "13 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:114
 #, no-wrap
 msgid "14"
-msgstr ""
+msgstr "14 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:116
 #, no-wrap
 msgid "15"
-msgstr ""
+msgstr "15 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:117
 #, no-wrap
 msgid "16"
-msgstr ""
+msgstr "16 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:118
 #, no-wrap
 msgid "17"
-msgstr ""
+msgstr "17 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:119
 #, no-wrap
 msgid "18"
-msgstr ""
+msgstr "18 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:120
 #, no-wrap
 msgid "19"
-msgstr ""
+msgstr "19 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:121
 #, no-wrap
 msgid "20"
-msgstr ""
+msgstr "20 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:122
 #, no-wrap
 msgid "21"
-msgstr ""
+msgstr "21 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:124
 #, no-wrap
 msgid "22"
-msgstr ""
+msgstr "22 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:125
 #, no-wrap
 msgid "23"
-msgstr ""
+msgstr "23 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:126
 #, no-wrap
 msgid "24"
-msgstr ""
+msgstr "24 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:127
 #, no-wrap
 msgid "25"
-msgstr ""
+msgstr "25 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:128
 #, no-wrap
 msgid "26"
-msgstr ""
+msgstr "26 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:129
 #, no-wrap
 msgid "27"
-msgstr ""
+msgstr "27 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:130
 #, no-wrap
 msgid "28"
-msgstr ""
+msgstr "28 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:132
 #, no-wrap
 msgid "29"
-msgstr ""
+msgstr "29 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:133
 #, no-wrap
 msgid "30"
-msgstr ""
+msgstr "30 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:134
 #, no-wrap
 msgid "31"
-msgstr ""
+msgstr "31 "
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:20
 msgctxt "link:shell-overview"
 msgid "Find apps that work without the internet"
-msgstr ""
+msgstr "যেসব অ্যাপস ইন্টারনেট ছাড়াই কাজ করে তা বের করুন "
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:21
 msgctxt "link:net"
 msgid "Use your computer offline"
-msgstr ""
+msgstr "আপনার কম্পিউটার অফলাইনে ব্যবহার করুন "
 
 #. (itstool) path: info/desc
 #: C/gs-use-offline.page:22
 msgid "Discover all the offline content on your computer."
-msgstr ""
+msgstr "আপনার কম্পিউটারের সব অফলাইন বিষয়াবলী দেখুন। "
 
 #. (itstool) path: page/title
 #: C/gs-use-offline.page:25
 msgid "What can I do if I don't have internet?"
-msgstr ""
+msgstr "আমার যদি ইন্টারনেট না থাকে তাহলে আমি কী করতে পারি? "
 
 #. (itstool) path: page/p
 #: C/gs-use-offline.page:27
@@ -2267,7 +2267,7 @@ msgstr "আপনার কম্পিউটারে দারুণ সব �
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:31
 msgid "Introducing the <app>App Center</app>"
-msgstr ""
+msgstr "<app>অ্যাপ কেন্দ্র</app>  পরিচয়  "
 
 #. (itstool) path: section/p
 #: C/gs-use-offline.page:32
@@ -2281,12 +2281,12 @@ msgstr "<app>অ্যাপ কেন্দ্র</app> বিনামূল�
 #. (itstool) path: steps/title
 #: C/gs-use-offline.page:37
 msgid "How to get to the <app>App Center</app>:"
-msgstr ""
+msgstr "কীভাবে <app>অ্যাপ কেন্দ্র</app>   পাওয়া যাবে: "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:39
 msgid "Click on <app>More Apps</app> from the desktop."
-msgstr ""
+msgstr "ডেস্কটপ থেকে ক্লিক করুন <app>আরও অ্যাপ</app> ।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:43
@@ -2294,26 +2294,26 @@ msgid ""
 "Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
 "<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
 "section."
-msgstr ""
+msgstr "ক্লিক করুন প্রতিটা বিভাগে যেমন <gui>শিক্ষা</gui>, <gui>খেলা</gui>, <gui>রিসোর্সসমূহ</gui> and <gui>ব্যবহারোপযোগী</gui>,  প্রতিটি অংশ দেখার জন্য।  "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:49
 msgid ""
 "Click on an app to read more about it and either install it or add it to "
 "your desktop."
-msgstr ""
+msgstr "কোন অ্যাপে ক্লিক করুন পড়ার জন্য এবং সেটা হয় ইনস্টল করুন বা তা ডেস্কটপে যোগ করুন।  "
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:57
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
 "<app>App Center</app>:"
-msgstr ""
+msgstr "আপনার ডেস্কটপে অফলাইন বিষয়ের কিছু উদাহরণ আছে <app>অ্যাপ কেন্দ্র</app>  -এ : "
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:61
 msgid "Education"
-msgstr ""
+msgstr "শিক্ষা "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:63
@@ -2367,7 +2367,7 @@ msgstr "<app> প্রাণী</app> - জানুন আপনার প্�
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:96
 msgid "Games"
-msgstr ""
+msgstr "খেলা "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:98
@@ -2413,7 +2413,7 @@ msgstr "<app>ব্লকআউট2</app> - টেট্রিসের মত �
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:124
 msgid "Resources"
-msgstr ""
+msgstr "সম্পদ "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:126
@@ -2460,7 +2460,7 @@ msgstr "<app>কীভাবে</app> - কীভাবে যে কোন ক�
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:153
 msgid "Entertainment"
-msgstr ""
+msgstr "বিনোদন "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:155
@@ -2501,7 +2501,7 @@ msgstr "<app>ভ্রমণ</app> - পৃথিবীর বিভিন্ন
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:180
 msgid "Utility"
-msgstr ""
+msgstr "উপযোগী "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:182
@@ -2537,12 +2537,12 @@ msgstr "<app>শব্দ সম্পাদক</app> - কাটুন, মে�
 msgid ""
 "Search for things on your computer and on the internet right from your "
 "desktop!"
-msgstr ""
+msgstr "আপনার কম্পিউটার ও ঠিক আপনার ডেস্কটপ থেকে কিছু খুঁজুন! "
 
 #. (itstool) path: page/title
 #: C/gs-use-system-search.page:23
 msgid "Use global search"
-msgstr ""
+msgstr "গ্লোবাল সার্চ ব্যবহার করুন "
 
 #. (itstool) path: page/p
 #: C/gs-use-system-search.page:25
@@ -2570,87 +2570,87 @@ msgstr "আপনার লেখার সাথে মিলে যাওয়�
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40
 msgid "Press <key>Enter</key> to choose the first highlighted result."
-msgstr ""
+msgstr "<key>চাপুন</key> প্রথম হাইলাইট করা ফলাফল বেছে নিতে। "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:44 C/gs-where-files.page:40
 msgid "Items that may appear in the search results include:"
-msgstr ""
+msgstr "খোঁজ ফলাফলে যা আসতে তাতে যা থাকতে পারে:  "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:46 C/gs-where-files.page:42
 msgid "matching applications, shown at the top of the search results,"
-msgstr ""
+msgstr "একই রকম অ্যাপ্লিকেশন, খোঁজ ফলাফলের একেবারে ওপ্রে দেখান হচ্ছে, "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:48 C/gs-where-files.page:44
 msgid "matching settings, and"
-msgstr ""
+msgstr "একই রকম সেটিংস, এবং "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:49 C/gs-where-files.page:45
 msgid "matching documents."
-msgstr ""
+msgstr "একই রকম ডকুমেন্ট "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:54 C/gs-where-files.page:49
 msgid "In the search results, click on the item you want to open."
-msgstr ""
+msgstr "খোঁজ ফলাফলে ক্লিক করুন আপনি যেটা খুলতে চান সেটায়। "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:55 C/gs-where-files.page:50
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
-msgstr ""
+msgstr "বিকল্পভাবে, তীরচিহ্ন ব্যবহার করে নোন একটা হাইলাইট করুন এবং চাপুন <key>প্রবেশ</key> । "
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
 #, no-wrap
 msgid "Applications"
-msgstr ""
+msgstr "অ্যাপ্লিকেশনসমূহ  "
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
-msgstr ""
+msgstr "জিনোম "
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
 #, no-wrap
 msgid "Planet Gnome"
-msgstr ""
+msgstr "প্ল্যানেট জিনোম "
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
 #, no-wrap
 msgid "GNOME 3"
-msgstr ""
+msgstr "জিনোম 3 "
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
 #, no-wrap
 msgid "http://planet.gnome.org"
-msgstr ""
+msgstr "http://planet.gnome.org "
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
 #, no-wrap
 msgid "http://gnome.org"
-msgstr ""
+msgstr "http://planet.gnome.org "
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
-msgstr ""
+msgstr "planet.gnome.org "
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2.svg:247
 #, no-wrap
 msgid "Planet GNOME"
-msgstr ""
+msgstr "প্ল্যানেট জিনোম "
 
 #. (itstool) path: page/title
 #: C/gs-where-files.page:19
@@ -2738,7 +2738,7 @@ msgstr "আপনি এই উইন্ডোটা বন্ধ করে দ�
 #. (itstool) path: item/p
 #: C/gs-where-files.page:87
 msgid "Make sure that the USB is properly plugged in."
-msgstr ""
+msgstr "নিশ্চিত হোন ইউএসবি ঠিকভাবে লাগান হয়েছে কিনা। "
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:93
