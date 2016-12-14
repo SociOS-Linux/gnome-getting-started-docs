@@ -2,7 +2,7 @@
 
 HELP_ID = gnome-help
 
-HELP_LINGUAS = as bn ca cs de el es fr gl gu hu id it ja kn lv mr pa pl pt_BR ru sk ta te zh_CN
+HELP_LINGUAS = as bn ca cs da de el es fi fr gl gu he hi hu id it ja kn ko lv mr nl pa pl pt pt_BR ru sk sv ta te zh_CN zh_HK zh_TW
 
 HELP_MEDIA = \
 	figures/endless-01-desktop.webm \
