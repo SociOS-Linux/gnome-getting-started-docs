@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2015-08-11 23:50+0000\n"
-"Last-Translator: endlessmobile_build <philip@endlessm.com>\n"
+"PO-Revision-Date: 2016-12-14 07:12+0000\n"
+"Last-Translator: Vicki Niu <vicki@endlessm.com>\n"
 "Language-Team: French (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +19,7 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Alain Lojewski <allomervan@gmail.com>, 2013\nAlexandre Franke <alexandre.franke@gmail.com>, 2013"
+msgstr "Alain Lojewski <allomervan@gmail.com>, 2013-2014\nAlexandre Franke <alexandre.franke@gmail.com>, 2013\nLeonor Palazzo <leonor.palazzo@gmail.com>, 2015\nJean-Baptiste Holcroft <jean-baptiste@holcroft.fr>, 2016"
 
 #. (itstool) path: credit/name
 #: C/endless-01-desktop.page:11 C/endless-02-folders.page:11
@@ -1323,17 +1323,17 @@ msgstr "Date et heure automatiques"
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
 msgid "Automatic Timezone"
-msgstr ""
+msgstr "Fuseau horaire automatique"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:43
 msgid "14 October 2013, 20:00"
-msgstr ""
+msgstr "14 octobre 2013, 20:00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:44
 msgid "14 October 2013, 14:00"
-msgstr ""
+msgstr "14 octobre 2013, 14:00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-get-online.page:9 C/gs-use-system-search.page:9
@@ -1484,7 +1484,7 @@ msgid ""
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
-msgstr ""
+msgstr "Différentes raisons : le câble réseau est débranché, votre ordinateur est en <em>mode avion</em>, ou alors il n'y a pas de réseau Wi-Fi disponible dans votre environnement."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:34
@@ -1516,7 +1516,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/gs-get-online.page:56
 msgid "Connect to a Wi-Fi network"
-msgstr ""
+msgstr "Connexion à un réseau Wi-Fi"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:60
@@ -1669,19 +1669,19 @@ msgstr "Wi-Fi"
 #: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
 #, no-wrap
 msgid "homenetwork"
-msgstr ""
+msgstr "réseaudomestique"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
 #, no-wrap
 msgid "Select Network"
-msgstr ""
+msgstr "Sélectionner le réseau"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:339
 #, no-wrap
 msgid "Turn Off"
-msgstr ""
+msgstr "Éteindre"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
@@ -1693,43 +1693,43 @@ msgstr "Paramètres du réseau"
 #: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr ""
+msgstr "Réseaux Wi-Fi"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "Connect"
-msgstr ""
+msgstr "Connexion"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "wireless"
-msgstr ""
+msgstr "sans fil"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:317
 #, no-wrap
 msgid "netgear"
-msgstr ""
+msgstr "netgear"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:318
 #, no-wrap
 msgid "weak"
-msgstr ""
+msgstr "faible"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:319
 #, no-wrap
 msgid "private"
-msgstr ""
+msgstr "privé"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:320
 #, no-wrap
 msgid "Select a network"
-msgstr ""
+msgstr "Sélectionner un réseau"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:343 C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
@@ -1942,7 +1942,7 @@ msgstr "Fichiers"
 #: C/gs-search-settings.svg:149
 #, no-wrap
 msgid "Enabled"
-msgstr "Activé"
+msgstr ""
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:264
@@ -2567,7 +2567,7 @@ msgstr ""
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
-msgstr ""
+msgstr "Des résultats correspondants à votre saisie commencent à s'afficher. Le premier est toujours sélectionné (surligné) et placé en tête de liste."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40

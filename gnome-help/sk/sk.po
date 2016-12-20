@@ -1,2330 +1,2768 @@
-# Slovak translation for gnome-getting-started-docs.
-# Copyright (C) 2013 gnome-getting-started-docs's COPYRIGHT HOLDER
-# This file is distributed under the same license as the gnome-getting-started-docs package.
-# Richard Stanislavský <kenny.vv@gmail.com>, 2013.
-#
+# 
+# Translators:
+# pavolzetor <pavol@klacansky.com>, 2013
+# Peter  Mráz <etkinator@gmail.com>, 2016
+# Richard Stanislavský <kenny.vv@gmail.com>, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-06-23 10:22+0000\n"
-"PO-Revision-Date: 2013-06-19 00:09+0100\n"
-"Last-Translator: Richard Stanislavský <kenny.vv@gmail.com>\n"
-"Language-Team: Slovak <gnome-sk-list@gnome.org>\n"
-"Language: sk\n"
+"Project-Id-Version: gnome-getting-started-docs\n"
+"POT-Creation-Date: 2015-08-11 11:56-0700\n"
+"PO-Revision-Date: 2016-12-14 07:13+0000\n"
+"Last-Translator: Vicki Niu <vicki@endlessm.com>\n"
+"Language-Team: Slovak (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/sk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 1 : (n>=2 && n<=4) ? 2 : 0;\n"
-"X-Generator: Poedit 1.5.4\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Richard Stanislavský <kenny.vv@gmail.com>, 2013"
+msgstr "Richard Stanislavský <kenny.vv@gmail.com>, 2013\nPeter Mráz <etkinator@gmail.com>"
 
-#: C/index.page:8(page/title) C/getting-started.page:14(page/title)
-#: C/gs-animation.xml:5(titles/t)
-msgid "Getting Started"
-msgstr "Začíname"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:18(media) C/gs-launch-applications.page:25(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-launching-applications.webm' "
-"md5='1182da390c28028167218c737619543d'"
+#. (itstool) path: credit/name
+#: C/endless-01-desktop.page:11 C/endless-02-folders.page:11
+#: C/endless-03-programs.page:11 C/endless-04-wifi.page:11
+#: C/endless-05-files.page:11 C/endless-06-browser.page:11
+#: C/endless-07-windows.page:11 C/endless-08-offline.page:11
+#: C/endless-09-writer.page:11 C/endless-10-video-player.page:11
+#: C/endless-11-photos-and-music.page:11 C/endless-12-social-bar.page:11
+#: C/gs-browse-web.page:15 C/gs-fix-overscan.page:8 C/gs-get-online.page:15
+#: C/gs-give-feedback.page:8 C/gs-use-offline.page:8
+#: C/gs-use-system-search.page:15 C/gs-where-files.page:8
+msgid "Nuritzi Sanchez"
 msgstr ""
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:57(media) C/gs-switch-tasks.page:27(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-task-switching.webm' "
-"md5='a8fa976828cf7f4b4eac7cad346c65c1'"
+#. (itstool) path: credit/name
+#: C/endless-01-desktop.page:15 C/endless-02-folders.page:15
+#: C/endless-03-programs.page:15 C/endless-04-wifi.page:15
+#: C/endless-05-files.page:15 C/endless-06-browser.page:15
+#: C/endless-07-windows.page:15 C/endless-08-offline.page:15
+#: C/endless-09-writer.page:15 C/endless-10-video-player.page:15
+#: C/endless-11-photos-and-music.page:15 C/endless-12-social-bar.page:15
+#: C/gs-fix-overscan.page:12 C/gs-give-feedback.page:12
+#: C/gs-use-offline.page:12 C/gs-where-files.page:12
+msgid "Endless Mobile, Inc."
 msgstr ""
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#.
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/getting-started.page:123(media) C/gs-respond-messages.page:24(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-responding-to-messages.webm' "
-"md5='f8522ebe4ac4e7be319217399122025a'"
+#. (itstool) path: credit/years
+#: C/endless-01-desktop.page:16 C/endless-02-folders.page:16
+#: C/endless-03-programs.page:16 C/endless-04-wifi.page:16
+#: C/endless-05-files.page:16 C/endless-06-browser.page:16
+#: C/endless-07-windows.page:16 C/endless-08-offline.page:16
+#: C/endless-09-writer.page:16 C/endless-10-video-player.page:16
+#: C/endless-11-photos-and-music.page:16 C/endless-12-social-bar.page:16
+#: C/gs-fix-overscan.page:13 C/gs-give-feedback.page:13
+#: C/gs-use-offline.page:13 C/gs-where-files.page:13
+msgid "2014"
 msgstr ""
 
-#: C/getting-started.page:9(info/desc)
-msgid "New to Endless? Learn how to get around."
-msgstr "Začínate s Endless? Naučte sa ho používať."
-
-#: C/getting-started.page:10(info/title)
+#. (itstool) path: info/title
+#: C/endless-01-desktop.page:19
 msgctxt "link"
-msgid "Getting Started with Endless"
-msgstr "Začíname s Endless"
-
-#: C/getting-started.page:11(info/title)
-msgctxt "text"
-msgid "Getting Started"
-msgstr "Začíname"
-
-#: C/getting-started.page:20(caption/desc)
-msgid "Launch Applications"
-msgstr "Spustenie aplikácií"
-
-#: C/getting-started.page:25(div/p) C/gs-animation.xml:4(titles/t)
-#: C/gs-launch-applications.page:30(div/p)
-msgid "Launching Applications"
-msgstr "Spúšťanie aplikácií"
-
-#: C/getting-started.page:28(div/p) C/getting-started.page:67(div/p)
-#: C/gs-launch-applications.page:33(div/p) C/gs-switch-tasks.page:35(div/p)
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen."
+msgid "Introduction to the desktop"
 msgstr ""
-"Kurzor myši presunieme na <gui>Aktivity</gui>, do ľavého horného rohu "
-"obrazovky."
 
-#: C/getting-started.page:32(div/p) C/gs-launch-applications.page:37(div/p)
-msgid "Click the <gui>Show Applications</gui> icon."
-msgstr "Klikneme na ikonu s popisom <gui>Zobrazí aplikácie</gui>."
-
-#: C/getting-started.page:35(div/p) C/gs-launch-applications.page:40(div/p)
-msgid "Click the application you want to run, for example, Help."
-msgstr "Klikneme na aplikáciu, ktorú chceme spustiť, napríklad Pomocník."
-
-#: C/getting-started.page:39(div/p) C/gs-launch-applications.page:44(div/p)
-msgid ""
-"Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
-"by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
-"key."
+#. (itstool) path: info/title
+#: C/endless-01-desktop.page:20
+msgctxt "sort"
+msgid "01"
 msgstr ""
-"<gui>Prehľad aktivít</gui> môžeme otvoriť aj stlačením klávesu <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> na klávesnici."
 
-#: C/getting-started.page:44(div/p) C/gs-launch-applications.page:49(div/p)
-msgid "Start typing the name of the application you want to launch."
-msgstr "Začneme písať názov aplikácie, ktorú chceme spustiť."
-
-#: C/getting-started.page:48(div/p) C/gs-launch-applications.page:53(div/p)
-msgid "Press <key>Enter</key> to launch the application."
-msgstr "Aplikáciu spustíme stlačením klávesu <key>Enter</key>."
-
-#: C/getting-started.page:59(caption/desc)
-msgid "Switch Tasks"
-msgstr "Prepnutie úloh"
-
-#: C/getting-started.page:64(div/p) C/gs-animation.xml:8(titles/t)
-#: C/gs-switch-tasks.page:32(div/p)
-msgid "Switching Tasks"
-msgstr "Prepínanie úloh"
-
-#: C/getting-started.page:71(div/p) C/gs-switch-tasks.page:39(div/p)
-#: C/gs-switch-tasks.page:104(item/p)
-msgid "Click a window to switch to that task."
-msgstr "Vyberieme si úlohu kliknutím na zodpovedajúce okno."
-
-#: C/getting-started.page:74(div/p) C/gs-switch-tasks.page:42(div/p)
-#: C/gs-use-windows-workspaces.page:46(div/p)
-msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
-"titlebar and drag it to the left."
+#. (itstool) path: info/desc
+#: C/endless-01-desktop.page:21
+msgid "A video showing the basics of the Endless desktop."
 msgstr ""
-"Keď chceme okno maximalizovať pozdĺž ľavej strany obrazovky, chytíme okno za "
-"titulok a presunieme ho vľavo."
 
-#: C/getting-started.page:78(div/p) C/getting-started.page:86(div/p)
-#: C/gs-switch-tasks.page:46(div/p) C/gs-switch-tasks.page:54(div/p)
-#: C/gs-use-windows-workspaces.page:50(div/p)
-#: C/gs-use-windows-workspaces.page:58(div/p)
-msgid "When half of the screen is highlighted, release the window."
-msgstr "Keď je polovica obrazovky zvýraznená, pustíme okno."
-
-#: C/getting-started.page:82(div/p) C/gs-switch-tasks.page:50(div/p)
-msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
-"drag it to the right."
+#. (itstool) path: page/title
+#: C/endless-01-desktop.page:24
+msgid "Introduction to the desktop"
 msgstr ""
-"Keď chceme okno maximalizovať pozdĺž pravej strany obrazovky, chytíme okno "
-"za titulok a presunieme ho vpravo."
 
-#: C/getting-started.page:90(div/p) C/gs-switch-tasks.page:58(div/p)
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:34
 msgid ""
-"Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
+"Welcome to Endless, the operating system that powers your new computer."
 msgstr ""
-"<gui>Prepínanie okien</gui> zobrazíme stlačením kombinácie kláves <keyseq> "
-"<key href=\"help:gnome-help/keyboard-key-super\">Super</key><key> Tab</key></"
-"keyseq>."
 
-#: C/getting-started.page:95(div/p) C/gs-switch-tasks.page:63(div/p)
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:35
 msgid ""
-"Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
-"select the next highlighted window."
+"We have made everything simple and easy to use. You can find your apps and "
+"your documents folder right on your desktop. Click on them once to open "
+"them."
 msgstr ""
-"Zvýraznené okno vyberieme pustením klávesu <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super </key>."
 
-#: C/getting-started.page:100(div/p) C/gs-switch-tasks.page:68(div/p)
-#: C/gs-switch-tasks.page:147(item/p)
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:38
 msgid ""
-"To cycle through the list of open windows, do not release <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
-"<key>Tab</key>."
+"Your computer has a hot corner. Move your mouse to the lower right-hand "
+"corner and you will be able to see all of your open apps and activities so "
+"that you can easily switch between them or close them by clicking on the "
+"black X button that appears when scrolling over them. You will notice that "
+"that you can also easily access the internet, your documents folder, and a "
+"button to return to the desktop on the right hand side with you are in the "
+"hot corner view mode."
 msgstr ""
-"V zozname otvorených okien sa pohybujeme tak, že nepúšťame kláves <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key>, ale držíme ho stlačený a "
-"zároveň stláčame kláves <key>Tab</key>."
 
-#: C/getting-started.page:105(div/p) C/gs-switch-tasks.page:73(div/p)
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:45
 msgid ""
-"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
-"to show the <gui>Activities Overview</gui>."
+"At the the bottom of your screen is the task bar. Here you can access wifi, "
+"bluetooth, control the volume of your computer, change the keyboard language"
+" and time, and see which apps you currently have open. On the left side of "
+"the task bar, you will find an icon to access the internet browser. When you"
+" finish using your computer, you'll be able to turn it off by clicking the "
+"user menu and selecting <gui>Exit</gui>."
 msgstr ""
-"<gui>Prehľad aktivít</gui> zobrazíme stlačením klávesu <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key>."
 
-#: C/getting-started.page:109(div/p) C/gs-switch-tasks.page:77(div/p)
-msgid "Start typing the name of the application you want to switch to."
-msgstr "Začneme písať názov aplikácie, na ktorú sa chceme prepnúť."
+#. (itstool) path: info/title
+#: C/endless-02-folders.page:19
+msgctxt "link"
+msgid "Adding folders to the desktop"
+msgstr ""
 
-#: C/getting-started.page:113(div/p) C/gs-switch-tasks.page:81(div/p)
+#. (itstool) path: info/title
+#: C/endless-02-folders.page:20
+msgctxt "sort"
+msgid "02"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-02-folders.page:21
+msgid "A video showing how to add a folder to the desktop."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-02-folders.page:24
+msgid "Adding folders to the desktop"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:34
 msgid ""
-"When the application appears as the first result, press <key> Enter</key> to "
-"switch to it."
+"Your computer comes with a lot of pre-installed apps on the desktop and some"
+" folders to help keep them organized by category. For example, if you click "
+"once on the folder called <gui>Games</gui>, you’ll find icons with the names"
+" of all the games in that folder. Click on a game once to open it and start "
+"playing!"
 msgstr ""
-"Ak sa aplikácia zobrazí ako prvý výsledok, otvoríme ju stlačením klávesu "
-"<key>Enter</key>."
 
-#: C/getting-started.page:125(caption/desc)
-#: C/gs-respond-messages.page:21(page/title)
-msgid "Respond to messages"
-msgstr "Reakcia na správy"
-
-#: C/getting-started.page:131(div/p) C/gs-animation.xml:7(titles/t)
-#: C/gs-respond-messages.page:29(div/p)
-msgid "Responding to Messages"
-msgstr "Reagovanie na správy"
-
-#: C/getting-started.page:134(div/p) C/gs-respond-messages.page:32(div/p)
-#: C/gs-respond-messages.page:91(item/p)
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:38
 msgid ""
-"Move your mouse to the message tray at the bottom of the screen and click "
-"the chat message."
+"You can also make your own folders to further organize your apps. To make a "
+"folder, click on the icon that says <app>More Apps</app>. Then, click the "
+"word <gui>Folders</gui>, on the left hand side of your screen. Choose an "
+"icon for your folder, and then give it a name. Click the green button with "
+"the plus sign to add the folder to your desktop. When it is finished being "
+"created and installed, you will see a confirmation telling you that your new"
+" folder has been added. Now you can close the window and find your new "
+"folder to the left of the <app>More Apps</app> icon."
 msgstr ""
-"Presunieme kurzor myši na lištu správ v spodnej časti obrazovky a klikneme "
-"na správu."
 
-#: C/getting-started.page:138(div/p) C/gs-respond-messages.page:36(div/p)
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:46
 msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
+"To add apps to your new folder, simply click and hold on the app’s icon, and"
+" without letting go, drag it on top of the folder, and let go of the click. "
+"When you open the folder, you’ll see the app inside. To remove an app from "
+"the folder, simply drag its icon out of the folder."
 msgstr ""
-"Začneme písať svoju odpoveď a po dokončení odošleme odpoveď stlačením "
-"klávesu <key>Enter</key>."
 
-#: C/getting-started.page:142(div/p) C/getting-started.page:163(div/p)
-#: C/gs-respond-messages.page:40(div/p) C/gs-respond-messages.page:61(div/p)
-msgid "Close the chat message."
-msgstr "Zatvoríme správu."
-
-#: C/getting-started.page:145(div/p) C/gs-animation.xml:9(titles/t)
-#: C/gs-respond-messages.page:43(div/p)
-msgid "Delayed Response"
-msgstr "Oneskorená reakcia"
-
-#: C/getting-started.page:148(div/p) C/gs-respond-messages.page:46(div/p)
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:50
 msgid ""
-"A chat message in the message tray disappears after a while if you do not "
-"move your mouse to the message tray."
+"Keep in mind that if you want to delete a folder, you’ll first have to "
+"remove all of the apps that are in it."
 msgstr ""
-"Správa v lište správ sa po chvíľke schová, ak kurzor myši nepresunieme na lištu "
-"správ."
 
-#: C/getting-started.page:152(div/p) C/gs-respond-messages.page:50(div/p)
+#. (itstool) path: info/title
+#: C/endless-03-programs.page:19
+msgctxt "link"
+msgid "Installing programs"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-03-programs.page:20
+msgctxt "sort"
+msgid "03"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-03-programs.page:21
+msgid "A video showing how to install programs."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-03-programs.page:24
+msgid "Installing programs"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:35
 msgid ""
-"To get back to your unanswered message, move your mouse to the message tray."
+"Your computer comes with a wide variety of apps that you can install for "
+"free and use even without an internet connection."
 msgstr ""
-"Nezodpovedanú správu zobrazíme presunutím kurzora myši na lištu správ. "
 
-#: C/getting-started.page:156(div/p) C/gs-respond-messages.page:54(div/p)
-msgid "Click the person who sent you the message."
-msgstr "Klikneme na osobu, ktorá nám poslala správu."
-
-#: C/getting-started.page:159(div/p) C/getting-started.page:175(div/p)
-#: C/gs-respond-messages.page:57(div/p) C/gs-respond-messages.page:73(div/p)
-msgid "Start typing your reply and when finished, press <key>Enter </key>."
-msgstr "Začneme písať odpoveď a po dokončení stlačíme kláves <key>Enter</key>."
-
-#: C/getting-started.page:166(div/p) C/gs-respond-messages.page:64(div/p)
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:38
 msgid ""
-"To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>M</key></keyseq>"
+"From the desktop, click on <app>More Apps</app> to find and add more apps. "
+"It will open a window where you can browse and explore all the apps that are"
+" available to you so you can choose the ones you want to install or add to "
+"your desktop."
 msgstr ""
-"Lištu správ zobrazíme stlačením kombinácie kláves <keyseq> <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> <key>M</key></keyseq>"
 
-#: C/getting-started.page:171(div/p) C/gs-respond-messages.page:69(div/p)
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:43
 msgid ""
-"Use the arrow keys to select the person you want to reply to, and press "
-"<key>Enter</key>."
+"You can browse the <app>App Center</app> by category. For example, if you "
+"click on the <gui>Education</gui> category, you’ll find several educational "
+"apps that you can add and use offline. Similarly, if you click on the Games "
+"category, you’ll find games you can add."
 msgstr ""
-"Pomocou šípok na klávesnici vyberieme osobu, ktorej chceme poslať odpoveď a "
-"stlačíme kláves <key>Enter</key>."
 
-#: C/getting-started.page:179(div/p) C/gs-respond-messages.page:77(div/p)
-#: C/gs-respond-messages.page:131(item/p)
-msgid "Press <key>Esc</key> to close the chat message."
-msgstr "Správu zatvoríme stlačením klávesu <key>Esc</key>."
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:48
+msgid ""
+"You can find the apps that are already on your desktop in the "
+"<gui>Installed</gui> category."
+msgstr ""
 
-#: C/getting-started.page:182(div/p) C/gs-respond-messages.page:80(div/p)
-msgid "To dismiss the message tray, press <key>Esc</key>."
-msgstr "Správu v lište správ zamietneme stlačením klávesu <key>Esc</key>."
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:51
+msgid ""
+"Click on the app that you want to download. For example, go to the "
+"<gui>Education</gui> category and click on the <app>Guatemala</app> app. A "
+"new window will come up with more information about the app. Click on the "
+"green button that says <gui>Add to Desktop</gui>, then after a moment the "
+"button will change to say <gui>Open</gui>."
+msgstr ""
 
-#: C/getting-started.page:191(links/title)
-msgid "Common Tasks"
-msgstr "Všeobecné úlohy"
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:57
+msgid ""
+"After closing this window you’ll see that the program you downloaded is now "
+"on your desktop. Now you can open it whenever you want to quickly and "
+"easily!"
+msgstr ""
 
-#: C/gs-animation.xml:3(titles/t)
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:61
+msgid ""
+"To remove an app, click on the app’s icon without letting go and drag it on "
+"top of the <app>More Apps</app> icon. You’ll notice that the icon has "
+"changed from a grey square to a recycling bin. Let go of the click over this"
+" icon and you’ll see a window telling you that you’ve successfully removed "
+"the app from your desktop. Don’t worry, you can always reinstall the apps "
+"that you remove from your desktop!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:68
+msgid ""
+"You can also delete a folder this same way, by clicking on it, dragging it "
+"over the recycling bin, and letting go. Remember that the folder has to be "
+"empty in order to delete it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:72
+msgid ""
+"That’s how easy it is to add and remove apps and folders from your desktop!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-04-wifi.page:19
+msgctxt "link"
+msgid "Using Wi-Fi"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-04-wifi.page:20
+msgctxt "sort"
+msgid "04"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-04-wifi.page:21
+msgid "A video showing how to set up Wi-Fi with Endless."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-04-wifi.page:24
+msgid "Using Wi-Fi"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:34
+msgid "You can connect to a Wi-Fi network with these easy steps:"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:36
+msgid ""
+"First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
+"right side of your desktop, on the task bar close to the clock."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:39
+msgid ""
+"On the window that comes up, you’ll see the names of all of the available "
+"Wi- Fi networks that you can connect to. If you don’t see any, make sure "
+"that your Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is "
+"turned on if there is a blue light to the right of the word <gui>Wi-"
+"Fi</gui>. If the light is not blue, you can click on it once to turn it on."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:45
+msgid ""
+"Select the name of your wireless network. The network in this example is "
+"called <gui>Endless Wi-Fi</gui>, but the name of your own Wi-Fi network will"
+" be different. If you’re not sure what the name of your Wi-Fi network is, or"
+" don’t know the password, you can call the company that provides your "
+"internet and ask them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:51
+msgid ""
+"After selecting the name of your network, you’ll have to type in your "
+"network’s password."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:54
+msgid ""
+"If your computer successfully connects to the internet, you’ll see a white "
+"circle to the left of the name of your network."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:57
+msgid "And just like that, you’re connected to the internet!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-05-files.page:19
+msgctxt "link"
+msgid "Exploring your files"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-05-files.page:20
+msgctxt "sort"
+msgid "05"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-05-files.page:21
+msgid "A video showing how to use the file system."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-05-files.page:24
+msgid "Exploring your files"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:35
+msgid ""
+"You can easily organize your documents and files with folders. Here’s how to"
+" do it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:38
+msgid ""
+"The <app>Documents</app> icon gives you access to your folders and files. "
+"You can find it on your desktop or by moving your mouse to the hot corner on"
+" the bottom left side of your screen and clicking on the "
+"<app>Documents</app> icon on the right side of the screen, even if you have "
+"an app open."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:43
+msgid ""
+"Once you are in the <app>Documents</app> main folder, you can create new "
+"folders where you can place all of your documents and files so that they are"
+" organized and easy to find. On the left side of the window, you’ll see "
+"shortcuts to get to those folders. To open a file or folder that is "
+"displayed on the right, click your mouse’s button quickly two times. We call"
+" this a double click. To return to the previous folder, click the back arrow"
+" above."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:50
+msgid ""
+"You can also open a folder by clicking the right button of your mouse, and "
+"then clicking <gui>Open</gui> with the left button."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:53
+msgid ""
+"To use the shortcuts that are on the left side of the screen, click on the "
+"name of the folder you wish to open. For example, if you click the name "
+"<gui>Images</gui> with your left mouse button, you’ll open the "
+"<gui>Images</gui> folder."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:58
+msgid ""
+"When you download a file from the internet, it’ll go to the "
+"<gui>Downloads</gui> folder. If you want to move files to this folder or "
+"into another folder, simply click the file without letting go and drag it to"
+" the folder where you want it. For example, if I want to move my favorite "
+"song to the music folder, I click on the music file without letting go and "
+"drag it to the music folder. Now it’s in that folder!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:65
+msgid ""
+"To delete a file, whether it’s a song, photo, or another kind, simply click "
+"on it without letting go and drag it to the recycling bin. To delete my "
+"favorite song, for example, click it without letting go, drag it to the "
+"recycling bin, and let go of the click."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:70
+msgid ""
+"From the recycling bin, you can return the files that you’ve deleted to "
+"where they originally were by selecting them and clicking "
+"<gui>Restore</gui>. You can also delete these files permanently from your "
+"computer by clicking the button <gui>Empty</gui>. If you click this button, "
+"the files will no longer take up space on your computer, but you also won’t "
+"be able to restore them and will instead permanently delete them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:77
+msgid "It’s easy to organize your files on Endless, right?"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-06-browser.page:19
+msgctxt "link"
+msgid "Browsing the Internet"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-06-browser.page:20
+msgctxt "sort"
+msgid "06"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-06-browser.page:21
+msgid "A video explaining how to user browse web pages."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-06-browser.page:24
+msgid "Browsing the Internet"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:35
+msgid ""
+"If you’re connected to the internet you have access to websites from all "
+"around the world! Here, you can learn how to get to them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:38
+msgid ""
+"When your computer is connected to the internet, you can open the browser by"
+" clicking on the orange circle on your task bar on the bottom left-hand "
+"corner. We have put this orange icon in three different places so you can "
+"find it easily: on the desktop next to other apps’ icons, on the black task "
+"bar on the bottom part of your screen, and on the right side of the screen "
+"when you move your mouse to the bottom right hot corner."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:45
+msgid ""
+"When you first open the browser, you’ll see the <app>Content Center</app>. "
+"Here we have collected interesting websites for you to explore. If you click"
+" on the title <gui>Discover</gui> you’ll see different categories for you to"
+" look through to find useful websites. For example, in the <gui>News</gui> "
+"category, you’ll find links for different newspapers. You can explore the "
+"different categories to discover lots of cool websites!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:52
+msgid ""
+"When you see a page that interests you, you can mark it as a favorite to "
+"save it and find it easily in the future. For example, open the page "
+"<gui>Universidad Galileo</gui>. If we want our computer to remember this "
+"page, or any other, all you have to do is click on the star that is located "
+"on the right side of the website’s URL in the top part of the window. If you"
+" want, you can change the name you save it as so that you can find it more "
+"easily in the future. Click <gui>Finished</gui>. Now the page you saved will"
+" appear when you click on <gui>Favorites</gui> in your <app>Content "
+"Center</app>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:61
+msgid ""
+"Clicking on <gui>History</gui> allows you to see all of the websites that "
+"you have previously visited. If you want to return to a site that you once "
+"visited, you can find it here. If you want to clear the list of websites "
+"that you have visited, click on the button that says <gui>Clear "
+"History</gui>, then click to accept the action on the window that pops up."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:67
+msgid ""
+"If you click on <gui>Feedback</gui> on the bottom left side of the content "
+"center, you can send us your comments or suggestions. Just write your "
+"message, your name, and your email address, then click <gui>Send "
+"Feedback</gui>. We would love to hear from you!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-07-windows.page:19
+msgctxt "link"
+msgid "Minimizing and closing windows"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-07-windows.page:20
+msgctxt "sort"
+msgid "07"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-07-windows.page:21
+msgid "A video showing how to minimize and close your windows."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-07-windows.page:24
+msgid "Minimizing and closing windows"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:35
+msgid ""
+"If you want to keep an app or folder open while you work on another task on "
+"your desktop or in another app, the minimizing option is extremely useful!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:38
+msgid ""
+"You can minimize your programs one of two ways: clicking on the <key>-</key>"
+" icon, which is on the top right corner of each window, or clicking on the "
+"program’s icon on the task bar of your Endless screen. This will hide your "
+"app or folder in your task bar so that you can work on different tasks at "
+"the same time."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:44
+msgid ""
+"To make your app return to your screen, just click its icon once and it’ll "
+"return to its last size. When you’re done using a program, close it by "
+"clicking the <key>X</key> icon at the top right-hand corner of the window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:48
+msgid ""
+"You can also move your mouse down to the bottom right-hand corner of your "
+"screen, then move over to the window of the app you want to close and click "
+"the <key>X</key> on the top right of that window to close it."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-08-offline.page:19
+msgctxt "link"
+msgid "Using Endless offline"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-08-offline.page:20
+msgctxt "sort"
+msgid "08"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-08-offline.page:21
+msgid "A video showing the offline content on your computer."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-08-offline.page:24
+msgid "Using Endless offline"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:35
+msgid ""
+"Your computer includes a lot of offline content so you can learn and explore"
+" a great deal of things without having an internet connection!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:38
+msgid ""
+"For example, you’ll find a folder called <gui>Curiosities</gui> on your "
+"desktop where you can find apps like <app>Virtual School</app>, which allows"
+" you to watch hundreds of videos about all sorts of subjects you may find "
+"interesting."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:43
+msgid ""
+"Let’s explore <app>Virtual School</app>. Open the app to see the all the "
+"different subjects for which you can watch video lessons. You’ll see the "
+"number of videos available for each topic to the right of its name. For "
+"example, in <gui>Sciences</gui>, you can see that there are 4 videos on the "
+"topic <gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of"
+" this topic, you’ll be able to see the list of videos available."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:50
+msgid ""
+"For any video you’d like to watch, just click on it once to begin playing "
+"it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:53
+msgid ""
+"To end the video, just click on the <key>X</key> button at the top right-"
+"hand corner of the video. To learn more about how to control videos, please "
+"see the tutorial that talks about photos, music and video."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:57
+msgid ""
+"You may also be interested in using the <app>Encyclopedia</app> app. We have"
+" put it on your desktop to make it easy to find."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:60
+msgid ""
+"When you open this app, you will see a bar where you can search for any "
+"topic you want to investigate. For example, let's look for information about"
+" Guatemala. Once you start typing, a list will appear so that you can choose"
+" the item that best matches what you’d like to read about. Click on a title "
+"and all of the information on the topic you have chosen will appear."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:66
+msgid ""
+"Remember that there are many apps that do not require internet. Keep "
+"exploring your computer to find them!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-09-writer.page:19
+msgctxt "link"
+msgid "Using the Writer app"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-09-writer.page:20
+msgctxt "sort"
+msgid "09"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-09-writer.page:21
+msgid "A video showing how to use the Writer app to create documents."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-09-writer.page:24
+msgid "Using the Writer app"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:35
+msgid ""
+"Your computer comes with apps for you to create the documents and "
+"presentations that you need."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:38
+msgid ""
+"For example, you can find the <app>Writer</app> app on your desktop, with "
+"which you can create your documents. You can also create spreadsheets in the"
+" <app>Spreadsheets</app> app, which is located in the <gui>Work</gui> "
+"folder. And, you can use the <app>Presentation</app> app to create "
+"presentations that can help you communicate your ideas."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:44
+msgid ""
+"Let’s walk through some basic things that you can do with the "
+"<app>Writer</app> app."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:47
+msgid ""
+"You can easily copy text from other apps. Suppose you want to copy text from"
+" the <app>Encyclopedia</app> app. Just select the text you want to copy, and"
+" right click on it. A menu with the option to <gui>Copy</gui> will appear. "
+"Click on that option."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:52
+msgid ""
+"Go back to the app where you want to paste the information. Then, simply "
+"right click again, and then click <gui>Paste</gui>. The text you copied from"
+" the encyclopedia will appear in your document."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:56
+msgid ""
+"Select the text again with your mouse, or by pressing and holding "
+"<key>Shift</key> and the arrow buttons. You can then use the buttons at the "
+"top of the screen to make the text bold, italic, or underlined. You can also"
+" center or justify the paragraph format so that it looks the way you want it"
+" to look."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:62
+msgid "Explore all of the buttons up top to see the function of each!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:64
+msgid ""
+"You can save your document by clicking <gui>File</gui>, then "
+"<gui>Save</gui>. Remember to give your document a name that you will "
+"remember (usually something that describes what is in the document) before "
+"saving it to make it easier to find later."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-10-video-player.page:19
+msgctxt "link"
+msgid "Playing videos"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-10-video-player.page:20
+msgctxt "sort"
+msgid "10"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-10-video-player.page:21
+msgid "A video showing how to play movies and videos with Endless."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-10-video-player.page:24
+msgid "Playing videos"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:35
+msgid ""
+"We have pre-installed some fun short videos onto your computer so you can "
+"watch them whenever you want. You can also watch videos from a USB memory "
+"stick, or you can download and watch videos from the internet if you have a "
+"connection."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:40
+msgid ""
+"First, let's find the <gui>Videos</gui> folder. From the desktop, click on "
+"the <app>Documents</app> folder. Then, double click on the <gui>Videos</gui>"
+" folder. Double click on the <gui>Samples</gui> folder to open it. This is "
+"where we have added the pre-installed short videos. To open a video, simply "
+"double click on its name."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:46
+msgid ""
+"Once the video is playing, you can pause it by clicking on the button in the"
+" lower left corner of the video. To continue playing it, click on that same "
+"button. You can click on the grey square that appears on the bottom bar of "
+"the video and drag it to advance or rewind the video."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:51
+msgid ""
+"If you’d like to see the video in full screen, just click on the arrows "
+"below the video on the right. To downsize the video and see other things in "
+"your screen again, you’ll have to press the <key>ESC</key> key, which is on "
+"the top left-hand side of your keyboard. This key can also be used to quit "
+"games that take you into full-screen mode, or when any other video is in "
+"full-screen."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:57
+msgid ""
+"You can find the button to adjust volume on the lower right-hand side of the"
+" video player. Click and then drag the bar up and down to adjust the volume."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:60
+msgid ""
+"Remember to connect your computer to headphones or speakers so you can hear "
+"the video’s sound. If your computer is connected to a TV, then the TV’s "
+"speakers should work to play sound. If you still cannot hear anything, try "
+"turning up the volume on your computer or on your TV."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:65
+msgid "We hope you enjoy all the videos we chose for you!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-11-photos-and-music.page:19
+msgctxt "link"
+msgid "Photos and Music"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-11-photos-and-music.page:20
+msgctxt "sort"
+msgid "11"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-11-photos-and-music.page:21
+msgid "A video showing how to edit photos and listen to music."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-11-photos-and-music.page:24
+msgid "Photos and Music"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:35
+msgid ""
+"Editing your photos is easy! You can find the <app>Photo Editor</app> app "
+"right on your desktop. Click once to open it and then choose a picture you "
+"want to edit. You can use one of the photos that comes with your computer, "
+"or a photo that you have taken and uploaded."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:40
+msgid ""
+"Click <gui>Open Image</gui> to begin. To view the photos that are already on"
+" your computer, double click on the <gui>Samples</gui> folder. You can click"
+" once on a photo’s name to view it in a preview, and can double click on the"
+" picture you want to open and edit it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:45
+msgid ""
+"Once you have a photo open, you can edit it in many fun ways. For example, "
+"you can rotate, cut or change it until you find a look that you really like "
+"for it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:49
+msgid ""
+"We have included many filters to give you more options to create your "
+"perfect image. There are even options to distort the photo and make it look "
+"funny."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:52
+msgid ""
+"Add a frame to your masterpiece if you’d like, and when you are finished "
+"editing the photo you can save it, post it to Facebook, or use it as your "
+"wallpaper!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:56
+msgid ""
+"Make sure you also check out the <app>Music</app> on your desktop. Open to "
+"see a bunch of songs we have already added. You can of course add more songs"
+" by transferring them from a USB or downloading them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:60
+msgid ""
+"To hear a song, double click on it. You can pause it by clicking on the "
+"button on the top left-hand side, and continue playing it by re-clicking the"
+" same button."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:64
+msgid ""
+"You can also skip to the next song or replay a previous song with the arrow "
+"buttons, and can even choose to repeat the song over and over again. You can"
+" play all of the songs in your playlists in order or shuffle the songs and "
+"play them out of order."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:69
+msgid ""
+"You can find the area to adjust volume on the top right-hand side. Click and"
+" drag the circle button to the left or right to adjust the volume."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:72
+msgid ""
+"Remember, to hear audio, you have to connect headphones or speakers to your "
+"computer. If you have your computer connected to a TV and still cannot hear "
+"the audio, try turning up the volume of your computer or of your TV."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-12-social-bar.page:19
+msgctxt "link"
+msgid "Using Facebook"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-12-social-bar.page:20
+msgctxt "sort"
+msgid "12"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-12-social-bar.page:21
+msgid "A video showing how to use Facebook with other programs."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-12-social-bar.page:24
+msgid "Using Facebook"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:35
+msgid ""
+"If you have internet, there are two simple ways to access <em>Facebook</em>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:38
+msgid ""
+"The first is opening the browser and entering <em>facebook.com</em> at the "
+"top, then entering your name and password in the login part of the site as "
+"you may already be used to doing."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:42
+msgid ""
+"The other way is to use the <em>Facebook</em> button located in the lower "
+"right-hand corner of your screen. By clicking on it, you will see a window "
+"that appears on the right side of the screen. Enter your email and password "
+"and start using Facebook immediately!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:47
+msgid ""
+"If you access <em>Facebook</em> this second way, you'll have very easy "
+"access to <em>Facebook</em> while using other programs. For example, you can"
+" be using the <app>Writer</app> app, and while you are working on a "
+"document, you can check <em>Facebook</em> quickly during breaks, and you can"
+" even continue a conversation without having to switch programs to do so."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:53
+msgid ""
+"If you use this second method, be sure to logout of your Facebook account "
+"before you stop using the computer, otherwise, someone else may be able to "
+"access your Facebook account."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:57
+msgid ""
+"To logout of <em>Facebook</em>, make sure you are in the <em>Facebook</em> "
+"window, click on the menu button on the top left-hand side, scroll to the "
+"bottom of the window, and click on the <em>logout</em> button."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:61
+msgid "There you go, Facebook is now just a click away!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-13-printers.page:9
+msgctxt "link"
+msgid "Setting up a printer"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-13-printers.page:10
+msgctxt "sort"
+msgid "13"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-13-printers.page:11
+msgid "A video showing how to set up a printer for the first time."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-13-printers.page:14
+msgid "Setting up a printer"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:25
+msgid ""
+"Click the <em>User Menu</em> button on the bottom left-hand corner of the "
+"screen, then select <gui>Settings</gui>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:28
+msgid ""
+"In the window that appears, click <gui>Printers</gui>. To continue, you must"
+" unlock this window by clicking on the button that says <gui>Unlock</gui> in"
+" the upper right-hand corner. Enter your password and click "
+"<gui>Authenticate</gui> to finish unlocking the window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:33
+msgid ""
+"Click the <key>+</key> symbol in the lower left-hand corner of this window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:36
+msgid ""
+"Select your printer from the list that appears, and click <gui>Add</gui>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:38
+msgid ""
+"You will see the name of your printer appear. If you want to check that your"
+" printer is configured correctly, click the button that says "
+"<gui>Print</gui> to print a sample page."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:42
+msgid ""
+"You can now close this window and begin to use your printer with Endless!"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-videos.page:9
+msgid "Watch videos explaining how to use EndlessOS."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-videos.page:10
+msgctxt "link"
+msgid "Videos Tutorials"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-videos.page:11
+msgctxt "sort"
+msgid "Videos Tutorials"
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-videos.page:14
+msgid "Endless Videos"
+msgstr ""
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:3
 msgid "Welcome"
 msgstr "Vitajte"
 
-#: C/gs-animation.xml:6(titles/t) C/gs-change-wallpaper.page:29(div/p)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:4
+msgid "Launching Applications"
+msgstr "Spúšťanie aplikácií"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:5
+msgid "Getting Started"
+msgstr "Začíname"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:6
 msgid "Changing Wallpaper"
 msgstr "Zmena tapety"
 
-#: C/gs-animation.xml:10(titles/t) C/gs-use-windows-workspaces.page:28(div/p)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:7
+msgid "Responding to Messages"
+msgstr "Reagovanie na správy"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:8
+msgid "Switching Tasks"
+msgstr "Prepínanie úloh"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:9
+msgid "Delayed Response"
+msgstr "Oneskorená reakcia"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:10
 msgid "Windows and Workspaces"
 msgstr "Okná a pracovné priestory"
 
-#: C/gs-animation.xml:11(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:11
 msgid "Changing Date, Time and Timezone"
 msgstr "Zmena dátumu, času a časovej zóny"
 
-#: C/gs-animation.xml:12(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:12
 msgid "Maximize"
 msgstr "Maximalizovať"
 
-#: C/gs-animation.xml:13(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:13
 msgid "Restore"
 msgstr "Obnoviť"
 
-#: C/gs-animation.xml:14(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:14
 msgid "Left half of screen"
 msgstr "Ľavá polovica obrazovky"
 
-#: C/gs-animation.xml:15(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:15
 msgid "Workspace down"
 msgstr "Pracovný priestor dole"
 
-#: C/gs-animation.xml:16(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:16
 msgid "Workspace up"
 msgstr "Pracovný priestor hore"
 
-#: C/gs-animation.xml:17(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:17
 msgid "Right half of screen"
 msgstr "Pravá polovica obrazovky"
 
-#: C/gs-animation.xml:18(titles/t) C/gs-go-online1.svg:241(text/tspan)
-#: C/gs-search1.svg:190(text/tspan) C/gs-search2.svg:146(text/tspan)
-#: C/gs-thumb-changing-wallpaper.svg:71(text/tspan)
-#: C/gs-thumb-launching-apps.svg:195(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:42(text/tspan)
-#: C/gs-thumb-task-switching.svg:158(text/tspan)
-#: C/gs-thumb-timezone.svg:47(text/tspan)
-#: C/gs-thumb-windows-and-workspaces.svg:95(text/tspan)
-#: C/gs-web-browser1-firefox.svg:122(text/tspan)
-#: C/gs-web-browser1.svg:122(text/tspan)
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:18 C/gs-go-online1.svg:251 C/gs-search1.svg:198
+#: C/gs-search2.svg:154 C/gs-thumb-changing-wallpaper.svg:54
+#: C/gs-thumb-launching-apps.svg:204 C/gs-thumb-responding-to-messages.svg:51
+#: C/gs-thumb-task-switching.svg:167 C/gs-thumb-timezone.svg:56
+#: C/gs-thumb-windows-and-workspaces.svg:104 C/gs-web-browser1-firefox.svg:122
+#: C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
 msgstr "Aktivity"
 
-#: C/gs-animation.xml:19(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:19
 msgid "Enter"
 msgstr "Enter"
 
-#: C/gs-animation.xml:20(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:20
 msgid "Ctrl"
 msgstr "Ctrl"
 
-#: C/gs-animation.xml:21(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:21
 msgid "Alt"
 msgstr "Alt"
 
-#: C/gs-animation.xml:22(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:22
 msgid "Tab"
 msgstr "Tab"
 
-#: C/gs-animation.xml:23(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:23
 msgid "Esc"
 msgstr "Esc"
 
-#: C/gs-animation.xml:24(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:24
 msgid "help"
 msgstr "pomocník"
 
-# PM: nazov aplikácie
-#: C/gs-animation.xml:25(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:25
 msgid "web"
 msgstr "web"
 
-#: C/gs-animation.xml:26(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:26
 msgid "Just start typing…"
 msgstr "Stačí začať písať…"
 
-#: C/gs-animation.xml:27(titles/t) C/gs-goa1.svg:43(text/tspan)
-#: C/gs-goa1.svg:70(text/tspan) C/gs-go-online1.svg:239(text/tspan)
-#: C/gs-go-online1.svg:250(text/tspan) C/gs-go-online1.svg:316(text/tspan)
-#: C/gs-go-online2.svg:235(text/tspan) C/gs-go-online2.svg:266(text/tspan)
-#: C/gs-go-online3.svg:332(text/tspan) C/gs-search1.svg:187(text/tspan)
-#: C/gs-search2.svg:143(text/tspan)
-#: C/gs-thumb-changing-wallpaper.svg:72(text/tspan)
-#: C/gs-thumb-launching-apps.svg:196(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:43(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:61(text/tspan)
-#: C/gs-thumb-task-switching.svg:159(text/tspan)
-#: C/gs-thumb-timezone.svg:48(text/tspan)
-#: C/gs-thumb-windows-and-workspaces.svg:96(text/tspan)
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:27 C/gs-go-online1.svg:249
+#: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
 msgstr "Janko Mrkvička"
 
-#: C/gs-animation.xml:28(titles/t) C/gs-goa1.svg:75(text/tspan)
-#: C/gs-thumb-changing-wallpaper.svg:77(text/tspan)
-#, no-wrap
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:28
 msgid "Settings"
 msgstr "Nastavenia"
 
-#: C/gs-animation.xml:29(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:29
 msgid "Background"
 msgstr "Pozadie"
 
-#: C/gs-animation.xml:30(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:30
 msgid "Wallpapers"
 msgstr "Tapety"
 
-#: C/gs-animation.xml:31(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:31
 msgid "Select"
 msgstr "Vybrať"
 
-#: C/gs-animation.xml:32(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:32
 msgid "Ready for the meeting?"
 msgstr "Prídeš na stretnutie?"
 
-#: C/gs-animation.xml:33(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:33
 msgid "I'll be there in a sec..."
 msgstr "Budem tam za chvíľku..."
 
-#: C/gs-animation.xml:34(titles/t)
-#: C/gs-thumb-responding-to-messages.svg:60(text/tspan)
+#. (itstool) path: titles/t
+#. (itstool) path: text/tspan
+#: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "Good stuff, thanks again"
 msgstr "Dobrá práca, ešte raz ďakujem"
 
-#: C/gs-animation.xml:35(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:35
 msgid "Thanks for the support"
 msgstr "Vďaka za pomoc"
 
-#  PM: toto skôr asi niečo ako "Nie je za čo"
-#: C/gs-animation.xml:36(titles/t)
-#, fuzzy
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:36
 msgid "No worries."
-msgstr "Nerob si starosti."
+msgstr "Nie je za čo."
 
-#  PM: a toto zasa skor niečo ako "Ale je"
-#: C/gs-animation.xml:37(titles/t)
-#, fuzzy
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:37
 msgid "Too kind."
-msgstr "Vážim si to."
+msgstr "Ale je."
 
-#: C/gs-animation.xml:38(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:38
 msgid "Open Calendar"
 msgstr "Otvoriť kalendár"
 
-#: C/gs-animation.xml:39(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:39
 msgid "Open Clocks"
 msgstr "Otvoriť hodiny"
 
-#: C/gs-animation.xml:40(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:40
 msgid "Date and Time Settings"
 msgstr "Nastavenia dátumu a času"
 
-#: C/gs-animation.xml:41(titles/t)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:41
 msgid "Automatic Date and Time"
 msgstr "Automatický dátum a čas"
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web.page:23(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-msgctxt "_"
-msgid ""
-"external ref='gs-web-browser1.svg' md5='1274655738308160a9626713aeb08033'"
-msgstr ""
-"external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:42
+msgid "Automatic Timezone"
+msgstr "Automatické časové pásmo"
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web.page:37(media)
-msgctxt "_"
-msgid ""
-"external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-msgstr ""
-"external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:43
+msgid "14 October 2013, 20:00"
+msgstr "14. október 2013, 20:00"
 
-#: C/gs-browse-web.page:10(credit/name)
-#: C/gs-browse-web-firefox.page:11(credit/name)
-#: C/gs-change-date-time-timezone.page:11(credit/name)
-#: C/gs-change-wallpaper.page:10(credit/name)
-#: C/gs-connect-online-accounts.page:9(credit/name)
-#: C/gs-get-online.page:9(credit/name)
-#: C/gs-launch-applications.page:10(credit/name)
-#: C/gs-respond-messages.page:10(credit/name)
-#: C/gs-switch-tasks.page:10(credit/name)
-#: C/gs-use-system-search.page:9(credit/name)
-#: C/gs-use-windows-workspaces.page:9(credit/name)
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:44
+msgid "14 October 2013, 14:00"
+msgstr "14. október 2013, 14:00"
+
+#. (itstool) path: credit/name
+#: C/gs-browse-web.page:9 C/gs-get-online.page:9 C/gs-use-system-search.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
-#: C/gs-browse-web.page:13(credit/name)
-#: C/gs-browse-web-firefox.page:14(credit/name)
-#: C/gs-change-date-time-timezone.page:14(credit/name)
-#: C/gs-change-wallpaper.page:13(credit/name)
-#: C/gs-connect-online-accounts.page:12(credit/name)
-#: C/gs-get-online.page:12(credit/name)
-#: C/gs-launch-applications.page:13(credit/name)
-#: C/gs-respond-messages.page:13(credit/name)
-#: C/gs-switch-tasks.page:13(credit/name)
-#: C/gs-use-system-search.page:12(credit/name)
-#: C/gs-use-windows-workspaces.page:12(credit/name)
+#. (itstool) path: credit/name
+#: C/gs-browse-web.page:12 C/gs-get-online.page:12
+#: C/gs-use-system-search.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
-#: C/gs-browse-web.page:18(info/title)
-msgctxt "link:trail"
+#. (itstool) path: info/desc
+#: C/gs-browse-web.page:20
+msgid "Use Facebook, Google and other popular websites with your browser."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/gs-browse-web.page:23
 msgid "Browse the web"
 msgstr "Prehliadanie webu"
 
-#: C/gs-browse-web.page:21(page/title)
-#: C/gs-browse-web-firefox.page:22(page/title)
-msgid "Browse the web"
-msgstr "Prehliadanie webu"
-
-#: C/gs-browse-web.page:26(item/p) C/gs-browse-web-firefox.page:30(item/p)
-#: C/gs-launch-applications.page:64(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:27
 msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen to show the <gui>Activities Overview</gui>."
+"Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
+"your desktop. You can browse the internet by clicking on this desktop icon "
+"once."
 msgstr ""
-"Presunieme kurzor myši na <gui>Aktivity</gui> do ľavého horného rohu "
-"obrazovky, čím zobrazíme <gui>Prehľad aktivít</gui>."
 
-#  PM: aplikácia sa volá Web aj v slovenčine
-#: C/gs-browse-web.page:29(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:33
 msgid ""
-"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
-"the screen."
+"You can also open this app by moving your mouse pointer to the "
+"<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
+"clicking once."
 msgstr ""
-"Vyberieme ikonu prehliadača <app>Web</app> z panelu na ľavej strane "
-"obrazovky."
 
-#: C/gs-browse-web.page:33(note/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:39
+msgid "Click the address bar at the top of the browser window. Start typing!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:43
 msgid ""
-"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
-"gui>."
+"You do not need to remember the exact address if you have already visited "
+"the website because it will be stored in your history and/or bookmarks."
 msgstr ""
-"Internetový prehliadač môžeme spustiť aj <link xref=\"gs-use-system-search"
-"\">začatím písania</link> <em>web</em> do vyhľadávača v <gui>Prehľade "
-"aktivít</gui>."
 
-#: C/gs-browse-web.page:40(item/p) C/gs-browse-web-firefox.page:59(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:46
 msgid ""
-"Click the address bar at the top of the browser window and start typing in "
-"the website you want to visit."
+"If the website is found in the history or bookmarks, you will see a drop-"
+"down list appear below the address bar."
 msgstr ""
-"Klikneme na panel adresy v hornej časti prehliadača a začneme písať adresu "
-"webovej stránky, ktorú chceme navštíviť."
 
-#: C/gs-browse-web.page:42(item/p) C/gs-browse-web-firefox.page:61(item/p)
-msgid ""
-"Typing in a website starts searching for it in the browser history and "
-"bookmarks, so you do not need to remember the exact address."
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:49
+msgid "Select the website you are looking for using the arrow keys."
 msgstr ""
-"Písaním adresy webovej stránky začne prehliadač hľadať stránku v histórii a "
-"záložkách, takže nie je potrebné si adresu presne pamätať."
 
-#: C/gs-browse-web.page:45(item/p) C/gs-browse-web-firefox.page:64(item/p)
-msgid ""
-"If the website is found in the history or bookmarks, a drop-down list is "
-"shown below the address bar."
-msgstr ""
-"Ak sa webová stránka nájde v histórii alebo záložkách, pod panelom adresy "
-"sa zobrazí rozbaľovací zoznam."
-
-#: C/gs-browse-web.page:47(item/p) C/gs-browse-web-firefox.page:66(item/p)
-msgid ""
-"From the drop-down list, you can quickly select a website using the arrow "
-"keys."
-msgstr ""
-"Z rozbaľovacieho zoznamu si môžeme rýchlo vybrať internetovú stránku pomocou "
-"šípok."
-
-#: C/gs-browse-web.page:50(item/p) C/gs-browse-web-firefox.page:69(item/p)
+#. (itstool) path: item/p
+#: C/gs-browse-web.page:52
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
 msgstr "Vybranú stránku navštívime stlačením klávesu <key>Enter</key>."
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web-firefox.page:27(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-msgctxt "_"
+#. (itstool) path: note/p
+#: C/gs-browse-web.page:58
 msgid ""
-"external ref='gs-web-browser1-firefox.svg' "
-"md5='f4958e0fad516473746fc14fbd0f4333'"
+"You can search the internet directly from your desktop by using the <link "
+"xref=\"gs-use-system-search\">global search bar</link> feature. First, "
+"<gui>type what you are looking for directly</gui> into the search bar on "
+"your desktop. You will be shown the top results that are already on your "
+"Endless computer, and it will also ask if you want to search the internet. "
+"Click on the option to search the internet."
 msgstr ""
-"external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web-firefox.page:44(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-msgctxt "_"
+#. (itstool) path: info/desc
+#: C/gs-fix-overscan.page:19
 msgid ""
-"external ref='gs-web-browser1-firefox-classic.svg' "
-"md5='fe09a8fa520c0f337bade21f8a5d0377'"
+"Fix a problem where your TV is cutting off the top and bottom of the screen."
 msgstr ""
-"external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-browse-web-firefox.page:56(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
-msgctxt "_"
+#. (itstool) path: page/title
+#: C/gs-fix-overscan.page:22
+msgid "I can't see the task bar or start menu, what do I do?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-fix-overscan.page:24
 msgid ""
-"external ref='gs-web-browser2-firefox.svg' "
-"md5='d8f2a86ceef35a2e9a95fa54943ca76f'"
+"If you do not see the task bar at the bottom of your screen with the user "
+"menu on the left and the time and facebook icon on the right, you need to "
+"adjust your screen to fit your TV."
 msgstr ""
-"external ref='gs-web-browser2.svg' md5='88529d3842847625dbdd268c7f47da5e'"
 
-#: C/gs-browse-web-firefox.page:33(item/p)
+#. (itstool) path: section/title
+#: C/gs-fix-overscan.page:29
+msgid "To adjust your screen:"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-fix-overscan.page:32
+msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-fix-overscan.page:37
+msgid "Click the back button on the top left corner of the dialog box."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-fix-overscan.page:41
+msgid "Select the <gui>Displays</gui> icon."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-fix-overscan.page:45
 msgid ""
-"Select the <app>Firefox</app> browser icon from the bar on the left-hand "
-"side of the screen."
+"Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
+"screen for TV\"</gui>."
 msgstr ""
-"Vyberieme ikonu prehliadača <app>Firefox</app> z panelu na ľavej strane "
-"obrazovky"
 
-#: C/gs-browse-web-firefox.page:37(note/p)
+#. (itstool) path: item/p
+#: C/gs-fix-overscan.page:50
 msgid ""
-"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-"search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
-"Overview</gui>."
+"You should now see a black bar at the bottom of your screen and the user "
+"menu on the bottom left-hand corner of your screen!"
 msgstr ""
-"Prehliadač Firefox môžeme spustiť aj <link xref=\"gs-use-system-search"
-"\">začatím písania</link> <em>Firefox</em> do vyhľadávača v <gui>Prehľade "
-"aktivít</gui>."
 
-#: C/gs-browse-web-firefox.page:47(item/p)
-#, fuzzy
-#| msgid ""
-#| "Move your mouse pointer to the <gui>Activities</gui> corner at the top "
-#| "left of the screen."
-msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
+#. (itstool) path: page/title
+#: C/gs-get-online.page:21
+msgid "How do I set up my internet?"
 msgstr ""
-"Kurzor myši presunieme na <gui>Aktivity</gui>, do ľavého horného rohu "
-"obrazovky."
 
-#: C/gs-browse-web-firefox.page:49(item/p)
+#. (itstool) path: page/p
+#: C/gs-get-online.page:23
 msgid ""
-"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
-"guiseq>."
+"If you are offline, the network connection icon on the bottom right-hand "
+"side of your screen will look like this <_:media-1/>."
 msgstr ""
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-date-time-timezone.page:29(media)
-msgctxt "_"
+#. (itstool) path: page/p
+#: C/gs-get-online.page:27
 msgid ""
-"external ref='figures/gnome-timezone.webm' "
-"md5='a6eb6dd9f7ca9d428ff35aad8cbaab65'"
-msgstr ""
+"The offline status can be caused by a number of reasons: for example, a "
+"network cable has been unplugged, the computer has been set to run in "
+"<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
+"area."
+msgstr "Odpojený stav môže mať niekoľko príčin: napríklad bol odpojený sieťový kábel, na počítači bol spustený <em>Režim v lietadle</em> alebo sa v dosahu nenachádza žiadna dostupná bezdrôtová sieť."
 
-#: C/gs-change-date-time-timezone.page:17(info/title)
-msgctxt "link:trail"
-msgid "Change the date, time and timezone"
-msgstr "Zmena dátumu, času a časovej zóny"
-
-#: C/gs-change-date-time-timezone.page:19(info/title)
-msgctxt "link:seealso"
-msgid "A tutorial on changing the date, time and timezone"
-msgstr "Návod na zmenu dátumu, času a časovej zóny"
-
-#: C/gs-change-date-time-timezone.page:23(page/title)
-#: C/gs-change-date-time-timezone.page:63(section/title)
-msgid "Change the date, time and timezone"
-msgstr "Zmena dátumu, času a časovej zóny"
-
-#: C/gs-change-date-time-timezone.page:34(div/p)
-msgid "Changing Date &amp; Time"
-msgstr "Zmena dátumu a času"
-
-#: C/gs-change-date-time-timezone.page:37(div/p)
-#: C/gs-change-date-time-timezone.page:66(item/p)
-msgid "Click the clock on the top bar."
-msgstr "Klikneme na hodiny vo vrchnom paneli."
-
-#: C/gs-change-date-time-timezone.page:40(div/p)
-#: C/gs-change-date-time-timezone.page:67(item/p)
-msgid "Select the <gui>Date &amp; Time Settings</gui> item."
-msgstr "Vyberieme možnosť <gui>Nastavenia dátumu a času</gui>."
-
-#: C/gs-change-date-time-timezone.page:43(div/p)
-#: C/gs-change-date-time-timezone.page:77(item/p)
-msgid "Click on your location on the map."
-msgstr "Klikneme na našu pozíciu na mape."
-
-#  PM: mám pocit že bud zabudli den a mesiac alebo tu namal byt ani rok lebo tam už nie sú šípky ale +/- nahlás bug
-#: C/gs-change-date-time-timezone.page:46(div/p)
-#, fuzzy
-msgid ""
-"You can adjust the date and time by clicking on the arrows to choose the "
-"hour, minute, and year."
-msgstr ""
-"Dátum a čas môžeme upravovať klikaním na šípky upravujúce hodiny, minúty a "
-"rok."
-
-#: C/gs-change-date-time-timezone.page:50(div/p)
-msgid "Close the window."
-msgstr "Zatvorime okno."
-
-#: C/gs-change-date-time-timezone.page:75(item/p)
-msgid ""
-"You may need to click the <gui>Unlock</gui> button and type the "
-"administrator's password."
-msgstr ""
-"Možno bude potrebné kliknúť na tlačidlo <gui>Odomknúť</gui> a napísať heslo "
-"správcu."
-
-#: C/gs-change-date-time-timezone.page:78(item/p)
-msgid ""
-"This selects your current city, which you can also see and change in the "
-"drop-down list below the map."
-msgstr ""
-"Týmto vyberieme naše aktuálne mesto, ktoré môžeme tiež vidieť a zmeniť v "
-"rozbaľovacom zozname pod mapou."
-
-# PŠ (pre PM): a tu už šípky sú? Viď predch. komentár PM...
-#: C/gs-change-date-time-timezone.page:80(item/p)
-msgid ""
-"On the left-hand side of the window, you can adjust the date and time by "
-"clicking on the arrows to choose the hour, minute, and year."
-msgstr ""
-"Na ľavej strane okna môžeme upraviť dátum a čas kliknutím na šípky pre výber "
-"hodín, minút a roku."
-
-#: C/gs-change-date-time-timezone.page:83(item/p)
-msgid ""
-"Close the window by clicking the cross at the top-right corner of the window."
-msgstr "Zatvorime okno kliknutím na krížik v pravom hornom rohu okna."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-change-wallpaper.page:24(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-change-wallpaper.webm' "
-"md5='132412626662c3b2f5ba11dd6c418457'"
-msgstr ""
-
-#: C/gs-change-wallpaper.page:16(info/title)
-msgctxt "link:trail"
-msgid "Change the wallpaper"
-msgstr "Zmena tapety"
-
-#: C/gs-change-wallpaper.page:18(info/title)
-msgctxt "link:seealso"
-msgid "A tutorial on changing the wallpaper"
-msgstr "Návod na zmenu tapety"
-
-#: C/gs-change-wallpaper.page:21(page/title)
-#: C/gs-change-wallpaper.page:55(section/title)
-msgid "Change the wallpaper"
-msgstr "Zmena tapety"
-
-#: C/gs-change-wallpaper.page:32(div/p) C/gs-change-wallpaper.page:58(item/p)
-msgid "Click your name on the top bar and select <gui>Settings</gui>."
-msgstr ""
-"Klikneme na svoje meno v hornom paneli a vyberieme <gui>Nastavenia</gui>."
-
-#: C/gs-change-wallpaper.page:35(div/p)
-msgid "Select <gui>Background</gui>."
-msgstr "Vyberieme <gui>Pozadie</gui>."
-
-#: C/gs-change-wallpaper.page:38(div/p)
-msgid "Click the image of your current wallpaper."
-msgstr "Klikneme na obrázok našej aktuálnej tapety."
-
-#: C/gs-change-wallpaper.page:41(div/p) C/gs-change-wallpaper.page:63(item/p)
-msgid "Click the background image that you want to use."
-msgstr "Klikneme na obrázok pozadia, ktorý chceme použiť."
-
-#: C/gs-change-wallpaper.page:44(div/p) C/gs-change-wallpaper.page:64(item/p)
-msgid "Click the <gui>Select</gui> button."
-msgstr "Klikneme na tlačidlo <gui>Vybrať</gui>."
-
-#: C/gs-change-wallpaper.page:47(div/p)
-msgid "Close the <gui>Background</gui> window."
-msgstr "Zatvorime okno <gui>Pozadie</gui>."
-
-#: C/gs-change-wallpaper.page:60(item/p)
-msgid "From the list of items, select <gui>Background</gui>."
-msgstr "Zo zoznamu položiek vyberieme <gui>Pozadie</gui>."
-
-#: C/gs-change-wallpaper.page:61(item/p)
-msgid ""
-"Click the image of your current wallpaper in the center of the "
-"<gui>Background</gui> window."
-msgstr ""
-"Klikneme na obrázok našej aktuálnej tapety, v strede okna <gui>Pozadie</gui>."
-
-#: C/gs-change-wallpaper.page:65(item/p)
-msgid ""
-"Close the <gui>Background</gui> window by clicking the cross at the top-"
-"right corner of the window."
-msgstr ""
-"Zatvorime okno <gui>Pozadie</gui> kliknutím na krížik v pravej hornej časti "
-"okna."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-connect-online-accounts.page:23(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-msgctxt "_"
-msgid "external ref='gs-goa1.svg' md5='ff9f254cd60beb531a5eb63381324feb'"
-msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-connect-online-accounts.page:30(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-msgctxt "_"
-msgid "external ref='gs-goa2.svg' md5='ad86f77f168496c15fe171a0b2a4e8d6'"
-msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-connect-online-accounts.page:42(media)
-msgctxt "_"
-msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-connect-online-accounts.page:49(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-msgctxt "_"
-msgid "external ref='gs-goa4.svg' md5='a9c13c95ff7a2d0d7b89a5f52735dee0'"
-msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-connect-online-accounts.page:58(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-msgctxt "_"
-msgid "external ref='gs-goa5.svg' md5='e570fa43b0ab4f854fc33de89721d44d'"
-msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#: C/gs-connect-online-accounts.page:15(info/title)
-msgctxt "link:trail"
-msgid "Connect to online accounts"
-msgstr "Pripojenie online účtov"
-
-#: C/gs-connect-online-accounts.page:17(info/title)
-msgctxt "link:seealso"
-msgid "A tutorial on connecting to online accounts"
-msgstr "Návod na pripojenie online účtov"
-
-#: C/gs-connect-online-accounts.page:21(page/title)
-msgid "Connect to online accounts"
-msgstr "Pripojenie online účtov"
-
-#: C/gs-connect-online-accounts.page:26(item/p)
-#: C/gs-use-system-search.page:79(item/p)
-msgid "Click your name on the top bar."
-msgstr "Klikneme na naše meno v hornom paneli."
-
-#: C/gs-connect-online-accounts.page:27(item/p)
-#: C/gs-use-system-search.page:80(item/p)
-msgid "Select the <gui>Settings</gui> item."
-msgstr "Vyberieme možnosť <gui>Nastavenia</gui>."
-
-#: C/gs-connect-online-accounts.page:33(item/p)
-msgid "From the list of items, select <gui>Online Accounts</gui>."
-msgstr "Zo zoznamu možností vyberieme <gui>Online účty</gui>."
-
-#: C/gs-connect-online-accounts.page:35(item/p)
-msgid "Click on the <gui>Add an online account</gui> button."
-msgstr "Klikneme na tlačidlo <gui>Pridať online účet</gui>."
-
-#: C/gs-connect-online-accounts.page:38(note/p)
-msgid ""
-"If you have set up an online account before, you can add another online "
-"account by clicking the <gui>+</gui> button at the bottom left corner of the "
-"window."
-msgstr ""
-"Ak už máme online účet nastavený, ďalší môžeme pridať kliknutím na tlačidlo "
-"<gui>+</gui> v ľavom spodnom rohu okna."
-
-#: C/gs-connect-online-accounts.page:45(item/p)
-msgid ""
-"Click the online account you want to use. This will open a new window where "
-"you can sign in to your online account."
-msgstr ""
-"Klikneme na online účet, ktorý chceme použiť. Tým sa otvorí nové okno, v "
-"ktorom sa môžeme prihlásiť do svojho online účtu."
-
-#: C/gs-connect-online-accounts.page:52(item/p)
-msgid ""
-"In most cases, you will have to grant access to the online service after "
-"signing in to get started."
-msgstr ""
-"Vo väčšine prípadov budeme musieť po prihlásení umožniť online službe "
-"prístup, aby sme mohli začať."
-
-#: C/gs-connect-online-accounts.page:54(item/p)
-msgid ""
-"For example, if you are connecting to your Google account, you will have to "
-"click the <gui>Grant Access</gui> button."
-msgstr ""
-"Napríklad, ak sa pripájame k účtu Google, budeme musieť kliknúť na tlačidlo "
-"<gui>Umožniť prístup</gui>."
-
-#: C/gs-connect-online-accounts.page:61(item/p)
-msgid ""
-"Many online accounts let you choose the services you want to use with your "
-"online account. If you do not want to use a service, disable it by clicking "
-"the <gui>ON/OFF</gui> switch on the right-hand side of the window."
-msgstr ""
-"Väčšina online účtov nás nechá vybrať služby, ktoré chceme používať s našim "
-"online účtom. Ak určitú službu  nechceme použiť, vypneme ju kliknutím na "
-"prepínač <gui>ZAP/VYP</gui> na pravej strane okna."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:31(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-msgctxt "_"
-msgid "external ref='gs-go-online1.svg' md5='5e1aa458f42d9a534678ac2196cf84a2'"
-msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:44(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-msgctxt "_"
-msgid "external ref='gs-go-online2.svg' md5='a096ef02be2605b172086626617d5e41'"
-msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-get-online.page:63(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-msgctxt "_"
-msgid "external ref='gs-go-online3.svg' md5='894bc9605967842db0df645a458aa337'"
-msgstr "external ref='gs-goa3.svg' md5='5950f0804a17e497f5eb2c7481ea6776'"
-
-#: C/gs-get-online.page:15(info/title)
-msgctxt "link:trail"
-msgid "Get online"
-msgstr "Pripojenie k internetu"
-
-#: C/gs-get-online.page:17(info/title)
-msgctxt "link:seealso"
-msgid "A tutorial on getting online"
-msgstr "Návod ako sa pripojiť k internetu"
-
-#: C/gs-get-online.page:20(page/title)
-msgid "Get online"
-msgstr "Pripojenie k internetu"
-
-#: C/gs-get-online.page:23(note/p)
-msgid ""
-"You can see the status of your network connection on the right-hand side of "
-"the top bar, next to your name."
-msgstr ""
-"Na pravej strane horného panelu môžeme vedľa svojho mena vidieť stav nášho "
-"pripojenia k sieti."
-
-#: C/gs-get-online.page:29(section/title)
+#. (itstool) path: section/title
+#: C/gs-get-online.page:34
 msgid "Connect to a wired network"
 msgstr "Pripojenie k drôtovej sieti"
 
-#: C/gs-get-online.page:34(item/p)
-msgid ""
-"The network connection icon on the right-hand side of the top bar shows that "
-"you are off-line."
-msgstr ""
-"Ikona sieťového pripojenia na pravej strane horného panelu ukazuje, že nie "
-"sme pripojení."
-
-#: C/gs-get-online.page:36(item/p)
-msgid ""
-"Click the network connection icon to show more details about the status of "
-"your network connection."
-msgstr ""
-"Aby sme zobrazili podrobnosti o stave nášho sieťového pripojenia, klikneme "
-"na ikonu sieťové pripojenia."
-
-#: C/gs-get-online.page:38(item/p)
-msgid ""
-"The off-line status can be caused by a number of reasons: for example, a "
-"network cable has been unplugged, the computer has been set to run in "
-"<em>airplane mode</em>, or there are no available wireless networks in your "
-"area."
-msgstr ""
-"Odpojený stav môže mať niekoľko príčin: napríklad bol odpojený sieťový "
-"kábel, na počítači bol spustený <em>Režim v lietadle</em> alebo sa v dosahu "
-"nenachádza žiadna dostupná bezdrôtová sieť."
-
-#: C/gs-get-online.page:47(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:38
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
-msgstr ""
-"Ak chceme použiť drôtové pripojenie, jednoducho pripojíme kábel počítačovej siete. "
-"Počítač sa automatický pokúsi nastaviť sieťové pripojenie."
+msgstr "Ak chceme použiť drôtové pripojenie, jednoducho pripojíme kábel počítačovej siete. Počítač sa automatický pokúsi nastaviť sieťové pripojenie."
 
-#: C/gs-get-online.page:51(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:41 C/gs-get-online.page:76
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
-msgstr ""
-"Pokiaľ počítač nastavuje sieťové pripojenie, ikona sieťového pripojenia bude "
-"zobrazovať tri bodky."
+msgstr "Pokiaľ počítač nastavuje sieťové pripojenie, ikona sieťového pripojenia bude zobrazovať tri bodky."
 
-#: C/gs-get-online.page:53(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
-"connection icon changes to the networked computer symbol."
+"connection icon changes to this <_:media-1/> networked computer symbol."
 msgstr ""
-"Keď bude sieťové pripojenie nastavené, ikona sieťového pripojenia sa zmení "
-"na symbol zosieťovaného počítača."
 
-#: C/gs-get-online.page:61(section/title)
-msgid "Connect to other types of networks"
-msgstr "Pripojenie k iným typom sietí"
+#. (itstool) path: section/title
+#: C/gs-get-online.page:56
+msgid "Connect to a Wi-Fi network"
+msgstr "Pripojenie k Wi-Fi sieti"
 
-#: C/gs-get-online.page:66(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:60
 msgid ""
-"There are various types of network connections that you can use with your "
-"computer, for example, mobile broadband, or wireless networks."
+"Is your Wi-Fi connected? Look for the network icon at the bottom right "
+"corner of your screen. You will see this icon <_:media-1/>. Click on it and "
+"a menu should appear."
 msgstr ""
-"Existuje niekoľko typov sieťových pripojení, ktoré môžeme používať, "
-"napríklad mobilná širokopásmová alebo bezdrôtová sieť."
 
-#: C/gs-get-online.page:69(item/p)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:66
 msgid ""
-"Depending on your computer hardware and the networks availability, you can "
-"choose other connection types by clicking the network connection icon on the "
-"right-hand side of the top bar and selecting the network connection you want "
-"to connect to."
+"Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi” to turn "
+"it on. Check to make sure it is now blue."
 msgstr ""
-"Podľa hardvéru počítača a dostupnosti siete si môžeme vybrať iné typy "
-"pripojení kliknutím na ikonu sieťových pripojení na pravej strane horného "
-"panelu a výberom sieťového pripojenia, ku ktorému sa chceme pripojiť."
 
-#: C/gs-goa1.svg:21(Work/format) C/gs-goa2.svg:38(Work/format)
-#: C/gs-goa3.svg:51(Work/format) C/gs-goa4.svg:36(Work/format)
-#: C/gs-goa5.svg:35(Work/format) C/gs-go-online1.svg:220(Work/format)
-#: C/gs-go-online2.svg:219(Work/format) C/gs-go-online3.svg:256(Work/format)
-#: C/gs-search1.svg:88(Work/format) C/gs-search2.svg:124(Work/format)
-#: C/gs-search-settings.svg:98(Work/format)
-#: C/gs-thumb-changing-wallpaper.svg:30(Work/format)
-#: C/gs-thumb-launching-apps.svg:180(Work/format)
-#: C/gs-thumb-responding-to-messages.svg:27(Work/format)
-#: C/gs-thumb-task-switching.svg:80(Work/format)
-#: C/gs-thumb-timezone.svg:32(Work/format)
-#: C/gs-thumb-windows-and-workspaces.svg:80(Work/format)
-#: C/gs-web-browser1-firefox-classic.svg:103(Work/format)
-#: C/gs-web-browser1-firefox.svg:108(Work/format)
-#: C/gs-web-browser1.svg:108(Work/format)
-#: C/gs-web-browser2-firefox.svg:100(Work/format)
-#: C/gs-web-browser2.svg:100(Work/format)
+#. (itstool) path: item/p
+#: C/gs-get-online.page:70
+msgid "Next, select your Wi-Fi network from the list."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:73
+msgid ""
+"Enter your network password, which is usually different than the password "
+"you use to log in to your computer."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/gs-get-online.page:88
+msgid ""
+"If you don’t see your network in the list, try unplugging your Wi-Fi router "
+"then plugging it back in. If it still doesn’t work, you may need to contact "
+"your internet provider directly."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/gs-get-online.page:93
+msgid ""
+"Remember that your friends or neighbors may have the same default network "
+"name you do, and your computer may be picking up their network signal. If "
+"your password isn’t working, make sure you have selected the right network."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/gs-give-feedback.page:19
+msgid "How can I help make Endless better?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-give-feedback.page:21
+msgid ""
+"What do you love about Endless? Is there anything you would change? Do you "
+"have any ideas or suggestions for new apps to include?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-give-feedback.page:24
+msgid "We want to hear from you!"
+msgstr ""
+
+#. (itstool) path: steps/title
+#: C/gs-give-feedback.page:27
+msgid "Here's how to give us your feedback:"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-give-feedback.page:29
+msgid ""
+"Click on the <_:media-1/> on the bottom left-hand corner of your screen."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-give-feedback.page:35
+msgid ""
+"Click the <gui>Give Us Feedback</gui> option. You can also access the "
+"feedback section by opening your browser and clicking the "
+"<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-give-feedback.page:42
+msgid ""
+"Enter in your comment, name and email address. You must fill in all three "
+"fields in order to submit your feedback."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-give-feedback.page:47
+msgid ""
+"You will receive a confirmation email to let you know that we have received "
+"your feedback. We will try to get back to you as soon as we can."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/gs-give-feedback.page:54
+msgid ""
+"Please note that you will need an internet connection in order to submit "
+"your feedback."
+msgstr ""
+
+#. (itstool) path: Work/format
+#: C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293
+#: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
+#: C/gs-goa5.svg:48 C/gs-search-settings.svg:98 C/gs-search1.svg:97
+#: C/gs-search2.svg:133 C/gs-thumb-changing-wallpaper.svg:39
+#: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
+#: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
+#: C/gs-thumb-windows-and-workspaces.svg:89
+#: C/gs-web-browser1-firefox-classic.svg:103 C/gs-web-browser1-firefox.svg:108
+#: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
+#: C/gs-web-browser2.svg:102
 msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
-#: C/gs-goa1.svg:61(text/tspan) C/gs-go-online1.svg:232(text/tspan)
-#: C/gs-go-online3.svg:269(text/tspan) C/gs-search1.svg:100(text/tspan)
-#: C/gs-thumb-timezone.svg:72(text/tspan)
-#: C/gs-thumb-timezone.svg:106(text/tspan)
-#: C/gs-web-browser1-firefox-classic.svg:115(text/tspan)
-#: C/gs-web-browser1-firefox.svg:120(text/tspan)
-#: C/gs-web-browser1.svg:120(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:242 C/gs-go-online2.svg:278 C/gs-goa1.svg:80
+#: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
+#: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
+#: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
 msgstr "1"
 
-#: C/gs-goa1.svg:65(text/tspan) C/gs-go-online1.svg:283(text/tspan)
-#: C/gs-search2.svg:136(text/tspan) C/gs-thumb-timezone.svg:73(text/tspan)
-#: C/gs-thumb-timezone.svg:107(text/tspan)
-#: C/gs-web-browser1-firefox-classic.svg:137(text/tspan)
-#: C/gs-web-browser1-firefox.svg:153(text/tspan)
-#: C/gs-web-browser1.svg:153(text/tspan)
-#, no-wrap
-msgid "2"
-msgstr "2"
-
-#: C/gs-goa2.svg:50(text/tspan) C/gs-go-online2.svg:231(text/tspan)
-#: C/gs-thumb-timezone.svg:74(text/tspan)
-#: C/gs-thumb-timezone.svg:108(text/tspan)
-#: C/gs-web-browser2-firefox.svg:164(text/tspan)
-#: C/gs-web-browser2.svg:163(text/tspan)
-#, no-wrap
-msgid "3"
-msgstr "3"
-
-#: C/gs-goa2.svg:81(text/tspan) C/gs-goa3.svg:113(text/tspan)
-#: C/gs-goa5.svg:79(text/tspan)
-#, no-wrap
-msgid "Online Accounts"
-msgstr "Online účty"
-
-#: C/gs-goa2.svg:83(text/tspan) C/gs-goa3.svg:115(text/tspan)
-#, no-wrap
-msgid "Add an online account"
-msgstr "Pridať online účet"
-
-#: C/gs-goa3.svg:63(text/tspan) C/gs-thumb-timezone.svg:75(text/tspan)
-#: C/gs-thumb-timezone.svg:109(text/tspan)
-#: C/gs-web-browser2-firefox.svg:113(text/tspan)
-#: C/gs-web-browser2.svg:113(text/tspan)
-#, no-wrap
-msgid "4"
-msgstr "4"
-
-#: C/gs-goa3.svg:66(text/tspan)
-#, no-wrap
-msgid "Add Account"
-msgstr "Pridať účet"
-
-#: C/gs-goa3.svg:70(text/tspan) C/gs-goa4.svg:56(text/tspan)
-#: C/gs-goa4.svg:90(text/tspan)
-#, no-wrap
-msgid "Cancel"
-msgstr "Zrušiť"
-
-#: C/gs-goa3.svg:72(text/tspan) C/gs-goa4.svg:123(text/tspan)
-#: C/gs-goa5.svg:90(text/tspan) C/gs-goa5.svg:93(text/tspan)
-#, no-wrap
-msgid "Google"
-msgstr "Google"
-
-#: C/gs-goa3.svg:73(text/tspan) C/gs-goa4.svg:124(text/tspan)
-#, no-wrap
-msgid "Facebook"
-msgstr "Facebook"
-
-#: C/gs-goa3.svg:74(text/tspan) C/gs-goa4.svg:125(text/tspan)
-#, no-wrap
-msgid "Windows Live"
-msgstr "Windows Live"
-
-#: C/gs-goa3.svg:75(text/tspan) C/gs-goa4.svg:126(text/tspan)
-#, no-wrap
-msgid "Microsoft Exchange"
-msgstr "Microsoft Exchange"
-
-#: C/gs-goa3.svg:76(text/tspan) C/gs-goa4.svg:127(text/tspan)
-#, no-wrap
-msgid "Enterprise Login (Kerberos)"
-msgstr "Podnikové prihlásenie (Kerberos)"
-
-#: C/gs-goa4.svg:48(text/tspan) C/gs-thumb-timezone.svg:76(text/tspan)
-#: C/gs-web-browser2-firefox.svg:259(text/tspan)
-#: C/gs-web-browser2.svg:261(text/tspan)
-#, no-wrap
-msgid "5"
-msgstr "5"
-
-#: C/gs-goa4.svg:52(text/tspan) C/gs-goa4.svg:86(text/tspan)
-#, no-wrap
-msgid "Google account"
-msgstr "Účet Google"
-
-#: C/gs-goa4.svg:69(text/tspan)
-#, no-wrap
-msgid "SIGN UP"
-msgstr "ZAREGISTRUJTE SA"
-
-#: C/gs-goa4.svg:70(text/tspan)
-#, no-wrap
-msgid "Sign in"
-msgstr "Prihlásiť sa"
-
-#: C/gs-goa4.svg:71(text/tspan)
-#, no-wrap
-msgid "Email"
-msgstr "E-mail"
-
-#: C/gs-goa4.svg:73(text/tspan)
-#, no-wrap
-msgid "Password"
-msgstr "Heslo"
-
-#: C/gs-goa4.svg:76(text/tspan)
-#, no-wrap
-msgid "Sign In"
-msgstr "Prihlásiť sa"
-
-#: C/gs-goa4.svg:77(text/tspan) C/gs-goa5.svg:92(text/tspan)
-#: C/gs-goa5.svg:95(text/tspan)
-#, no-wrap
-msgid "john.doe@gmail.com"
-msgstr "janko.mrkvicka@gmail.com"
-
-#: C/gs-goa4.svg:103(text/tspan)
-#, no-wrap
-msgid "Grant Access"
-msgstr "Umožniť prístup"
-
-#: C/gs-goa4.svg:108(text/tspan)
-#, no-wrap
-msgid "Deny Access"
-msgstr "Zakázať prístup"
-
-#: C/gs-goa4.svg:119(text/tspan) C/gs-thumb-timezone.svg:77(text/tspan)
-#, no-wrap
-msgid "6"
-msgstr "6"
-
-#: C/gs-goa5.svg:47(text/tspan) C/gs-thumb-timezone.svg:78(text/tspan)
-#, no-wrap
-msgid "7"
-msgstr "7"
-
-#: C/gs-goa5.svg:96(text/tspan)
-#, no-wrap
-msgid "Use for"
-msgstr "Použiť pre"
-
-#: C/gs-goa5.svg:97(text/tspan)
-#, no-wrap
-msgid "Mail"
-msgstr "Mail"
-
-#: C/gs-goa5.svg:102(text/tspan)
-#, no-wrap
-msgid "Calendar"
-msgstr "Kalendár"
-
-#: C/gs-goa5.svg:107(text/tspan) C/gs-search2.svg:264(text/tspan)
-#, no-wrap
-msgid "Contacts"
-msgstr "Kontakty"
-
-# PŠ podľa mňa "Rozhovory"
-#: C/gs-goa5.svg:112(text/tspan)
-#, fuzzy, no-wrap
-msgid "Chat"
-msgstr "Chat"
-
-#: C/gs-goa5.svg:117(text/tspan)
-#, no-wrap
-msgid "Documents"
-msgstr "Dokumenty"
-
-#: C/gs-goa5.svg:122(text/tspan) C/gs-goa5.svg:123(text/tspan)
-#: C/gs-goa5.svg:124(text/tspan) C/gs-goa5.svg:125(text/tspan)
-#: C/gs-goa5.svg:126(text/tspan) C/gs-go-online3.svg:288(text/tspan)
-#: C/gs-search-settings.svg:155(text/tspan)
-#: C/gs-search-settings.svg:272(text/tspan)
-#: C/gs-search-settings.svg:279(text/tspan)
-#: C/gs-search-settings.svg:286(text/tspan)
-#, no-wrap
-msgid "ON"
-msgstr "ZAP"
-
-#: C/gs-go-online1.svg:240(text/tspan) C/gs-search1.svg:188(text/tspan)
-#: C/gs-search2.svg:144(text/tspan)
-#: C/gs-thumb-changing-wallpaper.svg:73(text/tspan)
-#: C/gs-thumb-launching-apps.svg:197(text/tspan)
-#: C/gs-thumb-responding-to-messages.svg:44(text/tspan)
-#: C/gs-thumb-task-switching.svg:160(text/tspan)
-#: C/gs-thumb-timezone.svg:49(text/tspan)
-#: C/gs-thumb-windows-and-workspaces.svg:97(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
+#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
+#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
 msgstr "14:30"
 
-#: C/gs-go-online1.svg:287(text/tspan) C/gs-go-online3.svg:274(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:266 C/gs-go-online3.svg:306 C/gs-goa1.svg:84
+#: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
+#: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
+#: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
-msgid "Network Settings"
-msgstr "Nastavenia siete"
+msgid "2"
+msgstr "2"
 
-#: C/gs-go-online1.svg:288(text/tspan) C/gs-go-online3.svg:275(text/tspan)
-#, no-wrap
-msgid "Wired"
-msgstr "Drôtové pripojenie"
-
-#: C/gs-go-online1.svg:289(text/tspan) C/gs-go-online3.svg:276(text/tspan)
-#, no-wrap
-msgid "Cable unplugged"
-msgstr "Kábel odpojený"
-
-#: C/gs-go-online1.svg:290(text/tspan) C/gs-go-online3.svg:277(text/tspan)
-#, no-wrap
-msgid "Mobile broadband"
-msgstr "Mobilné širokopásmové pripojenie"
-
-#: C/gs-go-online1.svg:292(text/tspan) C/gs-go-online1.svg:301(text/tspan)
-#: C/gs-go-online3.svg:279(text/tspan)
-#: C/gs-search-settings.svg:293(text/tspan)
-#, no-wrap
-msgid "OFF"
-msgstr "VYP"
-
-#: C/gs-go-online1.svg:299(text/tspan) C/gs-go-online3.svg:286(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
 msgstr "Wi-Fi"
 
-#: C/gs-go-online3.svg:309(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
 #, no-wrap
-msgid "Wireless"
-msgstr "Bezdrôtové"
+msgid "homenetwork"
+msgstr "domacasiet"
 
-# PM: nie som si týmto istý, asi treba pozrieť nm-applet
-#: C/gs-go-online3.svg:310(text/tspan)
-#, fuzzy, no-wrap
-msgid "Private"
-msgstr "Privátne"
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:338
+#, no-wrap
+msgid "Select Network"
+msgstr "Vybrať sieť"
 
-# PM: je tu správny rod netýka sa to náhodou sily wifi signálu či je to sila hesla?
-#: C/gs-go-online3.svg:311(text/tspan)
-#, fuzzy, no-wrap
-msgid "Weak"
-msgstr "Slabé"
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:339
+#, no-wrap
+msgid "Turn Off"
+msgstr "Vypnúť"
 
-#: C/gs-launch-applications.page:17(info/title)
-msgctxt "link:trail"
-msgid "Launch applications"
-msgstr "Spúšťanie aplikácií"
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:340
+#, no-wrap
+msgid "Network Settings"
+msgstr "Nastavenia siete"
 
-#: C/gs-launch-applications.page:19(info/title)
-msgctxt "link:seealso"
-msgid "A tutorial on launching applications"
-msgstr "Návod na spúšťanie aplikácií"
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:309
+#, no-wrap
+msgid "Wi-Fi Networks"
+msgstr "Siete Wi-Fi"
 
-#: C/gs-launch-applications.page:22(page/title)
-msgid "Launch applications"
-msgstr "Spúšťanie aplikácií"
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:313
+#, no-wrap
+msgid "Connect"
+msgstr "Pripojiť"
 
-#: C/gs-launch-applications.page:61(section/title)
-msgid "Launch applications with the mouse"
-msgstr "Spúšťanie aplikácií myšou"
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:316
+#, no-wrap
+msgid "wireless"
+msgstr "bezdrôtová"
 
-#: C/gs-launch-applications.page:66(item/p)
-msgid ""
-"Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
-"the bar on the left-hand side of the screen."
-msgstr ""
-"Klikneme na ikonu s popisom <gui>Zobrazí aplikácie</gui>, ktorá je zobrazená "
-"v dolnej časti panelu na ľavej strane obrazovky."
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:317
+#, no-wrap
+msgid "netgear"
+msgstr "susedova"
 
-#: C/gs-launch-applications.page:68(item/p)
-msgid ""
-"A list of applications is shown. Click the application you want to run, for "
-"example, Help."
-msgstr ""
-"Po zobrazení zoznamu aplikácií klikneme na aplikáciu, ktorú chceme spustiť, "
-"napríklad Pomocník."
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:318
+#, no-wrap
+msgid "weak"
+msgstr "slabá"
 
-#: C/gs-launch-applications.page:75(section/title)
-msgid "Launch applications with the keyboard"
-msgstr "Spúšťanie aplikácií klávesnicou"
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:319
+#, no-wrap
+msgid "private"
+msgstr "súkromná"
 
-#: C/gs-launch-applications.page:78(item/p)
-#: C/gs-use-system-search.page:25(item/p)
-msgid ""
-"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key."
-msgstr ""
-"Otvoríme <gui>Prehľad aktivít</gui> stlačením klávesu <key href=\"help:gnome-"
-"help/keyboard-key-super\">Super</key>."
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:320
+#, no-wrap
+msgid "Select a network"
+msgstr "Výber siete"
 
-#: C/gs-launch-applications.page:80(item/p)
-msgid ""
-"Start typing the name of the application you want to launch. Searching for "
-"the application begins instantly."
-msgstr ""
-"Začneme písať názov aplikácie, ktorú chceme spustiť. Aplikácia sa začne "
-"hľadať už počas písania."
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:343 C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
+#, no-wrap
+msgid "Cancel"
+msgstr "Zrušiť"
 
-#: C/gs-launch-applications.page:82(item/p)
-msgid ""
-"Once the icon of the application is shown and selected, press <key> Enter</"
-"key> to launch the application."
-msgstr ""
-"Keď je zobrazená a vybraná ikona aplikácie, spustíme je stlačením klávesu "
-"<key>Enter</key>."
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
+#: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
+#, no-wrap
+msgid "3"
+msgstr "3"
 
-#: C/gs-legal.xml:3(p/link)
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
+#, no-wrap
+msgid "Online Accounts"
+msgstr "Účty služieb"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa2.svg:71 C/gs-goa3.svg:115
+#, no-wrap
+msgid "Add an online account"
+msgstr "Pridať účet služieb"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
+#: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
+#, no-wrap
+msgid "4"
+msgstr "4"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:66
+#, no-wrap
+msgid "Add Account"
+msgstr "Pridať účet"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
+#, no-wrap
+msgid "Google"
+msgstr "Google"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:73 C/gs-goa4.svg:124
+#, no-wrap
+msgid "Facebook"
+msgstr "Facebook"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:74 C/gs-goa4.svg:125
+#, no-wrap
+msgid "Windows Live"
+msgstr "Windows Live"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:75 C/gs-goa4.svg:126
+#, no-wrap
+msgid "Microsoft Exchange"
+msgstr "Microsoft Exchange"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa3.svg:76 C/gs-goa4.svg:127
+#, no-wrap
+msgid "Enterprise Login (Kerberos)"
+msgstr "Podnikové prihlásenie (Kerberos)"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
+#: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
+#, no-wrap
+msgid "5"
+msgstr "5"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:52 C/gs-goa4.svg:86
+#, no-wrap
+msgid "Google account"
+msgstr "Účet Google"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:69
+#, no-wrap
+msgid "SIGN UP"
+msgstr "ZAREGISTRUJTE SA"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:70
+#, no-wrap
+msgid "Sign in"
+msgstr "Prihlásiť sa"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:71
+#, no-wrap
+msgid "Email"
+msgstr "E-mail"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:73
+#, no-wrap
+msgid "Password"
+msgstr "Heslo"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:76
+#, no-wrap
+msgid "Sign In"
+msgstr "Prihlásiť sa"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
+#, no-wrap
+msgid "john.doe@gmail.com"
+msgstr "janko.mrkvicka@gmail.com"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:103
+#, no-wrap
+msgid "Grant Access"
+msgstr "Umožniť prístup"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:108
+#, no-wrap
+msgid "Deny Access"
+msgstr "Zakázať prístup"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
+#, no-wrap
+msgid "6"
+msgstr "6"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
+#, no-wrap
+msgid "7"
+msgstr "7"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:92
+#, no-wrap
+msgid "Use for"
+msgstr "Použiť pre"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:93
+#, no-wrap
+msgid "Mail"
+msgstr "Mail"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:98
+#, no-wrap
+msgid "Calendar"
+msgstr "Kalendár"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:103 C/gs-search2.svg:293
+#, no-wrap
+msgid "Contacts"
+msgstr "Kontakty"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:108
+#, no-wrap
+msgid "Chat"
+msgstr "Rozhovory"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:113
+#, no-wrap
+msgid "Documents"
+msgstr "Dokumenty"
+
+#. (itstool) path: text/tspan
+#: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
+#: C/gs-goa5.svg:122 C/gs-search-settings.svg:155 C/gs-search-settings.svg:272
+#: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
+#, no-wrap
+msgid "ON"
+msgstr "ZAP"
+
+#. (itstool) path: p/link
+#: C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
 msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
 
-#: C/gs-legal.xml:3(license/p)
+#. (itstool) path: license/p
+#: C/gs-legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
 msgstr "Táto práca je vydaná s licenciou <_:link-1/>."
 
-#: C/gs-respond-messages.page:16(info/title)
-msgctxt "link:trail"
-msgid "Respond to messages"
-msgstr "Reagovanie na správy"
-
-#: C/gs-respond-messages.page:18(info/title)
-msgctxt "link:seealso"
-msgid "A tutorial on responding to messages"
-msgstr "Návod ako reagovať na správy"
-
-#: C/gs-respond-messages.page:88(section/title)
-msgid "Respond to a chat message with the mouse"
-msgstr "Reagovanie na správy rozhovoru myšou"
-
-#: C/gs-respond-messages.page:93(item/p)
-#: C/gs-respond-messages.page:129(item/p)
-msgid ""
-"Start typing your reply and when finished, press <key>Enter</key> to send "
-"the reply."
-msgstr ""
-"Začneme písať našu odpoveď a po dokončení ju odošleme stlačením klávesu "
-"<key>Enter</key>."
-
-#: C/gs-respond-messages.page:95(item/p)
-#: C/gs-respond-messages.page:114(item/p)
-msgid ""
-"To close the chat message, click the close button at the top right corner of "
-"the chat message."
-msgstr ""
-"Správu rozhovoru zatvoríme kliknutím na zatváracie tlačidlo v pravom hornom "
-"rohu správy rozhovoru."
-
-#: C/gs-respond-messages.page:102(section/title)
-msgid "Delayed response to a chat message using the mouse"
-msgstr "Oneskorená odpoveď na správu rozhovoru pomocou myši"
-
-#: C/gs-respond-messages.page:105(item/p)
-msgid ""
-"When a chat message appears in the message tray and you do not move your "
-"mouse to the message tray, the message disappears after a while."
-msgstr ""
-"Keď sa zobrazí správa rozhovoru v lište správ a my nepresunieme myš na lištu "
-"správ, správa sa po určitom čase schová."
-
-#: C/gs-respond-messages.page:108(item/p)
-msgid ""
-"To get back to your unanswered message, move your mouse to the message tray "
-"at the very bottom of the screen."
-msgstr ""
-"Neprečítanú správu otvoríme tak, že kurzor myši presunieme na lištu správ na "
-"samom spodku obrazovky."
-
-#: C/gs-respond-messages.page:110(item/p)
-msgid ""
-"When the message tray appears, click a small image that represents the "
-"person who sent you the message."
-msgstr ""
-"Keď sa objaví lišta správ, klikneme na malý obrázok, ktorý reprezentuje osobu, "
-"ktorá nám poslala správu."
-
-#: C/gs-respond-messages.page:112(item/p)
-msgid ""
-"When the chat message is shown, start typing your reply and when finished, "
-"press <key>Enter</key> to send the reply."
-msgstr ""
-"Keď je správa rozhovoru zobrazená, začneme písať našu odpoveď. Po skončení "
-"odpoveď pošleme stlačením klávesu <key>Enter</key>."
-
-#: C/gs-respond-messages.page:121(section/title)
-msgid "Delayed response to a chat message using the keyboard"
-msgstr "Oneskorená odpoveď na správu rozhovoru pomocou klávesnice"
-
-#: C/gs-respond-messages.page:123(item/p)
-msgid ""
-"To get back to your unanswered chat messages, press <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to "
-"display the message tray that contains the messages."
-msgstr ""
-"Neprečítanú správu rozhovoru otvoríme tak, že stlačením kombinácie kláves "
-"<keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</key><key>M</"
-"key> </keyseq> zobrazíme lištu správ, ktorá obsahuje správy."
-
-#: C/gs-respond-messages.page:127(item/p)
-msgid ""
-"Use the arrow keys to select a small image representing the person you want "
-"to reply to, and press <key>Enter</key>."
-msgstr ""
-"Pomocou šípok vyberieme malý obrázok reprezentujúci osobu, ktorá nám správu "
-"poslala a stlačíme kláves <key>Enter</key>."
-
-#: C/gs-respond-messages.page:132(item/p)
-msgid ""
-"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
-msgstr ""
-"Lištu správ zatvoríme stlačením klávesu <key>Esc</key> alebo použijeme "
-"kombináciu kláves <keyseq> <key href=\"help:gnome-help/keyboard-key-super"
-"\">Super</key><key>M</key> </keyseq>."
-
-# PŠ: skôr "začnite písať" alebo podobný tvar
-#: C/gs-search1.svg:200(text/tspan)
-#, no-wrap
-msgid "just type"
-msgstr "stačí písať"
-
-#: C/gs-search2.svg:153(text/tspan)
-#, no-wrap
-msgid "con"
-msgstr "prip"
-
-#: C/gs-search2.svg:217(text/tspan)
-#, no-wrap
-msgid "Accounts"
-msgstr "Účty"
-
-#: C/gs-search2.svg:218(text/tspan)
-#, no-wrap
-msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-
-#: C/gs-search2.svg:219(text/tspan)
-#, no-wrap
-msgid "config"
-msgstr "konfigurácia"
-
-#: C/gs-search2.svg:220(text/tspan) C/gs-search2.svg:223(text/tspan)
-#, no-wrap
-msgid "fontconfig"
-msgstr "konfigurácia-písma"
-
-#: C/gs-search2.svg:221(text/tspan)
-#, no-wrap
-msgid "system-config-http.zip"
-msgstr "system-config-http.zip"
-
-#: C/gs-search2.svg:222(text/tspan)
-#, no-wrap
-msgid "Icon guidelines"
-msgstr "Ikona sprievodcu"
-
-#: C/gs-search2.svg:240(text/tspan)
-#, no-wrap
-msgid "Secure Linux Containers"
-msgstr "Bezpečné Linuxové kontajnery"
-
-#: C/gs-search2.svg:241(text/tspan)
-#, no-wrap
-msgid "Developer Conference 2012"
-msgstr "Konferencia vývojárov 2012"
-
-#: C/gs-search2.svg:265(text/tspan)
-#: C/gs-web-browser2-firefox.svg:218(text/tspan)
-#, no-wrap
-msgid "Firefox"
-msgstr "Firefox"
-
-#: C/gs-search-settings.svg:137(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:137
 #, no-wrap
 msgid "Search"
 msgstr "Hľadať"
 
-#: C/gs-search-settings.svg:148(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:148
 #, no-wrap
 msgid "Files"
 msgstr "Súbory"
 
-#: C/gs-search-settings.svg:149(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:149
 #, no-wrap
 msgid "Enabled"
 msgstr "Povolené"
 
-#: C/gs-search-settings.svg:264(text/tspan)
-#: C/gs-web-browser2.svg:214(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:264
 #, no-wrap
 msgid "Web"
 msgstr "Web"
 
-#: C/gs-search-settings.svg:265(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:265
 #, no-wrap
 msgid "Photos"
 msgstr "Fotografie"
 
-#: C/gs-search-settings.svg:266(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:266
 #, no-wrap
 msgid "Music"
 msgstr "Hudba"
 
-#: C/gs-switch-tasks.page:16(info/title)
-msgctxt "link:trail"
-msgid "Switch tasks"
-msgstr "Prepínanie úloh"
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:293
+#, no-wrap
+msgid "OFF"
+msgstr "VYP"
 
-#: C/gs-switch-tasks.page:18(info/title)
-msgctxt "link:seealso"
-msgid "A tutorial on switching tasks"
-msgstr "Návod na prepínanie úloh"
+#. (itstool) path: text/tspan
+#: C/gs-search1.svg:229
+#, no-wrap
+msgid "just type"
+msgstr "stačí písať"
 
-#: C/gs-switch-tasks.page:21(page/title)
-#: C/gs-switch-tasks.page:95(section/title)
-msgid "Switch tasks"
-msgstr "Prepínanie úloh"
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:182
+#, no-wrap
+msgid "con"
+msgstr "prip"
 
-#: C/gs-switch-tasks.page:101(item/p)
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen to show the <gui>Activities Overview</gui> where you can see "
-"the currently running tasks displayed as small windows."
-msgstr ""
-"Presunieme kurzor myši na <gui>Aktivity</gui> do ľavého horného rohu "
-"obrazovky, čím zobrazíme <gui>Prehľad aktivít</gui>, kde môžeme vidieť "
-"aktuálne spustené úlohy zobrazené v malých oknách."
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:246
+#, no-wrap
+msgid "Accounts"
+msgstr "Účty"
 
-#: C/gs-switch-tasks.page:111(item/p)
-msgid ""
-"You can switch between tasks by using the window list at the bottom of the "
-"screen. Open tasks appear as buttons in the window list."
-msgstr ""
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:247
+#, no-wrap
+msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
-#: C/gs-switch-tasks.page:113(item/p)
-#, fuzzy
-#| msgid "Click a window to switch to that task."
-msgid "Click a button in the window list to switch to that task."
-msgstr "Vyberieme si úlohu kliknutím na zodpovedajúce okno."
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:248
+#, no-wrap
+msgid "config"
+msgstr "konfigurácia"
 
-# PM: Tile nie je titulok - ide o dlaždice -možno zarovnanie okien - nevspomínam si že by to bolo v nejakom module ale skús sa opýtať dušana
-#: C/gs-switch-tasks.page:122(section/title)
-#: C/gs-use-windows-workspaces.page:113(section/title)
-#, fuzzy
-msgid "Tile windows"
-msgstr "Titulok okien"
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:249 C/gs-search2.svg:252
+#, no-wrap
+msgid "fontconfig"
+msgstr "konfigurácia-písma"
 
-#: C/gs-switch-tasks.page:125(item/p)
-#: C/gs-use-windows-workspaces.page:117(item/p)
-msgid ""
-"To maximize a window along a side of the screen, grab the window's titlebar "
-"and drag it to the left or right side of the screen."
-msgstr ""
-"Keď chceme okno maximalizovať pozdĺž strany obrazovky, chytíme titulok okna "
-"a presunieme okno na ľavý alebo pravý okraj obrazovky."
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:250
+#, no-wrap
+msgid "system-config-http.zip"
+msgstr "system-config-http.zip"
 
-#: C/gs-switch-tasks.page:127(item/p)
-#: C/gs-use-windows-workspaces.page:119(item/p)
-msgid ""
-"When half of the screen is highlighted, release the window to maximize it "
-"along the selected side of the screen."
-msgstr ""
-"Keď bude polovica obrazovky zvýraznená, pustíme okno aby sa maximalizovalo "
-"pozdĺž vybranej strany obrazovky."
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:251
+#, no-wrap
+msgid "Icon guidelines"
+msgstr "Ikona sprievodcu"
 
-#: C/gs-switch-tasks.page:129(item/p)
-#: C/gs-use-windows-workspaces.page:121(item/p)
-msgid ""
-"To maximize two windows side-by-side, grab the titlebar of the second window "
-"and drag it to the opposite side of the screen."
-msgstr ""
-"Keď chceme maximalizovať dve okná vedľa seba, chytíme titulok druhého okna a "
-"presunieme okno na opačný okraj obrazovky."
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:269
+#, no-wrap
+msgid "Secure Linux Containers"
+msgstr "Bezpečné Linuxové kontajnery"
 
-#: C/gs-switch-tasks.page:131(item/p)
-#: C/gs-use-windows-workspaces.page:123(item/p)
-msgid ""
-"When half of the screen is highlighted, release the window to maximize it "
-"along the opposite side of the screen."
-msgstr ""
-"Keď je polovica okna zvýraznená, pustíme okno aby sa maximalizovalo pozdĺž "
-"opačnej strany obrazovky."
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:270
+#, no-wrap
+msgid "Developer Conference 2012"
+msgstr "Konferencia vývojárov 2012"
 
-#: C/gs-switch-tasks.page:138(section/title)
-msgid "Switch between windows"
-msgstr "Prepínanie medzi oknami"
+#. (itstool) path: text/tspan
+#: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
+#, no-wrap
+msgid "Firefox"
+msgstr "Firefox"
 
-#: C/gs-switch-tasks.page:141(item/p)
-msgid ""
-"Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
-"lists the currently open windows."
-msgstr ""
-"<gui>Prepínač okien</gui>, ktorý zobrazí zoznam aktuálne otvorených okien, "
-"zobrazíme stlačením kombinácie kláves <keyseq><key href=\"help:gnome-help/"
-"keyboard-key-super\">Super </key><key>Tab</key></keyseq>."
-
-#: C/gs-switch-tasks.page:144(item/p)
-msgid ""
-"Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
-"select the next highlighted window in the <gui>window switcher</gui>."
-msgstr ""
-"Nasledujúce zvýraznené okno v <gui>prepínači okien</gui> vyberieme tak, že "
-"pustíme kláves <key href=\"help:gnome-help/keyboard-key-super\">Super</key>."
-
-#: C/gs-switch-tasks.page:155(section/title)
-msgid "Use search to switch applications"
-msgstr "Prepínanie aplikácií pomocou vyhľadávania"
-
-#: C/gs-switch-tasks.page:158(item/p)
-msgid ""
-"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
-"to show the <gui>Activities Overview</gui>."
-msgstr ""
-"Stlačením klávesu <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key> zobrazíme <gui>Prehľad aktivít</gui>."
-
-#: C/gs-switch-tasks.page:160(item/p)
-msgid ""
-"Just start typing the name of the application you want to switch to. "
-"Applications matching what you have typed will appear as you type."
-msgstr ""
-"Stačí začať písať názov aplikácie, na ktorú sa chceme prepnúť. Ihneď ako "
-"začneme písať sa budú zobrazovať aplikácie, ktoré zodpovedajú tomu, čo sme "
-"zatiaľ napísali."
-
-#: C/gs-switch-tasks.page:163(item/p)
-msgid ""
-"When the application that you want to switch to appears as the first result, "
-"press <key>Enter</key> to switch to it."
-msgstr ""
-"Keď sa zobrazí aplikácia, na ktorú sa chceme prepnúť ako prvý výsledok, "
-"prepneme sa na ňu stlačením klávesu <key>Enter</key>."
-
-# PM: neviem čo za aplikáciu sa zobrazí ked do vyhladávacieho pola zadáme "Thanks f" podľa toho treba toto preložiť
-#: C/gs-thumb-responding-to-messages.svg:59(text/tspan)
-#, fuzzy, no-wrap
+#. (itstool) path: text/tspan
+#: C/gs-thumb-responding-to-messages.svg:88
+#, no-wrap
 msgid "Thanks f"
-msgstr "Ďakujem"
+msgstr ""
 
+#. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
-#: C/gs-thumb-timezone.svg:64(text/tspan)
+#: C/gs-thumb-timezone.svg:93
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
 msgstr "Ne"
 
+#. (itstool) path: text/tspan
 #. Translators: M stands for Monday here
-#: C/gs-thumb-timezone.svg:65(text/tspan)
+#: C/gs-thumb-timezone.svg:94
 #, no-wrap
 msgid "M"
 msgstr "Po"
 
+#. (itstool) path: text/tspan
 #. Translators: T stands for Tuesday here
-#: C/gs-thumb-timezone.svg:66(text/tspan)
+#: C/gs-thumb-timezone.svg:95
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
 msgstr "Ut"
 
+#. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
-#: C/gs-thumb-timezone.svg:67(text/tspan)
+#: C/gs-thumb-timezone.svg:96
 #, no-wrap
 msgid "W"
 msgstr "St"
 
+#. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
-#: C/gs-thumb-timezone.svg:68(text/tspan)
+#: C/gs-thumb-timezone.svg:97
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
 msgstr "Št"
 
+#. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
-#: C/gs-thumb-timezone.svg:69(text/tspan)
+#: C/gs-thumb-timezone.svg:98
 #, no-wrap
 msgid "F"
 msgstr "Pi"
 
+#. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
-#: C/gs-thumb-timezone.svg:70(text/tspan)
+#: C/gs-thumb-timezone.svg:99
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
 msgstr "So"
 
-#: C/gs-thumb-timezone.svg:79(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
 msgstr "8"
 
-#: C/gs-thumb-timezone.svg:80(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:109
 #, no-wrap
 msgid "9"
 msgstr "9"
 
-#: C/gs-thumb-timezone.svg:81(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:110
 #, no-wrap
 msgid "10"
 msgstr "10"
 
-#: C/gs-thumb-timezone.svg:82(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:111
 #, no-wrap
 msgid "11"
 msgstr "11"
 
-#: C/gs-thumb-timezone.svg:83(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:112
 #, no-wrap
 msgid "12"
 msgstr "12"
 
-#: C/gs-thumb-timezone.svg:84(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:113
 #, no-wrap
 msgid "13"
 msgstr "13"
 
-#: C/gs-thumb-timezone.svg:85(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:114
 #, no-wrap
 msgid "14"
 msgstr "14"
 
-#: C/gs-thumb-timezone.svg:87(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:116
 #, no-wrap
 msgid "15"
 msgstr "15"
 
-#: C/gs-thumb-timezone.svg:88(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:117
 #, no-wrap
 msgid "16"
 msgstr "16"
 
-#: C/gs-thumb-timezone.svg:89(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:118
 #, no-wrap
 msgid "17"
 msgstr "17"
 
-#: C/gs-thumb-timezone.svg:90(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:119
 #, no-wrap
 msgid "18"
 msgstr "18"
 
-#: C/gs-thumb-timezone.svg:91(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:120
 #, no-wrap
 msgid "19"
 msgstr "19"
 
-#: C/gs-thumb-timezone.svg:92(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:121
 #, no-wrap
 msgid "20"
 msgstr "20"
 
-#: C/gs-thumb-timezone.svg:93(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:122
 #, no-wrap
 msgid "21"
 msgstr "21"
 
-#: C/gs-thumb-timezone.svg:95(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:124
 #, no-wrap
 msgid "22"
 msgstr "22"
 
-#: C/gs-thumb-timezone.svg:96(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:125
 #, no-wrap
 msgid "23"
 msgstr "23"
 
-#: C/gs-thumb-timezone.svg:97(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:126
 #, no-wrap
 msgid "24"
 msgstr "24"
 
-#: C/gs-thumb-timezone.svg:98(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:127
 #, no-wrap
 msgid "25"
 msgstr "25"
 
-#: C/gs-thumb-timezone.svg:99(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:128
 #, no-wrap
 msgid "26"
 msgstr "26"
 
-#: C/gs-thumb-timezone.svg:100(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:129
 #, no-wrap
 msgid "27"
 msgstr "27"
 
-#: C/gs-thumb-timezone.svg:101(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:130
 #, no-wrap
 msgid "28"
 msgstr "28"
 
-#: C/gs-thumb-timezone.svg:103(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:132
 #, no-wrap
 msgid "29"
 msgstr "29"
 
-#: C/gs-thumb-timezone.svg:104(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:133
 #, no-wrap
 msgid "30"
 msgstr "30"
 
-#: C/gs-thumb-timezone.svg:105(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-thumb-timezone.svg:134
 #, no-wrap
 msgid "31"
 msgstr "31"
 
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-use-system-search.page:22(media)
-msgctxt "_"
-msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-msgstr "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-use-system-search.page:33(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-msgctxt "_"
-msgid "external ref='gs-search2.svg' md5='b654adef70189041f1b939e7ade68a59'"
-msgstr "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-use-system-search.page:67(media)
-#, fuzzy
-#| msgctxt "_"
-#| msgid "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-msgctxt "_"
-msgid ""
-"external ref='gs-search-settings.svg' md5='448b4f7f7881d9e26bdf215515fe014e'"
-msgstr "external ref='gs-search1.svg' md5='3618011a9ad6a275aff92597eafe6750'"
-
-#: C/gs-use-system-search.page:15(info/title)
-msgctxt "link:trail"
-msgid "Use the system search"
-msgstr "Používanie systémového hľadania"
-
-#: C/gs-use-system-search.page:17(info/title)
-msgctxt "link:seealso"
-msgid "A tutorial on using the system search"
-msgstr "Návod na používanie systémového hľadania"
-
-#: C/gs-use-system-search.page:20(page/title)
-msgid "Use the system search"
-msgstr "Používanie systémového hľadania"
-
-#: C/gs-use-system-search.page:27(item/p)
-msgid ""
-"Start typing to search. Results matching what you have typed will appear as "
-"you type."
+#. (itstool) path: info/title
+#: C/gs-use-offline.page:20
+msgctxt "link:shell-overview"
+msgid "Find apps that work without the internet"
 msgstr ""
-"Vyhľadávanie spustíme písaním. Ihneď ako začneme písať sa budú zobrazovať "
-"zodpovedajúce výsledky."
 
-#: C/gs-use-system-search.page:29(item/p)
-msgid ""
-"The first result is always highlighted and shown at the top. Press "
-"<key>Enter</key> to switch to the first highlighted result."
+#. (itstool) path: info/title
+#: C/gs-use-offline.page:21
+msgctxt "link:net"
+msgid "Use your computer offline"
 msgstr ""
-"Prvý výsledok je vždy zvýraznený a zobrazený na vrchu. Na tento prvý "
-"zvýraznený výsledok sa prepneme stlačením klávesu <key>Enter</key>."
 
-#: C/gs-use-system-search.page:35(item/p)
+#. (itstool) path: info/desc
+#: C/gs-use-offline.page:22
+msgid "Discover all the offline content on your computer."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/gs-use-offline.page:25
+msgid "What can I do if I don't have internet?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-use-offline.page:27
+msgid ""
+"Your computer comes with a lot of great offline content you can use even if "
+"you don't have an internet connection."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-offline.page:31
+msgid "Introducing the <app>App Center</app>"
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-use-offline.page:32
+msgid ""
+"The <app>App Center</app> is full of apps that are free and can be easily "
+"added to your desktop. Most of the apps you'll find there have offline "
+"capability and you can browse by category to find just what you're looking "
+"for, or else just click around and explore."
+msgstr ""
+
+#. (itstool) path: steps/title
+#: C/gs-use-offline.page:37
+msgid "How to get to the <app>App Center</app>:"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:39
+msgid "Click on <app>More Apps</app> from the desktop."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:43
+msgid ""
+"Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
+"<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
+"section."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:49
+msgid ""
+"Click on an app to read more about it and either install it or add it to "
+"your desktop."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-offline.page:57
+msgid ""
+"Here are a few examples of the offline content on your desktop and in the "
+"<app>App Center</app>:"
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:61
+msgid "Education"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:63
+msgid ""
+"<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
+"encyclopedia with all the power of the internet's best."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:67
+msgid ""
+"<app>Virtual School</app> - Hundreds of videos to help you lean more about "
+"your favorite subjects, or to help you understand subjects that are "
+"difficult for you."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:72
+msgid ""
+"<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
+" help children of all ages develop their mental abilities."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:77
+msgid ""
+"<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
+"multiplication and more."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:81
+msgid ""
+"<app>Tux Typing</app> - Learn how to type with this game that guides you and"
+" helps you practice so that you can type faster and more accurately."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:86
+msgid ""
+"<app>World Literature</app> - Read many of the world's greatest stories."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:90
+msgid ""
+"<app>Animals</app> - Learn more about your favorite animals, and about "
+"animals you never even knew existed!"
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:96
+msgid "Games"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:98
+msgid ""
+"<app>Tux Kart</app> - Race against the computer or your friends. Get "
+"superpowers and avoid traps to finish first!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:102
+msgid ""
+"<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:106
+msgid ""
+"<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
+" you get to the next level."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:110
+msgid ""
+"<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
+"as fast as you can to complete each course."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:114
+msgid ""
+"<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
+" that you don't blow up. This strategy game is addictive."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:118
+msgid ""
+"<app>Blockout2</app> - A tetris-like game where you need to match the colors"
+" as best you can before the screen fills up and you lose."
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:124
+msgid "Resources"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:126
+msgid ""
+"<app>Writer</app> - Write papers for school, work or for anything else you "
+"need. Compatible with Microsoft's Word."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:130
+msgid ""
+"<app>Presentation</app> - Create beautiful presentations! Compatible with "
+"Microsoft's Powerpoint."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:134
+msgid ""
+"<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
+"yourself in ways you never thought possible with this powerful spreadsheet "
+"app. Compatible with Microsoft's Excel."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:139
+msgid ""
+"<app>Resume</app> - Learn how to make a great resume to help you find your "
+"ideal job."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:143
+msgid ""
+"<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
+"yourself and your family healthy."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:147
+msgid ""
+"<app>How To</app> - Learn how to do just about anything with this handy app."
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:153
+msgid "Entertainment"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:155
+msgid ""
+"<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
+" webcam, not included with Endless."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:159
+msgid ""
+"<app>Videos</app> - Watch some of the pre-installed videos that come with "
+"Endless, or transfer videos from a USB or DVD and watch them on this great "
+"and easy-to use media player."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:164
+msgid ""
+"<app>Myths and Legends</app> - Read about myths and legends from all over "
+"the world! Everything from La Llorona to Big Foot and many, many more"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:169
+msgid ""
+"<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
+"stars, and other celebrities"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:173
+msgid ""
+"<app>Travel</app> - Read about places around the world and see beautiful "
+"pictures that will make you feel like you're actually there!"
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:180
+msgid "Utility"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:182
+msgid ""
+"<app>Notes</app> - A handy app to help you jot down things you don't want to"
+" forget!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:186
+msgid ""
+"<app>Video Editor</app> - Film videos on your phone and edit them to create "
+"a masterpiece, or simply take already existing video clips and make them "
+"something of your own!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:191
+msgid ""
+"<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
+" and more, to make them even more awesome!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:195
+msgid ""
+"<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
+"will have all of your friends dancing along with you."
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/gs-use-system-search.page:19
+msgid ""
+"Search for things on your computer and on the internet right from your "
+"desktop!"
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/gs-use-system-search.page:23
+msgid "Use global search"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-use-system-search.page:25
+msgid ""
+"The global search bar makes search easy! You can look for apps, documents, "
+"photos and more, right from your desktop. If you have an internet conection,"
+" you can even look for things that are on the internet, like you would on "
+"google, with the global search tool."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:32
+msgid ""
+"From the desktop, click on the <app>global search bar</app> at the top of "
+"your screen that says <gui>Type to search...</gui>. Start typing to search."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:38 C/gs-where-files.page:36
+msgid ""
+"Results matching what you have typed will appear as you type. The first "
+"result is always highlighted and shown at the top."
+msgstr "Počas písania sa zobrazujú výsledky zodpovedajúce tomu čo sme napísali. Prvý výsledok je vždy zvýraznený a zobrazuje sa hore."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:40
+msgid "Press <key>Enter</key> to choose the first highlighted result."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:44 C/gs-where-files.page:40
 msgid "Items that may appear in the search results include:"
 msgstr "Medzi výsledkami vyhľadávania sa môžu objaviť nasledujúce položky: "
 
-#: C/gs-use-system-search.page:37(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:46 C/gs-where-files.page:42
 msgid "matching applications, shown at the top of the search results,"
 msgstr "zodpovedajúce aplikácie, zobrazené navrchu výsledkov vyhľadávania,"
 
-#: C/gs-use-system-search.page:39(item/p)
-msgid "matching settings,"
-msgstr "zodpovedajúce nastavenia,"
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:48 C/gs-where-files.page:44
+msgid "matching settings, and"
+msgstr ""
 
-#: C/gs-use-system-search.page:40(item/p)
-msgid "matching contacts, and"
-msgstr "zodpovedajúce kontakty a"
-
-#: C/gs-use-system-search.page:41(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:49 C/gs-where-files.page:45
 msgid "matching documents."
 msgstr "zodpovedajúce dokumenty."
 
-#: C/gs-use-system-search.page:44(item/p)
-msgid "In the search results, click the item to switch to it."
-msgstr "Na položku vo výsledkoch vyhľadávania sa prepneme kliknutím."
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:54 C/gs-where-files.page:49
+msgid "In the search results, click on the item you want to open."
+msgstr ""
 
-#: C/gs-use-system-search.page:45(item/p)
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:55 C/gs-where-files.page:50
 msgid ""
-"Alternatively, highlight an item using the arrow keys and press <key>Enter</"
-"key>."
-msgstr ""
-"Položku tiež môžeme vybrať pomocou šípok a stlačením klávesu <key>Enter</"
-"key>."
+"Alternatively, highlight an item using the arrow keys and press "
+"<key>Enter</key>."
+msgstr "Položku tiež môžeme vybrať pomocou šípok a stlačením klávesu <key>Enter</key>."
 
-#: C/gs-use-system-search.page:51(section/title)
-msgid "Search from inside applications"
-msgstr "Vyhľadávanie zvnútra aplikácií"
-
-#: C/gs-use-system-search.page:53(section/p)
-msgid ""
-"The system search aggregates results from various applications. On the left-"
-"hand side of the search results, you can see icons of applications that "
-"provided the search results. Click one of the icons to restart the search "
-"from inside the application associated with that icon. Because only the best "
-"matches are shown in the <gui>Activities Overview</gui>, searching from "
-"inside the application may give you better search results."
-msgstr ""
-"Systém vyhľadávania zoskupuje výsledky z rôznych aplikácií. Na ľavej strane "
-"výsledkov vyhľadávania môžeme vidieť ikony aplikácií, ktoré poskytli "
-"výsledky hľadania. Kliknutím na jednu z ikon spustíme vyhľadávanie zvnútra "
-"aplikácie spojenej s týmto symbolom. Pretože výsledky zobrazené v "
-"<gui>Prehľade aktivít</gui> sú len tie najzhodnejšie, hľadanie zvnútra "
-"aplikácie vám môže poskytnúť lepšie výsledky vyhľadávania."
-
-#: C/gs-use-system-search.page:65(section/title)
-msgid "Customize search results"
-msgstr "Prispôsobenie výsledkov vyhľadávania"
-
-#: C/gs-use-system-search.page:70(note/p)
-msgid ""
-"GNOME lets you customize what you want to display in the search results in "
-"the <gui>Activities Overview</gui>. For example, you can choose whether you "
-"want to show results for websites, photos, or music."
-msgstr ""
-"GNOME nám umožňuje prispôsobiť to, čo chceme zobrazovať medzi výsledkami "
-"vyhľadávania v <gui>Prehľade aktivít</gui>. Napríklad si môžeme vybrať, či "
-"chceme zobraziť výsledky internetových stránok, fotografií, alebo hudby."
-
-#: C/gs-use-system-search.page:76(section/p)
-msgid "To customize what is displayed in the search results:"
-msgstr ""
-"To, čo chceme zobraziť vo výsledkoch vyhľadávania môžeme prispôsobiť takto:"
-
-#: C/gs-use-system-search.page:81(item/p)
-msgid "From the list of items, select <gui>Search</gui>."
-msgstr "Zo zoznamu položiek vyberieme <gui>Vyhľadávanie</gui>."
-
-#: C/gs-use-system-search.page:82(item/p)
-msgid ""
-"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
-"the search location you want to enable or disable."
-msgstr ""
-"Ak chceme povoliť alebo blokovať vyhľadávanie v nejakom umiestnení, klikneme "
-"na prepínač <gui>ZAP/VYP</gui> vedľa daného umiestnenia v zozname."
-
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/gs-use-windows-workspaces.page:23(media)
-msgctxt "_"
-msgid ""
-"external ref='figures/gnome-windows-and-workspaces.webm' "
-"md5='399f502514acf244fd22ba774b1c812e'"
-msgstr ""
-
-#: C/gs-use-windows-workspaces.page:15(info/title)
-msgctxt "link:trail"
-msgid "Use windows and workspaces"
-msgstr "Používanie okien a pracovných priestorov"
-
-#: C/gs-use-windows-workspaces.page:17(info/title)
-msgctxt "link:seealso"
-msgid "A tutorial on using windows and workspaces"
-msgstr "Návod na používanie okien a pracovných priestorov"
-
-#: C/gs-use-windows-workspaces.page:20(page/title)
-msgid "Use windows and workspaces"
-msgstr "Používanie okien a pracovných priestorov"
-
-#: C/gs-use-windows-workspaces.page:31(div/p)
-msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
-"the screen."
-msgstr ""
-"Okno maximalizujeme tak, že chytíme titulok okna a presunieme ho k hornému "
-"okraju obrazovky."
-
-#: C/gs-use-windows-workspaces.page:35(div/p)
-msgid "When the screen is highlighted, release the window."
-msgstr "Keď bude obrazovka zvýraznená, pustíme okno."
-
-#: C/gs-use-windows-workspaces.page:38(div/p)
-msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
-"edges of the screen."
-msgstr ""
-"Pôvodnú veľkosť okna obnovíme tak, že chytíme titulok okna a presunieme ho "
-"niekam preč od okraja obrazovky."
-
-#: C/gs-use-windows-workspaces.page:42(div/p)
-msgid ""
-"You can also click the top bar to drag the window away and unmaximize it."
-msgstr ""
-"Tiež môžeme kliknutím na hornú lištu okno potiahnuť preč a obnoviť tak jeho "
-"veľkosť."
-
-#: C/gs-use-windows-workspaces.page:54(div/p)
-msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
-"titlebar and drag it to the right."
-msgstr ""
-"Keď chceme okno maximalizovať pozdĺž pravej strany obrazovky, chytíme "
-"titulok okna a presunieme ho na pravý okraj."
-
-#: C/gs-use-windows-workspaces.page:62(div/p)
-#: C/gs-use-windows-workspaces.page:133(item/p)
-msgid ""
-"To maximize a window using the keyboard, hold down the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
-msgstr ""
-"Keď chceme okno maximalizovať pomocou klávesnice, podržíme stlačený kláves "
-"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> a zároveň "
-"stlačíme <key>↑</key>."
-
-#: C/gs-use-windows-workspaces.page:67(div/p)
-msgid ""
-"To restore the window to its unmaximized size, hold down the <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
-"key>."
-msgstr ""
-"Keď chceme obnoviť pôvodnú veľkosť okna, podržíme stlačený kláves <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> a zároveň stlačíme "
-"<key>↓</key>."
-
-#: C/gs-use-windows-workspaces.page:72(div/p)
-#: C/gs-use-windows-workspaces.page:147(item/p)
-msgid ""
-"To maximize a window along the right side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>→</key>."
-msgstr ""
-"Keď chceme okno maximalizovať pozdĺž pravej strany obrazovky, podržíme "
-"stlačený kláves <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
-"a zároveň stlačíme <key>→</key>."
-
-#: C/gs-use-windows-workspaces.page:77(div/p)
-#: C/gs-use-windows-workspaces.page:150(item/p)
-msgid ""
-"To maximize a window along the left side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>←</key>."
-msgstr ""
-"Keď chceme okno maximalizovať pozdĺž ľavej strany obrazovky, podržíme "
-"stlačený kláves <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
-"a zároveň stlačíme <key>←</key>."
-
-#: C/gs-use-windows-workspaces.page:82(div/p)
-msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Down</key></keyseq>."
-msgstr ""
-"Na pracovný priestor, ktorý je pod aktuálnym, sa presunieme stlačením "
-"kombinácie kláves <keyseq><key href=\"help:gnome-help/keyboard-key-super"
-"\">Super </key><key>Page Down</key></keyseq>."
-
-#: C/gs-use-windows-workspaces.page:87(div/p)
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Up</key></keyseq>."
-msgstr ""
-"Na pracovný priestor, ktorý je nad aktuálnym, sa presunieme stlačením "
-"kombinácie kláves <keyseq><key href=\"help:gnome-help/keyboard-key-super"
-"\">Super </key><key>Page Up</key></keyseq>."
-
-#: C/gs-use-windows-workspaces.page:97(section/title)
-msgid "Maximize and unmaximize windows"
-msgstr "Maximalizovanie a obnovenie okna"
-
-#: C/gs-use-windows-workspaces.page:101(item/p)
-msgid ""
-"To maximize a window so that it takes up all of the space on your desktop, "
-"grab the window's titlebar and drag it to the top of the screen."
-msgstr ""
-"Keď chceme okno maximalizovať na celý priestor pracovnej plochy, chytíme "
-"titulok okna a presunieme ho k hornému okraju obrazovky."
-
-#: C/gs-use-windows-workspaces.page:104(item/p)
-msgid "When the screen is highlighted, release the window to maximize it."
-msgstr "Ak je obrazovka zvýraznená, pustíme okno aby sa maximalizovalo."
-
-#: C/gs-use-windows-workspaces.page:106(item/p)
-msgid ""
-"To restore a window to its unmaximized size, grab the window's titlebar and "
-"drag it away from the edges of the screen."
-msgstr ""
-"Keď chceme obnoviť pôvodnú veľkosť okna, chytíme titulok okna a presunieme "
-"ho niekam preč od okraja obrazovky."
-
-#: C/gs-use-windows-workspaces.page:130(section/title)
-msgid "Maximize and unmaximize windows using the keyboard"
-msgstr "Maximalizácia a obnovenie okna použitím klávesnice"
-
-#: C/gs-use-windows-workspaces.page:136(item/p)
-msgid ""
-"To unmaximize a window using the keyboard, hold down the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
-msgstr ""
-"Keď chceme pomocou klávesnice obnoviť pôvodnú veľkosť okna, podržíme "
-"stlačený kláves <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
-"a zároveň stlačíme <key>↓</key>."
-
-# PM: tile nie je titulok
-#: C/gs-use-windows-workspaces.page:144(section/title)
-#, fuzzy
-msgid "Tile windows using the keyboard"
-msgstr "Titulok okien použitím klávesnice"
-
-#: C/gs-use-windows-workspaces.page:158(section/title)
-msgid "Switch workspaces using the keyboard"
-msgstr "Prepínanie pracovných priestorov pomocou klávesnice"
-
-#: C/gs-use-windows-workspaces.page:162(item/p)
-msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key>Page Down</key></keyseq>."
-msgstr ""
-"Na pracovný priestor, ktorý je pod aktuálnym, sa presunieme stlačením "
-"kombinácie kláves <keyseq><key href=\"help:gnome-help/keyboard-key-super"
-"\">Super</key><key>Page Down</key></keyseq>."
-
-#: C/gs-use-windows-workspaces.page:165(item/p)
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key>Page Up</key></keyseq>."
-msgstr ""
-"Na pracovný priestor, ktorý je nad aktuálnym, sa presunieme stlačením "
-"kombinácie kláves <keyseq><key href=\"help:gnome-help/keyboard-key-super"
-"\">Super</key><key>Page Up</key></keyseq>."
-
-#: C/gs-web-browser1-firefox-classic.svg:118(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser1-firefox-classic.svg:118
 #, no-wrap
 msgid "Applications"
 msgstr "Aplikácie"
 
-#: C/gs-web-browser2-firefox.svg:147(text/tspan)
-#: C/gs-web-browser2.svg:151(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
 msgstr "gnome"
 
-# PŠ: Planéta Gnome?
-#: C/gs-web-browser2-firefox.svg:151(text/tspan)
-#: C/gs-web-browser2.svg:155(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
 #, no-wrap
 msgid "Planet Gnome"
 msgstr "Planet Gnome"
 
-#: C/gs-web-browser2-firefox.svg:152(text/tspan)
-#: C/gs-web-browser2.svg:156(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
 #, no-wrap
 msgid "GNOME 3"
 msgstr "GNOME 3"
 
-#: C/gs-web-browser2-firefox.svg:153(text/tspan)
-#: C/gs-web-browser2.svg:157(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
 #, no-wrap
 msgid "http://planet.gnome.org"
 msgstr "http://planet.gnome.org"
 
-#: C/gs-web-browser2-firefox.svg:154(text/tspan)
-#: C/gs-web-browser2.svg:158(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
 #, no-wrap
 msgid "http://gnome.org"
 msgstr "http://gnome.org"
 
-#: C/gs-web-browser2-firefox.svg:275(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
 msgstr "planet.gnome.org"
 
-# PŠ: Planéta GNOME?
-#: C/gs-web-browser2.svg:252(text/tspan)
+#. (itstool) path: text/tspan
+#: C/gs-web-browser2.svg:247
 #, no-wrap
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
+
+#. (itstool) path: page/title
+#: C/gs-where-files.page:19
+msgid "Where are my documents and files?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-where-files.page:21
+msgid ""
+"When you store files to your computer, they are automatically stored in your"
+" <app>Documents</app> folder on your desktop."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-where-files.page:24
+msgid "Here are some ways to look for a file you have saved:"
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-where-files.page:27
+msgid "If you know the name of your file"
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:29
+msgid ""
+"If you know the name of your file, then you can easily search for it right "
+"from the desktop."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:33
+msgid ""
+"From the desktop, click on the <app>global search bar</app> at the top of "
+"your screen that says <gui>Type to search...</gui>. Start typing the name of"
+" the file you are looking for."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-where-files.page:58
+msgid "If you do not know the name of your file"
+msgstr ""
+
+#. (itstool) path: section/p
+#. (itstool) path: item/p
+#: C/gs-where-files.page:60 C/gs-where-files.page:90
+msgid "Click on <app>Documents</app> from the desktop."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:63
+msgid ""
+"Endless tries to store files by categories like documents, music, photos, "
+"and videos, so that they are easier for you to find. You will see that the "
+"menu on the left shows these categories. Click on them once to go to that "
+"folder."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:69
+msgid ""
+"You can create your own folders to better organize your files. You should "
+"click through the different folders you create to get to the files you have "
+"stored there. Clicking through folders is especially helpful if you are not "
+"sure what the file you saved is named."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:74
+msgid ""
+"See the bar at the top with a magnifying glass in it? Click there and start "
+"typing at least part of the name of the file you are looking for. As you "
+"start typing, files that match what you are typing are displayed below. If "
+"you see the file you are looking for in the list, you can use your arrow key"
+" to highlight the file and press <key>Enter</key> to open it. Or, you can "
+"click on the result you want with your mouse to higlight it, and double "
+"click to open it."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-where-files.page:84
+msgid "If your file is on a USB"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:87
+msgid "Make sure that the USB is properly plugged in."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:93
+msgid ""
+"Click on the name of your device on the menu on the left of the window. The "
+"device name should appear above the trash icon and is usually named "
+"something with the device's brand, unless you have changed it."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:98
+msgid ""
+"Browse the files on the USB. Clicking on them once will let you preview them"
+" and clicking twice will open them. You can also click on the top bar with "
+"the magnifying glass to search for the file name if you know it."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/gs-where-files.page:105
+msgid ""
+"Make sure that you have actually saved your file! If you close a program "
+"without saving your work, you might not be able to find it again since not "
+"all programs auto-save. Save as often as you can in order to make sure that "
+"your work does not get lost."
+msgstr ""

@@ -1,438 +1,1115 @@
-# Tamil translation for gnome-getting-started-docs.
-# Copyright (C) 2013 gnome-getting-started-docs's COPYRIGHT HOLDER
-# This file is distributed under the same license as the gnome-getting-started-docs package.
-# Shantha <shantha.thamizh@gmail.com>, 2013.
-#
+# 
+# Translators:
+# Shantha <shantha.thamizh@gmail.com>, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-getting-started-docs master\n"
-"POT-Creation-Date: 2013-11-09 19:36+0000\n"
-"PO-Revision-Date: 2013-11-11 17:37+0530\n"
-"Last-Translator: Shantha kumar <shkumar@redhat.com>\n"
-"Language-Team: Tamil <ta@li.org>\n"
-"Language: ta\n"
+"Project-Id-Version: gnome-getting-started-docs\n"
+"POT-Creation-Date: 2015-08-11 11:56-0700\n"
+"PO-Revision-Date: 2016-12-14 07:13+0000\n"
+"Last-Translator: Vicki Niu <vicki@endlessm.com>\n"
+"Language-Team: Tamil (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/ta/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"Language: ta\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
-"Dr. T. Vasudevan <agnihot3@gmail.com>, 2012Shantha kumar <shantha."
-"thamizh@gmail.com> 2013"
+msgstr "Dr. T. Vasudevan <agnihot3@gmail.com>, 2012Shantha kumar <shantha.thamizh@gmail.com> 2013"
 
-#. (itstool) path: page/title
-#. (itstool) path: titles/t
-#: C/index.page:8 C/getting-started.page:16 C/gs-animation.xml:5
-msgid "Getting Started"
-msgstr "பயன்படுத்தத் தொடங்குதல்"
+#. (itstool) path: credit/name
+#: C/endless-01-desktop.page:11 C/endless-02-folders.page:11
+#: C/endless-03-programs.page:11 C/endless-04-wifi.page:11
+#: C/endless-05-files.page:11 C/endless-06-browser.page:11
+#: C/endless-07-windows.page:11 C/endless-08-offline.page:11
+#: C/endless-09-writer.page:11 C/endless-10-video-player.page:11
+#: C/endless-11-photos-and-music.page:11 C/endless-12-social-bar.page:11
+#: C/gs-browse-web.page:15 C/gs-fix-overscan.page:8 C/gs-get-online.page:15
+#: C/gs-give-feedback.page:8 C/gs-use-offline.page:8
+#: C/gs-use-system-search.page:15 C/gs-where-files.page:8
+msgid "Nuritzi Sanchez"
+msgstr ""
+
+#. (itstool) path: credit/name
+#: C/endless-01-desktop.page:15 C/endless-02-folders.page:15
+#: C/endless-03-programs.page:15 C/endless-04-wifi.page:15
+#: C/endless-05-files.page:15 C/endless-06-browser.page:15
+#: C/endless-07-windows.page:15 C/endless-08-offline.page:15
+#: C/endless-09-writer.page:15 C/endless-10-video-player.page:15
+#: C/endless-11-photos-and-music.page:15 C/endless-12-social-bar.page:15
+#: C/gs-fix-overscan.page:12 C/gs-give-feedback.page:12
+#: C/gs-use-offline.page:12 C/gs-where-files.page:12
+msgid "Endless Mobile, Inc."
+msgstr ""
+
+#. (itstool) path: credit/years
+#: C/endless-01-desktop.page:16 C/endless-02-folders.page:16
+#: C/endless-03-programs.page:16 C/endless-04-wifi.page:16
+#: C/endless-05-files.page:16 C/endless-06-browser.page:16
+#: C/endless-07-windows.page:16 C/endless-08-offline.page:16
+#: C/endless-09-writer.page:16 C/endless-10-video-player.page:16
+#: C/endless-11-photos-and-music.page:16 C/endless-12-social-bar.page:16
+#: C/gs-fix-overscan.page:13 C/gs-give-feedback.page:13
+#: C/gs-use-offline.page:13 C/gs-where-files.page:13
+msgid "2014"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-01-desktop.page:19
+msgctxt "link"
+msgid "Introduction to the desktop"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-01-desktop.page:20
+msgctxt "sort"
+msgid "01"
+msgstr ""
 
 #. (itstool) path: info/desc
-#: C/getting-started.page:11
-msgid "New to Endless? Learn how to get around."
-msgstr "Endless க்குப் புதிதா? எப்படி தொடங்குவது என அறிந்துகொள்ளுங்கள்."
+#: C/endless-01-desktop.page:21
+msgid "A video showing the basics of the Endless desktop."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-01-desktop.page:24
+msgid "Introduction to the desktop"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:34
+msgid ""
+"Welcome to Endless, the operating system that powers your new computer."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:35
+msgid ""
+"We have made everything simple and easy to use. You can find your apps and "
+"your documents folder right on your desktop. Click on them once to open "
+"them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:38
+msgid ""
+"Your computer has a hot corner. Move your mouse to the lower right-hand "
+"corner and you will be able to see all of your open apps and activities so "
+"that you can easily switch between them or close them by clicking on the "
+"black X button that appears when scrolling over them. You will notice that "
+"that you can also easily access the internet, your documents folder, and a "
+"button to return to the desktop on the right hand side with you are in the "
+"hot corner view mode."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:45
+msgid ""
+"At the the bottom of your screen is the task bar. Here you can access wifi, "
+"bluetooth, control the volume of your computer, change the keyboard language"
+" and time, and see which apps you currently have open. On the left side of "
+"the task bar, you will find an icon to access the internet browser. When you"
+" finish using your computer, you'll be able to turn it off by clicking the "
+"user menu and selecting <gui>Exit</gui>."
+msgstr ""
 
 #. (itstool) path: info/title
-#: C/getting-started.page:12
+#: C/endless-02-folders.page:19
 msgctxt "link"
-msgid "Getting Started with Endless"
-msgstr "Endless ஐப் பயன்படுத்தத் தொடங்குதல்"
+msgid "Adding folders to the desktop"
+msgstr ""
 
 #. (itstool) path: info/title
-#: C/getting-started.page:13
-msgctxt "text"
-msgid "Getting Started"
-msgstr "பயன்படுத்தத் தொடங்குதல்"
+#: C/endless-02-folders.page:20
+msgctxt "sort"
+msgid "02"
+msgstr ""
 
-#. (itstool) path: caption/desc
+#. (itstool) path: info/desc
+#: C/endless-02-folders.page:21
+msgid "A video showing how to add a folder to the desktop."
+msgstr ""
+
 #. (itstool) path: page/title
-#: C/getting-started.page:25 C/gs-launch-applications.page:23
-msgid "Launch applications"
-msgstr "பயன்பாடுகளைத் துவக்கவும்"
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:30 C/gs-animation.xml:4
-#: C/gs-launch-applications.page:31
-msgid "Launching Applications"
-msgstr "பயன்பாடுகளைத் துவக்குதல்"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:33 C/getting-started.page:154
-#: C/gs-launch-applications.page:34 C/gs-switch-tasks.page:36
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen."
+#: C/endless-02-folders.page:24
+msgid "Adding folders to the desktop"
 msgstr ""
-"உங்கள் சொடுக்கி சுட்டியை திரையின் மேல் இடது புறம் உள்ள <gui>செயல்பாடுகள்</gui> "
-"மூலைக்குக் கொண்டு செல்லவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:37 C/gs-launch-applications.page:38
-msgid "Click the <gui>Show Applications</gui> icon."
-msgstr "<gui>பயன்பாடுகளைக் காண்பி</gui> சின்னத்தைச் சொடுக்கவும்."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:40 C/gs-launch-applications.page:41
-msgid "Click the application you want to run, for example, Help."
-msgstr "நீங்கள் இயக்க விரும்பும் பயன்பாட்டைச் சொடுக்கவும், எடுத்துக்காட்டுக்கு Help."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:44 C/gs-launch-applications.page:45
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:34
 msgid ""
-"Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
-"by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
-"key."
+"Your computer comes with a lot of pre-installed apps on the desktop and some"
+" folders to help keep them organized by category. For example, if you click "
+"once on the folder called <gui>Games</gui>, you’ll find icons with the names"
+" of all the games in that folder. Click on a game once to open it and start "
+"playing!"
 msgstr ""
-"மாறாக, <gui>செயல்பாடுக் மேலோட்டம்</gui> என்பதைத் திறக்க <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> விசையை அழுத்துவதன் மூலம் விசைப்பலகையைப் "
-"பயன்படுத்தவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:49 C/gs-launch-applications.page:50
-msgid "Start typing the name of the application you want to launch."
-msgstr "நீங்கள் துவக்க விரும்பும் பயன்பாட்டின் பெயரைத் தட்டச்சு செய்யத் தொடங்கவும்."
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:38
+msgid ""
+"You can also make your own folders to further organize your apps. To make a "
+"folder, click on the icon that says <app>More Apps</app>. Then, click the "
+"word <gui>Folders</gui>, on the left hand side of your screen. Choose an "
+"icon for your folder, and then give it a name. Click the green button with "
+"the plus sign to add the folder to your desktop. When it is finished being "
+"created and installed, you will see a confirmation telling you that your new"
+" folder has been added. Now you can close the window and find your new "
+"folder to the left of the <app>More Apps</app> icon."
+msgstr ""
 
-#. (itstool) path: div/p
-#: C/getting-started.page:53 C/gs-launch-applications.page:54
-msgid "Press <key>Enter</key> to launch the application."
-msgstr "பயன்பாட்டைத் துவக்க <key>Enter</key> ஐ அழுத்தவும்."
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:46
+msgid ""
+"To add apps to your new folder, simply click and hold on the app’s icon, and"
+" without letting go, drag it on top of the folder, and let go of the click. "
+"When you open the folder, you’ll see the app inside. To remove an app from "
+"the folder, simply drag its icon out of the folder."
+msgstr ""
 
-#. (itstool) path: caption/desc
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:50
+msgid ""
+"Keep in mind that if you want to delete a folder, you’ll first have to "
+"remove all of the apps that are in it."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-03-programs.page:19
+msgctxt "link"
+msgid "Installing programs"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-03-programs.page:20
+msgctxt "sort"
+msgid "03"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-03-programs.page:21
+msgid "A video showing how to install programs."
+msgstr ""
+
 #. (itstool) path: page/title
-#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
-msgid "Use windows and workspaces"
-msgstr "சாளரங்கள் மற்றும் பணிவெளிகளைப் பயன்படுத்து"
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:71 C/gs-animation.xml:10
-#: C/gs-use-windows-workspaces.page:29
-msgid "Windows and Workspaces"
-msgstr "சாளரங்கள் மற்றும் பணிவெளிகள்"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
-msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
-"the screen."
+#: C/endless-03-programs.page:24
+msgid "Installing programs"
 msgstr ""
-"ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, அதை திரையின் மேல் "
-"புறம் இழுத்துச் செல்லவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
-msgid "When the screen is highlighted, release the window."
-msgstr "திரை தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை விடுவிக்கவும்."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:35
 msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
-"edges of the screen."
+"Your computer comes with a wide variety of apps that you can install for "
+"free and use even without an internet connection."
 msgstr ""
-"ஒரு சாளரத்தை அளவு மீட்டமைக்க, அதன் தலைப்புப் பட்டியைப் பிடித்து திரையின் "
-"விளிம்புகளிலிருந்து விலக்கி இழுத்துச் செல்லவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:38
 msgid ""
-"You can also click the top bar to drag the window away and unmaximize it."
+"From the desktop, click on <app>More Apps</app> to find and add more apps. "
+"It will open a window where you can browse and explore all the apps that are"
+" available to you so you can choose the ones you want to install or add to "
+"your desktop."
 msgstr ""
-"சாளரத்தை விலக்கி இழுத்துச் சென்று அதை அளவு மீட்டமைக்க, நீங்கள் மேல் பட்டியையும் சொடுக்கலாம்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:89 C/getting-started.page:161
-#: C/gs-switch-tasks.page:43 C/gs-use-windows-workspaces.page:47
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:43
 msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
-"titlebar and drag it to the left."
+"You can browse the <app>App Center</app> by category. For example, if you "
+"click on the <gui>Education</gui> category, you’ll find several educational "
+"apps that you can add and use offline. Similarly, if you click on the Games "
+"category, you’ll find games you can add."
 msgstr ""
-"திரையின் இடப்புறம் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் "
-"பிடித்து, அதை திரையின் இடப்புறம் இழுத்துச் செல்லவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:93 C/getting-started.page:101
-#: C/getting-started.page:165 C/getting-started.page:173
-#: C/gs-switch-tasks.page:47 C/gs-switch-tasks.page:55
-#: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
-msgid "When half of the screen is highlighted, release the window."
-msgstr "திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை விடுவிக்கவும்."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:48
 msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
-"titlebar and drag it to the right."
+"You can find the apps that are already on your desktop in the "
+"<gui>Installed</gui> category."
 msgstr ""
-"திரையின் வலப்புறம் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் "
-"பிடித்து, அதை திரையின் வலப்புறம் இழுத்துச் செல்லவும்."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
-#: C/gs-use-windows-workspaces.page:134
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:51
 msgid ""
-"To maximize a window using the keyboard, hold down the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
+"Click on the app that you want to download. For example, go to the "
+"<gui>Education</gui> category and click on the <app>Guatemala</app> app. A "
+"new window will come up with more information about the app. Click on the "
+"green button that says <gui>Add to Desktop</gui>, then after a moment the "
+"button will change to say <gui>Open</gui>."
 msgstr ""
-"ஒரு சாளரத்தை விசைப்பலகையைப் பயன்படுத்தி பெரிதாக்க <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> விசையைப் பிடித்தபடி <key>↑</key> ஐ அழுத்தவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:57
 msgid ""
-"To restore the window to its unmaximized size, hold down the <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
-"key>."
+"After closing this window you’ll see that the program you downloaded is now "
+"on your desktop. Now you can open it whenever you want to quickly and "
+"easily!"
 msgstr ""
-"ஒரு சாளரத்தை அதன் பெரிதாக்கப்படாத அளவுக்கு மீட்டமைக்க, <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> விசையை பிடித்தவாறு <key>↓</key> ஐ அழுத்தவும்."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
-#: C/gs-use-windows-workspaces.page:148
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:61
 msgid ""
-"To maximize a window along the right side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>→</key>."
+"To remove an app, click on the app’s icon without letting go and drag it on "
+"top of the <app>More Apps</app> icon. You’ll notice that the icon has "
+"changed from a grey square to a recycling bin. Let go of the click over this"
+" icon and you’ll see a window telling you that you’ve successfully removed "
+"the app from your desktop. Don’t worry, you can always reinstall the apps "
+"that you remove from your desktop!"
 msgstr ""
-"திரையின் வலப்புறம் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> விசையைப் பிடித்தவாறு <key>→</key> ஐ அழுத்தவும்."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
-#: C/gs-use-windows-workspaces.page:151
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:68
 msgid ""
-"To maximize a window along the left side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>←</key>."
+"You can also delete a folder this same way, by clicking on it, dragging it "
+"over the recycling bin, and letting go. Remember that the folder has to be "
+"empty in order to delete it."
 msgstr ""
-"திரையின் இடப்புறம் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> விசையைப் பிடித்தவாறு <key>←</key> ஐ அழுத்தவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:72
 msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Down</key></keyseq>."
+"That’s how easy it is to add and remove apps and folders from your desktop!"
 msgstr ""
-"தற்போதைய பணிவெளிக்குக் கீழே உள்ள ஒரு பணிவெளிக்கு நகர, <keyseq><key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key><key>Page Down</key></keyseq> ஐ "
-"அழுத்தவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Up</key></keyseq>."
+#. (itstool) path: info/title
+#: C/endless-04-wifi.page:19
+msgctxt "link"
+msgid "Using Wi-Fi"
 msgstr ""
-"தற்போதைய பணிவெளிக்கு மேலே உள்ள ஒரு பணிவெளிக்கு நகர, <keyseq><key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key><key>Page Up</key></keyseq> ஐ "
-"அழுத்தவும்."
 
-#. (itstool) path: caption/desc
+#. (itstool) path: info/title
+#: C/endless-04-wifi.page:20
+msgctxt "sort"
+msgid "04"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-04-wifi.page:21
+msgid "A video showing how to set up Wi-Fi with Endless."
+msgstr ""
+
 #. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/getting-started.page:146 C/gs-switch-tasks.page:22
-#: C/gs-switch-tasks.page:96
-msgid "Switch tasks"
-msgstr "பணிகளுக்கிடையே மாறவும்"
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:33
-msgid "Switching Tasks"
-msgstr "பணிகளுக்கிடையே மாறுதல்"
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:158 C/gs-switch-tasks.page:40
-#: C/gs-switch-tasks.page:105
-msgid "Click a window to switch to that task."
-msgstr "ஒரு பணிக்குச் செல்ல அதற்குரிய சாளரத்தைச் சொடுக்கவும்."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:169 C/gs-switch-tasks.page:51
-msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
-"drag it to the right."
+#: C/endless-04-wifi.page:24
+msgid "Using Wi-Fi"
 msgstr ""
-"வலப்புறம் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, "
-"அதை வலப்புறம் இழுத்துச் செல்லவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:177 C/gs-switch-tasks.page:59
-msgid ""
-"Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:34
+msgid "You can connect to a Wi-Fi network with these easy steps:"
 msgstr ""
-"<gui>சாளர மாற்றியைக்</gui> காண்பிக்க <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key><key> Tab</key></keyseq> ஐ அழுத்தவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:182 C/gs-switch-tasks.page:64
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:36
 msgid ""
-"Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
-"select the next highlighted window."
+"First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
+"right side of your desktop, on the task bar close to the clock."
 msgstr ""
-"தனிப்படுத்திக் காண்பிக்கப்படும் அடுத்த சாளரத்தைத் தேர்ந்தெடுக்க <key href=\"help:gnome-"
-"help/keyboard-key-super\">Super </key> ஐ விடுவிக்கவும்."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:187 C/gs-switch-tasks.page:69
-#: C/gs-switch-tasks.page:150
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:39
 msgid ""
-"To cycle through the list of open windows, do not release <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
-"<key>Tab</key>."
+"On the window that comes up, you’ll see the names of all of the available "
+"Wi- Fi networks that you can connect to. If you don’t see any, make sure "
+"that your Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is "
+"turned on if there is a blue light to the right of the word <gui>Wi-"
+"Fi</gui>. If the light is not blue, you can click on it once to turn it on."
 msgstr ""
-"திறந்துள்ள சாளரங்களை ஒவ்வொன்றாக மாற்றிப் பார்க்க, <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> ஐ விடுவிக்காமல் அழுத்திப் பிடித்திருந்து "
-"<key>Tab</key> ஐ அழுத்தவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:192 C/gs-switch-tasks.page:74
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:45
 msgid ""
-"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
-"to show the <gui>Activities Overview</gui>."
+"Select the name of your wireless network. The network in this example is "
+"called <gui>Endless Wi-Fi</gui>, but the name of your own Wi-Fi network will"
+" be different. If you’re not sure what the name of your Wi-Fi network is, or"
+" don’t know the password, you can call the company that provides your "
+"internet and ask them."
 msgstr ""
-"மாறாக, <gui>செயல்பாடுக் மேலோட்டம்</gui> என்பதைத் திறக்க <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> விசையை அழுத்துவதன் மூலம் விசைப்பலகையைப் "
-"பயன்படுத்தவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:196 C/gs-switch-tasks.page:78
-msgid "Start typing the name of the application you want to switch to."
-msgstr "நீங்கள் மாற விரும்பும் பட்டியலின் பெயரைத் தட்டச்சு செய்யத் தொடங்கவும்."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:200 C/gs-switch-tasks.page:82
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:51
 msgid ""
-"When the application appears as the first result, press <key> Enter</key> to "
-"switch to it."
+"After selecting the name of your network, you’ll have to type in your "
+"network’s password."
 msgstr ""
-"முதல் முடிவாக பயன்பாடு காண்பிக்கப்படும் போது, அதற்குச் செல்ல <key> Enter</key> ஐ "
-"அழுத்தவும்."
 
-#. (itstool) path: caption/desc
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:54
+msgid ""
+"If your computer successfully connects to the internet, you’ll see a white "
+"circle to the left of the name of your network."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:57
+msgid "And just like that, you’re connected to the internet!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-05-files.page:19
+msgctxt "link"
+msgid "Exploring your files"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-05-files.page:20
+msgctxt "sort"
+msgid "05"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-05-files.page:21
+msgid "A video showing how to use the file system."
+msgstr ""
+
 #. (itstool) path: page/title
-#: C/getting-started.page:212 C/gs-respond-messages.page:22
-msgid "Respond to messages"
-msgstr "செய்திகளுக்கு பதிலளிக்கவும்"
+#: C/endless-05-files.page:24
+msgid "Exploring your files"
+msgstr ""
 
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:218 C/gs-animation.xml:7
-#: C/gs-respond-messages.page:30
-msgid "Responding to Messages"
-msgstr "செய்திகளுக்கு பதிலளித்தல்"
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:221 C/gs-respond-messages.page:33
-#: C/gs-respond-messages.page:92
+#. (itstool) path: page/p
+#: C/endless-05-files.page:35
 msgid ""
-"Move your mouse to the message tray at the bottom of the screen and click "
-"the chat message."
+"You can easily organize your documents and files with folders. Here’s how to"
+" do it."
 msgstr ""
-"உங்கள் சொடுக்கியை திரையின் அடிப்பகுதியில் உள்ள செய்திப் பலகத்திற்குக் கொண்டு சென்று அரட்டை "
-"செய்தியை சொடுக்கவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:225 C/gs-respond-messages.page:37
+#. (itstool) path: page/p
+#: C/endless-05-files.page:38
 msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
+"The <app>Documents</app> icon gives you access to your folders and files. "
+"You can find it on your desktop or by moving your mouse to the hot corner on"
+" the bottom left side of your screen and clicking on the "
+"<app>Documents</app> icon on the right side of the screen, even if you have "
+"an app open."
 msgstr ""
-"உங்கள் பதிலைத் தட்டச்சு செய்யத் தொடங்குங்கள், முடித்ததும் பதிலை அனுப்ப <key>Enter </key> "
-"ஐ அழுத்தவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:229 C/getting-started.page:250
-#: C/gs-respond-messages.page:41 C/gs-respond-messages.page:62
-msgid "Close the chat message."
-msgstr "அரட்டைச் செய்தியை மூடு."
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:232 C/gs-animation.xml:9
-#: C/gs-respond-messages.page:44
-msgid "Delayed Response"
-msgstr "தாமதித்த பதிலளிப்பு"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:235 C/gs-respond-messages.page:47
+#. (itstool) path: page/p
+#: C/endless-05-files.page:43
 msgid ""
-"A chat message in the message tray disappears after a while if you do not "
-"move your mouse to the message tray."
+"Once you are in the <app>Documents</app> main folder, you can create new "
+"folders where you can place all of your documents and files so that they are"
+" organized and easy to find. On the left side of the window, you’ll see "
+"shortcuts to get to those folders. To open a file or folder that is "
+"displayed on the right, click your mouse’s button quickly two times. We call"
+" this a double click. To return to the previous folder, click the back arrow"
+" above."
 msgstr ""
-"செய்திப் பலகத்தில் காண்பிக்கப்படும் ஒரு அரட்டைச் செய்தி, நீங்கள் செய்திப் பலகத்திற்கு உங்கள் "
-"சொடுக்கியைக் கொண்டு செல்லாவிட்டால் சற்று நேரம் கழித்து மறைந்துபோகும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:239 C/gs-respond-messages.page:51
+#. (itstool) path: page/p
+#: C/endless-05-files.page:50
 msgid ""
-"To get back to your unanswered message, move your mouse to the message tray."
+"You can also open a folder by clicking the right button of your mouse, and "
+"then clicking <gui>Open</gui> with the left button."
 msgstr ""
-"இன்னும் நீங்கள் பதிலளிக்காத செய்திக்கு மீண்டும் செல்ல, உங்கள் சொடுக்கியை செய்தித் தட்டுகுக் "
-"கொண்டு செல்லவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:243 C/gs-respond-messages.page:55
-msgid "Click the person who sent you the message."
-msgstr "உங்களுக்கு செய்தி அனுப்பியவரைச் சொடுக்கவும்."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:246 C/getting-started.page:262
-#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:74
-msgid "Start typing your reply and when finished, press <key>Enter </key>."
-msgstr ""
-"உங்கள் பதிலைத் தட்டச்சு செய்யத் தொடங்குங்கள், முடித்ததும் பதிலை அனுப்ப <key>Enter </key> "
-"ஐ அழுத்தவும்."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:253 C/gs-respond-messages.page:65
+#. (itstool) path: page/p
+#: C/endless-05-files.page:53
 msgid ""
-"To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>M</key></keyseq>"
+"To use the shortcuts that are on the left side of the screen, click on the "
+"name of the folder you wish to open. For example, if you click the name "
+"<gui>Images</gui> with your left mouse button, you’ll open the "
+"<gui>Images</gui> folder."
 msgstr ""
-"மாறாக, <gui>செயல்பாடுக் மேலோட்டம்</gui> என்பதைத் திறக்க <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> விசையை அழுத்துவதன் மூலம் விசைப்பலகையைப் "
-"பயன்படுத்தவும்."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:258 C/gs-respond-messages.page:70
+#. (itstool) path: page/p
+#: C/endless-05-files.page:58
 msgid ""
-"Use the arrow keys to select the person you want to reply to, and press "
-"<key>Enter</key>."
+"When you download a file from the internet, it’ll go to the "
+"<gui>Downloads</gui> folder. If you want to move files to this folder or "
+"into another folder, simply click the file without letting go and drag it to"
+" the folder where you want it. For example, if I want to move my favorite "
+"song to the music folder, I click on the music file without letting go and "
+"drag it to the music folder. Now it’s in that folder!"
 msgstr ""
-"அம்புக்குறி விசைகளைப் பயன்படுத்தி, நீங்கள் பதிலளிக்க விரும்பும் நபரைத் தேர்ந்தெடுத்து, "
-"<key>Enter</key> ஐ அழுத்தவும்."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:266 C/gs-respond-messages.page:78
-#: C/gs-respond-messages.page:132
-msgid "Press <key>Esc</key> to close the chat message."
-msgstr "அரட்டை செய்தியை மூட <key>Esc</key> ஐ அழுத்தவும்."
+#. (itstool) path: page/p
+#: C/endless-05-files.page:65
+msgid ""
+"To delete a file, whether it’s a song, photo, or another kind, simply click "
+"on it without letting go and drag it to the recycling bin. To delete my "
+"favorite song, for example, click it without letting go, drag it to the "
+"recycling bin, and let go of the click."
+msgstr ""
 
-#. (itstool) path: div/p
-#: C/getting-started.page:269 C/gs-respond-messages.page:81
-msgid "To dismiss the message tray, press <key>Esc</key>."
-msgstr "செய்தித் தட்டை மூட <key>Esc</key> ஐ அழுத்தவும்."
+#. (itstool) path: page/p
+#: C/endless-05-files.page:70
+msgid ""
+"From the recycling bin, you can return the files that you’ve deleted to "
+"where they originally were by selecting them and clicking "
+"<gui>Restore</gui>. You can also delete these files permanently from your "
+"computer by clicking the button <gui>Empty</gui>. If you click this button, "
+"the files will no longer take up space on your computer, but you also won’t "
+"be able to restore them and will instead permanently delete them."
+msgstr ""
 
-#. (itstool) path: links/title
-#: C/getting-started.page:278
-msgid "Common Tasks"
-msgstr "பொதுவான பணிகள்"
+#. (itstool) path: page/p
+#: C/endless-05-files.page:77
+msgid "It’s easy to organize your files on Endless, right?"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-06-browser.page:19
+msgctxt "link"
+msgid "Browsing the Internet"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-06-browser.page:20
+msgctxt "sort"
+msgid "06"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-06-browser.page:21
+msgid "A video explaining how to user browse web pages."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-06-browser.page:24
+msgid "Browsing the Internet"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:35
+msgid ""
+"If you’re connected to the internet you have access to websites from all "
+"around the world! Here, you can learn how to get to them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:38
+msgid ""
+"When your computer is connected to the internet, you can open the browser by"
+" clicking on the orange circle on your task bar on the bottom left-hand "
+"corner. We have put this orange icon in three different places so you can "
+"find it easily: on the desktop next to other apps’ icons, on the black task "
+"bar on the bottom part of your screen, and on the right side of the screen "
+"when you move your mouse to the bottom right hot corner."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:45
+msgid ""
+"When you first open the browser, you’ll see the <app>Content Center</app>. "
+"Here we have collected interesting websites for you to explore. If you click"
+" on the title <gui>Discover</gui> you’ll see different categories for you to"
+" look through to find useful websites. For example, in the <gui>News</gui> "
+"category, you’ll find links for different newspapers. You can explore the "
+"different categories to discover lots of cool websites!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:52
+msgid ""
+"When you see a page that interests you, you can mark it as a favorite to "
+"save it and find it easily in the future. For example, open the page "
+"<gui>Universidad Galileo</gui>. If we want our computer to remember this "
+"page, or any other, all you have to do is click on the star that is located "
+"on the right side of the website’s URL in the top part of the window. If you"
+" want, you can change the name you save it as so that you can find it more "
+"easily in the future. Click <gui>Finished</gui>. Now the page you saved will"
+" appear when you click on <gui>Favorites</gui> in your <app>Content "
+"Center</app>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:61
+msgid ""
+"Clicking on <gui>History</gui> allows you to see all of the websites that "
+"you have previously visited. If you want to return to a site that you once "
+"visited, you can find it here. If you want to clear the list of websites "
+"that you have visited, click on the button that says <gui>Clear "
+"History</gui>, then click to accept the action on the window that pops up."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:67
+msgid ""
+"If you click on <gui>Feedback</gui> on the bottom left side of the content "
+"center, you can send us your comments or suggestions. Just write your "
+"message, your name, and your email address, then click <gui>Send "
+"Feedback</gui>. We would love to hear from you!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-07-windows.page:19
+msgctxt "link"
+msgid "Minimizing and closing windows"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-07-windows.page:20
+msgctxt "sort"
+msgid "07"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-07-windows.page:21
+msgid "A video showing how to minimize and close your windows."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-07-windows.page:24
+msgid "Minimizing and closing windows"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:35
+msgid ""
+"If you want to keep an app or folder open while you work on another task on "
+"your desktop or in another app, the minimizing option is extremely useful!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:38
+msgid ""
+"You can minimize your programs one of two ways: clicking on the <key>-</key>"
+" icon, which is on the top right corner of each window, or clicking on the "
+"program’s icon on the task bar of your Endless screen. This will hide your "
+"app or folder in your task bar so that you can work on different tasks at "
+"the same time."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:44
+msgid ""
+"To make your app return to your screen, just click its icon once and it’ll "
+"return to its last size. When you’re done using a program, close it by "
+"clicking the <key>X</key> icon at the top right-hand corner of the window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:48
+msgid ""
+"You can also move your mouse down to the bottom right-hand corner of your "
+"screen, then move over to the window of the app you want to close and click "
+"the <key>X</key> on the top right of that window to close it."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-08-offline.page:19
+msgctxt "link"
+msgid "Using Endless offline"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-08-offline.page:20
+msgctxt "sort"
+msgid "08"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-08-offline.page:21
+msgid "A video showing the offline content on your computer."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-08-offline.page:24
+msgid "Using Endless offline"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:35
+msgid ""
+"Your computer includes a lot of offline content so you can learn and explore"
+" a great deal of things without having an internet connection!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:38
+msgid ""
+"For example, you’ll find a folder called <gui>Curiosities</gui> on your "
+"desktop where you can find apps like <app>Virtual School</app>, which allows"
+" you to watch hundreds of videos about all sorts of subjects you may find "
+"interesting."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:43
+msgid ""
+"Let’s explore <app>Virtual School</app>. Open the app to see the all the "
+"different subjects for which you can watch video lessons. You’ll see the "
+"number of videos available for each topic to the right of its name. For "
+"example, in <gui>Sciences</gui>, you can see that there are 4 videos on the "
+"topic <gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of"
+" this topic, you’ll be able to see the list of videos available."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:50
+msgid ""
+"For any video you’d like to watch, just click on it once to begin playing "
+"it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:53
+msgid ""
+"To end the video, just click on the <key>X</key> button at the top right-"
+"hand corner of the video. To learn more about how to control videos, please "
+"see the tutorial that talks about photos, music and video."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:57
+msgid ""
+"You may also be interested in using the <app>Encyclopedia</app> app. We have"
+" put it on your desktop to make it easy to find."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:60
+msgid ""
+"When you open this app, you will see a bar where you can search for any "
+"topic you want to investigate. For example, let's look for information about"
+" Guatemala. Once you start typing, a list will appear so that you can choose"
+" the item that best matches what you’d like to read about. Click on a title "
+"and all of the information on the topic you have chosen will appear."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:66
+msgid ""
+"Remember that there are many apps that do not require internet. Keep "
+"exploring your computer to find them!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-09-writer.page:19
+msgctxt "link"
+msgid "Using the Writer app"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-09-writer.page:20
+msgctxt "sort"
+msgid "09"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-09-writer.page:21
+msgid "A video showing how to use the Writer app to create documents."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-09-writer.page:24
+msgid "Using the Writer app"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:35
+msgid ""
+"Your computer comes with apps for you to create the documents and "
+"presentations that you need."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:38
+msgid ""
+"For example, you can find the <app>Writer</app> app on your desktop, with "
+"which you can create your documents. You can also create spreadsheets in the"
+" <app>Spreadsheets</app> app, which is located in the <gui>Work</gui> "
+"folder. And, you can use the <app>Presentation</app> app to create "
+"presentations that can help you communicate your ideas."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:44
+msgid ""
+"Let’s walk through some basic things that you can do with the "
+"<app>Writer</app> app."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:47
+msgid ""
+"You can easily copy text from other apps. Suppose you want to copy text from"
+" the <app>Encyclopedia</app> app. Just select the text you want to copy, and"
+" right click on it. A menu with the option to <gui>Copy</gui> will appear. "
+"Click on that option."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:52
+msgid ""
+"Go back to the app where you want to paste the information. Then, simply "
+"right click again, and then click <gui>Paste</gui>. The text you copied from"
+" the encyclopedia will appear in your document."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:56
+msgid ""
+"Select the text again with your mouse, or by pressing and holding "
+"<key>Shift</key> and the arrow buttons. You can then use the buttons at the "
+"top of the screen to make the text bold, italic, or underlined. You can also"
+" center or justify the paragraph format so that it looks the way you want it"
+" to look."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:62
+msgid "Explore all of the buttons up top to see the function of each!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:64
+msgid ""
+"You can save your document by clicking <gui>File</gui>, then "
+"<gui>Save</gui>. Remember to give your document a name that you will "
+"remember (usually something that describes what is in the document) before "
+"saving it to make it easier to find later."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-10-video-player.page:19
+msgctxt "link"
+msgid "Playing videos"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-10-video-player.page:20
+msgctxt "sort"
+msgid "10"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-10-video-player.page:21
+msgid "A video showing how to play movies and videos with Endless."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-10-video-player.page:24
+msgid "Playing videos"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:35
+msgid ""
+"We have pre-installed some fun short videos onto your computer so you can "
+"watch them whenever you want. You can also watch videos from a USB memory "
+"stick, or you can download and watch videos from the internet if you have a "
+"connection."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:40
+msgid ""
+"First, let's find the <gui>Videos</gui> folder. From the desktop, click on "
+"the <app>Documents</app> folder. Then, double click on the <gui>Videos</gui>"
+" folder. Double click on the <gui>Samples</gui> folder to open it. This is "
+"where we have added the pre-installed short videos. To open a video, simply "
+"double click on its name."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:46
+msgid ""
+"Once the video is playing, you can pause it by clicking on the button in the"
+" lower left corner of the video. To continue playing it, click on that same "
+"button. You can click on the grey square that appears on the bottom bar of "
+"the video and drag it to advance or rewind the video."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:51
+msgid ""
+"If you’d like to see the video in full screen, just click on the arrows "
+"below the video on the right. To downsize the video and see other things in "
+"your screen again, you’ll have to press the <key>ESC</key> key, which is on "
+"the top left-hand side of your keyboard. This key can also be used to quit "
+"games that take you into full-screen mode, or when any other video is in "
+"full-screen."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:57
+msgid ""
+"You can find the button to adjust volume on the lower right-hand side of the"
+" video player. Click and then drag the bar up and down to adjust the volume."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:60
+msgid ""
+"Remember to connect your computer to headphones or speakers so you can hear "
+"the video’s sound. If your computer is connected to a TV, then the TV’s "
+"speakers should work to play sound. If you still cannot hear anything, try "
+"turning up the volume on your computer or on your TV."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:65
+msgid "We hope you enjoy all the videos we chose for you!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-11-photos-and-music.page:19
+msgctxt "link"
+msgid "Photos and Music"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-11-photos-and-music.page:20
+msgctxt "sort"
+msgid "11"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-11-photos-and-music.page:21
+msgid "A video showing how to edit photos and listen to music."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-11-photos-and-music.page:24
+msgid "Photos and Music"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:35
+msgid ""
+"Editing your photos is easy! You can find the <app>Photo Editor</app> app "
+"right on your desktop. Click once to open it and then choose a picture you "
+"want to edit. You can use one of the photos that comes with your computer, "
+"or a photo that you have taken and uploaded."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:40
+msgid ""
+"Click <gui>Open Image</gui> to begin. To view the photos that are already on"
+" your computer, double click on the <gui>Samples</gui> folder. You can click"
+" once on a photo’s name to view it in a preview, and can double click on the"
+" picture you want to open and edit it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:45
+msgid ""
+"Once you have a photo open, you can edit it in many fun ways. For example, "
+"you can rotate, cut or change it until you find a look that you really like "
+"for it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:49
+msgid ""
+"We have included many filters to give you more options to create your "
+"perfect image. There are even options to distort the photo and make it look "
+"funny."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:52
+msgid ""
+"Add a frame to your masterpiece if you’d like, and when you are finished "
+"editing the photo you can save it, post it to Facebook, or use it as your "
+"wallpaper!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:56
+msgid ""
+"Make sure you also check out the <app>Music</app> on your desktop. Open to "
+"see a bunch of songs we have already added. You can of course add more songs"
+" by transferring them from a USB or downloading them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:60
+msgid ""
+"To hear a song, double click on it. You can pause it by clicking on the "
+"button on the top left-hand side, and continue playing it by re-clicking the"
+" same button."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:64
+msgid ""
+"You can also skip to the next song or replay a previous song with the arrow "
+"buttons, and can even choose to repeat the song over and over again. You can"
+" play all of the songs in your playlists in order or shuffle the songs and "
+"play them out of order."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:69
+msgid ""
+"You can find the area to adjust volume on the top right-hand side. Click and"
+" drag the circle button to the left or right to adjust the volume."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:72
+msgid ""
+"Remember, to hear audio, you have to connect headphones or speakers to your "
+"computer. If you have your computer connected to a TV and still cannot hear "
+"the audio, try turning up the volume of your computer or of your TV."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-12-social-bar.page:19
+msgctxt "link"
+msgid "Using Facebook"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-12-social-bar.page:20
+msgctxt "sort"
+msgid "12"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-12-social-bar.page:21
+msgid "A video showing how to use Facebook with other programs."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-12-social-bar.page:24
+msgid "Using Facebook"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:35
+msgid ""
+"If you have internet, there are two simple ways to access <em>Facebook</em>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:38
+msgid ""
+"The first is opening the browser and entering <em>facebook.com</em> at the "
+"top, then entering your name and password in the login part of the site as "
+"you may already be used to doing."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:42
+msgid ""
+"The other way is to use the <em>Facebook</em> button located in the lower "
+"right-hand corner of your screen. By clicking on it, you will see a window "
+"that appears on the right side of the screen. Enter your email and password "
+"and start using Facebook immediately!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:47
+msgid ""
+"If you access <em>Facebook</em> this second way, you'll have very easy "
+"access to <em>Facebook</em> while using other programs. For example, you can"
+" be using the <app>Writer</app> app, and while you are working on a "
+"document, you can check <em>Facebook</em> quickly during breaks, and you can"
+" even continue a conversation without having to switch programs to do so."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:53
+msgid ""
+"If you use this second method, be sure to logout of your Facebook account "
+"before you stop using the computer, otherwise, someone else may be able to "
+"access your Facebook account."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:57
+msgid ""
+"To logout of <em>Facebook</em>, make sure you are in the <em>Facebook</em> "
+"window, click on the menu button on the top left-hand side, scroll to the "
+"bottom of the window, and click on the <em>logout</em> button."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:61
+msgid "There you go, Facebook is now just a click away!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-13-printers.page:9
+msgctxt "link"
+msgid "Setting up a printer"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-13-printers.page:10
+msgctxt "sort"
+msgid "13"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-13-printers.page:11
+msgid "A video showing how to set up a printer for the first time."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-13-printers.page:14
+msgid "Setting up a printer"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:25
+msgid ""
+"Click the <em>User Menu</em> button on the bottom left-hand corner of the "
+"screen, then select <gui>Settings</gui>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:28
+msgid ""
+"In the window that appears, click <gui>Printers</gui>. To continue, you must"
+" unlock this window by clicking on the button that says <gui>Unlock</gui> in"
+" the upper right-hand corner. Enter your password and click "
+"<gui>Authenticate</gui> to finish unlocking the window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:33
+msgid ""
+"Click the <key>+</key> symbol in the lower left-hand corner of this window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:36
+msgid ""
+"Select your printer from the list that appears, and click <gui>Add</gui>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:38
+msgid ""
+"You will see the name of your printer appear. If you want to check that your"
+" printer is configured correctly, click the button that says "
+"<gui>Print</gui> to print a sample page."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:42
+msgid ""
+"You can now close this window and begin to use your printer with Endless!"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-videos.page:9
+msgid "Watch videos explaining how to use EndlessOS."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-videos.page:10
+msgctxt "link"
+msgid "Videos Tutorials"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-videos.page:11
+msgctxt "sort"
+msgid "Videos Tutorials"
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-videos.page:14
+msgid "Endless Videos"
+msgstr ""
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:3
@@ -440,10 +1117,39 @@ msgid "Welcome"
 msgstr "நல்வரவு"
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:30
+#: C/gs-animation.xml:4
+msgid "Launching Applications"
+msgstr "பயன்பாடுகளைத் துவக்குதல்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:5
+msgid "Getting Started"
+msgstr "பயன்படுத்தத் தொடங்குதல்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:6
 msgid "Changing Wallpaper"
 msgstr "சுவர்ச்சித்திரங்களை மாற்றுதல்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:7
+msgid "Responding to Messages"
+msgstr "செய்திகளுக்கு பதிலளித்தல்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:8
+msgid "Switching Tasks"
+msgstr "பணிகளுக்கிடையே மாறுதல்"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:9
+msgid "Delayed Response"
+msgstr "தாமதித்த பதிலளிப்பு"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:10
+msgid "Windows and Workspaces"
+msgstr "சாளரங்கள் மற்றும் பணிவெளிகள்"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
@@ -614,7 +1320,6 @@ msgstr "தானியக்க தேதி மற்றும் நேரம
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
-#| msgid "Automatic Date and Time"
 msgid "Automatic Timezone"
 msgstr "தானியங்கு நேர மண்டலம்"
 
@@ -629,581 +1334,293 @@ msgid "14 October 2013, 14:00"
 msgstr "14 அக்டோபர் 2013, 14:00"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:11 C/gs-browse-web-firefox.page:12
-#: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:11
-#: C/gs-connect-online-accounts.page:10 C/gs-get-online.page:10
-#: C/gs-launch-applications.page:11 C/gs-respond-messages.page:11
-#: C/gs-switch-tasks.page:11 C/gs-use-system-search.page:10
-#: C/gs-use-windows-workspaces.page:10
+#: C/gs-browse-web.page:9 C/gs-get-online.page:9 C/gs-use-system-search.page:9
 msgid "Jakub Steiner"
 msgstr "ஜேக்கப் ஸ்டெயினர்"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:14 C/gs-browse-web-firefox.page:15
-#: C/gs-change-date-time-timezone.page:15 C/gs-change-wallpaper.page:14
-#: C/gs-connect-online-accounts.page:13 C/gs-get-online.page:13
-#: C/gs-launch-applications.page:14 C/gs-respond-messages.page:14
-#: C/gs-switch-tasks.page:14 C/gs-use-system-search.page:13
-#: C/gs-use-windows-workspaces.page:13
+#: C/gs-browse-web.page:12 C/gs-get-online.page:12
+#: C/gs-use-system-search.page:12
 msgid "Petr Kovar"
 msgstr "பெட்ர் கோவர்"
 
-#. (itstool) path: info/title
-#: C/gs-browse-web.page:19
-msgctxt "link:trail"
-msgid "Browse the web"
-msgstr "இணையத்தில் உலாவவும்"
+#. (itstool) path: info/desc
+#: C/gs-browse-web.page:20
+msgid "Use Facebook, Google and other popular websites with your browser."
+msgstr ""
 
 #. (itstool) path: page/title
-#: C/gs-browse-web.page:22 C/gs-browse-web-firefox.page:23
+#: C/gs-browse-web.page:23
 msgid "Browse the web"
 msgstr "இணையத்தில் உலாவவும்"
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:27 C/gs-browse-web-firefox.page:31
-#: C/gs-launch-applications.page:65
+#: C/gs-browse-web.page:27
 msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen to show the <gui>Activities Overview</gui>."
+"Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
+"your desktop. You can browse the internet by clicking on this desktop icon "
+"once."
 msgstr ""
-"<gui>செயல்பாடுகள் மேலோட்டத்தைக்</gui> காண்பிக்க, உங்கள் சொடுக்கி சுட்டியை திரையின் மேல் "
-"இடப்புறம் உள்ள <gui>செயல்பாடுகள்</gui> மூலைக்குக் கொண்டு செல்லவும்."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:30
+#: C/gs-browse-web.page:33
 msgid ""
-"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
-"the screen."
+"You can also open this app by moving your mouse pointer to the "
+"<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
+"clicking once."
 msgstr ""
-"திரையின் இடப்புறம் உள்ள பட்டியிலிருந்து <app>Web</app> உலாவி சின்னத்தைத் "
-"தேர்ந்தெடுக்கவும்."
-
-#. (itstool) path: note/p
-#: C/gs-browse-web.page:34
-msgid ""
-"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
-"gui>."
-msgstr ""
-"மாறாக நீங்கள் <gui>செயல்கள் மேலோட்டம்</gui> என்பதில் <em>web</em> என <link xref=\"gs-"
-"use-system-search\">தட்டச்சு செய்வதன்</link> மூலம் உலாவியை துவக்கலாம்."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:41 C/gs-browse-web-firefox.page:60
-msgid ""
-"Click the address bar at the top of the browser window and start typing in "
-"the website you want to visit."
+#: C/gs-browse-web.page:39
+msgid "Click the address bar at the top of the browser window. Start typing!"
 msgstr ""
-"உலாவி சாளரத்தின் மேல் பகுதியில் உள்ள முகவரிப் பட்டியை சொடுக்கி நீங்கள் பார்க்க விரும்பும் "
-"வலைத்தளத்தை தட்டச்சு செய்யத் தொடங்கவும்."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:43 C/gs-browse-web-firefox.page:62
+#: C/gs-browse-web.page:43
 msgid ""
-"Typing in a website starts searching for it in the browser history and "
-"bookmarks, so you do not need to remember the exact address."
+"You do not need to remember the exact address if you have already visited "
+"the website because it will be stored in your history and/or bookmarks."
 msgstr ""
-"ஒரு வலைத்தளத்தைத் தட்டச்சு செய்தால், உலாவி வரலாறிலும் புத்தகக்குறிகளிலும் அது உள்ளதா எனத் "
-"தேடும் செயல் தொடங்கிவிடும், ஆகவே முகவரியை நீங்கள் துல்லியமாக நினைவு வைத்திருக்க வேண்டிய "
-"அவசியம் இல்லை."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:65
+#: C/gs-browse-web.page:46
 msgid ""
-"If the website is found in the history or bookmarks, a drop-down list is "
-"shown below the address bar."
+"If the website is found in the history or bookmarks, you will see a drop-"
+"down list appear below the address bar."
 msgstr ""
-"வரலாறு அல்லது புத்தகக்குறிகளில் வலைத்தளம் கண்டறியப்பட்டால், முகவரிப் பட்டிக்குக் கீழ் ஒரு கீழ் "
-"தோன்றும் பட்டியல் காண்பிக்கப்படும்."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:48 C/gs-browse-web-firefox.page:67
-msgid ""
-"From the drop-down list, you can quickly select a website using the arrow "
-"keys."
+#: C/gs-browse-web.page:49
+msgid "Select the website you are looking for using the arrow keys."
 msgstr ""
-"கீழ் தோன்றும் பட்டியலில் இருந்து, அம்புக் குறி விசைகளைப் பயன்படுத்தி நீங்கள் ஒரு வலைத்தளத்தை "
-"விரைவாகத் தேர்ந்தெடுக்கலாம்."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:70
+#: C/gs-browse-web.page:52
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
-"நீங்கள் ஒரு வலைத்தளத்தைத் தேர்ந்தெடுத்த பிறகு, அதற்குச் செல்ல <key>Enter</key> ஐ "
-"அழுத்தவும்."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:34
-msgid ""
-"Select the <app>Firefox</app> browser icon from the bar on the left-hand "
-"side of the screen."
-msgstr ""
-"திரையின் இடப்புறம் உள்ள பட்டியிலிருந்து <app>Firefox</app> உலாவி சின்னத்தைத் "
-"தேர்ந்தெடுக்கவும்."
+msgstr "நீங்கள் ஒரு வலைத்தளத்தைத் தேர்ந்தெடுத்த பிறகு, அதற்குச் செல்ல <key>Enter</key> ஐ அழுத்தவும்."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web-firefox.page:38
+#: C/gs-browse-web.page:58
 msgid ""
-"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-"search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
-"Overview</gui>."
+"You can search the internet directly from your desktop by using the <link "
+"xref=\"gs-use-system-search\">global search bar</link> feature. First, "
+"<gui>type what you are looking for directly</gui> into the search bar on "
+"your desktop. You will be shown the top results that are already on your "
+"Endless computer, and it will also ask if you want to search the internet. "
+"Click on the option to search the internet."
 msgstr ""
-"மாறாக நீங்கள் <gui>செயல்கள் மேலோட்டம்</gui> என்பதில் <em>Firefox</em> என <link xref="
-"\"gs-use-system-search\">தட்டச்சு செய்வதன்</link> மூலம் உலாவியை துவக்கலாம்."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:48
-msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
-msgstr ""
-"திரையின் மேல் பகுதியில் இடப்புறம் உள்ள <gui>பயன்பாடுகள்</gui> மெனுவைச் சொடுக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:50
+#. (itstool) path: info/desc
+#: C/gs-fix-overscan.page:19
 msgid ""
-"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
-"guiseq>."
+"Fix a problem where your TV is cutting off the top and bottom of the screen."
 msgstr ""
-"மெனுவிலிருந்து <guiseq><gui>இணையம்</gui><gui>Firefox</gui> </guiseq> என்பதைத் "
-"தேர்ந்தெடுக்கவும்."
-
-#. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:18
-msgctxt "link:trail"
-msgid "Change the date, time and timezone"
-msgstr "தேதி, நேரம், நேரமண்டலம் ஆகியவற்றை மாற்றவும்"
-
-#. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:20
-msgctxt "link:seealso"
-msgid "A tutorial on changing the date, time and timezone"
-msgstr "தேதி, நேரம், நேர மண்டலம் ஆகியவற்றை மாற்றுவதற்கான பயிற்சி"
 
 #. (itstool) path: page/title
+#: C/gs-fix-overscan.page:22
+msgid "I can't see the task bar or start menu, what do I do?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-fix-overscan.page:24
+msgid ""
+"If you do not see the task bar at the bottom of your screen with the user "
+"menu on the left and the time and facebook icon on the right, you need to "
+"adjust your screen to fit your TV."
+msgstr ""
+
 #. (itstool) path: section/title
-#: C/gs-change-date-time-timezone.page:24
-#: C/gs-change-date-time-timezone.page:70
-msgid "Change the date, time and timezone"
-msgstr "தேதி, நேரம், நேரமண்டலம் ஆகியவற்றை மாற்றவும்"
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:35
-msgid "Changing Date &amp; Time"
-msgstr "தேதியையும் நேரத்தையும் மாற்றுதல்"
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:38
-msgid "Click the clock on the top bar."
-msgstr "மேல் பட்டியில் உள்ள கடிகாரத்தைச் சொடுக்கவும்."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:41
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
-msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr "<gui>தேதி &amp; நேர அமைவுகள்</gui>ஐத் தேர்ந்தெடுக்கவும்."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:44
-msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-msgstr "<gui>தானியங்கு நேரமண்டலம்</gui> அணைக்கப்பட்டுள்ளதை உறுதிப்படுத்திக் கொள்ளவும்."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:48
-#| msgid "Click the <gui>Select</gui> button."
-msgid "Click <gui>Time Zone</gui>."
-msgstr "<gui>நேர மண்டலம்</gui> என்பதைச் சொடுக்கவும்."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:51
-msgid "Click on your location on the map."
-msgstr "வரைபடத்தில் உங்கள் இடத்தைச் சொடுக்கவும்."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:54
-#| msgid "Click the <gui>Select</gui> button."
-msgid "Click <gui>Close</gui>."
-msgstr "<gui>மூடு</gui> என்பதைச் சொடுக்கவும்."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:57
-msgid "Close the window."
-msgstr "சாளரத்தை மூடு."
-
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:73
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
-msgid ""
-"Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
-"gui> item."
+#: C/gs-fix-overscan.page:29
+msgid "To adjust your screen:"
 msgstr ""
-"மேல் பட்டியில் உள்ள கடிகாரத்தைச் சொடுக்கி, <gui>தேதி &amp; நேர அமைவுகள்</gui> "
-"உருப்படியைத் தேர்ந்தெடுக்கவும்."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:75
-msgid ""
-"Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
-"then click the <gui>Time Zone</gui> item below."
+#: C/gs-fix-overscan.page:32
+msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
 msgstr ""
-"<gui>தானியங்கு நேர மண்டலம்</gui> உருப்படி அணைக்கப்பட்டுள்ளதா என உறுதிப்படுத்திவிட்டு, "
-"கீழே உள்ள <gui>நேர மண்டலம்</gui> உருப்படியை சொடுக்கவும்."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:77
-#| msgid ""
-#| "This selects your current city, which you can also see and change in the "
-#| "drop-down list below the map."
-msgid ""
-"Click on your location on the map. This selects your current city, which you "
-"can also search for in the search box above the map."
+#: C/gs-fix-overscan.page:37
+msgid "Click the back button on the top left corner of the dialog box."
 msgstr ""
-"வரைபடத்தில் உங்கள் இருப்பிடத்தைச் சொடுக்கவும். அப்போது உங்கள் தற்போதைய நகரம் "
-"தேர்ந்தெடுக்கப்படும், இதை வரைபடத்திற்கு மேல் உள்ள தேடல் பெட்டியில் தேடியும் நீங்கள் "
-"கண்டறியலாம்."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:80
-#| msgid "Select the <gui>Date &amp; Time Settings</gui> item."
-msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window."
+#: C/gs-fix-overscan.page:41
+msgid "Select the <gui>Displays</gui> icon."
 msgstr ""
-"மீண்டும் <gui>தேதி &amp; நேர அமைவுகள்</gui> சாளரத்திற்குச் செல்ல <gui>மூடு</gui> "
-"பொத்தானைச் சொடுக்கவும்."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:82
+#: C/gs-fix-overscan.page:45
 msgid ""
-"Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
-"off, and then click the <gui>Date &amp; Time</gui> item below to open the "
-"<gui>Date &amp; Time</gui> window. There you can adjust your date and time "
-"settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
+"Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
+"screen for TV\"</gui>."
 msgstr ""
-"<gui>தானியங்கு தேதி &amp; நேரம்</gui> உருப்படி அணைக்கப்பட்டுள்ளதா என "
-"உறுதிப்படுத்திவிட்டு, <gui>தேதி &amp; நேரம்</gui> சாளரத்தைத் திறக்க கீழே உள்ள "
-"<gui>தேதி &amp; நேரம்</gui> உருப்படியை சொடுக்கவும். அங்கு நீங்கள் <gui>+</gui> அல்லது "
-"<gui>-</gui> பொத்தான்களைச் சொடுக்கி தேதி மற்றும் நேர அமைவுகளை சரி செய்யலாம்."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:87
-#| msgid ""
-#| "Close the <gui>Background</gui> window by clicking the cross at the top-"
-#| "right corner of the window."
+#: C/gs-fix-overscan.page:50
 msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window, and then close that window by clicking the cross at "
-"the top-right corner of that window."
+"You should now see a black bar at the bottom of your screen and the user "
+"menu on the bottom left-hand corner of your screen!"
 msgstr ""
-"மீண்டும் <gui>தேதி &amp; நேர அமைவுகள்</gui> சாளரத்திற்குச் செல்ல <gui>மூடு</gui> "
-"பொத்தானை சொடுக்கவும். அந்த சாளரத்தை மூட, அதன் மேல் வலது மூலையில் உள்ள கூட்டல் குறியை "
-"சொடுக்கவும்."
-
-#. (itstool) path: info/title
-#: C/gs-change-wallpaper.page:17
-msgctxt "link:trail"
-msgid "Change the wallpaper"
-msgstr "சுவர்ச்சித்திரத்தை மாற்றவும்"
-
-#. (itstool) path: info/title
-#: C/gs-change-wallpaper.page:19
-msgctxt "link:seealso"
-msgid "A tutorial on changing the wallpaper"
-msgstr "சுவர்சித்திரத்தை மாற்றுவதற்கான பயிற்சி"
-
-#. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-wallpaper.page:22 C/gs-change-wallpaper.page:57
-msgid "Change the wallpaper"
-msgstr "சுவர்ச்சித்திரத்தை மாற்றவும்"
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:33
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
-msgstr ""
-"மேல்பட்டியின் வலப்புறம் உள்ள கணினி மெனுவைச் சொடுக்கி, அமைவுகள் பொத்தானை அழுத்தவும்."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:37
-msgid "Select <gui>Background</gui>."
-msgstr "<gui>பின்புலம்</gui> என்பதைத் தேர்ந்தெடுக்கவும்."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:40
-#| msgid "Click the background image that you want to use."
-msgid "Click the current background image."
-msgstr "தற்போதைய பின்புலப் படத்தைச் சொடுக்கவும்."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:43 C/gs-change-wallpaper.page:65
-#| msgid "Click the background image that you want to use."
-msgid "Click the background image you want to use."
-msgstr "நீங்கள் பயன்படுத்த விரும்பும் பின்புலப் படத்தைச் சொடுக்கவும்."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:46 C/gs-change-wallpaper.page:66
-msgid "Click the <gui>Select</gui> button."
-msgstr "<gui>தேர்ந்தெடு</gui> பொத்தானைச் சொடுக்கவும்."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:49
-msgid "Close the <gui>Background</gui> window."
-msgstr "<gui>பின்புலம்</gui> சாளரத்தை மூடு."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60 C/gs-use-system-search.page:80
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button at the bottom of the menu."
-msgstr ""
-"மேல்பட்டியின் வலப்புறம் உள்ள கணினி மெனுவைச் சொடுக்கி, மெனுவின் அடிப்பகுதியில் உள்ள "
-"அமைவுகள் பொத்தானை அழுத்தவும்."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:62
-msgid "From the list of items, select <gui>Background</gui>."
-msgstr "உருப்படிகளின் பட்டியலிருந்து <gui>பின்புலம்</gui> என்பதைத் தேர்ந்தெடுக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:63
-#| msgid ""
-#| "Click the image of your current wallpaper in the center of the "
-#| "<gui>Background</gui> window."
-msgid ""
-"Click the current background image on the left side of the <gui>Background</"
-"gui> window."
-msgstr ""
-"<gui>பின்புலம்</gui> சாளரத்தின் இடது புறம் உள்ள தற்போதைய பின்புலப் படத்தைச் சொடுக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:67
-msgid ""
-"Close the <gui>Background</gui> window by clicking the cross at the top-"
-"right corner of the window."
-msgstr ""
-"<gui>பின்புலம்</gui> சாளரத்தின் மேல் வலது மூலையில் உள்ள கூட்டல் குறியைச் சொடுக்கி, "
-"சாளரத்தை மூடவும்."
-
-#. (itstool) path: info/title
-#: C/gs-connect-online-accounts.page:16
-msgctxt "link:trail"
-msgid "Connect to online accounts"
-msgstr "ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்"
-
-#. (itstool) path: info/title
-#: C/gs-connect-online-accounts.page:18
-msgctxt "link:seealso"
-msgid "A tutorial on connecting to online accounts"
-msgstr "ஆன்லைன் கணக்குகளுக்கு இணைப்பது பற்றிய பயிற்சி"
-
-#. (itstool) path: page/title
-#: C/gs-connect-online-accounts.page:22
-msgid "Connect to online accounts"
-msgstr "ஆன்லைன் கணக்குகளுக்கு இணைக்கவும்"
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:27
-#| msgid "Click the clock on the top bar."
-msgid "Click the system menu on the right side of the top bar."
-msgstr "மேல் பட்டியின் வலப்புறம் உள்ள கணினி மெனுவைச் சொடுக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:28
-msgid "Press the settings button at the bottom of the menu."
-msgstr "மெனுவின் அடிப்பகுதியில் உள்ள அமைவுகள் பொத்தானை அழுத்தவும்."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:34
-#| msgid "From the list of items, select <gui>Online Accounts</gui>."
-msgid ""
-"From the list of items, select <gui>Online Accounts</gui>, then click on the "
-"<gui>Add an online account</gui> button."
-msgstr ""
-"உருப்படிகளின் பட்டியலிருந்து <gui>ஆன்லைன் கணக்குகள்</gui> என்பதைத் தேர்ந்தெடுத்து, "
-"<gui>ஒரு ஆன்லைன் கணக்கைச் சேர்</gui> என்பதைச் சொடுக்கவும்."
-
-#. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:38
-msgid ""
-"If you have set up an online account before, you can add another online "
-"account by clicking the <gui>+</gui> button at the bottom left corner of the "
-"window."
-msgstr ""
-"முன்பே நீங்கள் ஒரு ஆன்லைன் கணக்கை அமைத்திருந்தால், நீங்கள் சாளரத்தின் அடி இடப்புற மூலையில் "
-"உள்ள <gui>+</gui> பொத்தானைச் சொடுக்குவதன் மூலம் மற்றுமொரு ஆன்லைன் கணக்கைச் சேர்க்கலாம்."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:45
-msgid ""
-"Click the online account you want to use. This will open a new window where "
-"you can sign in to your online account."
-msgstr ""
-"நீங்கள் பயன்படுத்த விரும்பும் ஆன்லைன் கணக்கைச் சொடுக்கவும். இது ஒரு புதிய சாளரத்தைத் "
-"திறக்கும், அதில் உங்கள் ஆன்லைன் கணக்கில் நீங்கள் உள் நுழைய முடியும்."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:52
-msgid ""
-"In most cases, you will have to grant access to the online service after "
-"signing in to get started."
-msgstr ""
-"பெரும்பாலான சந்தர்ப்பங்களில், தொடங்குதலில் உள்நுழைந்ததும் நீங்கள் ஆன்லைன் சேவைக்கு அணுகல் வழங்க "
-"வேண்டியிருக்கும்."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:54
-msgid ""
-"For example, if you are connecting to your Google account, you will have to "
-"click the <gui>Grant Access</gui> button."
-msgstr ""
-"எடுத்துக்காட்டுக்கு, நீங்கள் உங்கள் Google கணக்குக்கு இணைக்கிறீர்கள் எனில், நீங்கள் <gui>அணுகல் "
-"வழங்கு</gui> பொத்தானைச் சொடுக்க வேண்டும்."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:61
-msgid ""
-"Many online accounts let you choose the services you want to use with your "
-"online account. If you do not want to use a service, disable it by clicking "
-"the <gui>ON/OFF</gui> switch on the right-hand side of the window."
-msgstr ""
-"பல ஆன்லைன் கணக்குகள், உங்கள் ஆன்லைன் கணக்குடன் நீங்கள் பயன்படுத்த விரும்பும் சேவைகளை நீங்கள் "
-"தேர்வு செய்துகொள்ளும் வசதியை வழங்குகின்றன. நீங்கள் ஒரு சேவையைப் பயன்படுத்த விரும்பாவிட்டால் "
-"சாளரத்தின் வலப்புறம் உள்ள சாவியில் <gui>ஆன்/ஆஃப்</gui> சாவியை சொடுக்குவதன் மூலம் அதை "
-"முடக்கலாம்."
-
-#. (itstool) path: info/title
-#: C/gs-get-online.page:16
-msgctxt "link:trail"
-msgid "Get online"
-msgstr "ஆன்லைனில் பெறுக"
-
-#. (itstool) path: info/title
-#: C/gs-get-online.page:18
-msgctxt "link:seealso"
-msgid "A tutorial on getting online"
-msgstr "இணைய இணைப்புகுக்குச் செல்வது பற்றிய பயிற்சி"
 
 #. (itstool) path: page/title
 #: C/gs-get-online.page:21
-msgid "Get online"
-msgstr "ஆன்லைனில் பெறுக"
-
-#. (itstool) path: note/p
-#: C/gs-get-online.page:24
-#| msgid ""
-#| "You can see the status of your network connection on the right-hand side "
-#| "of the top bar, next to your name."
-msgid ""
-"You can see the status of your network connection on the right-hand side of "
-"the top bar."
-msgstr "மேல் பட்டியில் வலப்புறம் உங்கள் பிணைய இணைப்பின் நிலையைக் காணலாம்."
-
-#. (itstool) path: section/title
-#: C/gs-get-online.page:30
-msgid "Connect to a wired network"
-msgstr "கம்பியுள்ள ஒரு பிணையத்துக்கு இணைக்கவும்"
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:35
-msgid ""
-"The network connection icon on the right-hand side of the top bar shows that "
-"you are off-line."
+msgid "How do I set up my internet?"
 msgstr ""
-"மேல் பட்டியின் வலப்புறம் உள்ள பிணைய இணைப்பு சின்னம் நீங்கள் இணைப்பின்றி இருப்பதைக் "
-"காண்பிக்கிறது."
 
-#. (itstool) path: item/p
-#: C/gs-get-online.page:37
-#| msgid ""
-#| "The off-line status can be caused by a number of reasons: for example, a "
-#| "network cable has been unplugged, the computer has been set to run in "
-#| "<em>airplane mode</em>, or there are no available wireless networks in "
-#| "your area."
+#. (itstool) path: page/p
+#: C/gs-get-online.page:23
 msgid ""
-"The off-line status can be caused by a number of reasons: for example, a "
+"If you are offline, the network connection icon on the bottom right-hand "
+"side of your screen will look like this <_:media-1/>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-get-online.page:27
+msgid ""
+"The offline status can be caused by a number of reasons: for example, a "
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
 msgstr ""
-"இணைப்பில்லா நிலைக்கு பல காரணங்கள் இருக்கலாம்: எடுத்துக்காட்டாக, பிணைய கேபிள் "
-"அகற்றப்பட்டிருக்கலாம், கணினி <em>விமானப் பயன்முறையில்</em> இயங்கும்படி "
-"அமைக்கப்பட்டிருக்கலாம் அல்லது உங்கள் இடத்தில் Wi-Fi பிணையம் கிடைக்காதிருக்கலாம்."
+
+#. (itstool) path: section/title
+#: C/gs-get-online.page:34
+msgid "Connect to a wired network"
+msgstr "கம்பியுள்ள ஒரு பிணையத்துக்கு இணைக்கவும்"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:41
+#: C/gs-get-online.page:38
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
-msgstr ""
-"நீங்கள் வயர்டு இணைப்பைப் பயன்படுத்த விரும்பினால், ஆன்லைன் செல்ல ஒரு பிணைய கேபிளை இணைத்தால் "
-"போதும். உங்களுக்காக கணினியே பிணைய இணைப்பை தானாக அமைக்க முயற்சிக்கும்."
+msgstr "நீங்கள் வயர்டு இணைப்பைப் பயன்படுத்த விரும்பினால், ஆன்லைன் செல்ல ஒரு பிணைய கேபிளை இணைத்தால் போதும். உங்களுக்காக கணினியே பிணைய இணைப்பை தானாக அமைக்க முயற்சிக்கும்."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:44
+#: C/gs-get-online.page:41 C/gs-get-online.page:76
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
-msgstr ""
-"கணினி உங்களுக்காக ஒரு பிணையை இணைப்பை அமைக்கும் போது, பிணைய இணைப்பு சின்னத்தில் மூன்று "
-"புள்ளிகள் காண்பிக்கப்படும்."
+msgstr "கணினி உங்களுக்காக ஒரு பிணையை இணைப்பை அமைக்கும் போது, பிணைய இணைப்பு சின்னத்தில் மூன்று புள்ளிகள் காண்பிக்கப்படும்."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:46
+#: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
-"connection icon changes to the networked computer symbol."
+"connection icon changes to this <_:media-1/> networked computer symbol."
 msgstr ""
-"பிணைய இணைப்பு வெற்றிகரமாக அமைக்கப்பட்டதும், பிணைய இணைப்பு சின்னமானது பிணையமுள்ள கணினி "
-"சின்னமாக மாறும்."
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:54
-#| msgid "Connect to a wired network"
+#: C/gs-get-online.page:56
 msgid "Connect to a Wi-Fi network"
 msgstr "ஒரு Wi-Fi பிணையத்திற்கு இணைக்கவும்"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:59
+#: C/gs-get-online.page:60
 msgid ""
-"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
-"right of the screen, and then click <gui>Select Network</gui>."
+"Is your Wi-Fi connected? Look for the network icon at the bottom right "
+"corner of your screen. You will see this icon <_:media-1/>. Click on it and "
+"a menu should appear."
 msgstr ""
-"ஒரு Wi-Fi (வயர்லெஸ்) பிணையத்துடன் இணைக்க, திரையின் மேல் வலது பக்கம் உள்ள நிலை மெனுவை "
-"சொடுக்கி <gui>பிணையத்தைத் தேர்ந்தெடு</gui> என்பதைச் சொடுக்கவும்."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:66
+msgid ""
+"Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi” to turn "
+"it on. Check to make sure it is now blue."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:70
+msgid "Next, select your Wi-Fi network from the list."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:73
+msgid ""
+"Enter your network password, which is usually different than the password "
+"you use to log in to your computer."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/gs-get-online.page:65
+#: C/gs-get-online.page:88
 msgid ""
-"You can only connect to a Wi-Fi network if your computer hardware supports "
-"it and you are in an area with Wi-Fi coverage."
+"If you don’t see your network in the list, try unplugging your Wi-Fi router "
+"then plugging it back in. If it still doesn’t work, you may need to contact "
+"your internet provider directly."
 msgstr ""
-"உங்கள் கணினி வன்பொருளின் ஆதரவும் இருந்து நீங்கள் Wi-Fi எல்லைக்குள் இருந்தால் மட்டுமே நீங்கள் "
-"ஒரு Wi-Fi பிணையத்துடன் இணைய முடியும்."
+
+#. (itstool) path: note/p
+#: C/gs-get-online.page:93
+msgid ""
+"Remember that your friends or neighbors may have the same default network "
+"name you do, and your computer may be picking up their network signal. If "
+"your password isn’t working, make sure you have selected the right network."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/gs-give-feedback.page:19
+msgid "How can I help make Endless better?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-give-feedback.page:21
+msgid ""
+"What do you love about Endless? Is there anything you would change? Do you "
+"have any ideas or suggestions for new apps to include?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-give-feedback.page:24
+msgid "We want to hear from you!"
+msgstr ""
+
+#. (itstool) path: steps/title
+#: C/gs-give-feedback.page:27
+msgid "Here's how to give us your feedback:"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:72
+#: C/gs-give-feedback.page:29
 msgid ""
-"From the list of available Wi-Fi networks, select the network you want to "
-"connect to, and click <gui>Connect</gui> to confirm."
+"Click on the <_:media-1/> on the bottom left-hand corner of your screen."
 msgstr ""
-"கிடைக்கும் Wi-Fi பிணையங்களின் பட்டியலில் இருந்து, நீங்கள் இணைக்க விரும்பும் பிணையத்தைத் "
-"தேர்ந்தெடுத்து, அதை உறுதிப்படுத்த <gui>இணை</gui> என்பதை சொடுக்கவும்."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:74
+#: C/gs-give-feedback.page:35
 msgid ""
-"Depending on the network configuration, you may be prompted for network "
-"credentials."
-msgstr "பிணைய அமைவாக்கத்தைப் பொறுத்து, உங்களிடம் பிணைய சான்றளிப்புகள் கேட்கப்படலாம்."
+"Click the <gui>Give Us Feedback</gui> option. You can also access the "
+"feedback section by opening your browser and clicking the "
+"<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-give-feedback.page:42
+msgid ""
+"Enter in your comment, name and email address. You must fill in all three "
+"fields in order to submit your feedback."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-give-feedback.page:47
+msgid ""
+"You will receive a confirmation email to let you know that we have received "
+"your feedback. We will try to get back to you as soon as we can."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/gs-give-feedback.page:54
+msgid ""
+"Please note that you will need an internet connection in order to submit "
+"your feedback."
+msgstr ""
 
 #. (itstool) path: Work/format
+#: C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293
 #: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
-#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
-#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
+#: C/gs-goa5.svg:48 C/gs-search-settings.svg:98 C/gs-search1.svg:97
+#: C/gs-search2.svg:133 C/gs-thumb-changing-wallpaper.svg:39
 #: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
 #: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
 #: C/gs-thumb-windows-and-workspaces.svg:89
@@ -1214,7 +1631,7 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
+#: C/gs-go-online1.svg:242 C/gs-go-online2.svg:278 C/gs-goa1.svg:80
 #: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
 #: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
 #: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
@@ -1223,13 +1640,100 @@ msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
+#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
+#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
+#, no-wrap
+msgid "14:30"
+msgstr "14:30"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:266 C/gs-go-online3.svg:306 C/gs-goa1.svg:84
 #: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
 #: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
 #: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:328
+#, no-wrap
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
+#, no-wrap
+msgid "homenetwork"
+msgstr "சொந்த பிணையம்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:338
+#, no-wrap
+msgid "Select Network"
+msgstr "பிணையத்தைத் தேர்ந்தெடுக்கவும்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:339
+#, no-wrap
+msgid "Turn Off"
+msgstr "அணை"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:340
+#, no-wrap
+msgid "Network Settings"
+msgstr "பிணைய அமைவுகள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:309
+#, no-wrap
+msgid "Wi-Fi Networks"
+msgstr "Wi-Fi பிணையங்கள்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:313
+#, no-wrap
+msgid "Connect"
+msgstr "இணைக்கவும்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:316
+#, no-wrap
+msgid "wireless"
+msgstr "வயர்லெஸ்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:317
+#, no-wrap
+msgid "netgear"
+msgstr "netgear"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:318
+#, no-wrap
+msgid "weak"
+msgstr "வலுவில்லாதது"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:319
+#, no-wrap
+msgid "private"
+msgstr "தனிப்பட்ட"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:320
+#, no-wrap
+msgid "Select a network"
+msgstr "ஒரு பிணையத்தைத் தேர்ந்தெடுக்கவும்"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:343 C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
+#, no-wrap
+msgid "Cancel"
+msgstr "ரத்துசெய்"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
@@ -1262,12 +1766,6 @@ msgstr "4"
 #, no-wrap
 msgid "Add Account"
 msgstr "கணக்கைச் சேர்"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
-#, no-wrap
-msgid "Cancel"
-msgstr "ரத்துசெய்"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
@@ -1416,158 +1914,6 @@ msgstr "ஆவணங்கள்"
 msgid "ON"
 msgstr "ஆன்"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
-#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
-#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
-#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
-#, no-wrap
-msgid "14:30"
-msgstr "14:30"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:328
-#, no-wrap
-msgid "Wi-Fi"
-msgstr "Wi-Fi"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
-#, no-wrap
-msgid "homenetwork"
-msgstr "சொந்த பிணையம்"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:338
-#, no-wrap
-#| msgid "Select"
-msgid "Select Network"
-msgstr "பிணையத்தைத் தேர்ந்தெடுக்கவும்"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:339
-#, no-wrap
-msgid "Turn Off"
-msgstr "அணை"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:340
-#, no-wrap
-msgid "Network Settings"
-msgstr "பிணைய அமைவுகள்"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:309
-#, no-wrap
-msgid "Wi-Fi Networks"
-msgstr "Wi-Fi பிணையங்கள்"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:313
-#, no-wrap
-msgid "Connect"
-msgstr "இணைக்கவும்"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:316
-#, no-wrap
-#| msgid "Wireless"
-msgid "wireless"
-msgstr "வயர்லெஸ்"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:317
-#, no-wrap
-msgid "netgear"
-msgstr "netgear"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:318
-#, no-wrap
-msgid "weak"
-msgstr "வலுவில்லாதது"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:319
-#, no-wrap
-#| msgid "Private"
-msgid "private"
-msgstr "தனிப்பட்ட"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:320
-#, no-wrap
-#| msgid "Connect to a wired network"
-msgid "Select a network"
-msgstr "ஒரு பிணையத்தைத் தேர்ந்தெடுக்கவும்"
-
-#. (itstool) path: info/title
-#: C/gs-launch-applications.page:18
-msgctxt "link:trail"
-msgid "Launch applications"
-msgstr "பயன்பாடுகளைத் துவக்கவும்"
-
-#. (itstool) path: info/title
-#: C/gs-launch-applications.page:20
-msgctxt "link:seealso"
-msgid "A tutorial on launching applications"
-msgstr "பயன்பாடுகளைத் துவக்குவது பற்றிய பயிற்சி"
-
-#. (itstool) path: section/title
-#: C/gs-launch-applications.page:62
-msgid "Launch applications with the mouse"
-msgstr "சொடுக்கியைப் பயன்படுத்தி பயன்பாடுகளைத் துவக்கவும்"
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:67
-msgid ""
-"Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
-"the bar on the left-hand side of the screen."
-msgstr ""
-"திரையின் இடப்புறத்தில் காண்பிக்கப்படும் பட்டியின் அடிப்புறத்தில் காண்பிக்கப்படும் "
-"<gui>பயன்பாடுகளைக் காண்பி</gui> சின்னத்தை சொடுக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:69
-msgid ""
-"A list of applications is shown. Click the application you want to run, for "
-"example, Help."
-msgstr ""
-"பயன்பாடுகளின் பட்டியல் காண்பிக்கப்படுகிறது. நீங்கள் இயக்க விரும்பும் பட்டியலைச் சொடுக்கவும், "
-"உதாரணம் Help."
-
-#. (itstool) path: section/title
-#: C/gs-launch-applications.page:76
-msgid "Launch applications with the keyboard"
-msgstr "விசைப்பலகையைப் பயன்படுத்தி பயன்பாடுகளைத் துவக்கவும்"
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:79
-msgid ""
-"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key."
-msgstr ""
-"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> விசையை "
-"அழுத்துவதன் மூலம் <gui>செயல்பாடுக் மேலோட்டத்தைத்</gui> திறக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:81
-msgid ""
-"Start typing the name of the application you want to launch. Searching for "
-"the application begins instantly."
-msgstr ""
-"நீங்கள் துவக்க விரும்பும் பட்டியலின் பெயரைத் தட்டச்சு செய்யத் தொடங்கவும். உடனடியாக "
-"பயன்பாட்டுக்கான தேடல் தொடங்கும்."
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:83
-msgid ""
-"Once the icon of the application is shown and selected, press <key> Enter</"
-"key> to launch the application."
-msgstr ""
-"பயன்பாட்டின் சின்னம் காண்பிக்கப்பட்டு தேர்ந்தெடுக்கப்பட்டதும், பயன்பாட்டைத் துவக்க <key> Enter</"
-"key> ஐ அழுத்தவும்."
-
 #. (itstool) path: p/link
 #: C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
@@ -1578,115 +1924,47 @@ msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
 msgid "This work is licensed under a <_:link-1/>."
 msgstr "இந்தப் பணி ஒரு <_:link-1/> இன் கீழ் உரிமம் வழங்கப்பட்டுள்ளது."
 
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
-msgctxt "link:trail"
-msgid "Respond to messages"
-msgstr "செய்திகளுக்கு பதிலளிக்கவும்"
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:137
+#, no-wrap
+msgid "Search"
+msgstr "தேடு"
 
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:19
-msgctxt "link:seealso"
-msgid "A tutorial on responding to messages"
-msgstr "செய்திகளுக்கு பதிலளித்தல் பற்றிய பயிற்சி"
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:148
+#, no-wrap
+msgid "Files"
+msgstr "கோப்புகள்"
 
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:89
-msgid "Respond to a chat message with the mouse"
-msgstr "அரட்டை செய்திக்கு சொடுக்கி கொண்டு பதிலளிக்கவும்"
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:149
+#, no-wrap
+msgid "Enabled"
+msgstr "செயலாக்கப்பட்டது"
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:94 C/gs-respond-messages.page:130
-msgid ""
-"Start typing your reply and when finished, press <key>Enter</key> to send "
-"the reply."
-msgstr ""
-"உங்கள் பதிலைத் தட்டச்சு செய்யத் தொடங்குங்கள், முடித்ததும் பதிலை அனுப்ப <key>Enter</key> ஐ "
-"அழுத்தவும்."
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:264
+#, no-wrap
+msgid "Web"
+msgstr "வலை"
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:96 C/gs-respond-messages.page:115
-msgid ""
-"To close the chat message, click the close button at the top right corner of "
-"the chat message."
-msgstr ""
-"அரட்டைச் செய்தியை மூட, அரட்டை செய்தியின் மேல் வலது மூலையில் உள்ள மூடு பொத்தானைச் "
-"சொடுக்கவும்."
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:265
+#, no-wrap
+msgid "Photos"
+msgstr "புகைப்படங்கள்"
 
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:103
-msgid "Delayed response to a chat message using the mouse"
-msgstr "சொடுக்கியைப் பயன்படுத்தி ஒரு அரட்டை செய்திக்கு தாமதித்த பதிலளிப்பு"
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:266
+#, no-wrap
+msgid "Music"
+msgstr "இசை"
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:106
-msgid ""
-"When a chat message appears in the message tray and you do not move your "
-"mouse to the message tray, the message disappears after a while."
-msgstr ""
-"செய்தித் தட்டில் ஒரு அரட்டைச் செய்தி தோன்றும் போது, நீங்கள் உங்கள் சொடுக்கியை செய்தித் "
-"தட்டுக்குக் கொண்டு செல்லாவிட்டால், சற்று நேரத்திற்குப் பிறகு செய்தி மறைந்துபோகும்."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:109
-msgid ""
-"To get back to your unanswered message, move your mouse to the message tray "
-"at the very bottom of the screen."
-msgstr ""
-"இன்னும் நீங்கள் பதிலளிக்காத செய்திக்கு மீண்டும் செல்ல, உங்கள் சொடுக்கியை திரையின் "
-"அடிப்பகுதியில் உள்ள செய்தித் தட்டுகுக் கொண்டு செல்லவும்."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:111
-msgid ""
-"When the message tray appears, click a small image that represents the "
-"person who sent you the message."
-msgstr ""
-"செய்தித் தட்டு காண்பிக்கப்படும் போது, உங்களுக்கு செய்தி அனுப்பிய நபரைக் குறிக்கும் சிறு "
-"படத்தைச் சொடுக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:113
-msgid ""
-"When the chat message is shown, start typing your reply and when finished, "
-"press <key>Enter</key> to send the reply."
-msgstr ""
-"அரட்டை செய்தி காண்பிக்கப்படும் போது, உங்கள் பதிலைத் தட்டச்சு செய்யத் தொடங்கவும், உங்கள் பதிலை "
-"தட்டச்சு முடித்ததும் அனுப்ப <key>Enter</key> ஐ அழுத்தவும்."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:122
-msgid "Delayed response to a chat message using the keyboard"
-msgstr "விசைப்பலகையைப் பயன்படுத்தி ஒரு அரட்டை செய்திக்கு தாமதித்த பதிலளிப்பு"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:124
-msgid ""
-"To get back to your unanswered chat messages, press <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to "
-"display the message tray that contains the messages."
-msgstr ""
-"நீங்கள் பதிலளிக்காத அரட்டை செய்திகளை மீண்டும் பார்க்க, செய்திகளைக் கொண்டுள்ள செய்தித் தட்டைக் "
-"காண்பிக்கச் செய்ய <keyseq> <key href=\"help:gnome-help/keyboard-key-super"
-"\">Super</key><key>M</key> </keyseq> ஐ அழுத்தவும்."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:128
-msgid ""
-"Use the arrow keys to select a small image representing the person you want "
-"to reply to, and press <key>Enter</key>."
-msgstr ""
-"அம்புக்குறி விசைகளைப் பயன்படுத்தி, நீங்கள் பதிலளிக்க விரும்பும் நபரைக் குறிக்கும் சிறு "
-"படத்தைத் தேர்ந்தெடுத்து, <key>Enter</key> ஐ அழுத்தவும்."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:133
-msgid ""
-"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
-msgstr ""
-"செய்தித் தட்டை மூட, <key>Esc</key> அல்லது <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key><key>M</key> </keyseq> ஐ அழுத்தவும்."
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:293
+#, no-wrap
+msgid "OFF"
+msgstr "ஆஃப்"
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:229
@@ -1753,186 +2031,6 @@ msgstr "உருவாக்குநர் மாநாடு 2012"
 #, no-wrap
 msgid "Firefox"
 msgstr "Firefox"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:137
-#, no-wrap
-msgid "Search"
-msgstr "தேடு"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:148
-#, no-wrap
-msgid "Files"
-msgstr "கோப்புகள்"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:149
-#, no-wrap
-msgid "Enabled"
-msgstr "செயலாக்கப்பட்டது"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:264
-#, no-wrap
-msgid "Web"
-msgstr "வலை"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:265
-#, no-wrap
-msgid "Photos"
-msgstr "புகைப்படங்கள்"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:266
-#, no-wrap
-msgid "Music"
-msgstr "இசை"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:293
-#, no-wrap
-msgid "OFF"
-msgstr "ஆஃப்"
-
-#. (itstool) path: info/title
-#: C/gs-switch-tasks.page:17
-msgctxt "link:trail"
-msgid "Switch tasks"
-msgstr "பணிகளுக்கிடையே மாறவும்"
-
-#. (itstool) path: info/title
-#: C/gs-switch-tasks.page:19
-msgctxt "link:seealso"
-msgid "A tutorial on switching tasks"
-msgstr "பணிகளுக்கு இடையே மாறுவது பற்றிய பயிற்சி"
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:102
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen to show the <gui>Activities Overview</gui> where you can see "
-"the currently running tasks displayed as small windows."
-msgstr ""
-"<gui>செயல்பாடுகள் மேலோட்டத்தைக்</gui> காண்பிக்க, உங்கள் சொடுக்கி சுட்டியை திரையின் மேல் "
-"இடப்புறம் உள்ள <gui>செயல்பாடுகள்</gui> மூலைக்குக் கொண்டு செல்லவும், அங்கு நீங்கள் தற்போது "
-"இயங்கிக்கொண்டிருக்கும் பணிகள் சிறு சாளரங்களாக காண்பிக்கப்படுவதைக் காணலாம்."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:112
-msgid ""
-"You can switch between tasks by using the <gui>window list</gui> at the "
-"bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
-"gui>."
-msgstr ""
-"திரையின் அடிப்பகுதியில் உள்ள <gui>சாளரப் பட்டியலைப்</gui> பயன்படுத்தி நீங்கள் பணிகளுக்கு "
-"இடையே மாறலாம். திறந்துள்ள பணிகள் <gui>சாளரப் பட்டியலில்</gui> பொத்தான்களாகக் "
-"காண்பிக்கப்படும்."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:115
-msgid "Click a button in the <gui>window list</gui> to switch to that task."
-msgstr "ஒரு பணிக்கு மாற <gui>சாளரப் பட்டியலில்</gui> உள்ள ஒரு பொத்தானைச் சொடுக்கவும்."
-
-#. (itstool) path: section/title
-#: C/gs-switch-tasks.page:125 C/gs-use-windows-workspaces.page:114
-msgid "Tile windows"
-msgstr "சாளரங்களை கட்ட அமைப்பில் வை"
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:118
-msgid ""
-"To maximize a window along a side of the screen, grab the window's titlebar "
-"and drag it to the left or right side of the screen."
-msgstr ""
-"திரையின் பக்கவாட்டில் ஒரு சாளரத்தைப் பெரிதாக்க, சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, "
-"அதை திரையின் இட அல்லது வலப்புறம் இழுத்துச் செல்லவும்."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:130 C/gs-use-windows-workspaces.page:120
-msgid ""
-"When half of the screen is highlighted, release the window to maximize it "
-"along the selected side of the screen."
-msgstr ""
-"திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை திரையின் தேர்ந்தெடுக்கப்பட்ட "
-"பக்கமாக பெரிதாக்க, சாளரத்தை விடுவிக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:132 C/gs-use-windows-workspaces.page:122
-msgid ""
-"To maximize two windows side-by-side, grab the titlebar of the second window "
-"and drag it to the opposite side of the screen."
-msgstr ""
-"இரண்டு சாளரங்களை பக்கத்திற்கொன்றாக பெரிதாக்க, இரண்டாவது சாளரத்தின் தலைப்புப் பட்டியைப் "
-"பிடித்து திரையின் எதிர்ப்பக்கத்திற்கு இழுத்துச் செல்லவும்."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:134 C/gs-use-windows-workspaces.page:124
-msgid ""
-"When half of the screen is highlighted, release the window to maximize it "
-"along the opposite side of the screen."
-msgstr ""
-"திரையில் பாதி தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தை திரையின் எதிர்ப்புறமாக "
-"பெரிதாக்க, சாளரத்தை விடுவிக்கவும்."
-
-#. (itstool) path: section/title
-#: C/gs-switch-tasks.page:141
-msgid "Switch between windows"
-msgstr "சாளரங்களுக்கு இடையே மாறவும்"
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:144
-msgid ""
-"Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
-"lists the currently open windows."
-msgstr ""
-"<gui>சாளர மாற்றியைக்</gui> காண்பிக்க <keyseq><key href=\"help:gnome-help/"
-"keyboard-key-super\">Super </key><key>Tab</key></keyseq> ஐ அழுத்தவும், அது "
-"தற்போது திறந்துள்ள சாளரங்களைப் பட்டியலிடும்."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:147
-msgid ""
-"Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
-"select the next highlighted window in the <gui>window switcher</gui>."
-msgstr ""
-"<gui>சாளர மாற்றியில்</gui> தனிப்படுத்திக் காண்பிக்கப்படும் அடுத்த சாளரத்தைத் தேர்ந்தெடுக்க "
-"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> ஐ விடுவிக்கவும்."
-
-#. (itstool) path: section/title
-#: C/gs-switch-tasks.page:158
-msgid "Use search to switch applications"
-msgstr "பயன்பாடுகளிடையே மாற தேடலைப் பயன்படுத்து"
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:161
-msgid ""
-"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
-"to show the <gui>Activities Overview</gui>."
-msgstr ""
-"மாறாக, <gui>செயல்பாடுக் மேலோட்டம்</gui> என்பதைத் திறக்க <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> விசையை அழுத்துவதன் மூலம் விசைப்பலகையைப் "
-"பயன்படுத்தவும்."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:163
-msgid ""
-"Just start typing the name of the application you want to switch to. "
-"Applications matching what you have typed will appear as you type."
-msgstr ""
-"நீங்கள் மாற விரும்பும் பயன்பாட்டின் பெயரைத் தட்டச்சு செய்யத் தொடங்கவும். நீங்கள் தட்டச்சு செய்யும் "
-"போதே, நீங்கள் தட்டச்சு செய்த உரைக்குப் பொருந்தும் பயன்பாடுகள் காண்பிக்கப்படும்."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:166
-msgid ""
-"When the application that you want to switch to appears as the first result, "
-"press <key>Enter</key> to switch to it."
-msgstr ""
-"நீங்கள் மாற விரும்பும் பயன்பாடு முதல் முடிவாகக் காண்பிக்கப்படும் போது, அதற்குச் செல்ல "
-"<key>Enter</key> ஐ அழுத்தவும்."
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-responding-to-messages.svg:88
@@ -2138,234 +2236,373 @@ msgid "31"
 msgstr "31"
 
 #. (itstool) path: info/title
-#: C/gs-use-system-search.page:16
-msgctxt "link:trail"
-msgid "Use the system search"
-msgstr "கணினி தேடலைப் பயன்படுத்து"
+#: C/gs-use-offline.page:20
+msgctxt "link:shell-overview"
+msgid "Find apps that work without the internet"
+msgstr ""
 
 #. (itstool) path: info/title
-#: C/gs-use-system-search.page:18
-msgctxt "link:seealso"
-msgid "A tutorial on using the system search"
-msgstr "கணினி தேடலைப் பயன்படுத்துவது பற்றிய பயிற்சி"
+#: C/gs-use-offline.page:21
+msgctxt "link:net"
+msgid "Use your computer offline"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/gs-use-offline.page:22
+msgid "Discover all the offline content on your computer."
+msgstr ""
 
 #. (itstool) path: page/title
-#: C/gs-use-system-search.page:21
-msgid "Use the system search"
-msgstr "கணினி தேடலைப் பயன்படுத்து"
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:26
-#| msgid ""
-#| "Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-#| "gnome-help/keyboard-key-super\">Super</key> key."
-msgid ""
-"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
+#: C/gs-use-offline.page:25
+msgid "What can I do if I don't have internet?"
 msgstr ""
-"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> விசையை அழுத்தி "
-"<gui>செயல்பாடுகள் மேலோட்டம்</gui> ஐத் திறக்கவும். தேடுவதற்கு தட்டச்சு செய்யத் தொடங்கும்."
+
+#. (itstool) path: page/p
+#: C/gs-use-offline.page:27
+msgid ""
+"Your computer comes with a lot of great offline content you can use even if "
+"you don't have an internet connection."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-offline.page:31
+msgid "Introducing the <app>App Center</app>"
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-use-offline.page:32
+msgid ""
+"The <app>App Center</app> is full of apps that are free and can be easily "
+"added to your desktop. Most of the apps you'll find there have offline "
+"capability and you can browse by category to find just what you're looking "
+"for, or else just click around and explore."
+msgstr ""
+
+#. (itstool) path: steps/title
+#: C/gs-use-offline.page:37
+msgid "How to get to the <app>App Center</app>:"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:29
+#: C/gs-use-offline.page:39
+msgid "Click on <app>More Apps</app> from the desktop."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:43
+msgid ""
+"Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
+"<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
+"section."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:49
+msgid ""
+"Click on an app to read more about it and either install it or add it to "
+"your desktop."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-offline.page:57
+msgid ""
+"Here are a few examples of the offline content on your desktop and in the "
+"<app>App Center</app>:"
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:61
+msgid "Education"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:63
+msgid ""
+"<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
+"encyclopedia with all the power of the internet's best."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:67
+msgid ""
+"<app>Virtual School</app> - Hundreds of videos to help you lean more about "
+"your favorite subjects, or to help you understand subjects that are "
+"difficult for you."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:72
+msgid ""
+"<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
+" help children of all ages develop their mental abilities."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:77
+msgid ""
+"<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
+"multiplication and more."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:81
+msgid ""
+"<app>Tux Typing</app> - Learn how to type with this game that guides you and"
+" helps you practice so that you can type faster and more accurately."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:86
+msgid ""
+"<app>World Literature</app> - Read many of the world's greatest stories."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:90
+msgid ""
+"<app>Animals</app> - Learn more about your favorite animals, and about "
+"animals you never even knew existed!"
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:96
+msgid "Games"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:98
+msgid ""
+"<app>Tux Kart</app> - Race against the computer or your friends. Get "
+"superpowers and avoid traps to finish first!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:102
+msgid ""
+"<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:106
+msgid ""
+"<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
+" you get to the next level."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:110
+msgid ""
+"<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
+"as fast as you can to complete each course."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:114
+msgid ""
+"<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
+" that you don't blow up. This strategy game is addictive."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:118
+msgid ""
+"<app>Blockout2</app> - A tetris-like game where you need to match the colors"
+" as best you can before the screen fills up and you lose."
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:124
+msgid "Resources"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:126
+msgid ""
+"<app>Writer</app> - Write papers for school, work or for anything else you "
+"need. Compatible with Microsoft's Word."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:130
+msgid ""
+"<app>Presentation</app> - Create beautiful presentations! Compatible with "
+"Microsoft's Powerpoint."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:134
+msgid ""
+"<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
+"yourself in ways you never thought possible with this powerful spreadsheet "
+"app. Compatible with Microsoft's Excel."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:139
+msgid ""
+"<app>Resume</app> - Learn how to make a great resume to help you find your "
+"ideal job."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:143
+msgid ""
+"<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
+"yourself and your family healthy."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:147
+msgid ""
+"<app>How To</app> - Learn how to do just about anything with this handy app."
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:153
+msgid "Entertainment"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:155
+msgid ""
+"<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
+" webcam, not included with Endless."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:159
+msgid ""
+"<app>Videos</app> - Watch some of the pre-installed videos that come with "
+"Endless, or transfer videos from a USB or DVD and watch them on this great "
+"and easy-to use media player."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:164
+msgid ""
+"<app>Myths and Legends</app> - Read about myths and legends from all over "
+"the world! Everything from La Llorona to Big Foot and many, many more"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:169
+msgid ""
+"<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
+"stars, and other celebrities"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:173
+msgid ""
+"<app>Travel</app> - Read about places around the world and see beautiful "
+"pictures that will make you feel like you're actually there!"
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:180
+msgid "Utility"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:182
+msgid ""
+"<app>Notes</app> - A handy app to help you jot down things you don't want to"
+" forget!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:186
+msgid ""
+"<app>Video Editor</app> - Film videos on your phone and edit them to create "
+"a masterpiece, or simply take already existing video clips and make them "
+"something of your own!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:191
+msgid ""
+"<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
+" and more, to make them even more awesome!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:195
+msgid ""
+"<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
+"will have all of your friends dancing along with you."
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/gs-use-system-search.page:19
+msgid ""
+"Search for things on your computer and on the internet right from your "
+"desktop!"
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/gs-use-system-search.page:23
+msgid "Use global search"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-use-system-search.page:25
+msgid ""
+"The global search bar makes search easy! You can look for apps, documents, "
+"photos and more, right from your desktop. If you have an internet conection,"
+" you can even look for things that are on the internet, like you would on "
+"google, with the global search tool."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:32
+msgid ""
+"From the desktop, click on the <app>global search bar</app> at the top of "
+"your screen that says <gui>Type to search...</gui>. Start typing to search."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:38 C/gs-where-files.page:36
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
-msgstr ""
-"நீங்கள் தட்டச்சு செய்யும் போதே, நீங்கள் தட்டச்சு செய்த உரைக்குப் பொருந்தும் முடிவுகள் "
-"காண்பிக்கப்படும். முதல் முடிவு எப்போதும் தனிப்படுத்தப்பட்டு மேலே காண்பிக்கப்படும்."
+msgstr "நீங்கள் தட்டச்சு செய்யும் போதே, நீங்கள் தட்டச்சு செய்த உரைக்குப் பொருந்தும் முடிவுகள் காண்பிக்கப்படும். முதல் முடிவு எப்போதும் தனிப்படுத்தப்பட்டு மேலே காண்பிக்கப்படும்."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:31
-#| msgid ""
-#| "The first result is always highlighted and shown at the top. Press "
-#| "<key>Enter</key> to switch to the first highlighted result."
-msgid "Press <key>Enter</key> to switch to the first highlighted result."
+#: C/gs-use-system-search.page:40
+msgid "Press <key>Enter</key> to choose the first highlighted result."
 msgstr ""
-"தனிப்படுத்திக் காண்பிக்கப்படும் முதல் முடிவுக்கு மாற <key>Enter</key> ஐ அழுத்தவும்."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:36
+#: C/gs-use-system-search.page:44 C/gs-where-files.page:40
 msgid "Items that may appear in the search results include:"
 msgstr "உங்கள் தேடல் முடிவுகளில் பின்வருபவை சேர்க்கப்பட்டிருக்கலாம்:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:38
+#: C/gs-use-system-search.page:46 C/gs-where-files.page:42
 msgid "matching applications, shown at the top of the search results,"
 msgstr "தேடல் முடிவுகளில் மேல் பகுதியில் காண்பிக்கப்படும், பொருந்தும் பயன்பாடுகள்,"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:40
-msgid "matching settings,"
-msgstr "பொருந்தும் அமைவுகள்,"
+#: C/gs-use-system-search.page:48 C/gs-where-files.page:44
+msgid "matching settings, and"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:41
-msgid "matching contacts, and"
-msgstr "பொருந்தும் தொடர்புகள் மற்றும்"
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:42
+#: C/gs-use-system-search.page:49 C/gs-where-files.page:45
 msgid "matching documents."
 msgstr "பொருந்தும் ஆவணங்கள்."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:45
-msgid "In the search results, click the item to switch to it."
-msgstr "தேடல் முடிவுகளில், ஒரு உருப்படிக்கு மாற அதைச் சொடுக்கவும்."
+#: C/gs-use-system-search.page:54 C/gs-where-files.page:49
+msgid "In the search results, click on the item you want to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:46
+#: C/gs-use-system-search.page:55 C/gs-where-files.page:50
 msgid ""
-"Alternatively, highlight an item using the arrow keys and press <key>Enter</"
-"key>."
-msgstr ""
-"மாறாக, அம்புக்குறி விசைகளைப் பயன்படுத்தி ஒரு உருப்படியைத் தனிப்படுத்திக் காண்பித்து, "
-"<key>Enter</key> ஐ அழுத்தவும்."
-
-#. (itstool) path: section/title
-#: C/gs-use-system-search.page:52
-msgid "Search from inside applications"
-msgstr "பயன்பாடுகளின் உள்ளிருந்து தேடு"
-
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:54
-msgid ""
-"The system search aggregates results from various applications. On the left-"
-"hand side of the search results, you can see icons of applications that "
-"provided the search results. Click one of the icons to restart the search "
-"from inside the application associated with that icon. Because only the best "
-"matches are shown in the <gui>Activities Overview</gui>, searching from "
-"inside the application may give you better search results."
-msgstr ""
-"கணினி தேடலானது பல்வேறு பயன்பாடுகளிலிருந்து முடிவுகளை ஒருங்கிணைத்துக் கொண்டு வரும். "
-"தேடல் முடிவுகளின் இடப்புறத்தில், தேடல் முடிவுகளை வழங்கிய பயன்பாடுகளின் சின்னங்களை நீங்கள் "
-"காணலாம். ஒரு பயன்பாட்டுக்கு உள்ளிருந்து தேடலை மீண்டும் தொடங்க அந்தப் பயன்பாட்டுடன் "
-"தொடர்புடைய சின்னத்தைச் சொடுக்கவும். <gui>செயல்பாடுகள் மேலோட்டத்தில்</gui> நன்றாகப் "
-"பொருந்துபவை மட்டுமே காண்பிக்கப்படும் என்பதால், பயன்பாடுகளுக்கு உள்ளிருந்து தேடுவது இன்னும் "
-"சிறந்த முடிவுகளை வழங்கக்கூடும்."
-
-#. (itstool) path: section/title
-#: C/gs-use-system-search.page:66
-msgid "Customize search results"
-msgstr "தேடல் முடிவுகளைத் தனிப்பயனாக்கு"
-
-#. (itstool) path: note/p
-#: C/gs-use-system-search.page:71
-msgid ""
-"GNOME lets you customize what you want to display in the search results in "
-"the <gui>Activities Overview</gui>. For example, you can choose whether you "
-"want to show results for websites, photos, or music."
-msgstr ""
-"<gui>செயல்பாடுகள் மேலோட்டத்தில்</gui> தேடல் முடிவுகளில் என்ன காண்பிக்க வேண்டும் என்பதை "
-"நீங்கள் தனிப்பயனாக்கம் செய்துகொள்ள GNOME வழிவகை செய்கிறது. எடுத்துக்காட்டுக்கு, நீங்கள் "
-"வலைத்தளங்கள், புகைப்படங்கள் அல்லது இசை முடிவுகளைக் காண்பிக்க வேண்டுமா வேண்டாமா எனத் தேர்வு "
-"செய்யலாம்."
-
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:77
-msgid "To customize what is displayed in the search results:"
-msgstr "தேடல் முடிவுகளில் எவை காண்பிக்கப்பட வேண்டும் எனத் தனிப்பயனாக்கம் செய்ய:"
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:82
-msgid "From the list of items, select <gui>Search</gui>."
-msgstr "உருப்படிகளின் பட்டியலிருந்து <gui>தேடு</gui> என்பதைத் தேர்ந்தெடுக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:83
-msgid ""
-"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
-"the search location you want to enable or disable."
-msgstr ""
-"தேடல் இடங்களின் பட்டியலில், நீங்கள் செயல்படுத்த அல்லது முடக்க விரும்பும் தேடல் இடத்திற்கு "
-"அடுத்துள்ள <gui>ஆன்/ஆஃப்</gui> சாவியை சொடுக்கவும்."
-
-#. (itstool) path: info/title
-#: C/gs-use-windows-workspaces.page:16
-msgctxt "link:trail"
-msgid "Use windows and workspaces"
-msgstr "சாளரங்கள் மற்றும் பணிவெளிகளைப் பயன்படுத்து"
-
-#. (itstool) path: info/title
-#: C/gs-use-windows-workspaces.page:18
-msgctxt "link:seealso"
-msgid "A tutorial on using windows and workspaces"
-msgstr "சாளரங்களையும் பணிவெளிகளையும் பயன்படுத்துவது பற்றிய பயிற்சி"
-
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:98
-msgid "Maximize and unmaximize windows"
-msgstr "சாளரங்களை பெரிதாக்குதல் மற்றும் அளவு மீட்டமைத்தல்"
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:102
-msgid ""
-"To maximize a window so that it takes up all of the space on your desktop, "
-"grab the window's titlebar and drag it to the top of the screen."
-msgstr ""
-"உங்கள் பணிமேடையில் உள்ள முழு இடத்தையும் எடுத்துக்கொள்ளூம்படி ஒரு சாளரத்தைப் பெரிதாக்க, "
-"சாளரத்தின் தலைப்புப் பட்டியைப் பிடித்து, திரையின் மேல் பகுதிக்கு இழுத்துச் செல்லவும்."
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:105
-msgid "When the screen is highlighted, release the window to maximize it."
-msgstr "திரை தனிப்படுத்தப்பட்டிருக்கும் போது, சாளரத்தைப் பெரிதாக்க சாளரத்தை விடுவிக்கவும்."
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:107
-msgid ""
-"To restore a window to its unmaximized size, grab the window's titlebar and "
-"drag it away from the edges of the screen."
-msgstr ""
-"ஒரு சாளரத்தை அதன் பெரிதாக்கப்படாத அளவுக்கு மீட்டமைக்க, சாளரத்தின் தலைப்புப் பட்டியைப் "
-"பிடித்து, அதை திரையின் விளிம்புகளிலிருந்து விலக்கி இழுத்துச் செல்லவும்."
-
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:131
-msgid "Maximize and unmaximize windows using the keyboard"
-msgstr " விசைப்பலகையைப் பயன்படுத்தி சாளரங்களை பெரிதாக்குதல் மற்றும் அளவு மீட்டமைத்தல்"
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:137
-msgid ""
-"To unmaximize a window using the keyboard, hold down the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
-msgstr ""
-"ஒரு சாளரத்தை விசைப்பலகையைப் பயன்படுத்தி அளவுமீட்டமைக்க <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> விசையைப் பிடித்தபடி <key>↓</key> ஐ அழுத்தவும்."
-
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:145
-msgid "Tile windows using the keyboard"
-msgstr "விசைப்பலகையைப் பயன்படுத்தி சாளரங்களை கட்ட அமைப்பில் வை"
-
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:159
-msgid "Switch workspaces using the keyboard"
-msgstr "விசைப்பலகையைப் பயன்படுத்தி பணிவெளிகளுக்கிடையே மாறவும்"
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:163
-msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key>Page Down</key></keyseq>."
-msgstr ""
-"தற்போதைய பணிவெளிக்குக் கீழே உள்ள ஒரு பணிவெளிக்கு நகர, <keyseq><key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key><key>Page Down</key></keyseq> ஐ "
-"அழுத்தவும்."
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:166
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key>Page Up</key></keyseq>."
-msgstr ""
-"தற்போதைய பணிவெளிக்கு மேலே உள்ள ஒரு பணிவெளிக்கு நகர, <keyseq><key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key><key>Page Up</key></keyseq> ஐ "
-"அழுத்தவும்."
+"Alternatively, highlight an item using the arrow keys and press "
+"<key>Enter</key>."
+msgstr "மாறாக, அம்புக்குறி விசைகளைப் பயன்படுத்தி ஒரு உருப்படியைத் தனிப்படுத்திக் காண்பித்து, <key>Enter</key> ஐ அழுத்தவும்."
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
@@ -2415,92 +2652,115 @@ msgstr "planet.gnome.org"
 msgid "Planet GNOME"
 msgstr "Planet GNOME"
 
-#~ msgid ""
-#~ "You can adjust the date and time by clicking on the arrows to choose the "
-#~ "hour, minute, and year."
-#~ msgstr ""
-#~ "மணி, நிமிடம் மற்றும் ஆண்டைத் தேர்வு செய்ய அம்புக்குறிகளைச் சொடுக்குவதன் மூலம் நீங்கள் "
-#~ "தேதியையும் நேரத்தையும் சரிசெய்யலாம்."
+#. (itstool) path: page/title
+#: C/gs-where-files.page:19
+msgid "Where are my documents and files?"
+msgstr ""
 
-#~ msgid ""
-#~ "You may need to click the <gui>Unlock</gui> button and type the "
-#~ "administrator's password."
-#~ msgstr ""
-#~ "நீங்கள் <gui>பூட்டுத்திற</gui> பொத்தானை சொடுக்கி, நிர்வாகி கடவுச்சொல்லைத் தட்டச்சு "
-#~ "செய்ய வேண்டி இருக்கலாம்."
+#. (itstool) path: page/p
+#: C/gs-where-files.page:21
+msgid ""
+"When you store files to your computer, they are automatically stored in your"
+" <app>Documents</app> folder on your desktop."
+msgstr ""
 
-#~ msgid ""
-#~ "On the right-hand side of the window, you can adjust the date and time by "
-#~ "clicking on the arrows to choose the hour, minute, and year."
-#~ msgstr ""
-#~ "சாளரத்தின் வலது பக்கத்தில், மணி, நிமிடம் மற்றும் ஆண்டைத் தேர்வு செய்ய அம்புக்குறிகளைச் "
-#~ "சொடுக்குவதன் மூலம் தேதியையும் நேரத்தையும் சரிசெய்யலாம்."
+#. (itstool) path: page/p
+#: C/gs-where-files.page:24
+msgid "Here are some ways to look for a file you have saved:"
+msgstr ""
 
-#~ msgid ""
-#~ "Close the window by clicking the cross at the top-right corner of the "
-#~ "window."
-#~ msgstr ""
-#~ "சாளரத்தின் மேல் வலது மூலையில் உள்ள கூட்டல் குறியைச் சொடுக்கி, சாளரத்தை மூடவும்."
+#. (itstool) path: section/title
+#: C/gs-where-files.page:27
+msgid "If you know the name of your file"
+msgstr ""
 
-#~ msgid "Click your name on the top bar and select <gui>Settings</gui>."
-#~ msgstr ""
-#~ "மேல் பட்டியில் உங்கள் பெயரைச் சொடுக்கி, <gui>அமைவுகள்</gui> என்பதைத் தேர்ந்தெடுக்கவும்."
+#. (itstool) path: section/p
+#: C/gs-where-files.page:29
+msgid ""
+"If you know the name of your file, then you can easily search for it right "
+"from the desktop."
+msgstr ""
 
-#~ msgid "Click the image of your current wallpaper."
-#~ msgstr "உங்கள் நடப்பு சுவர்ச்சித்திரத்தின் படத்தைச் சொடுக்கவும்."
+#. (itstool) path: item/p
+#: C/gs-where-files.page:33
+msgid ""
+"From the desktop, click on the <app>global search bar</app> at the top of "
+"your screen that says <gui>Type to search...</gui>. Start typing the name of"
+" the file you are looking for."
+msgstr ""
 
-#~ msgid "Click your name on the top bar."
-#~ msgstr "மேல் பட்டியில் உங்கள் பெயரைச் சொடுக்கவும்."
+#. (itstool) path: section/title
+#: C/gs-where-files.page:58
+msgid "If you do not know the name of your file"
+msgstr ""
 
-#~ msgid "Select the <gui>Settings</gui> item."
-#~ msgstr "<gui>அமைவுகள்</gui> உருப்படியைத் தேர்ந்தெடுக்கவும்."
+#. (itstool) path: section/p
+#. (itstool) path: item/p
+#: C/gs-where-files.page:60 C/gs-where-files.page:90
+msgid "Click on <app>Documents</app> from the desktop."
+msgstr ""
 
-#~ msgid "Click on the <gui>Add an online account</gui> button."
-#~ msgstr "<gui>ஒரு ஆன்லைன் கணக்கைச் சேர்</gui> பொத்தானைச் சொடுக்கவும்."
+#. (itstool) path: section/p
+#: C/gs-where-files.page:63
+msgid ""
+"Endless tries to store files by categories like documents, music, photos, "
+"and videos, so that they are easier for you to find. You will see that the "
+"menu on the left shows these categories. Click on them once to go to that "
+"folder."
+msgstr ""
 
-#~ msgid ""
-#~ "Click the network connection icon to show more details about the status "
-#~ "of your network connection."
-#~ msgstr ""
-#~ "உங்கள் பிணைய இணைப்பின் நிலை பற்றிய கூடுதல் விவரங்களைக் காண்பிக்க பிணைய இணைப்பு "
-#~ "சின்னத்தை சொடுக்கவும்."
+#. (itstool) path: section/p
+#: C/gs-where-files.page:69
+msgid ""
+"You can create your own folders to better organize your files. You should "
+"click through the different folders you create to get to the files you have "
+"stored there. Clicking through folders is especially helpful if you are not "
+"sure what the file you saved is named."
+msgstr ""
 
-#~ msgid "Connect to other types of networks"
-#~ msgstr "மற்ற வகை பிணையங்களுக்கு இணைக்கவும்"
+#. (itstool) path: section/p
+#: C/gs-where-files.page:74
+msgid ""
+"See the bar at the top with a magnifying glass in it? Click there and start "
+"typing at least part of the name of the file you are looking for. As you "
+"start typing, files that match what you are typing are displayed below. If "
+"you see the file you are looking for in the list, you can use your arrow key"
+" to highlight the file and press <key>Enter</key> to open it. Or, you can "
+"click on the result you want with your mouse to higlight it, and double "
+"click to open it."
+msgstr ""
 
-#~ msgid ""
-#~ "There are various types of network connections that you can use with your "
-#~ "computer, for example, mobile broadband, or wireless networks."
-#~ msgstr ""
-#~ "உங்கள் கணினியுடன் பயன்படுத்துவதற்கு பல்வேறு வகை பிணைய இணைப்புகள் உள்ளன, "
-#~ "எடுத்துக்காட்டுக்கு, மொபைல் ப்ராட்பேன்ட் அல்லது வயர்லெஸ் பிணையங்களைக் கூறலாம்."
+#. (itstool) path: section/title
+#: C/gs-where-files.page:84
+msgid "If your file is on a USB"
+msgstr ""
 
-#~ msgid ""
-#~ "Depending on your computer hardware and the networks availability, you "
-#~ "can choose other connection types by clicking the network connection icon "
-#~ "on the right-hand side of the top bar and selecting the network "
-#~ "connection you want to connect to."
-#~ msgstr ""
-#~ "உங்கள் கணினி வன்பொருள் மற்றும் பிணையங்கள் கிடைக்கும் தன்மையைப் பொறுத்து, நீங்கள் மேல் "
-#~ "பட்டியில் வலது புறம் உள்ள பிணைய இணைப்பு சின்னத்தைச் சொடுக்கி, நீங்கள் இணைக்க விரும்பும் "
-#~ "பிணைய இணைப்பைத் தேர்ந்தெடுப்பதன் மூலம் நீங்கள் மற்ற இணைப்பு வகைகளைத் தேர்வு செய்து "
-#~ "கொள்ளலாம்."
+#. (itstool) path: item/p
+#: C/gs-where-files.page:87
+msgid "Make sure that the USB is properly plugged in."
+msgstr ""
 
-#~ msgid "Wired"
-#~ msgstr "கம்பியுள்ளது"
+#. (itstool) path: item/p
+#: C/gs-where-files.page:93
+msgid ""
+"Click on the name of your device on the menu on the left of the window. The "
+"device name should appear above the trash icon and is usually named "
+"something with the device's brand, unless you have changed it."
+msgstr ""
 
-#~ msgid "Cable unplugged"
-#~ msgstr "கேபிள் அகற்றப்பட்டது"
+#. (itstool) path: item/p
+#: C/gs-where-files.page:98
+msgid ""
+"Browse the files on the USB. Clicking on them once will let you preview them"
+" and clicking twice will open them. You can also click on the top bar with "
+"the magnifying glass to search for the file name if you know it."
+msgstr ""
 
-#~ msgid "Mobile broadband"
-#~ msgstr "மொபைல் ப்ராட்பேன்ட்"
-
-#~ msgid "Weak"
-#~ msgstr "வலுவற்றது"
-
-#~ msgid ""
-#~ "Start typing to search. Results matching what you have typed will appear "
-#~ "as you type."
-#~ msgstr ""
-#~ "தேட தட்டச்சு செய்யத் தொடங்கவும். நீங்கள் தட்டச்சு செய்த உரைக்குப் பொருந்தும் முடிவுகள் "
-#~ "நீங்கள் தட்டச்சு செய்யும் போதே காண்பிக்கப்படும்."
+#. (itstool) path: note/p
+#: C/gs-where-files.page:105
+msgid ""
+"Make sure that you have actually saved your file! If you close a program "
+"without saving your work, you might not be able to find it again since not "
+"all programs auto-save. Save as often as you can in order to make sure that "
+"your work does not get lost."
+msgstr ""

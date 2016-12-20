@@ -1,433 +1,1115 @@
-# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2013.
+# 
+# Translators:
+# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2013-2014,2016
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: 2013-11-09 19:36+0000\n"
-"PO-Revision-Date: 2013-11-10 22:13+0200\n"
-"Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
-"Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
-"Language: lv\n"
+"Project-Id-Version: gnome-getting-started-docs\n"
+"POT-Creation-Date: 2015-08-11 11:56-0700\n"
+"PO-Revision-Date: 2016-12-14 07:13+0000\n"
+"Last-Translator: Vicki Niu <vicki@endlessm.com>\n"
+"Language-Team: Latvian (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/lv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
-"2);\n"
-"X-Generator: Lokalize 1.5\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr "Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>"
 
-#. (itstool) path: page/title
-#. (itstool) path: titles/t
-#: C/index.page:8 C/getting-started.page:16 C/gs-animation.xml:5
-msgid "Getting Started"
-msgstr "Ar ko sākt"
+#. (itstool) path: credit/name
+#: C/endless-01-desktop.page:11 C/endless-02-folders.page:11
+#: C/endless-03-programs.page:11 C/endless-04-wifi.page:11
+#: C/endless-05-files.page:11 C/endless-06-browser.page:11
+#: C/endless-07-windows.page:11 C/endless-08-offline.page:11
+#: C/endless-09-writer.page:11 C/endless-10-video-player.page:11
+#: C/endless-11-photos-and-music.page:11 C/endless-12-social-bar.page:11
+#: C/gs-browse-web.page:15 C/gs-fix-overscan.page:8 C/gs-get-online.page:15
+#: C/gs-give-feedback.page:8 C/gs-use-offline.page:8
+#: C/gs-use-system-search.page:15 C/gs-where-files.page:8
+msgid "Nuritzi Sanchez"
+msgstr ""
+
+#. (itstool) path: credit/name
+#: C/endless-01-desktop.page:15 C/endless-02-folders.page:15
+#: C/endless-03-programs.page:15 C/endless-04-wifi.page:15
+#: C/endless-05-files.page:15 C/endless-06-browser.page:15
+#: C/endless-07-windows.page:15 C/endless-08-offline.page:15
+#: C/endless-09-writer.page:15 C/endless-10-video-player.page:15
+#: C/endless-11-photos-and-music.page:15 C/endless-12-social-bar.page:15
+#: C/gs-fix-overscan.page:12 C/gs-give-feedback.page:12
+#: C/gs-use-offline.page:12 C/gs-where-files.page:12
+msgid "Endless Mobile, Inc."
+msgstr ""
+
+#. (itstool) path: credit/years
+#: C/endless-01-desktop.page:16 C/endless-02-folders.page:16
+#: C/endless-03-programs.page:16 C/endless-04-wifi.page:16
+#: C/endless-05-files.page:16 C/endless-06-browser.page:16
+#: C/endless-07-windows.page:16 C/endless-08-offline.page:16
+#: C/endless-09-writer.page:16 C/endless-10-video-player.page:16
+#: C/endless-11-photos-and-music.page:16 C/endless-12-social-bar.page:16
+#: C/gs-fix-overscan.page:13 C/gs-give-feedback.page:13
+#: C/gs-use-offline.page:13 C/gs-where-files.page:13
+msgid "2014"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-01-desktop.page:19
+msgctxt "link"
+msgid "Introduction to the desktop"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-01-desktop.page:20
+msgctxt "sort"
+msgid "01"
+msgstr ""
 
 #. (itstool) path: info/desc
-#: C/getting-started.page:11
-msgid "New to Endless? Learn how to get around."
-msgstr "Vai Endless vide jums ir nepazīstama? Uzziniet, kā tajā darboties."
+#: C/endless-01-desktop.page:21
+msgid "A video showing the basics of the Endless desktop."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-01-desktop.page:24
+msgid "Introduction to the desktop"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:34
+msgid ""
+"Welcome to Endless, the operating system that powers your new computer."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:35
+msgid ""
+"We have made everything simple and easy to use. You can find your apps and "
+"your documents folder right on your desktop. Click on them once to open "
+"them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:38
+msgid ""
+"Your computer has a hot corner. Move your mouse to the lower right-hand "
+"corner and you will be able to see all of your open apps and activities so "
+"that you can easily switch between them or close them by clicking on the "
+"black X button that appears when scrolling over them. You will notice that "
+"that you can also easily access the internet, your documents folder, and a "
+"button to return to the desktop on the right hand side with you are in the "
+"hot corner view mode."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-01-desktop.page:45
+msgid ""
+"At the the bottom of your screen is the task bar. Here you can access wifi, "
+"bluetooth, control the volume of your computer, change the keyboard language"
+" and time, and see which apps you currently have open. On the left side of "
+"the task bar, you will find an icon to access the internet browser. When you"
+" finish using your computer, you'll be able to turn it off by clicking the "
+"user menu and selecting <gui>Exit</gui>."
+msgstr ""
 
 #. (itstool) path: info/title
-#: C/getting-started.page:12
+#: C/endless-02-folders.page:19
 msgctxt "link"
-msgid "Getting Started with Endless"
-msgstr "Darba sākšana ar Endless"
+msgid "Adding folders to the desktop"
+msgstr ""
 
 #. (itstool) path: info/title
-#: C/getting-started.page:13
-msgctxt "text"
-msgid "Getting Started"
-msgstr "Ar ko sākt"
+#: C/endless-02-folders.page:20
+msgctxt "sort"
+msgid "02"
+msgstr ""
 
-#. (itstool) path: caption/desc
+#. (itstool) path: info/desc
+#: C/endless-02-folders.page:21
+msgid "A video showing how to add a folder to the desktop."
+msgstr ""
+
 #. (itstool) path: page/title
-#: C/getting-started.page:25 C/gs-launch-applications.page:23
-msgid "Launch applications"
-msgstr "Palaist lietotnes"
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:30 C/gs-animation.xml:4
-#: C/gs-launch-applications.page:31
-msgid "Launching Applications"
-msgstr "Lietotņu palaišana"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:33 C/getting-started.page:154
-#: C/gs-launch-applications.page:34 C/gs-switch-tasks.page:36
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen."
+#: C/endless-02-folders.page:24
+msgid "Adding folders to the desktop"
 msgstr ""
-"Pārvietojiet peles rādītāju uz <gui>Aktivitātes</gui> ekrāna augšā kreisajā "
-"stūrī."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:37 C/gs-launch-applications.page:38
-msgid "Click the <gui>Show Applications</gui> icon."
-msgstr "Spiediet ikonu <gui>Rādīt lietotnes</gui>"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:40 C/gs-launch-applications.page:41
-msgid "Click the application you want to run, for example, Help."
-msgstr "Spiediet uz lietotnes, ko vēlaties palaist, piemēram, Palīdzība."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:44 C/gs-launch-applications.page:45
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:34
 msgid ""
-"Alternatively, use the keyboard to open the <gui>Activities Overview</gui> "
-"by pressing the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> "
-"key."
+"Your computer comes with a lot of pre-installed apps on the desktop and some"
+" folders to help keep them organized by category. For example, if you click "
+"once on the folder called <gui>Games</gui>, you’ll find icons with the names"
+" of all the games in that folder. Click on a game once to open it and start "
+"playing!"
 msgstr ""
-"Tāpat varat izmantot tastatūru, lai atvērtu <gui>Aktivitāšu pārlūku</gui>, "
-"spiežot taustiņu <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:49 C/gs-launch-applications.page:50
-msgid "Start typing the name of the application you want to launch."
-msgstr "Sāciet rakstīt nosaukumu lietotnei, ko vēlaties palaist."
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:38
+msgid ""
+"You can also make your own folders to further organize your apps. To make a "
+"folder, click on the icon that says <app>More Apps</app>. Then, click the "
+"word <gui>Folders</gui>, on the left hand side of your screen. Choose an "
+"icon for your folder, and then give it a name. Click the green button with "
+"the plus sign to add the folder to your desktop. When it is finished being "
+"created and installed, you will see a confirmation telling you that your new"
+" folder has been added. Now you can close the window and find your new "
+"folder to the left of the <app>More Apps</app> icon."
+msgstr ""
 
-#. (itstool) path: div/p
-#: C/getting-started.page:53 C/gs-launch-applications.page:54
-msgid "Press <key>Enter</key> to launch the application."
-msgstr "Spiediet <key>Enter</key>, lai palaistu lietotni."
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:46
+msgid ""
+"To add apps to your new folder, simply click and hold on the app’s icon, and"
+" without letting go, drag it on top of the folder, and let go of the click. "
+"When you open the folder, you’ll see the app inside. To remove an app from "
+"the folder, simply drag its icon out of the folder."
+msgstr ""
 
-#. (itstool) path: caption/desc
+#. (itstool) path: page/p
+#: C/endless-02-folders.page:50
+msgid ""
+"Keep in mind that if you want to delete a folder, you’ll first have to "
+"remove all of the apps that are in it."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-03-programs.page:19
+msgctxt "link"
+msgid "Installing programs"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-03-programs.page:20
+msgctxt "sort"
+msgid "03"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-03-programs.page:21
+msgid "A video showing how to install programs."
+msgstr ""
+
 #. (itstool) path: page/title
-#: C/getting-started.page:66 C/gs-use-windows-workspaces.page:21
-msgid "Use windows and workspaces"
-msgstr "Izmantot logus un darbvietas"
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:71 C/gs-animation.xml:10
-#: C/gs-use-windows-workspaces.page:29
-msgid "Windows and Workspaces"
-msgstr "Logi un darbvietas"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:74 C/gs-use-windows-workspaces.page:32
-msgid ""
-"To maximize a window, grab the window's titlebar and drag it to the top of "
-"the screen."
+#: C/endless-03-programs.page:24
+msgid "Installing programs"
 msgstr ""
-"Lai maksimizētu logu, satveriet loga virsraksta joslu un velciet to uz "
-"ekrāna augšpusi."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:78 C/gs-use-windows-workspaces.page:36
-msgid "When the screen is highlighted, release the window."
-msgstr "Kad ekrāns ir izgaismots, atlaidiet logu."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:81 C/gs-use-windows-workspaces.page:39
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:35
 msgid ""
-"To unmaximize a window, grab the window's titlebar and drag it away from the "
-"edges of the screen."
+"Your computer comes with a wide variety of apps that you can install for "
+"free and use even without an internet connection."
 msgstr ""
-"Lai atjaunotu logu tā iepriekšējā izmērā, satveriet loga virsraksta joslu un "
-"velciet to prom no ekrāna malām."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:85 C/gs-use-windows-workspaces.page:43
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:38
 msgid ""
-"You can also click the top bar to drag the window away and unmaximize it."
+"From the desktop, click on <app>More Apps</app> to find and add more apps. "
+"It will open a window where you can browse and explore all the apps that are"
+" available to you so you can choose the ones you want to install or add to "
+"your desktop."
 msgstr ""
-"Lai atjaunotu logu, to varat arī satvert augšējo joslu un vilkt logu no tā "
-"projām."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:89 C/getting-started.page:161
-#: C/gs-switch-tasks.page:43 C/gs-use-windows-workspaces.page:47
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:43
 msgid ""
-"To maximize a window along the left side of the screen, grab the window's "
-"titlebar and drag it to the left."
+"You can browse the <app>App Center</app> by category. For example, if you "
+"click on the <gui>Education</gui> category, you’ll find several educational "
+"apps that you can add and use offline. Similarly, if you click on the Games "
+"category, you’ll find games you can add."
 msgstr ""
-"Lai maksimizētu logu gar kreiso pusi, satveriet loga virsraksta joslu un "
-"velciet to uz ekrāna kreiso pusi."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:93 C/getting-started.page:101
-#: C/getting-started.page:165 C/getting-started.page:173
-#: C/gs-switch-tasks.page:47 C/gs-switch-tasks.page:55
-#: C/gs-use-windows-workspaces.page:51 C/gs-use-windows-workspaces.page:59
-msgid "When half of the screen is highlighted, release the window."
-msgstr "Kad puse ekrāna ir izgaismota, atlaidiet logu."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:97 C/gs-use-windows-workspaces.page:55
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:48
 msgid ""
-"To maximize a window along the right side of the screen, grab the window's "
-"titlebar and drag it to the right."
+"You can find the apps that are already on your desktop in the "
+"<gui>Installed</gui> category."
 msgstr ""
-"Lai maksimizētu logu gar labo pusi, satveriet loga virsraksta joslu un "
-"velciet to uz ekrāna labo pusi."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:105 C/gs-use-windows-workspaces.page:63
-#: C/gs-use-windows-workspaces.page:134
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:51
 msgid ""
-"To maximize a window using the keyboard, hold down the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key and press <key>↑</key>."
+"Click on the app that you want to download. For example, go to the "
+"<gui>Education</gui> category and click on the <app>Guatemala</app> app. A "
+"new window will come up with more information about the app. Click on the "
+"green button that says <gui>Add to Desktop</gui>, then after a moment the "
+"button will change to say <gui>Open</gui>."
 msgstr ""
-"Lai maksimizētu logu ar tastatūru, turiet piespiestu taustiņu <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> un spiediet <key>↑</key>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:110 C/gs-use-windows-workspaces.page:68
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:57
 msgid ""
-"To restore the window to its unmaximized size, hold down the <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</"
-"key>."
+"After closing this window you’ll see that the program you downloaded is now "
+"on your desktop. Now you can open it whenever you want to quickly and "
+"easily!"
 msgstr ""
-"Lai atjaunotu logu uz tā iepriekšējo izmēr ar tastatūru, turiet piespiestu "
-"taustiņu <key href=\"help:gnome-help/keyboard-key-super\">Super</key> un "
-"spiediet <key>↓</key>."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:115 C/gs-use-windows-workspaces.page:73
-#: C/gs-use-windows-workspaces.page:148
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:61
 msgid ""
-"To maximize a window along the right side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>→</key>."
+"To remove an app, click on the app’s icon without letting go and drag it on "
+"top of the <app>More Apps</app> icon. You’ll notice that the icon has "
+"changed from a grey square to a recycling bin. Let go of the click over this"
+" icon and you’ll see a window telling you that you’ve successfully removed "
+"the app from your desktop. Don’t worry, you can always reinstall the apps "
+"that you remove from your desktop!"
 msgstr ""
-"Lai maksimizētu logu ar gar ekrāna labo malu, turiet piespiestu taustiņu "
-"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> un spiediet "
-"<key>→</key>."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:120 C/gs-use-windows-workspaces.page:78
-#: C/gs-use-windows-workspaces.page:151
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:68
 msgid ""
-"To maximize a window along the left side of the screen, hold down the <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> key and press "
-"<key>←</key>."
+"You can also delete a folder this same way, by clicking on it, dragging it "
+"over the recycling bin, and letting go. Remember that the folder has to be "
+"empty in order to delete it."
 msgstr ""
-"Lai maksimizētu logu ar gar kreiso labo malu, turiet piespiestu taustiņu "
-"<key href=\"help:gnome-help/keyboard-key-super\">Super</key> un spiediet "
-"<key>←</key>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:125 C/gs-use-windows-workspaces.page:83
+#. (itstool) path: page/p
+#: C/endless-03-programs.page:72
 msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Down</key></keyseq>."
+"That’s how easy it is to add and remove apps and folders from your desktop!"
 msgstr ""
-"Lai pārvietotu darbvietu zem pašreizējās darbvietas, spiediet <keyseq><key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> <key>Page Down</"
-"key></keyseq>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:130 C/gs-use-windows-workspaces.page:88
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Page Up</key></keyseq>."
+#. (itstool) path: info/title
+#: C/endless-04-wifi.page:19
+msgctxt "link"
+msgid "Using Wi-Fi"
 msgstr ""
-"Lai pārvietotu darbvietu virs pašreizējās darbvietas, spiediet <keyseq><key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> <key>Page Up</key></"
-"keyseq>."
 
-#. (itstool) path: caption/desc
+#. (itstool) path: info/title
+#: C/endless-04-wifi.page:20
+msgctxt "sort"
+msgid "04"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-04-wifi.page:21
+msgid "A video showing how to set up Wi-Fi with Endless."
+msgstr ""
+
 #. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/getting-started.page:146 C/gs-switch-tasks.page:22
-#: C/gs-switch-tasks.page:96
-msgid "Switch tasks"
-msgstr "Pārslēgties starp uzdevumiem"
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:151 C/gs-animation.xml:8 C/gs-switch-tasks.page:33
-msgid "Switching Tasks"
-msgstr "Pārslēgšanās starp uzdevumiem"
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:158 C/gs-switch-tasks.page:40
-#: C/gs-switch-tasks.page:105
-msgid "Click a window to switch to that task."
-msgstr "Spiediet uz loga, lai pārslēgtos uz to uzdevumu."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:169 C/gs-switch-tasks.page:51
-msgid ""
-"To maximize a window along the right side, grab the window's titlebar and "
-"drag it to the right."
+#: C/endless-04-wifi.page:24
+msgid "Using Wi-Fi"
 msgstr ""
-"Lai maksimizētu logu gar labo pusi, satveriet loga virsraksta joslu un "
-"velciet to uz labo pusi."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:177 C/gs-switch-tasks.page:59
-msgid ""
-"Press <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key> Tab</key></keyseq> to show the <gui>window switcher</gui>."
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:34
+msgid "You can connect to a Wi-Fi network with these easy steps:"
 msgstr ""
-"Spiediet <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key> <key>Tab</key></keyseq>, lai parādītu <gui>logu pārslēdzēju</gui>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:182 C/gs-switch-tasks.page:64
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:36
 msgid ""
-"Release <key href=\"help:gnome-help/keyboard-key-super\">Super </key> to "
-"select the next highlighted window."
+"First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
+"right side of your desktop, on the task bar close to the clock."
 msgstr ""
-"Atlaidiet <key href=\"help:gnome-help/keyboard-key-super\">Super</key>, lai "
-"izvēlētos izcelto logu."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:187 C/gs-switch-tasks.page:69
-#: C/gs-switch-tasks.page:150
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:39
 msgid ""
-"To cycle through the list of open windows, do not release <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> but hold it down, and press "
-"<key>Tab</key>."
+"On the window that comes up, you’ll see the names of all of the available "
+"Wi- Fi networks that you can connect to. If you don’t see any, make sure "
+"that your Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is "
+"turned on if there is a blue light to the right of the word <gui>Wi-"
+"Fi</gui>. If the light is not blue, you can click on it once to turn it on."
 msgstr ""
-"Lai ietu cauri atvērtajiem logiem, neatlaidiet <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key>, bet turiet to piespiestu un spiediet "
-"<key>Tab</key>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:192 C/gs-switch-tasks.page:74
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:45
 msgid ""
-"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super </key> key "
-"to show the <gui>Activities Overview</gui>."
+"Select the name of your wireless network. The network in this example is "
+"called <gui>Endless Wi-Fi</gui>, but the name of your own Wi-Fi network will"
+" be different. If you’re not sure what the name of your Wi-Fi network is, or"
+" don’t know the password, you can call the company that provides your "
+"internet and ask them."
 msgstr ""
-"Spiediet taustiņu <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key>, lai parādītu <gui>Aktivitāšu pārskatu</gui>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:196 C/gs-switch-tasks.page:78
-msgid "Start typing the name of the application you want to switch to."
-msgstr "Sāciet rakstīt nosaukumu lietotnei, uz kuru vēlaties pārslēgties."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:200 C/gs-switch-tasks.page:82
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:51
 msgid ""
-"When the application appears as the first result, press <key> Enter</key> to "
-"switch to it."
+"After selecting the name of your network, you’ll have to type in your "
+"network’s password."
 msgstr ""
-"Kad vajadzīgā lietotne parādās kā pirmais rezultāts, spiediet <key>Enter</"
-"key>, lai uz to pārslēgtos."
 
-#. (itstool) path: caption/desc
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:54
+msgid ""
+"If your computer successfully connects to the internet, you’ll see a white "
+"circle to the left of the name of your network."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-04-wifi.page:57
+msgid "And just like that, you’re connected to the internet!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-05-files.page:19
+msgctxt "link"
+msgid "Exploring your files"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-05-files.page:20
+msgctxt "sort"
+msgid "05"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-05-files.page:21
+msgid "A video showing how to use the file system."
+msgstr ""
+
 #. (itstool) path: page/title
-#: C/getting-started.page:212 C/gs-respond-messages.page:22
-msgid "Respond to messages"
-msgstr "Atbildēt uz ziņojumiem"
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:218 C/gs-animation.xml:7
-#: C/gs-respond-messages.page:30
-msgid "Responding to Messages"
-msgstr "Atbildēšana uz ziņojumiem"
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:221 C/gs-respond-messages.page:33
-#: C/gs-respond-messages.page:92
-msgid ""
-"Move your mouse to the message tray at the bottom of the screen and click "
-"the chat message."
+#: C/endless-05-files.page:24
+msgid "Exploring your files"
 msgstr ""
-"Pārvietojiet peli uz ziņojumu paplāti ekrāna apakšpusē un spiediet uz "
-"tērzēšanas ziņojumu."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:225 C/gs-respond-messages.page:37
+#. (itstool) path: page/p
+#: C/endless-05-files.page:35
 msgid ""
-"Start typing your reply and when finished, press <key>Enter </key> to send "
-"the reply."
+"You can easily organize your documents and files with folders. Here’s how to"
+" do it."
 msgstr ""
-"Pabeidzot rakstīt atbildi, spiediet <key>Enter</key>, lai nosūtītu atbildi."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:229 C/getting-started.page:250
-#: C/gs-respond-messages.page:41 C/gs-respond-messages.page:62
-msgid "Close the chat message."
-msgstr "Aizvērt tērzēšanas ziņojumu."
-
-#. (itstool) path: div/p
-#. (itstool) path: titles/t
-#: C/getting-started.page:232 C/gs-animation.xml:9
-#: C/gs-respond-messages.page:44
-msgid "Delayed Response"
-msgstr "Aizkavēta atbilde"
-
-#. (itstool) path: div/p
-#: C/getting-started.page:235 C/gs-respond-messages.page:47
+#. (itstool) path: page/p
+#: C/endless-05-files.page:38
 msgid ""
-"A chat message in the message tray disappears after a while if you do not "
-"move your mouse to the message tray."
+"The <app>Documents</app> icon gives you access to your folders and files. "
+"You can find it on your desktop or by moving your mouse to the hot corner on"
+" the bottom left side of your screen and clicking on the "
+"<app>Documents</app> icon on the right side of the screen, even if you have "
+"an app open."
 msgstr ""
-"Ar laiku tērzēšanas ziņojums no ziņojumu paplātes pazudīs, ja virs tā "
-"nenovietosiet peli."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:239 C/gs-respond-messages.page:51
+#. (itstool) path: page/p
+#: C/endless-05-files.page:43
 msgid ""
-"To get back to your unanswered message, move your mouse to the message tray."
+"Once you are in the <app>Documents</app> main folder, you can create new "
+"folders where you can place all of your documents and files so that they are"
+" organized and easy to find. On the left side of the window, you’ll see "
+"shortcuts to get to those folders. To open a file or folder that is "
+"displayed on the right, click your mouse’s button quickly two times. We call"
+" this a double click. To return to the previous folder, click the back arrow"
+" above."
 msgstr ""
-"Lai tiktu atpakaļ pie neatbildēta ziņojuma, pārvietojiet peli uz ziņojumu "
-"paplāti."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:243 C/gs-respond-messages.page:55
-msgid "Click the person who sent you the message."
-msgstr "Spiediet uz personu, kas jums nosūtīja ziņojumu."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:246 C/getting-started.page:262
-#: C/gs-respond-messages.page:58 C/gs-respond-messages.page:74
-msgid "Start typing your reply and when finished, press <key>Enter </key>."
-msgstr "Pabeidzot rakstīt atbildi, spiediet <key>Enter</key>."
-
-#. (itstool) path: div/p
-#: C/getting-started.page:253 C/gs-respond-messages.page:65
+#. (itstool) path: page/p
+#: C/endless-05-files.page:50
 msgid ""
-"To show the message tray, press <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>M</key></keyseq>"
+"You can also open a folder by clicking the right button of your mouse, and "
+"then clicking <gui>Open</gui> with the left button."
 msgstr ""
-"Lai redzētu ziņojumu paplāti, spiediet <keyseq> <key href=\"help:gnome-help/"
-"keyboard-key-super\">Super</key> <key>M</key></keyseq>."
 
-#. (itstool) path: div/p
-#: C/getting-started.page:258 C/gs-respond-messages.page:70
+#. (itstool) path: page/p
+#: C/endless-05-files.page:53
 msgid ""
-"Use the arrow keys to select the person you want to reply to, and press "
-"<key>Enter</key>."
+"To use the shortcuts that are on the left side of the screen, click on the "
+"name of the folder you wish to open. For example, if you click the name "
+"<gui>Images</gui> with your left mouse button, you’ll open the "
+"<gui>Images</gui> folder."
 msgstr ""
-"Lietojiet bultu taustiņus, lai izvēlētos cilvēku, kam vēlaties atbildēt, un "
-"spiediet <key>Enter</key>."
 
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/getting-started.page:266 C/gs-respond-messages.page:78
-#: C/gs-respond-messages.page:132
-msgid "Press <key>Esc</key> to close the chat message."
-msgstr "Spiediet <key>Esc</key>, lai aizvērtu tērzēšanas ziņojumu."
+#. (itstool) path: page/p
+#: C/endless-05-files.page:58
+msgid ""
+"When you download a file from the internet, it’ll go to the "
+"<gui>Downloads</gui> folder. If you want to move files to this folder or "
+"into another folder, simply click the file without letting go and drag it to"
+" the folder where you want it. For example, if I want to move my favorite "
+"song to the music folder, I click on the music file without letting go and "
+"drag it to the music folder. Now it’s in that folder!"
+msgstr ""
 
-#. (itstool) path: div/p
-#: C/getting-started.page:269 C/gs-respond-messages.page:81
-msgid "To dismiss the message tray, press <key>Esc</key>."
-msgstr "Lai izietu no ziņojumu paplātes, spiediet <key>Esc</key>."
+#. (itstool) path: page/p
+#: C/endless-05-files.page:65
+msgid ""
+"To delete a file, whether it’s a song, photo, or another kind, simply click "
+"on it without letting go and drag it to the recycling bin. To delete my "
+"favorite song, for example, click it without letting go, drag it to the "
+"recycling bin, and let go of the click."
+msgstr ""
 
-#. (itstool) path: links/title
-#: C/getting-started.page:278
-msgid "Common Tasks"
-msgstr "Biežākie uzdevumi"
+#. (itstool) path: page/p
+#: C/endless-05-files.page:70
+msgid ""
+"From the recycling bin, you can return the files that you’ve deleted to "
+"where they originally were by selecting them and clicking "
+"<gui>Restore</gui>. You can also delete these files permanently from your "
+"computer by clicking the button <gui>Empty</gui>. If you click this button, "
+"the files will no longer take up space on your computer, but you also won’t "
+"be able to restore them and will instead permanently delete them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-05-files.page:77
+msgid "It’s easy to organize your files on Endless, right?"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-06-browser.page:19
+msgctxt "link"
+msgid "Browsing the Internet"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-06-browser.page:20
+msgctxt "sort"
+msgid "06"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-06-browser.page:21
+msgid "A video explaining how to user browse web pages."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-06-browser.page:24
+msgid "Browsing the Internet"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:35
+msgid ""
+"If you’re connected to the internet you have access to websites from all "
+"around the world! Here, you can learn how to get to them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:38
+msgid ""
+"When your computer is connected to the internet, you can open the browser by"
+" clicking on the orange circle on your task bar on the bottom left-hand "
+"corner. We have put this orange icon in three different places so you can "
+"find it easily: on the desktop next to other apps’ icons, on the black task "
+"bar on the bottom part of your screen, and on the right side of the screen "
+"when you move your mouse to the bottom right hot corner."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:45
+msgid ""
+"When you first open the browser, you’ll see the <app>Content Center</app>. "
+"Here we have collected interesting websites for you to explore. If you click"
+" on the title <gui>Discover</gui> you’ll see different categories for you to"
+" look through to find useful websites. For example, in the <gui>News</gui> "
+"category, you’ll find links for different newspapers. You can explore the "
+"different categories to discover lots of cool websites!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:52
+msgid ""
+"When you see a page that interests you, you can mark it as a favorite to "
+"save it and find it easily in the future. For example, open the page "
+"<gui>Universidad Galileo</gui>. If we want our computer to remember this "
+"page, or any other, all you have to do is click on the star that is located "
+"on the right side of the website’s URL in the top part of the window. If you"
+" want, you can change the name you save it as so that you can find it more "
+"easily in the future. Click <gui>Finished</gui>. Now the page you saved will"
+" appear when you click on <gui>Favorites</gui> in your <app>Content "
+"Center</app>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:61
+msgid ""
+"Clicking on <gui>History</gui> allows you to see all of the websites that "
+"you have previously visited. If you want to return to a site that you once "
+"visited, you can find it here. If you want to clear the list of websites "
+"that you have visited, click on the button that says <gui>Clear "
+"History</gui>, then click to accept the action on the window that pops up."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-06-browser.page:67
+msgid ""
+"If you click on <gui>Feedback</gui> on the bottom left side of the content "
+"center, you can send us your comments or suggestions. Just write your "
+"message, your name, and your email address, then click <gui>Send "
+"Feedback</gui>. We would love to hear from you!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-07-windows.page:19
+msgctxt "link"
+msgid "Minimizing and closing windows"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-07-windows.page:20
+msgctxt "sort"
+msgid "07"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-07-windows.page:21
+msgid "A video showing how to minimize and close your windows."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-07-windows.page:24
+msgid "Minimizing and closing windows"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:35
+msgid ""
+"If you want to keep an app or folder open while you work on another task on "
+"your desktop or in another app, the minimizing option is extremely useful!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:38
+msgid ""
+"You can minimize your programs one of two ways: clicking on the <key>-</key>"
+" icon, which is on the top right corner of each window, or clicking on the "
+"program’s icon on the task bar of your Endless screen. This will hide your "
+"app or folder in your task bar so that you can work on different tasks at "
+"the same time."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:44
+msgid ""
+"To make your app return to your screen, just click its icon once and it’ll "
+"return to its last size. When you’re done using a program, close it by "
+"clicking the <key>X</key> icon at the top right-hand corner of the window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-07-windows.page:48
+msgid ""
+"You can also move your mouse down to the bottom right-hand corner of your "
+"screen, then move over to the window of the app you want to close and click "
+"the <key>X</key> on the top right of that window to close it."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-08-offline.page:19
+msgctxt "link"
+msgid "Using Endless offline"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-08-offline.page:20
+msgctxt "sort"
+msgid "08"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-08-offline.page:21
+msgid "A video showing the offline content on your computer."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-08-offline.page:24
+msgid "Using Endless offline"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:35
+msgid ""
+"Your computer includes a lot of offline content so you can learn and explore"
+" a great deal of things without having an internet connection!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:38
+msgid ""
+"For example, you’ll find a folder called <gui>Curiosities</gui> on your "
+"desktop where you can find apps like <app>Virtual School</app>, which allows"
+" you to watch hundreds of videos about all sorts of subjects you may find "
+"interesting."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:43
+msgid ""
+"Let’s explore <app>Virtual School</app>. Open the app to see the all the "
+"different subjects for which you can watch video lessons. You’ll see the "
+"number of videos available for each topic to the right of its name. For "
+"example, in <gui>Sciences</gui>, you can see that there are 4 videos on the "
+"topic <gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of"
+" this topic, you’ll be able to see the list of videos available."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:50
+msgid ""
+"For any video you’d like to watch, just click on it once to begin playing "
+"it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:53
+msgid ""
+"To end the video, just click on the <key>X</key> button at the top right-"
+"hand corner of the video. To learn more about how to control videos, please "
+"see the tutorial that talks about photos, music and video."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:57
+msgid ""
+"You may also be interested in using the <app>Encyclopedia</app> app. We have"
+" put it on your desktop to make it easy to find."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:60
+msgid ""
+"When you open this app, you will see a bar where you can search for any "
+"topic you want to investigate. For example, let's look for information about"
+" Guatemala. Once you start typing, a list will appear so that you can choose"
+" the item that best matches what you’d like to read about. Click on a title "
+"and all of the information on the topic you have chosen will appear."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-08-offline.page:66
+msgid ""
+"Remember that there are many apps that do not require internet. Keep "
+"exploring your computer to find them!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-09-writer.page:19
+msgctxt "link"
+msgid "Using the Writer app"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-09-writer.page:20
+msgctxt "sort"
+msgid "09"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-09-writer.page:21
+msgid "A video showing how to use the Writer app to create documents."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-09-writer.page:24
+msgid "Using the Writer app"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:35
+msgid ""
+"Your computer comes with apps for you to create the documents and "
+"presentations that you need."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:38
+msgid ""
+"For example, you can find the <app>Writer</app> app on your desktop, with "
+"which you can create your documents. You can also create spreadsheets in the"
+" <app>Spreadsheets</app> app, which is located in the <gui>Work</gui> "
+"folder. And, you can use the <app>Presentation</app> app to create "
+"presentations that can help you communicate your ideas."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:44
+msgid ""
+"Let’s walk through some basic things that you can do with the "
+"<app>Writer</app> app."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:47
+msgid ""
+"You can easily copy text from other apps. Suppose you want to copy text from"
+" the <app>Encyclopedia</app> app. Just select the text you want to copy, and"
+" right click on it. A menu with the option to <gui>Copy</gui> will appear. "
+"Click on that option."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:52
+msgid ""
+"Go back to the app where you want to paste the information. Then, simply "
+"right click again, and then click <gui>Paste</gui>. The text you copied from"
+" the encyclopedia will appear in your document."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:56
+msgid ""
+"Select the text again with your mouse, or by pressing and holding "
+"<key>Shift</key> and the arrow buttons. You can then use the buttons at the "
+"top of the screen to make the text bold, italic, or underlined. You can also"
+" center or justify the paragraph format so that it looks the way you want it"
+" to look."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:62
+msgid "Explore all of the buttons up top to see the function of each!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-09-writer.page:64
+msgid ""
+"You can save your document by clicking <gui>File</gui>, then "
+"<gui>Save</gui>. Remember to give your document a name that you will "
+"remember (usually something that describes what is in the document) before "
+"saving it to make it easier to find later."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-10-video-player.page:19
+msgctxt "link"
+msgid "Playing videos"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-10-video-player.page:20
+msgctxt "sort"
+msgid "10"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-10-video-player.page:21
+msgid "A video showing how to play movies and videos with Endless."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-10-video-player.page:24
+msgid "Playing videos"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:35
+msgid ""
+"We have pre-installed some fun short videos onto your computer so you can "
+"watch them whenever you want. You can also watch videos from a USB memory "
+"stick, or you can download and watch videos from the internet if you have a "
+"connection."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:40
+msgid ""
+"First, let's find the <gui>Videos</gui> folder. From the desktop, click on "
+"the <app>Documents</app> folder. Then, double click on the <gui>Videos</gui>"
+" folder. Double click on the <gui>Samples</gui> folder to open it. This is "
+"where we have added the pre-installed short videos. To open a video, simply "
+"double click on its name."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:46
+msgid ""
+"Once the video is playing, you can pause it by clicking on the button in the"
+" lower left corner of the video. To continue playing it, click on that same "
+"button. You can click on the grey square that appears on the bottom bar of "
+"the video and drag it to advance or rewind the video."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:51
+msgid ""
+"If you’d like to see the video in full screen, just click on the arrows "
+"below the video on the right. To downsize the video and see other things in "
+"your screen again, you’ll have to press the <key>ESC</key> key, which is on "
+"the top left-hand side of your keyboard. This key can also be used to quit "
+"games that take you into full-screen mode, or when any other video is in "
+"full-screen."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:57
+msgid ""
+"You can find the button to adjust volume on the lower right-hand side of the"
+" video player. Click and then drag the bar up and down to adjust the volume."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:60
+msgid ""
+"Remember to connect your computer to headphones or speakers so you can hear "
+"the video’s sound. If your computer is connected to a TV, then the TV’s "
+"speakers should work to play sound. If you still cannot hear anything, try "
+"turning up the volume on your computer or on your TV."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-10-video-player.page:65
+msgid "We hope you enjoy all the videos we chose for you!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-11-photos-and-music.page:19
+msgctxt "link"
+msgid "Photos and Music"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-11-photos-and-music.page:20
+msgctxt "sort"
+msgid "11"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-11-photos-and-music.page:21
+msgid "A video showing how to edit photos and listen to music."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-11-photos-and-music.page:24
+msgid "Photos and Music"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:35
+msgid ""
+"Editing your photos is easy! You can find the <app>Photo Editor</app> app "
+"right on your desktop. Click once to open it and then choose a picture you "
+"want to edit. You can use one of the photos that comes with your computer, "
+"or a photo that you have taken and uploaded."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:40
+msgid ""
+"Click <gui>Open Image</gui> to begin. To view the photos that are already on"
+" your computer, double click on the <gui>Samples</gui> folder. You can click"
+" once on a photo’s name to view it in a preview, and can double click on the"
+" picture you want to open and edit it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:45
+msgid ""
+"Once you have a photo open, you can edit it in many fun ways. For example, "
+"you can rotate, cut or change it until you find a look that you really like "
+"for it."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:49
+msgid ""
+"We have included many filters to give you more options to create your "
+"perfect image. There are even options to distort the photo and make it look "
+"funny."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:52
+msgid ""
+"Add a frame to your masterpiece if you’d like, and when you are finished "
+"editing the photo you can save it, post it to Facebook, or use it as your "
+"wallpaper!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:56
+msgid ""
+"Make sure you also check out the <app>Music</app> on your desktop. Open to "
+"see a bunch of songs we have already added. You can of course add more songs"
+" by transferring them from a USB or downloading them."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:60
+msgid ""
+"To hear a song, double click on it. You can pause it by clicking on the "
+"button on the top left-hand side, and continue playing it by re-clicking the"
+" same button."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:64
+msgid ""
+"You can also skip to the next song or replay a previous song with the arrow "
+"buttons, and can even choose to repeat the song over and over again. You can"
+" play all of the songs in your playlists in order or shuffle the songs and "
+"play them out of order."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:69
+msgid ""
+"You can find the area to adjust volume on the top right-hand side. Click and"
+" drag the circle button to the left or right to adjust the volume."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-11-photos-and-music.page:72
+msgid ""
+"Remember, to hear audio, you have to connect headphones or speakers to your "
+"computer. If you have your computer connected to a TV and still cannot hear "
+"the audio, try turning up the volume of your computer or of your TV."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-12-social-bar.page:19
+msgctxt "link"
+msgid "Using Facebook"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-12-social-bar.page:20
+msgctxt "sort"
+msgid "12"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-12-social-bar.page:21
+msgid "A video showing how to use Facebook with other programs."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-12-social-bar.page:24
+msgid "Using Facebook"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:35
+msgid ""
+"If you have internet, there are two simple ways to access <em>Facebook</em>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:38
+msgid ""
+"The first is opening the browser and entering <em>facebook.com</em> at the "
+"top, then entering your name and password in the login part of the site as "
+"you may already be used to doing."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:42
+msgid ""
+"The other way is to use the <em>Facebook</em> button located in the lower "
+"right-hand corner of your screen. By clicking on it, you will see a window "
+"that appears on the right side of the screen. Enter your email and password "
+"and start using Facebook immediately!"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:47
+msgid ""
+"If you access <em>Facebook</em> this second way, you'll have very easy "
+"access to <em>Facebook</em> while using other programs. For example, you can"
+" be using the <app>Writer</app> app, and while you are working on a "
+"document, you can check <em>Facebook</em> quickly during breaks, and you can"
+" even continue a conversation without having to switch programs to do so."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:53
+msgid ""
+"If you use this second method, be sure to logout of your Facebook account "
+"before you stop using the computer, otherwise, someone else may be able to "
+"access your Facebook account."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:57
+msgid ""
+"To logout of <em>Facebook</em>, make sure you are in the <em>Facebook</em> "
+"window, click on the menu button on the top left-hand side, scroll to the "
+"bottom of the window, and click on the <em>logout</em> button."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-12-social-bar.page:61
+msgid "There you go, Facebook is now just a click away!"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-13-printers.page:9
+msgctxt "link"
+msgid "Setting up a printer"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-13-printers.page:10
+msgctxt "sort"
+msgid "13"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-13-printers.page:11
+msgid "A video showing how to set up a printer for the first time."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-13-printers.page:14
+msgid "Setting up a printer"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:25
+msgid ""
+"Click the <em>User Menu</em> button on the bottom left-hand corner of the "
+"screen, then select <gui>Settings</gui>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:28
+msgid ""
+"In the window that appears, click <gui>Printers</gui>. To continue, you must"
+" unlock this window by clicking on the button that says <gui>Unlock</gui> in"
+" the upper right-hand corner. Enter your password and click "
+"<gui>Authenticate</gui> to finish unlocking the window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:33
+msgid ""
+"Click the <key>+</key> symbol in the lower left-hand corner of this window."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:36
+msgid ""
+"Select your printer from the list that appears, and click <gui>Add</gui>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:38
+msgid ""
+"You will see the name of your printer appear. If you want to check that your"
+" printer is configured correctly, click the button that says "
+"<gui>Print</gui> to print a sample page."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/endless-13-printers.page:42
+msgid ""
+"You can now close this window and begin to use your printer with Endless!"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/endless-videos.page:9
+msgid "Watch videos explaining how to use EndlessOS."
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-videos.page:10
+msgctxt "link"
+msgid "Videos Tutorials"
+msgstr ""
+
+#. (itstool) path: info/title
+#: C/endless-videos.page:11
+msgctxt "sort"
+msgid "Videos Tutorials"
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/endless-videos.page:14
+msgid "Endless Videos"
+msgstr ""
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:3
@@ -435,10 +1117,39 @@ msgid "Welcome"
 msgstr "Laipni lūdzam"
 
 #. (itstool) path: titles/t
-#. (itstool) path: div/p
-#: C/gs-animation.xml:6 C/gs-change-wallpaper.page:30
+#: C/gs-animation.xml:4
+msgid "Launching Applications"
+msgstr "Lietotņu palaišana"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:5
+msgid "Getting Started"
+msgstr "Ar ko sākt"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:6
 msgid "Changing Wallpaper"
 msgstr "Tapešu mainīšana"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:7
+msgid "Responding to Messages"
+msgstr "Atbildēšana uz ziņojumiem"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:8
+msgid "Switching Tasks"
+msgstr "Pārslēgšanās starp uzdevumiem"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:9
+msgid "Delayed Response"
+msgstr "Aizkavēta atbilde"
+
+#. (itstool) path: titles/t
+#: C/gs-animation.xml:10
+msgid "Windows and Workspaces"
+msgstr "Logi un darbvietas"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
@@ -623,558 +1334,293 @@ msgid "14 October 2013, 14:00"
 msgstr "14. oktobris 2013, 14.00"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:11 C/gs-browse-web-firefox.page:12
-#: C/gs-change-date-time-timezone.page:12 C/gs-change-wallpaper.page:11
-#: C/gs-connect-online-accounts.page:10 C/gs-get-online.page:10
-#: C/gs-launch-applications.page:11 C/gs-respond-messages.page:11
-#: C/gs-switch-tasks.page:11 C/gs-use-system-search.page:10
-#: C/gs-use-windows-workspaces.page:10
+#: C/gs-browse-web.page:9 C/gs-get-online.page:9 C/gs-use-system-search.page:9
 msgid "Jakub Steiner"
 msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
-#: C/gs-browse-web.page:14 C/gs-browse-web-firefox.page:15
-#: C/gs-change-date-time-timezone.page:15 C/gs-change-wallpaper.page:14
-#: C/gs-connect-online-accounts.page:13 C/gs-get-online.page:13
-#: C/gs-launch-applications.page:14 C/gs-respond-messages.page:14
-#: C/gs-switch-tasks.page:14 C/gs-use-system-search.page:13
-#: C/gs-use-windows-workspaces.page:13
+#: C/gs-browse-web.page:12 C/gs-get-online.page:12
+#: C/gs-use-system-search.page:12
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
-#. (itstool) path: info/title
-#: C/gs-browse-web.page:19
-msgctxt "link:trail"
-msgid "Browse the web"
-msgstr "Pārlūkot tīmekli"
+#. (itstool) path: info/desc
+#: C/gs-browse-web.page:20
+msgid "Use Facebook, Google and other popular websites with your browser."
+msgstr ""
 
 #. (itstool) path: page/title
-#: C/gs-browse-web.page:22 C/gs-browse-web-firefox.page:23
+#: C/gs-browse-web.page:23
 msgid "Browse the web"
 msgstr "Pārlūkot tīmekli"
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:27 C/gs-browse-web-firefox.page:31
-#: C/gs-launch-applications.page:65
+#: C/gs-browse-web.page:27
 msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen to show the <gui>Activities Overview</gui>."
+"Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
+"your desktop. You can browse the internet by clicking on this desktop icon "
+"once."
 msgstr ""
-"Pārvietojiet peles rādītāju uz <gui>Aktivitātes</gui> ekrāna augšā kreisajā "
-"stūrī, lai redzētu <gui>Aktivitāšu pārskatu/gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:30
+#: C/gs-browse-web.page:33
 msgid ""
-"Select the <app>Web</app> browser icon from the bar on the left-hand side of "
-"the screen."
-msgstr "Izvēlieties pārlūka <app>Tīmeklis</app> ikonu no kreisās ekrāna puses."
-
-#. (itstool) path: note/p
-#: C/gs-browse-web.page:34
-msgid ""
-"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-"search\">just typing</link> <em>web</em> in the <gui>Activities Overview</"
-"gui>."
+"You can also open this app by moving your mouse pointer to the "
+"<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
+"clicking once."
 msgstr ""
-"Vai arī varat pārlūku palaist <link xref=\"gs-use-system-search\">vienkārši "
-"ierakstot</link> <em>tīmeklis</em> <gui>Aktivitāšu pārskatā</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:41 C/gs-browse-web-firefox.page:60
-msgid ""
-"Click the address bar at the top of the browser window and start typing in "
-"the website you want to visit."
+#: C/gs-browse-web.page:39
+msgid "Click the address bar at the top of the browser window. Start typing!"
 msgstr ""
-"Spiediet uz adreses joslas pārlūka loga augšpusē un sāciet rakstīt vietnes "
-"nosaukumu, kuru vēlaties apmeklēt."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:43 C/gs-browse-web-firefox.page:62
+#: C/gs-browse-web.page:43
 msgid ""
-"Typing in a website starts searching for it in the browser history and "
-"bookmarks, so you do not need to remember the exact address."
+"You do not need to remember the exact address if you have already visited "
+"the website because it will be stored in your history and/or bookmarks."
 msgstr ""
-"Tīmekļa vietnes rakstīšanas laikā tā tiek meklēta pārlūka vēsturē un "
-"grāmatzīmēs, lai jums nevajadzētu atcerēties precīzu adresi."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:46 C/gs-browse-web-firefox.page:65
+#: C/gs-browse-web.page:46
 msgid ""
-"If the website is found in the history or bookmarks, a drop-down list is "
-"shown below the address bar."
+"If the website is found in the history or bookmarks, you will see a drop-"
+"down list appear below the address bar."
 msgstr ""
-"Ja vietne ir atrasta vēsturē vai grāmatzīmēs, tā tiks parādīta sarakstā zem "
-"adreses joslas."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:48 C/gs-browse-web-firefox.page:67
-msgid ""
-"From the drop-down list, you can quickly select a website using the arrow "
-"keys."
+#: C/gs-browse-web.page:49
+msgid "Select the website you are looking for using the arrow keys."
 msgstr ""
-"No šī saraksta jūs varat ātri izvēlēties tīmekļa vietnes, izmantojot bultu "
-"taustiņus."
 
 #. (itstool) path: item/p
-#: C/gs-browse-web.page:51 C/gs-browse-web-firefox.page:70
+#: C/gs-browse-web.page:52
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
-"Pēc tīmekļa vietnes izvēles, spiediet <key>Enter</key>, lai to apmeklētu."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:34
-msgid ""
-"Select the <app>Firefox</app> browser icon from the bar on the left-hand "
-"side of the screen."
-msgstr "Izvēlieties pārlūka <app>Firefox</app> ikonu no kreisās ekrāna puses."
+msgstr "Pēc tīmekļa vietnes izvēles, spiediet <key>Enter</key>, lai to apmeklētu."
 
 #. (itstool) path: note/p
-#: C/gs-browse-web-firefox.page:38
+#: C/gs-browse-web.page:58
 msgid ""
-"Alternatively, you can launch the browser by <link xref=\"gs-use-system-"
-"search\">just typing</link> <em>Firefox</em> in the <gui>Activities "
-"Overview</gui>."
+"You can search the internet directly from your desktop by using the <link "
+"xref=\"gs-use-system-search\">global search bar</link> feature. First, "
+"<gui>type what you are looking for directly</gui> into the search bar on "
+"your desktop. You will be shown the top results that are already on your "
+"Endless computer, and it will also ask if you want to search the internet. "
+"Click on the option to search the internet."
 msgstr ""
-"Vai arī varat pārlūku palaist <link xref=\"gs-use-system-search\">vienkārši "
-"ierakstot</link> <em>Firefox</em> <gui>Aktivitāšu pārskatā</gui>."
 
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:48
-msgid "Click the <gui>Applications</gui> menu at the top left of the screen."
-msgstr ""
-"Spiediet uz izvēlnes <gui>Lietotnes</gui> ekrāna augšējā kreisajā stūrī."
-
-#. (itstool) path: item/p
-#: C/gs-browse-web-firefox.page:50
+#. (itstool) path: info/desc
+#: C/gs-fix-overscan.page:19
 msgid ""
-"From the menu, select <guiseq><gui>Internet</gui><gui>Firefox</gui> </"
-"guiseq>."
+"Fix a problem where your TV is cutting off the top and bottom of the screen."
 msgstr ""
-"Izvēlnē izvēlieties <guiseq><gui>Internets</gui><gui>Firefox</gui></guiseq>."
-
-#. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:18
-msgctxt "link:trail"
-msgid "Change the date, time and timezone"
-msgstr "Mainīt datumu, laiku un laika joslu"
-
-#. (itstool) path: info/title
-#: C/gs-change-date-time-timezone.page:20
-msgctxt "link:seealso"
-msgid "A tutorial on changing the date, time and timezone"
-msgstr "Pamācība datuma, laika un laika joslu mainīšanai"
 
 #. (itstool) path: page/title
+#: C/gs-fix-overscan.page:22
+msgid "I can't see the task bar or start menu, what do I do?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-fix-overscan.page:24
+msgid ""
+"If you do not see the task bar at the bottom of your screen with the user "
+"menu on the left and the time and facebook icon on the right, you need to "
+"adjust your screen to fit your TV."
+msgstr ""
+
 #. (itstool) path: section/title
-#: C/gs-change-date-time-timezone.page:24
-#: C/gs-change-date-time-timezone.page:70
-msgid "Change the date, time and timezone"
-msgstr "Mainīt datumu, laiku un laika joslu"
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:35
-msgid "Changing Date &amp; Time"
-msgstr "Datuma un laika mainīšana"
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:38
-msgid "Click the clock on the top bar."
-msgstr "Spiediet uz pulksteņa augšējā joslā."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:41
-msgid "Select <gui>Date &amp; Time Settings</gui>."
-msgstr "Izvēlieties <gui>Datuma un laika iestatījumus</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:44
-msgid "Make sure that <gui>Automatic Time Zone</gui> is switched off."
-msgstr "Pārliecinieties, ka ir izslēgta <gui>Automātiskā laika josla</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:48
-msgid "Click <gui>Time Zone</gui>."
-msgstr "Spiediet <gui>Laika josla</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:51
-msgid "Click on your location on the map."
-msgstr "Spiediet kartē uz savu atrašanās vietu."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:54
-msgid "Click <gui>Close</gui>."
-msgstr "Spiediet <gui>Aizvērt</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-date-time-timezone.page:57
-msgid "Close the window."
-msgstr "Aizvērt logu."
-
-#. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:73
-msgid ""
-"Click the clock on the top bar and select the <gui>Date &amp; Time Settings</"
-"gui> item."
+#: C/gs-fix-overscan.page:29
+msgid "To adjust your screen:"
 msgstr ""
-"Spiediet uz pulksteņa augšējā joslā un izvēlieties vienumu <gui>Datuma un "
-"laika iestatījumi</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:75
-msgid ""
-"Make sure that the <gui>Automatic Time Zone</gui> item is switched off, and "
-"then click the <gui>Time Zone</gui> item below."
+#: C/gs-fix-overscan.page:32
+msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
 msgstr ""
-"Pārliecinieties, ka ir izslēgta <gui>Automātiskā laika josla</gui>. un zemāk "
-"spiediet <gui>Laika josla</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:77
-msgid ""
-"Click on your location on the map. This selects your current city, which you "
-"can also search for in the search box above the map."
+#: C/gs-fix-overscan.page:37
+msgid "Click the back button on the top left corner of the dialog box."
 msgstr ""
-"Spiediet kartē uz savu atrašanās vietu. Tas jums ļauj izvēlēties pašreizējo "
-"pilsētu, kuru jūs varat arī meklēt virs kartes esošajā meklēšanas laukā."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:80
-msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window."
+#: C/gs-fix-overscan.page:41
+msgid "Select the <gui>Displays</gui> icon."
 msgstr ""
-"Spiediet pogu <gui>Aizvērt</gui>, lai dotos atpakaļ uz logu <gui>Datuma un "
-"laika iestatījumi</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:82
+#: C/gs-fix-overscan.page:45
 msgid ""
-"Make sure that the <gui>Automatic Date &amp; Time</gui> item is switched "
-"off, and then click the <gui>Date &amp; Time</gui> item below to open the "
-"<gui>Date &amp; Time</gui> window. There you can adjust your date and time "
-"settings by clicking on the <gui>+</gui> or <gui>-</gui> buttons."
+"Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
+"screen for TV\"</gui>."
 msgstr ""
-"Pārliecinieties, ka ir izslēgts vienums <gui>Automātisks datums un laiks</"
-"gui>, tad spiediet uz zemāk esošā vienuma <gui>Datums un laiks</gui>, lai "
-"atvērtu logu <gui>Datums un laiks</gui>. Tur varat pielāgot datumu un laiku, "
-"spiežot pogas <gui>+</gui> un <gui>-</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-change-date-time-timezone.page:87
+#: C/gs-fix-overscan.page:50
 msgid ""
-"Click the <gui>Close</gui> button to go back to the <gui>Date &amp; Time "
-"Settings</gui> window, and then close that window by clicking the cross at "
-"the top-right corner of that window."
+"You should now see a black bar at the bottom of your screen and the user "
+"menu on the bottom left-hand corner of your screen!"
 msgstr ""
-"Spiediet pogu <gui>Aizvērt</gui>, lai dotos atpakaļ uz logu <gui>Datuma un "
-"laika iestatījumi</gui>, tad aizveriet to logu, spiežot krustiņu loga "
-"augšējā labajā stūrī."
-
-#. (itstool) path: info/title
-#: C/gs-change-wallpaper.page:17
-msgctxt "link:trail"
-msgid "Change the wallpaper"
-msgstr "Mainīt tapetes"
-
-#. (itstool) path: info/title
-#: C/gs-change-wallpaper.page:19
-msgctxt "link:seealso"
-msgid "A tutorial on changing the wallpaper"
-msgstr "Tapešu mainīšanas ceļvedis"
-
-#. (itstool) path: page/title
-#. (itstool) path: section/title
-#: C/gs-change-wallpaper.page:22 C/gs-change-wallpaper.page:57
-msgid "Change the wallpaper"
-msgstr "Mainīt tapetes"
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:33
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button."
-msgstr ""
-"Spiediet uz sistēmas izvēlnes augšējās joslas labajā pusē un spiediet "
-"iestatījumu pogu."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:37
-msgid "Select <gui>Background</gui>."
-msgstr "Izvēlieties <gui>fonu</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:40
-msgid "Click the current background image."
-msgstr "Spiediet uz pašreizējā fona attēla."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:43 C/gs-change-wallpaper.page:65
-msgid "Click the background image you want to use."
-msgstr "Spiediet uz fona attēla, kuru vēlaties izmantot."
-
-#. (itstool) path: div/p
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:46 C/gs-change-wallpaper.page:66
-msgid "Click the <gui>Select</gui> button."
-msgstr "Spiediet pogu <gui>Izvēlēties</gui>."
-
-#. (itstool) path: div/p
-#: C/gs-change-wallpaper.page:49
-msgid "Close the <gui>Background</gui> window."
-msgstr "Aizveriet logu <gui>Fons</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:60 C/gs-use-system-search.page:80
-msgid ""
-"Click the system menu on the right side of the top bar and press the "
-"settings button at the bottom of the menu."
-msgstr ""
-"Spiediet uz sistēmas izvēlnes augšējās joslas labajā pusē un spiediet "
-"iestatījumu pogu izvēlnes apakšā."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:62
-msgid "From the list of items, select <gui>Background</gui>."
-msgstr "No vienumu saraksta izvēlieties <gui>Fons</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:63
-msgid ""
-"Click the current background image on the left side of the <gui>Background</"
-"gui> window."
-msgstr ""
-"Spiediet uz savas pašreizējās tapetes attēla, kas ir loga <gui>Fons</gui> "
-"kreisajā pusē."
-
-#. (itstool) path: item/p
-#: C/gs-change-wallpaper.page:67
-msgid ""
-"Close the <gui>Background</gui> window by clicking the cross at the top-"
-"right corner of the window."
-msgstr ""
-"Aizveriet logu <gui>Fons</gui>, spiežot uz krustiņu loga augšējā labajā "
-"stūrī."
-
-#. (itstool) path: info/title
-#: C/gs-connect-online-accounts.page:16
-msgctxt "link:trail"
-msgid "Connect to online accounts"
-msgstr "Savienoties ar tiešsaistes kontiem"
-
-#. (itstool) path: info/title
-#: C/gs-connect-online-accounts.page:18
-msgctxt "link:seealso"
-msgid "A tutorial on connecting to online accounts"
-msgstr "Ceļvedis darbā ar tiešsaistes kontiem"
-
-#. (itstool) path: page/title
-#: C/gs-connect-online-accounts.page:22
-msgid "Connect to online accounts"
-msgstr "Savienoties ar tiešsaistes kontiem"
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:27
-msgid "Click the system menu on the right side of the top bar."
-msgstr "Spiediet sistēmas izvēlni augšējās joslas labajā pusē."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:28
-msgid "Press the settings button at the bottom of the menu."
-msgstr "Spiediet iestatījumu pogu izvēlnes apakšā."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:34
-msgid ""
-"From the list of items, select <gui>Online Accounts</gui>, then click on the "
-"<gui>Add an online account</gui> button."
-msgstr ""
-"No vienumu saraksta izvēlieties <gui>Tiešsaistes konti</gui>, tad spiediet "
-"pogu <gui>Pievienot tiešsaistes kontu</gui>."
-
-#. (itstool) path: note/p
-#: C/gs-connect-online-accounts.page:38
-msgid ""
-"If you have set up an online account before, you can add another online "
-"account by clicking the <gui>+</gui> button at the bottom left corner of the "
-"window."
-msgstr ""
-"Ja esat jau izveidojis tiešsaistes kontu, jūs varat pievienot vēl vienu, "
-"spiežot pogu <gui>+</gui> loga apakšējā kreisajā pusē."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:45
-msgid ""
-"Click the online account you want to use. This will open a new window where "
-"you can sign in to your online account."
-msgstr ""
-"Spiediet uz tiešsaistes konta, ko vēlaties izmantot. Tas atvērs jaunu logu, "
-"kurā varat ierakstīties savā tiešsaistes kontā."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:52
-msgid ""
-"In most cases, you will have to grant access to the online service after "
-"signing in to get started."
-msgstr ""
-"Vairumā gadījumu pēc ierakstīšanās tiešsaistes servisam vajadzēs piešķirt "
-"pieejas tiesības, lai varētu sākt to izmantot."
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:54
-msgid ""
-"For example, if you are connecting to your Google account, you will have to "
-"click the <gui>Grant Access</gui> button."
-msgstr ""
-"Piemēram, ja savienojaties ar savu Google kontu, jums būs jāspiež poga "
-"<gui>Piešķirt pieeju</gui>"
-
-#. (itstool) path: item/p
-#: C/gs-connect-online-accounts.page:61
-msgid ""
-"Many online accounts let you choose the services you want to use with your "
-"online account. If you do not want to use a service, disable it by clicking "
-"the <gui>ON/OFF</gui> switch on the right-hand side of the window."
-msgstr ""
-"Daudzi tiešsaistes konti jums ļauj izvēlēties pakalpojumus, var izmantot ar "
-"jūsu kontu. Ja nevēlaties izmantot kādu servisu, to var deaktivēt, spiežot "
-"slēdzi loga labajā pusē."
-
-#. (itstool) path: info/title
-#: C/gs-get-online.page:16
-msgctxt "link:trail"
-msgid "Get online"
-msgstr "Nokļūt internetā"
-
-#. (itstool) path: info/title
-#: C/gs-get-online.page:18
-msgctxt "link:seealso"
-msgid "A tutorial on getting online"
-msgstr "Ceļvedis, kā tikt pie interneta savienojuma"
 
 #. (itstool) path: page/title
 #: C/gs-get-online.page:21
-msgid "Get online"
-msgstr "Nokļūt internetā"
-
-#. (itstool) path: note/p
-#: C/gs-get-online.page:24
-#| msgid ""
-#| "You can see the status of your network connection on the right-hand side "
-#| "of the top bar, next to your name."
-msgid ""
-"You can see the status of your network connection on the right-hand side of "
-"the top bar."
+msgid "How do I set up my internet?"
 msgstr ""
-"Jūs varat redzēt sava tīkla savienojuma statusu augšējās joslas labajā pusē."
+
+#. (itstool) path: page/p
+#: C/gs-get-online.page:23
+msgid ""
+"If you are offline, the network connection icon on the bottom right-hand "
+"side of your screen will look like this <_:media-1/>."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-get-online.page:27
+msgid ""
+"The offline status can be caused by a number of reasons: for example, a "
+"network cable has been unplugged, the computer has been set to run in "
+"<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
+"area."
+msgstr "Savienojuma trūkumam jeb nesaistei var būt vairāki iemesli, piemēram, tīkla vads varētu būt atvienots, dators atrodas <em>lidmašīnas režīmā</em> vai arī šajā telpā nav pieejamu Wi-Fi tīklu."
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:30
+#: C/gs-get-online.page:34
 msgid "Connect to a wired network"
 msgstr "Savienoties ar vadu tīklu"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:35
-msgid ""
-"The network connection icon on the right-hand side of the top bar shows that "
-"you are off-line."
-msgstr ""
-"Tīkla savienojuma ikona augšējās joslas labajā pusē rāda, ka esat nesaistē."
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:37
-#| msgid ""
-#| "The off-line status can be caused by a number of reasons: for example, a "
-#| "network cable has been unplugged, the computer has been set to run in "
-#| "<em>airplane mode</em>, or there are no available wireless networks in "
-#| "your area."
-msgid ""
-"The off-line status can be caused by a number of reasons: for example, a "
-"network cable has been unplugged, the computer has been set to run in "
-"<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
-"area."
-msgstr ""
-"Savienojuma trūkumam jeb nesaistei var būt vairāki iemesli, piemēram, tīkla "
-"vads varētu būt atvienots, dators atrodas <em>lidmašīnas režīmā</em> vai arī "
-"šajā telpā nav pieejamu Wi-Fi tīklu."
-
-#. (itstool) path: item/p
-#: C/gs-get-online.page:41
+#: C/gs-get-online.page:38
 msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
-msgstr ""
-"Ja vēlaties izmantot tīkla savienojumu, pievienojiet tīkla vadu, lai "
-"piekļūtu internetam. Dators automātiski mēģinās izveidot tīkla savienojumu."
+msgstr "Ja vēlaties izmantot tīkla savienojumu, pievienojiet tīkla vadu, lai piekļūtu internetam. Dators automātiski mēģinās izveidot tīkla savienojumu."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:44
+#: C/gs-get-online.page:41 C/gs-get-online.page:76
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
-msgstr ""
-"Kamēr dators izveido tīkla savienojumu, tīkla savienojuma ikonā būs redzami "
-"trīs punkti."
+msgstr "Kamēr dators izveido tīkla savienojumu, tīkla savienojuma ikonā būs redzami trīs punkti."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:46
+#: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
-"connection icon changes to the networked computer symbol."
+"connection icon changes to this <_:media-1/> networked computer symbol."
 msgstr ""
-"Kad tīkla savienojums ir veiksmīgi iestatīts, tīkla savienojuma ikona "
-"mainīsies uz pie tīkla pieslēgta datora simbolu."
 
 #. (itstool) path: section/title
-#: C/gs-get-online.page:54
-#| msgid "Connect to a wired network"
+#: C/gs-get-online.page:56
 msgid "Connect to a Wi-Fi network"
 msgstr "Savienoties ar Wi-Fi tīklu"
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:59
+#: C/gs-get-online.page:60
 msgid ""
-"To connect to a Wi-Fi (wireless) network, click the status menu at the top "
-"right of the screen, and then click <gui>Select Network</gui>."
+"Is your Wi-Fi connected? Look for the network icon at the bottom right "
+"corner of your screen. You will see this icon <_:media-1/>. Click on it and "
+"a menu should appear."
 msgstr ""
-"Lai savienotos ar Wi-Fi (bezvadu) tīklu, spiediet uz statusa izvēlnes ekrāna "
-"augšējā labajā stūrī un spiediet <gui>Izvēlieties tīklu</gui>."
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:66
+msgid ""
+"Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi” to turn "
+"it on. Check to make sure it is now blue."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:70
+msgid "Next, select your Wi-Fi network from the list."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-get-online.page:73
+msgid ""
+"Enter your network password, which is usually different than the password "
+"you use to log in to your computer."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/gs-get-online.page:65
+#: C/gs-get-online.page:88
 msgid ""
-"You can only connect to a Wi-Fi network if your computer hardware supports "
-"it and you are in an area with Wi-Fi coverage."
+"If you don’t see your network in the list, try unplugging your Wi-Fi router "
+"then plugging it back in. If it still doesn’t work, you may need to contact "
+"your internet provider directly."
 msgstr ""
-"Jūs varat savienoties ar Wi-Fi tīklu tikai tad, ja to atbalsta datora "
-"aparatūra un ja ir Wi-Fi pārklājums."
+
+#. (itstool) path: note/p
+#: C/gs-get-online.page:93
+msgid ""
+"Remember that your friends or neighbors may have the same default network "
+"name you do, and your computer may be picking up their network signal. If "
+"your password isn’t working, make sure you have selected the right network."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/gs-give-feedback.page:19
+msgid "How can I help make Endless better?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-give-feedback.page:21
+msgid ""
+"What do you love about Endless? Is there anything you would change? Do you "
+"have any ideas or suggestions for new apps to include?"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-give-feedback.page:24
+msgid "We want to hear from you!"
+msgstr ""
+
+#. (itstool) path: steps/title
+#: C/gs-give-feedback.page:27
+msgid "Here's how to give us your feedback:"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:72
+#: C/gs-give-feedback.page:29
 msgid ""
-"From the list of available Wi-Fi networks, select the network you want to "
-"connect to, and click <gui>Connect</gui> to confirm."
+"Click on the <_:media-1/> on the bottom left-hand corner of your screen."
 msgstr ""
-"No pieejamo Wi-Fi tīklu saraksta izvēlieties tīklu, ar kuru vēlaties "
-"savienoties un spiediet <gui>Savienot</gui>, lai apstiprinātu."
 
 #. (itstool) path: item/p
-#: C/gs-get-online.page:74
+#: C/gs-give-feedback.page:35
 msgid ""
-"Depending on the network configuration, you may be prompted for network "
-"credentials."
+"Click the <gui>Give Us Feedback</gui> option. You can also access the "
+"feedback section by opening your browser and clicking the "
+"<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
 msgstr ""
-"Atkarība no tīkla konfigurācijas, jums varētu prasīt tīkla akreditācijas "
-"datus."
+
+#. (itstool) path: item/p
+#: C/gs-give-feedback.page:42
+msgid ""
+"Enter in your comment, name and email address. You must fill in all three "
+"fields in order to submit your feedback."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-give-feedback.page:47
+msgid ""
+"You will receive a confirmation email to let you know that we have received "
+"your feedback. We will try to get back to you as soon as we can."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/gs-give-feedback.page:54
+msgid ""
+"Please note that you will need an internet connection in order to submit "
+"your feedback."
+msgstr ""
 
 #. (itstool) path: Work/format
+#: C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293
 #: C/gs-goa1.svg:41 C/gs-goa2.svg:38 C/gs-goa3.svg:51 C/gs-goa4.svg:36
-#: C/gs-goa5.svg:48 C/gs-go-online1.svg:230 C/gs-go-online2.svg:265
-#: C/gs-go-online3.svg:293 C/gs-search1.svg:97 C/gs-search2.svg:133
-#: C/gs-search-settings.svg:98 C/gs-thumb-changing-wallpaper.svg:39
+#: C/gs-goa5.svg:48 C/gs-search-settings.svg:98 C/gs-search1.svg:97
+#: C/gs-search2.svg:133 C/gs-thumb-changing-wallpaper.svg:39
 #: C/gs-thumb-launching-apps.svg:189 C/gs-thumb-responding-to-messages.svg:36
 #: C/gs-thumb-task-switching.svg:89 C/gs-thumb-timezone.svg:41
 #: C/gs-thumb-windows-and-workspaces.svg:89
@@ -1185,7 +1631,7 @@ msgid "image/svg+xml"
 msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:80 C/gs-go-online1.svg:242 C/gs-go-online2.svg:278
+#: C/gs-go-online1.svg:242 C/gs-go-online2.svg:278 C/gs-goa1.svg:80
 #: C/gs-search1.svg:109 C/gs-thumb-timezone.svg:101
 #: C/gs-thumb-timezone.svg:135 C/gs-web-browser1-firefox-classic.svg:115
 #: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
@@ -1194,13 +1640,100 @@ msgid "1"
 msgstr "1"
 
 #. (itstool) path: text/tspan
-#: C/gs-goa1.svg:84 C/gs-go-online1.svg:266 C/gs-go-online3.svg:306
+#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
+#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
+#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
+#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
+#, no-wrap
+msgid "14:30"
+msgstr "14.30"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online1.svg:266 C/gs-go-online3.svg:306 C/gs-goa1.svg:84
 #: C/gs-search2.svg:145 C/gs-thumb-timezone.svg:102
 #: C/gs-thumb-timezone.svg:136 C/gs-web-browser1-firefox-classic.svg:137
 #: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
 msgstr "2"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:328
+#, no-wrap
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
+#, no-wrap
+msgid "homenetwork"
+msgstr "mājastīkls"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:338
+#, no-wrap
+msgid "Select Network"
+msgstr "Izvēlieties tīklu"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:339
+#, no-wrap
+msgid "Turn Off"
+msgstr "Izslēgt"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online2.svg:340
+#, no-wrap
+msgid "Network Settings"
+msgstr "Tīkla iestatījumi"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:309
+#, no-wrap
+msgid "Wi-Fi Networks"
+msgstr "Bezvadu tīkli"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:313
+#, no-wrap
+msgid "Connect"
+msgstr "Savienoties"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:316
+#, no-wrap
+msgid "wireless"
+msgstr "bezvadu"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:317
+#, no-wrap
+msgid "netgear"
+msgstr "netgear"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:318
+#, no-wrap
+msgid "weak"
+msgstr "vājš"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:319
+#, no-wrap
+msgid "private"
+msgstr "privāts"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:320
+#, no-wrap
+msgid "Select a network"
+msgstr "Izvēlieties tīklu"
+
+#. (itstool) path: text/tspan
+#: C/gs-go-online3.svg:343 C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
+#, no-wrap
+msgid "Cancel"
+msgstr "Atcelt"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
@@ -1233,12 +1766,6 @@ msgstr "4"
 #, no-wrap
 msgid "Add Account"
 msgstr "Pievienot kontu"
-
-#. (itstool) path: text/tspan
-#: C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90 C/gs-go-online3.svg:343
-#, no-wrap
-msgid "Cancel"
-msgstr "Atcelt"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
@@ -1387,154 +1914,6 @@ msgstr "_Dokumenti"
 msgid "ON"
 msgstr "❙"
 
-#. (itstool) path: text/tspan
-#: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
-#: C/gs-thumb-changing-wallpaper.svg:55 C/gs-thumb-launching-apps.svg:205
-#: C/gs-thumb-responding-to-messages.svg:52 C/gs-thumb-task-switching.svg:168
-#: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
-#, no-wrap
-msgid "14:30"
-msgstr "14.30"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:328
-#, no-wrap
-msgid "Wi-Fi"
-msgstr "Wi-Fi"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
-#, no-wrap
-msgid "homenetwork"
-msgstr "mājastīkls"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:338
-#, no-wrap
-msgid "Select Network"
-msgstr "Izvēlieties tīklu"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:339
-#, no-wrap
-msgid "Turn Off"
-msgstr "Izslēgt"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online2.svg:340
-#, no-wrap
-msgid "Network Settings"
-msgstr "Tīkla iestatījumi"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:309
-#, no-wrap
-msgid "Wi-Fi Networks"
-msgstr "Bezvadu tīkli"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:313
-#, no-wrap
-msgid "Connect"
-msgstr "Savienoties"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:316
-#, no-wrap
-msgid "wireless"
-msgstr "bezvadu"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:317
-#, no-wrap
-msgid "netgear"
-msgstr "netgear"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:318
-#, no-wrap
-msgid "weak"
-msgstr "vājš"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:319
-#, no-wrap
-msgid "private"
-msgstr "privāts"
-
-#. (itstool) path: text/tspan
-#: C/gs-go-online3.svg:320
-#, no-wrap
-msgid "Select a network"
-msgstr "Izvēlieties tīklu"
-
-#. (itstool) path: info/title
-#: C/gs-launch-applications.page:18
-msgctxt "link:trail"
-msgid "Launch applications"
-msgstr "Palaist lietotnes"
-
-#. (itstool) path: info/title
-#: C/gs-launch-applications.page:20
-msgctxt "link:seealso"
-msgid "A tutorial on launching applications"
-msgstr "Lietotņu palaišanas ceļvedis"
-
-#. (itstool) path: section/title
-#: C/gs-launch-applications.page:62
-msgid "Launch applications with the mouse"
-msgstr "Palaist lietotnes ar peli"
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:67
-msgid ""
-"Click the <gui>Show Applications</gui> icon that is shown at the bottom of "
-"the bar on the left-hand side of the screen."
-msgstr ""
-"Spiediet ikonu <gui>Rādīt lietotnes</gui>, kas ir redzama ekrāna kreisajā "
-"pusē, joslas apkašā."
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:69
-msgid ""
-"A list of applications is shown. Click the application you want to run, for "
-"example, Help."
-msgstr ""
-"Tiks parādīts saraksts ar lietotnēm. Spiediet uz lietotnes, ko vēlaties "
-"palaist, piemēram, Palīdzība."
-
-#. (itstool) path: section/title
-#: C/gs-launch-applications.page:76
-msgid "Launch applications with the keyboard"
-msgstr "Palaist lietotnes ar tastatūru"
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:79
-msgid ""
-"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key."
-msgstr ""
-"Atveriet <gui>Aktivitāšu pārlūku</gui>, spiežot taustiņu <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key>."
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:81
-msgid ""
-"Start typing the name of the application you want to launch. Searching for "
-"the application begins instantly."
-msgstr ""
-"Sāciet rakstīt nosaukumu lietotnei, ko vēlaties palaist. Uzreiz sāksies "
-"lietotņu meklēšana."
-
-#. (itstool) path: item/p
-#: C/gs-launch-applications.page:83
-msgid ""
-"Once the icon of the application is shown and selected, press <key> Enter</"
-"key> to launch the application."
-msgstr ""
-"Kad parādās lietotnes ikona, spiediet <key>Enter</key>, lai palaistu "
-"lietotni."
-
 #. (itstool) path: p/link
 #: C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
@@ -1545,115 +1924,47 @@ msgstr "Creative Commons Attribution-Share Alike 3.0 neportētā licence"
 msgid "This work is licensed under a <_:link-1/>."
 msgstr "Šis darbs ir licencēts zem <_:link-1/>."
 
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:17
-msgctxt "link:trail"
-msgid "Respond to messages"
-msgstr "Atbildēt uz ziņojumiem"
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:137
+#, no-wrap
+msgid "Search"
+msgstr "Meklēt"
 
-#. (itstool) path: info/title
-#: C/gs-respond-messages.page:19
-msgctxt "link:seealso"
-msgid "A tutorial on responding to messages"
-msgstr "Ceļvedis, kā atbildēt uz ziņojumiem"
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:148
+#, no-wrap
+msgid "Files"
+msgstr "Datnes"
 
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:89
-msgid "Respond to a chat message with the mouse"
-msgstr "Uz tērzēšanas ziņojumu atbildēt ar peli"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:94 C/gs-respond-messages.page:130
-msgid ""
-"Start typing your reply and when finished, press <key>Enter</key> to send "
-"the reply."
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:149
+#, no-wrap
+msgid "Enabled"
 msgstr ""
-"Pabeidzot rakstīt atbildi, spiediet <key>Enter</key>, lai nosūtītu atbildi."
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:96 C/gs-respond-messages.page:115
-msgid ""
-"To close the chat message, click the close button at the top right corner of "
-"the chat message."
-msgstr ""
-"Lai aizvērtu tērzēšanas ziņojumu, spiediet uz aizvēršanas pogu tērzēšanas "
-"ziņojuma labajā stūrī."
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:264
+#, no-wrap
+msgid "Web"
+msgstr "Tīmeklis"
 
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:103
-msgid "Delayed response to a chat message using the mouse"
-msgstr "Aizkavēta atbilde uz tērzēšanas ziņojumu, izmantojot peli"
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:265
+#, no-wrap
+msgid "Photos"
+msgstr "Fotogrāfijas"
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:106
-msgid ""
-"When a chat message appears in the message tray and you do not move your "
-"mouse to the message tray, the message disappears after a while."
-msgstr ""
-"Kad tērzēšanas ziņojums parādās ziņojumu paplātē, un jūs nenovietojat peli "
-"uz ziņojumu paplātes, ziņojums ar laiku pazudīs."
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:266
+#, no-wrap
+msgid "Music"
+msgstr "Mūzika"
 
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:109
-msgid ""
-"To get back to your unanswered message, move your mouse to the message tray "
-"at the very bottom of the screen."
-msgstr ""
-"Lai tiktu atpakaļ pie neatbildēta ziņojuma, pārvietojiet peli uz ziņojumu "
-"paplāti pašā ekrāna apakšā."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:111
-msgid ""
-"When the message tray appears, click a small image that represents the "
-"person who sent you the message."
-msgstr ""
-"Kad parādās ziņojumu paplāte, spiedies uz mazā attēla, kas atbilst cilvēkam, "
-"kuram sūtīt ziņojumu."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:113
-msgid ""
-"When the chat message is shown, start typing your reply and when finished, "
-"press <key>Enter</key> to send the reply."
-msgstr ""
-"Kad parādās tērzēšanas ziņojums, rakstiet atbildi un spiediet <key>Enter</"
-"key>, lai nosūtītu atbildi."
-
-#. (itstool) path: section/title
-#: C/gs-respond-messages.page:122
-msgid "Delayed response to a chat message using the keyboard"
-msgstr "Aizkavēta atbilde uz tērzēšanas ziņojumu, izmantojot tastatūru"
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:124
-msgid ""
-"To get back to your unanswered chat messages, press <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq> to "
-"display the message tray that contains the messages."
-msgstr ""
-"Lai tiktu atpakaļ pie neatbildēta ziņojuma, spiediet <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>, "
-"lai attēlotu ziņojumu paplāti, kas satur ziņojumus."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:128
-msgid ""
-"Use the arrow keys to select a small image representing the person you want "
-"to reply to, and press <key>Enter</key>."
-msgstr ""
-"Lietojiet bultu taustiņus, lai izvēlētos mazo attēlu, kas atbilst cilvēkam, "
-"kam vēlaties atbildēt, un spiediet <key>Enter</key>."
-
-#. (itstool) path: item/p
-#: C/gs-respond-messages.page:133
-msgid ""
-"To dismiss the message tray, press <key>Esc</key> or <keyseq> <key href="
-"\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </keyseq>."
-msgstr ""
-"Lai izietu no ziņojumu paplātes, spiediet <key>Esc</key> vai <keyseq> <key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key><key>M</key> </"
-"keyseq>."
+#. (itstool) path: text/tspan
+#: C/gs-search-settings.svg:293
+#, no-wrap
+msgid "OFF"
+msgstr "○"
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:229
@@ -1720,184 +2031,6 @@ msgstr "Izstrādātāju konference 2012"
 #, no-wrap
 msgid "Firefox"
 msgstr "Firefox"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:137
-#, no-wrap
-msgid "Search"
-msgstr "Meklēt"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:148
-#, no-wrap
-msgid "Files"
-msgstr "Datnes"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:149
-#, no-wrap
-msgid "Enabled"
-msgstr "Aktivēts"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:264
-#, no-wrap
-msgid "Web"
-msgstr "Tīmeklis"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:265
-#, no-wrap
-msgid "Photos"
-msgstr "Fotogrāfijas"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:266
-#, no-wrap
-msgid "Music"
-msgstr "Mūzika"
-
-#. (itstool) path: text/tspan
-#: C/gs-search-settings.svg:293
-#, no-wrap
-msgid "OFF"
-msgstr "○"
-
-#. (itstool) path: info/title
-#: C/gs-switch-tasks.page:17
-msgctxt "link:trail"
-msgid "Switch tasks"
-msgstr "Pārslēgties starp uzdevumiem"
-
-#. (itstool) path: info/title
-#: C/gs-switch-tasks.page:19
-msgctxt "link:seealso"
-msgid "A tutorial on switching tasks"
-msgstr "Pamācība, kā pārslēgties starp uzdevumiem"
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:102
-msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen to show the <gui>Activities Overview</gui> where you can see "
-"the currently running tasks displayed as small windows."
-msgstr ""
-"Pārvietojiet peles rādītāju uz <gui>Aktivitātes</gui> ekrāna augšā kreisajā "
-"stūrī, lai redzētu <gui>Aktivitāšu pārskatu/gui>, kur jūs varat redzēt "
-"pašlaik palaistos uzdevumus, kas tiek attēloti kā mazi lodziņi."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:112
-msgid ""
-"You can switch between tasks by using the <gui>window list</gui> at the "
-"bottom of the screen. Open tasks appear as buttons in the <gui>window list</"
-"gui>."
-msgstr ""
-"Jūs varat pārslēgties starp uzdevumiem, izmantojot <gui>logu sarakstu</gui> "
-"ekrāna apakšā. Atvērtie uzdevumi <gui>logu sarakstā</gui> izskatās kā pogas."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:115
-msgid "Click a button in the <gui>window list</gui> to switch to that task."
-msgstr "<gui>Logu sarakstā</gui> spiediet pogu, lai pārslēgtos uz to uzdevumu."
-
-#. (itstool) path: section/title
-#: C/gs-switch-tasks.page:125 C/gs-use-windows-workspaces.page:114
-msgid "Tile windows"
-msgstr "Izklāt logus"
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:128 C/gs-use-windows-workspaces.page:118
-msgid ""
-"To maximize a window along a side of the screen, grab the window's titlebar "
-"and drag it to the left or right side of the screen."
-msgstr ""
-"Lai maksimizētu logu gar ekrāna malu, satveriet loga virsraksta joslu un "
-"velciet to uz ekrāna kreiso vai labo pusi."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:130 C/gs-use-windows-workspaces.page:120
-msgid ""
-"When half of the screen is highlighted, release the window to maximize it "
-"along the selected side of the screen."
-msgstr ""
-"Kad puse ekrāna ir izgaismota, atlaidiet logu, lai maksimizētu to gar "
-"izvēlēto ekrāna malu."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:132 C/gs-use-windows-workspaces.page:122
-msgid ""
-"To maximize two windows side-by-side, grab the titlebar of the second window "
-"and drag it to the opposite side of the screen."
-msgstr ""
-"Lai maksimizētu logus vienu pie otra, satveriet otra loga virsraksta joslu "
-"un velciet to uz ekrāna otru pusi."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:134 C/gs-use-windows-workspaces.page:124
-msgid ""
-"When half of the screen is highlighted, release the window to maximize it "
-"along the opposite side of the screen."
-msgstr ""
-"Kad puse ekrāna ir izgaismota, atlaidiet logu, lai maksimizētu to gar otru "
-"ekrāna malu."
-
-#. (itstool) path: section/title
-#: C/gs-switch-tasks.page:141
-msgid "Switch between windows"
-msgstr "Pārslēgties starp logiem"
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:144
-msgid ""
-"Press <keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super </"
-"key><key>Tab</key></keyseq> to show the <gui>window switcher</gui>, which "
-"lists the currently open windows."
-msgstr ""
-"Spiediet <keyseq> <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key> <key>Tab</key></keyseq>, lai parādītu <gui>logu pārslēdzēju</gui>, kas "
-"parāda pašlaik atvērtos logus."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:147
-msgid ""
-"Release <key href=\"help:gnome-help/keyboard-key-super\">Super</key> to "
-"select the next highlighted window in the <gui>window switcher</gui>."
-msgstr ""
-"Atlaidiet taustiņu <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key>, lai izvēlētos nākamo izcelto logu <gui>logu pārslēdzējā</gui>."
-
-#. (itstool) path: section/title
-#: C/gs-switch-tasks.page:158
-msgid "Use search to switch applications"
-msgstr "Lietojiet meklēšanu, lai pārslēgtos starp lietotnēm"
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:161
-msgid ""
-"Press the <key href=\"help:gnome-help/keyboard-key-super\">Super</key> key "
-"to show the <gui>Activities Overview</gui>."
-msgstr ""
-"Spiediet taustiņu <key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key>, lai parādītu <gui>Aktivitāšu pārskatu</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:163
-msgid ""
-"Just start typing the name of the application you want to switch to. "
-"Applications matching what you have typed will appear as you type."
-msgstr ""
-"Vienkārši sāciet rakstīt nosaukumu lietotnei, uz kuru vēlaties pārslēgties. "
-"Rakstot parādīsies lietotnes, kas atbilst ierakstītajam tekstam."
-
-#. (itstool) path: item/p
-#: C/gs-switch-tasks.page:166
-msgid ""
-"When the application that you want to switch to appears as the first result, "
-"press <key>Enter</key> to switch to it."
-msgstr ""
-"Kad lietotne, uz ko vēlaties pārslēgties, parādās kā pirmais rezultāts, "
-"spiediet <key>Enter</key>, lai uz to pārslēgtos."
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-responding-to-messages.svg:88
@@ -2103,227 +2236,373 @@ msgid "31"
 msgstr "31"
 
 #. (itstool) path: info/title
-#: C/gs-use-system-search.page:16
-msgctxt "link:trail"
-msgid "Use the system search"
-msgstr "Izmantot sistēmas meklēšanu"
+#: C/gs-use-offline.page:20
+msgctxt "link:shell-overview"
+msgid "Find apps that work without the internet"
+msgstr ""
 
 #. (itstool) path: info/title
-#: C/gs-use-system-search.page:18
-msgctxt "link:seealso"
-msgid "A tutorial on using the system search"
-msgstr "Ceļvedis sistēmas meklēšanas izmantošanā"
+#: C/gs-use-offline.page:21
+msgctxt "link:net"
+msgid "Use your computer offline"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/gs-use-offline.page:22
+msgid "Discover all the offline content on your computer."
+msgstr ""
 
 #. (itstool) path: page/title
-#: C/gs-use-system-search.page:21
-msgid "Use the system search"
-msgstr "Izmantot sistēmas meklēšanu"
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:26
-msgid ""
-"Open the <gui>Activities Overview</gui> by pressing the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key. Start typing to search."
+#: C/gs-use-offline.page:25
+msgid "What can I do if I don't have internet?"
 msgstr ""
-"Atveriet <gui>Aktivitāšu pārlūku</gui>, spiežot taustiņu <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key>. Sāciet rakstīt, lai meklētu."
+
+#. (itstool) path: page/p
+#: C/gs-use-offline.page:27
+msgid ""
+"Your computer comes with a lot of great offline content you can use even if "
+"you don't have an internet connection."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-offline.page:31
+msgid "Introducing the <app>App Center</app>"
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-use-offline.page:32
+msgid ""
+"The <app>App Center</app> is full of apps that are free and can be easily "
+"added to your desktop. Most of the apps you'll find there have offline "
+"capability and you can browse by category to find just what you're looking "
+"for, or else just click around and explore."
+msgstr ""
+
+#. (itstool) path: steps/title
+#: C/gs-use-offline.page:37
+msgid "How to get to the <app>App Center</app>:"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:29
+#: C/gs-use-offline.page:39
+msgid "Click on <app>More Apps</app> from the desktop."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:43
+msgid ""
+"Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
+"<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
+"section."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:49
+msgid ""
+"Click on an app to read more about it and either install it or add it to "
+"your desktop."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/gs-use-offline.page:57
+msgid ""
+"Here are a few examples of the offline content on your desktop and in the "
+"<app>App Center</app>:"
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:61
+msgid "Education"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:63
+msgid ""
+"<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
+"encyclopedia with all the power of the internet's best."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:67
+msgid ""
+"<app>Virtual School</app> - Hundreds of videos to help you lean more about "
+"your favorite subjects, or to help you understand subjects that are "
+"difficult for you."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:72
+msgid ""
+"<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
+" help children of all ages develop their mental abilities."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:77
+msgid ""
+"<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
+"multiplication and more."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:81
+msgid ""
+"<app>Tux Typing</app> - Learn how to type with this game that guides you and"
+" helps you practice so that you can type faster and more accurately."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:86
+msgid ""
+"<app>World Literature</app> - Read many of the world's greatest stories."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:90
+msgid ""
+"<app>Animals</app> - Learn more about your favorite animals, and about "
+"animals you never even knew existed!"
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:96
+msgid "Games"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:98
+msgid ""
+"<app>Tux Kart</app> - Race against the computer or your friends. Get "
+"superpowers and avoid traps to finish first!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:102
+msgid ""
+"<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:106
+msgid ""
+"<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
+" you get to the next level."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:110
+msgid ""
+"<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
+"as fast as you can to complete each course."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:114
+msgid ""
+"<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
+" that you don't blow up. This strategy game is addictive."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:118
+msgid ""
+"<app>Blockout2</app> - A tetris-like game where you need to match the colors"
+" as best you can before the screen fills up and you lose."
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:124
+msgid "Resources"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:126
+msgid ""
+"<app>Writer</app> - Write papers for school, work or for anything else you "
+"need. Compatible with Microsoft's Word."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:130
+msgid ""
+"<app>Presentation</app> - Create beautiful presentations! Compatible with "
+"Microsoft's Powerpoint."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:134
+msgid ""
+"<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
+"yourself in ways you never thought possible with this powerful spreadsheet "
+"app. Compatible with Microsoft's Excel."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:139
+msgid ""
+"<app>Resume</app> - Learn how to make a great resume to help you find your "
+"ideal job."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:143
+msgid ""
+"<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
+"yourself and your family healthy."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:147
+msgid ""
+"<app>How To</app> - Learn how to do just about anything with this handy app."
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:153
+msgid "Entertainment"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:155
+msgid ""
+"<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
+" webcam, not included with Endless."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:159
+msgid ""
+"<app>Videos</app> - Watch some of the pre-installed videos that come with "
+"Endless, or transfer videos from a USB or DVD and watch them on this great "
+"and easy-to use media player."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:164
+msgid ""
+"<app>Myths and Legends</app> - Read about myths and legends from all over "
+"the world! Everything from La Llorona to Big Foot and many, many more"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:169
+msgid ""
+"<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
+"stars, and other celebrities"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:173
+msgid ""
+"<app>Travel</app> - Read about places around the world and see beautiful "
+"pictures that will make you feel like you're actually there!"
+msgstr ""
+
+#. (itstool) path: list/title
+#: C/gs-use-offline.page:180
+msgid "Utility"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:182
+msgid ""
+"<app>Notes</app> - A handy app to help you jot down things you don't want to"
+" forget!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:186
+msgid ""
+"<app>Video Editor</app> - Film videos on your phone and edit them to create "
+"a masterpiece, or simply take already existing video clips and make them "
+"something of your own!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:191
+msgid ""
+"<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
+" and more, to make them even more awesome!"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-offline.page:195
+msgid ""
+"<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
+"will have all of your friends dancing along with you."
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/gs-use-system-search.page:19
+msgid ""
+"Search for things on your computer and on the internet right from your "
+"desktop!"
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/gs-use-system-search.page:23
+msgid "Use global search"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-use-system-search.page:25
+msgid ""
+"The global search bar makes search easy! You can look for apps, documents, "
+"photos and more, right from your desktop. If you have an internet conection,"
+" you can even look for things that are on the internet, like you would on "
+"google, with the global search tool."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:32
+msgid ""
+"From the desktop, click on the <app>global search bar</app> at the top of "
+"your screen that says <gui>Type to search...</gui>. Start typing to search."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:38 C/gs-where-files.page:36
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
+msgstr "Rezultāti, kas atbilst ierakstītajam, parādīsies rakstīšanas laikā.Pirmais rezultāts vienmēr ir izcelts un atrodas augšpusē."
+
+#. (itstool) path: item/p
+#: C/gs-use-system-search.page:40
+msgid "Press <key>Enter</key> to choose the first highlighted result."
 msgstr ""
-"Rezultāti, kas atbilst ierakstītajam, parādīsies rakstīšanas laikā.Pirmais "
-"rezultāts vienmēr ir izcelts un atrodas augšpusē."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:31
-msgid "Press <key>Enter</key> to switch to the first highlighted result."
-msgstr "Spiediet <key>Enter</key>, lai pārslēgtos uz pirmo izcelto rezultātu."
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:36
+#: C/gs-use-system-search.page:44 C/gs-where-files.page:40
 msgid "Items that may appear in the search results include:"
 msgstr "Vienumi, kas parādīsies meklēšanas rezultātā:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:38
+#: C/gs-use-system-search.page:46 C/gs-where-files.page:42
 msgid "matching applications, shown at the top of the search results,"
 msgstr "atbilstošās lietotnes, kas būs meklēšanas rezultātu augšpusē,"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:40
-msgid "matching settings,"
-msgstr "atbilstošie iestatījumi,"
+#: C/gs-use-system-search.page:48 C/gs-where-files.page:44
+msgid "matching settings, and"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:41
-msgid "matching contacts, and"
-msgstr "atbilstošie kontakti un"
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:42
+#: C/gs-use-system-search.page:49 C/gs-where-files.page:45
 msgid "matching documents."
 msgstr "atbilstošie dokumenti."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:45
-msgid "In the search results, click the item to switch to it."
-msgstr "Lai pārslēgtos uz meklēšanas rezultātu, spiediet uz to."
+#: C/gs-use-system-search.page:54 C/gs-where-files.page:49
+msgid "In the search results, click on the item you want to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:46
+#: C/gs-use-system-search.page:55 C/gs-where-files.page:50
 msgid ""
-"Alternatively, highlight an item using the arrow keys and press <key>Enter</"
-"key>."
-msgstr ""
-"Vai arī izgaismojiet vienumu, izmantojot bultu taustiņus un spiežot "
+"Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
-
-#. (itstool) path: section/title
-#: C/gs-use-system-search.page:52
-msgid "Search from inside applications"
-msgstr "Meklēt no lietotnēm"
-
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:54
-msgid ""
-"The system search aggregates results from various applications. On the left-"
-"hand side of the search results, you can see icons of applications that "
-"provided the search results. Click one of the icons to restart the search "
-"from inside the application associated with that icon. Because only the best "
-"matches are shown in the <gui>Activities Overview</gui>, searching from "
-"inside the application may give you better search results."
-msgstr ""
-"Sistēmas meklēšana sakopo rezultātus no dažādām lietotnēm. Meklēšanas "
-"rezultātu kreisajā pusē varat redzēt ikonas lietotnēm, kas sniedza "
-"meklēšanas rezultātu. Spiediet uz kādas no ikonām, lai atkal sāktu meklēt no "
-"lietotnes, kas ir saistīta ar šo ikonu. Tā kā <gui>Aktivitāšu pārskatā</gui> "
-"tiek rādīti tikai atbilstošākie rezultāti, meklēšana no lietotnes var dot "
-"labākus meklēšanas rezultātus."
-
-#. (itstool) path: section/title
-#: C/gs-use-system-search.page:66
-msgid "Customize search results"
-msgstr "Pielāgot meklēšanas rezultātus"
-
-#. (itstool) path: note/p
-#: C/gs-use-system-search.page:71
-msgid ""
-"GNOME lets you customize what you want to display in the search results in "
-"the <gui>Activities Overview</gui>. For example, you can choose whether you "
-"want to show results for websites, photos, or music."
-msgstr ""
-"GNOME jums ļauj pielāgot, kādus rezultātus attēlot <gui>Aktivitāšu pārskatā</"
-"gui>. Piemēram, jūs varat norādīt, vai vēlaties redzēt tīmekļa vietu, "
-"fotogrāfiju vai mūzikas meklēšanas rezultātus."
-
-#. (itstool) path: section/p
-#: C/gs-use-system-search.page:77
-msgid "To customize what is displayed in the search results:"
-msgstr "Pielāgot, kas tiks attēlots meklēšanas rezultātos:"
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:82
-msgid "From the list of items, select <gui>Search</gui>."
-msgstr "No vienumu saraksta izvēlieties <gui>Meklēt</gui>."
-
-#. (itstool) path: item/p
-#: C/gs-use-system-search.page:83
-msgid ""
-"In the list of search locations, click the <gui>ON/OFF</gui> switch next to "
-"the search location you want to enable or disable."
-msgstr ""
-"Meklēšanas vietu sarakstā, spiediet uz slēdža, kas ir pie meklēšanas vietas, "
-"kuru vēlaties aktivēt vai deaktivēt."
-
-#. (itstool) path: info/title
-#: C/gs-use-windows-workspaces.page:16
-msgctxt "link:trail"
-msgid "Use windows and workspaces"
-msgstr "Izmantot logus un darbvietas"
-
-#. (itstool) path: info/title
-#: C/gs-use-windows-workspaces.page:18
-msgctxt "link:seealso"
-msgid "A tutorial on using windows and workspaces"
-msgstr "Ceļvedis logu un darbvietu izmantošanā"
-
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:98
-msgid "Maximize and unmaximize windows"
-msgstr "Maksimizēt logu un atjaunot tā izmēru"
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:102
-msgid ""
-"To maximize a window so that it takes up all of the space on your desktop, "
-"grab the window's titlebar and drag it to the top of the screen."
-msgstr ""
-"Lai maksimizētu logu, lai tas aizņemtu visu darbvietu, satveriet loga "
-"virsraksta joslu un velciet to uz ekrāna augšpusi."
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:105
-msgid "When the screen is highlighted, release the window to maximize it."
-msgstr "Kad ekrāns ir izgaismots, atlaidiet logu, lai to maksimizētu."
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:107
-msgid ""
-"To restore a window to its unmaximized size, grab the window's titlebar and "
-"drag it away from the edges of the screen."
-msgstr ""
-"Lai atjaunotu logu tā iepriekšējā izmērā, satveriet loga virsraksta joslu un "
-"velciet to prom no ekrāna malām."
-
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:131
-msgid "Maximize and unmaximize windows using the keyboard"
-msgstr "Maksimizēt logu un atjaunot tā izmēru, izmantojot tastatūru"
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:137
-msgid ""
-"To unmaximize a window using the keyboard, hold down the <key href=\"help:"
-"gnome-help/keyboard-key-super\">Super</key> key and press <key>↓</key>."
-msgstr ""
-"Lai atjaunotu logu tā iepriekšējā izmērā ar tastatūru, turiet piespiestu "
-"taustiņu <key href=\"help:gnome-help/keyboard-key-super\">Super</key> un "
-"spiediet <key>↓</key>."
-
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:145
-msgid "Tile windows using the keyboard"
-msgstr "Izklāt logus, izmantojot tastatūru"
-
-#. (itstool) path: section/title
-#: C/gs-use-windows-workspaces.page:159
-msgid "Switch workspaces using the keyboard"
-msgstr "Pārslēgties starp darbvietām ar tastatūru"
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:163
-msgid ""
-"To move to a workspace which is below the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key>Page Down</key></keyseq>."
-msgstr ""
-"Lai pārvietotu darbvietu zem pašreizējās darbvietas, spiediet <keyseq><key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> <key>Page Down</"
-"key></keyseq>."
-
-#. (itstool) path: item/p
-#: C/gs-use-windows-workspaces.page:166
-msgid ""
-"To move to a workspace which is above the current workspace, press "
-"<keyseq><key href=\"help:gnome-help/keyboard-key-super\">Super</"
-"key><key>Page Up</key></keyseq>."
-msgstr ""
-"Lai pārvietotu darbvietu virs pašreizējās darbvietas, spiediet <keyseq><key "
-"href=\"help:gnome-help/keyboard-key-super\">Super</key> <key>Page Up</key></"
-"keyseq>."
+msgstr "Vai arī izgaismojiet vienumu, izmantojot bultu taustiņus un spiežot <key>Enter</key>."
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
@@ -2373,90 +2652,115 @@ msgstr "planet.gnome.org"
 msgid "Planet GNOME"
 msgstr "GNOME planēta"
 
-#~ msgid ""
-#~ "Click the network connection icon to show more details about the status "
-#~ "of your network connection."
-#~ msgstr ""
-#~ "Spiediet uz tīkla ikonas, lai uzzinātu vairāk par sava tīkla savienojuma "
-#~ "statusu."
+#. (itstool) path: page/title
+#: C/gs-where-files.page:19
+msgid "Where are my documents and files?"
+msgstr ""
 
-#~ msgid "Connect to other types of networks"
-#~ msgstr "Savienoties ar cita veida tīkliem"
+#. (itstool) path: page/p
+#: C/gs-where-files.page:21
+msgid ""
+"When you store files to your computer, they are automatically stored in your"
+" <app>Documents</app> folder on your desktop."
+msgstr ""
 
-#~ msgid ""
-#~ "There are various types of network connections that you can use with your "
-#~ "computer, for example, mobile broadband, or wireless networks."
-#~ msgstr ""
-#~ "Ir dažādu veidu tīkli, ar kuriem šis dators var savienoties, piemēram, "
-#~ "mobilā platjosla vai bezvadu tīkls."
+#. (itstool) path: page/p
+#: C/gs-where-files.page:24
+msgid "Here are some ways to look for a file you have saved:"
+msgstr ""
 
-#~ msgid ""
-#~ "Depending on your computer hardware and the networks availability, you "
-#~ "can choose other connection types by clicking the network connection icon "
-#~ "on the right-hand side of the top bar and selecting the network "
-#~ "connection you want to connect to."
-#~ msgstr ""
-#~ "Atkarībā no datora aparatūras un tīkla pieejamības, jūs varat izvēlēties "
-#~ "citus savienojuma veidus, spiežot uz tīkla savienojuma ikonas augšējās "
-#~ "joslas labajā pusē un izvēloties tīkla savienojumu, ar ko savienoties."
+#. (itstool) path: section/title
+#: C/gs-where-files.page:27
+msgid "If you know the name of your file"
+msgstr ""
 
-#~ msgid "Wired"
-#~ msgstr "Vadu"
+#. (itstool) path: section/p
+#: C/gs-where-files.page:29
+msgid ""
+"If you know the name of your file, then you can easily search for it right "
+"from the desktop."
+msgstr ""
 
-#~ msgid "Cable unplugged"
-#~ msgstr "Vads atvienots"
+#. (itstool) path: item/p
+#: C/gs-where-files.page:33
+msgid ""
+"From the desktop, click on the <app>global search bar</app> at the top of "
+"your screen that says <gui>Type to search...</gui>. Start typing the name of"
+" the file you are looking for."
+msgstr ""
 
-#~ msgid "Mobile broadband"
-#~ msgstr "Mobilā platjosla"
+#. (itstool) path: section/title
+#: C/gs-where-files.page:58
+msgid "If you do not know the name of your file"
+msgstr ""
 
-#~ msgid "Weak"
-#~ msgstr "Vājš"
+#. (itstool) path: section/p
+#. (itstool) path: item/p
+#: C/gs-where-files.page:60 C/gs-where-files.page:90
+msgid "Click on <app>Documents</app> from the desktop."
+msgstr ""
 
-#~ msgid ""
-#~ "You can adjust the date and time by clicking on the arrows to choose the "
-#~ "hour, minute, and year."
-#~ msgstr ""
-#~ "Jūs varat pielāgot datumu un laiku, spiežot uz bultiņām, tādā veidā "
-#~ "izvēlas stundu, minūti un gadu."
+#. (itstool) path: section/p
+#: C/gs-where-files.page:63
+msgid ""
+"Endless tries to store files by categories like documents, music, photos, "
+"and videos, so that they are easier for you to find. You will see that the "
+"menu on the left shows these categories. Click on them once to go to that "
+"folder."
+msgstr ""
 
-#~ msgid ""
-#~ "You may need to click the <gui>Unlock</gui> button and type the "
-#~ "administrator's password."
-#~ msgstr ""
-#~ "Iespējams, jums vajadzēs spiest pogu <gui>Atslēgt</gui> un ierakstīt "
-#~ "administratora paroli."
+#. (itstool) path: section/p
+#: C/gs-where-files.page:69
+msgid ""
+"You can create your own folders to better organize your files. You should "
+"click through the different folders you create to get to the files you have "
+"stored there. Clicking through folders is especially helpful if you are not "
+"sure what the file you saved is named."
+msgstr ""
 
-#~ msgid ""
-#~ "On the right-hand side of the window, you can adjust the date and time by "
-#~ "clicking on the arrows to choose the hour, minute, and year."
-#~ msgstr ""
-#~ "Labajā loga pusē jūs varat pielāgot datumu un laiku, spiežot uz bultiņām, "
-#~ "tādā veidā izvēlas stundu, minūti un gadu."
+#. (itstool) path: section/p
+#: C/gs-where-files.page:74
+msgid ""
+"See the bar at the top with a magnifying glass in it? Click there and start "
+"typing at least part of the name of the file you are looking for. As you "
+"start typing, files that match what you are typing are displayed below. If "
+"you see the file you are looking for in the list, you can use your arrow key"
+" to highlight the file and press <key>Enter</key> to open it. Or, you can "
+"click on the result you want with your mouse to higlight it, and double "
+"click to open it."
+msgstr ""
 
-#~ msgid ""
-#~ "Close the window by clicking the cross at the top-right corner of the "
-#~ "window."
-#~ msgstr "Aizveriet logu, spiežot uz krustiņu loga augšējā labajā stūrī."
+#. (itstool) path: section/title
+#: C/gs-where-files.page:84
+msgid "If your file is on a USB"
+msgstr ""
 
-#~ msgid "Click your name on the top bar and select <gui>Settings</gui>."
-#~ msgstr ""
-#~ "Spiediet uz sava vārda augšējā joslā un izvēlieties <gui>Iestatījumi</"
-#~ "gui>."
+#. (itstool) path: item/p
+#: C/gs-where-files.page:87
+msgid "Make sure that the USB is properly plugged in."
+msgstr ""
 
-#~ msgid "Click the image of your current wallpaper."
-#~ msgstr "Spiediet uz jūsu pašreizējās tapetes attēla."
+#. (itstool) path: item/p
+#: C/gs-where-files.page:93
+msgid ""
+"Click on the name of your device on the menu on the left of the window. The "
+"device name should appear above the trash icon and is usually named "
+"something with the device's brand, unless you have changed it."
+msgstr ""
 
-#~ msgid "Click your name on the top bar."
-#~ msgstr "Spiediet uz sava vārda augšējā joslā."
+#. (itstool) path: item/p
+#: C/gs-where-files.page:98
+msgid ""
+"Browse the files on the USB. Clicking on them once will let you preview them"
+" and clicking twice will open them. You can also click on the top bar with "
+"the magnifying glass to search for the file name if you know it."
+msgstr ""
 
-#~ msgid "Select the <gui>Settings</gui> item."
-#~ msgstr "Izvēlieties vienumu <gui>Iestatījumi</gui>."
-
-#~ msgid "Click on the <gui>Add an online account</gui> button."
-#~ msgstr "Spiediet pogu <gui>Pievienot tiešsaistes kontu</gui>"
-
-#~ msgid ""
-#~ "Start typing to search. Results matching what you have typed will appear "
-#~ "as you type."
-#~ msgstr ""
-#~ "Sāciet rakstīt, lai meklētu. Rakstot parādīsies atbilstošie rezultāti."
+#. (itstool) path: note/p
+#: C/gs-where-files.page:105
+msgid ""
+"Make sure that you have actually saved your file! If you close a program "
+"without saving your work, you might not be able to find it again since not "
+"all programs auto-save. Save as often as you can in order to make sure that "
+"your work does not get lost."
+msgstr ""
