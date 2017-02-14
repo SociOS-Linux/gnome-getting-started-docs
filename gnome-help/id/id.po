@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2017-02-07 00:50+0000\n"
+"PO-Revision-Date: 2017-02-09 08:27+0000\n"
 "Last-Translator: Vicki Niu <vicki@endlessm.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgstr "Andika Triwidada <andika@gmail.com>, 2013, 2016"
 #: C/gs-give-feedback.page:8 C/gs-use-offline.page:8
 #: C/gs-use-system-search.page:15 C/gs-where-files.page:8
 msgid "Nuritzi Sanchez"
-msgstr ""
+msgstr "Nuritzi Sanchez"
 
 #. (itstool) path: credit/name
 #: C/endless-01-desktop.page:15 C/endless-02-folders.page:15
@@ -42,7 +42,7 @@ msgstr ""
 #: C/gs-fix-overscan.page:12 C/gs-give-feedback.page:12
 #: C/gs-use-offline.page:12 C/gs-where-files.page:12
 msgid "Endless Mobile, Inc."
-msgstr ""
+msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/endless-01-desktop.page:16 C/endless-02-folders.page:16
@@ -60,13 +60,13 @@ msgstr "2014"
 #: C/endless-01-desktop.page:19
 msgctxt "link"
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "Perkenalan desktop"
 
 #. (itstool) path: info/title
 #: C/endless-01-desktop.page:20
 msgctxt "sort"
 msgid "01"
-msgstr ""
+msgstr "01"
 
 #. (itstool) path: info/desc
 #: C/endless-01-desktop.page:21
@@ -76,13 +76,13 @@ msgstr "Video yang memperlihatkan hal-hal dasar dari desktop Endless."
 #. (itstool) path: page/title
 #: C/endless-01-desktop.page:24
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "Perkenalan untuk desktop"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:34
 msgid ""
 "Welcome to Endless, the operating system that powers your new computer."
-msgstr ""
+msgstr "Selamat datang di Endless, sistem operasi yang memberdayakan komputer baru Anda."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:35
@@ -90,7 +90,7 @@ msgid ""
 "We have made everything simple and easy to use. You can find your apps and "
 "your documents folder right on your desktop. Click on them once to open "
 "them."
-msgstr ""
+msgstr "Kami telah membuat segala sesuatu sederhana dan mudah untuk digunakan. Anda dapat menemukan aplikasi dan dokumen berkas Anda di desktop Anda. Klik pada mereka sekali untuk membukanya."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:38
@@ -102,7 +102,7 @@ msgid ""
 "that you can also easily access the internet, your documents folder, and a "
 "button to return to the desktop on the right hand side with you are in the "
 "hot corner view mode."
-msgstr ""
+msgstr "Komputer Anda memiliki hot corner. Gerakkan mouse Anda ke sudut kanan bawah dan Anda akan dapat melihat semua aplikasi yang terbuka dan kegiatan sehingga Anda dapat dengan mudah beralih di antara mereka atau menutupnya dengan mengklik tombol X hitam yang muncul saat bergulir ke atas mereka. Anda akan melihat bahwa Anda juga dapat dengan mudah mengakses internet, folder dokumen Anda, dan tombol untuk kembali ke desktop di sisi kanan dengan Anda dalam modus hot corner."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:45
@@ -113,19 +113,19 @@ msgid ""
 "the task bar, you will find an icon to access the internet browser. When you"
 " finish using your computer, you'll be able to turn it off by clicking the "
 "user menu and selecting <gui>Exit</gui>."
-msgstr ""
+msgstr "Di bagian bawah layar Anda adalah task bar. Di sini Anda dapat mengakses wifi, bluetooth, mengontrol volume komputer Anda, mengubah bahasa keyboard dan waktu, dan melihat aplikasi yang saat ini Anda buka. Di sisi kiri dari task bar, Anda akan menemukan ikon untuk mengakses peramban internet. Ketika Anda selesai menggunakan komputer Anda, Anda akan dapat mematikannya dengan mengklik menu pengguna dan memilih <gui>Keluar</gui>."
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:19
 msgctxt "link"
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "Tambahkan folder ke desktop"
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:20
 msgctxt "sort"
 msgid "02"
-msgstr ""
+msgstr "02"
 
 #. (itstool) path: info/desc
 #: C/endless-02-folders.page:21
@@ -135,7 +135,7 @@ msgstr "Video menampilkan cara menambahkan folder ke desktop."
 #. (itstool) path: page/title
 #: C/endless-02-folders.page:24
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "Menambahkan folder ke desktop"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:34
@@ -145,7 +145,7 @@ msgid ""
 "once on the folder called <gui>Games</gui>, you’ll find icons with the names"
 " of all the games in that folder. Click on a game once to open it and start "
 "playing!"
-msgstr ""
+msgstr "Komputer Anda telah dilengkapi dengan banyak aplikasi yang telah dipasang di desktop dan sejumlah folder untuk membantu agar aplikasi-aplikasi itu tertata berdasarkan kategori. Contohnya, apabila Anda mengklik satu kali pada folder bernama <gui>Permainan</gui>, Anda akan menemukan ikon-ikon dengan nama semua permainan di folder tersebut. Klik sekali pada sebuah permainan untuk membuka dan mulai bermain!"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:38
@@ -158,7 +158,7 @@ msgid ""
 "created and installed, you will see a confirmation telling you that your new"
 " folder has been added. Now you can close the window and find your new "
 "folder to the left of the <app>More Apps</app> icon."
-msgstr ""
+msgstr "Anda juga dapat membuat folder sendiri untuk mengorganisir aplikasi lebih jauh. Untuk membuat folder, klik ikon bertuliskan <app>Aplikasi Lainnya</app>,. Lalu klik tulisan <gui>Folder</gui> di sisi kirim layar. Pilih ikon folder, kemudian beri nama. Klik tombol hijau dengan lambang plus untuk menambahkan folder ke desktop. Saat folder selesai dibuat dan diinstal, Anda akan melihat konfirmasi yang menyampaikan bahwa folder baru telah ditambahkan. Kini Anda dapat menutup jendela dan menemukan folder baru di kiri ikon <app>Aplikasi Lainnya</app>."
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:46
@@ -167,43 +167,43 @@ msgid ""
 " without letting go, drag it on top of the folder, and let go of the click. "
 "When you open the folder, you’ll see the app inside. To remove an app from "
 "the folder, simply drag its icon out of the folder."
-msgstr ""
+msgstr "Untuk menambahkan aplikasi ke folder baru, Anda tinggal klik dan tahan pada ikon aplikasi tersebut, dan tanpa dilepas, seret ikon itu ke atas folder, dan lepaskan klik. Pada saat Anda membuka folder, Anda akan melihat aplikasi di dalamnya. Untuk menghapus aplikasi dari dalam folder, seret ikon-nya ke luar folder."
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:50
 msgid ""
 "Keep in mind that if you want to delete a folder, you’ll first have to "
 "remove all of the apps that are in it."
-msgstr ""
+msgstr "Harap diingat bahwa jika ingin menghapus sebuah folder, Anda harus menghapus semua aplikasi yang berada di dalamnya terlebih dulu."
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:19
 msgctxt "link"
 msgid "Installing programs"
-msgstr ""
+msgstr "Memasang program-program"
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:20
 msgctxt "sort"
 msgid "03"
-msgstr ""
+msgstr "03"
 
 #. (itstool) path: info/desc
 #: C/endless-03-programs.page:21
 msgid "A video showing how to install programs."
-msgstr ""
+msgstr "Video yang menampilkan cara memasang program."
 
 #. (itstool) path: page/title
 #: C/endless-03-programs.page:24
 msgid "Installing programs"
-msgstr ""
+msgstr "Memasang program"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:35
 msgid ""
 "Your computer comes with a wide variety of apps that you can install for "
 "free and use even without an internet connection."
-msgstr ""
+msgstr "Komputer Anda dilengkapi dengan berbagai aplikasi yang dapat diinstal dan digunakan gratis bahkan tanpa koneksi internet."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:38
@@ -212,7 +212,7 @@ msgid ""
 "It will open a window where you can browse and explore all the apps that are"
 " available to you so you can choose the ones you want to install or add to "
 "your desktop."
-msgstr ""
+msgstr "Dari desktop, klik <app>Aplikasi Lainnya</app> untuk menemukan dan menambahkan aplikasi lain. Itu akan membuka jendela di mana Anda dapat menelusuri dan menjelajahi semua aplikasi yang tersedia sehingga Anda dapat memilih aplikasi yang ingin diinstal atau ditambahkan ke desktop."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:43
@@ -238,7 +238,7 @@ msgid ""
 "new window will come up with more information about the app. Click on the "
 "green button that says <gui>Add to Desktop</gui>, then after a moment the "
 "button will change to say <gui>Open</gui>."
-msgstr ""
+msgstr "Klik aplikasi yang ingin Anda unduh. Sebagai contoh, masuk ke kategori <gui>Pendidikan</gui> dan klik pada aplikasi <app>Guatemala</app>. Sebuah jendela baru akan muncul berisi informasi tambahan tentang aplikasi itu. Klik pada tombol hijau yang bertuliskan <gui>Tambahkan ke Desktop</gui>, kemudian setelah beberapa saat tombol itu akan berubah bertuliskan <gui>Buka</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:57
@@ -246,7 +246,7 @@ msgid ""
 "After closing this window you’ll see that the program you downloaded is now "
 "on your desktop. Now you can open it whenever you want to quickly and "
 "easily!"
-msgstr ""
+msgstr "Setelah menutup jendela ini Anda akan melihat bahwa program yang Anda unduh sekarang di desktop Anda. Sekarang Anda dapat membukanya setiap kali Anda dengan ingin cepat dan mudah!"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:61
@@ -257,7 +257,7 @@ msgid ""
 " icon and you’ll see a window telling you that you’ve successfully removed "
 "the app from your desktop. Don’t worry, you can always reinstall the apps "
 "that you remove from your desktop!"
-msgstr ""
+msgstr "Untuk menghapus aplikasi, klik ikon aplikasi tanpa melepasnya lalu seret ke ke atas ikon <app>Aplikasi Lainnya</app>. Anda akan melihat ikonnya berubah dari kotak abu-abu ke recycling bin. Lepaskan klik di atas ikon ini dan Anda akan melihat jendela yang menyampaikan bahwa Anda telah berhasil menghapus aplikasi dari desktop. Jangan khawatir, Anda dapat selalu menginstal ulang aplikasi yang Anda hapus dari desktop!"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:68
@@ -265,47 +265,47 @@ msgid ""
 "You can also delete a folder this same way, by clicking on it, dragging it "
 "over the recycling bin, and letting go. Remember that the folder has to be "
 "empty in order to delete it."
-msgstr ""
+msgstr "Anda juga dapat menghapus folder dengan cara yang sama, yakni dengan mengklik pada folder itu, menyeretnya ke tong daur ulang, dan melepaskannya. Ingatlah bahwa folder harus dalam keadaan kosong apabila akan dihapus."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:72
 msgid ""
 "That’s how easy it is to add and remove apps and folders from your desktop!"
-msgstr ""
+msgstr "Semudah itulah menambahkan dan menghapus aplikasi dan folder dari desktop Anda!"
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:19
 msgctxt "link"
 msgid "Using Wi-Fi"
-msgstr ""
+msgstr "Menggunakan Wi-Fi"
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:20
 msgctxt "sort"
 msgid "04"
-msgstr ""
+msgstr "04"
 
 #. (itstool) path: info/desc
 #: C/endless-04-wifi.page:21
 msgid "A video showing how to set up Wi-Fi with Endless."
-msgstr ""
+msgstr "Sebuah video yang menunjukkan cara menata Wi-Fi dengan Endless."
 
 #. (itstool) path: page/title
 #: C/endless-04-wifi.page:24
 msgid "Using Wi-Fi"
-msgstr ""
+msgstr "Menggunakan Wi-Fi"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:34
 msgid "You can connect to a Wi-Fi network with these easy steps:"
-msgstr ""
+msgstr "Anda dapat terhubung ke jaringan Wi-Fi dengan langkah-langkah mudah ini:"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:36
 msgid ""
 "First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
 "right side of your desktop, on the task bar close to the clock."
-msgstr ""
+msgstr "Pertama, klik ikon <gui>Wi-Fi</gui> yang terletak di sisi kanan bawah desktop Anda, di bilah tugas di dekat jam."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:39
@@ -315,7 +315,7 @@ msgid ""
 "that your Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is "
 "turned on if there is a blue light to the right of the word <gui>Wi-"
 "Fi</gui>. If the light is not blue, you can click on it once to turn it on."
-msgstr ""
+msgstr "Pada jendela yang muncul, Anda akan melihat nama semua jaringan Wi-Fi yang tersedia. Apabila Anda tak melihat nama jaringan apapun, pastikan bahwa Wi-Fi Anda telah dinyalakan. Anda akan tahu bahwa Wi-Fi Anda telah dinyalakan apabila ada lampu biru di sebelah kanan kata-kata <gui>Wi-Fi</gui>. Apabila lampu tidak menyala biru, Anda dapat mengklik padanya sekali untuk menyalakannya."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:45
@@ -332,19 +332,19 @@ msgstr "Pilih nama untuk jaringan nirkabel Anda. Contohnya, jaringan ini diberi 
 msgid ""
 "After selecting the name of your network, you’ll have to type in your "
 "network’s password."
-msgstr ""
+msgstr "Setelah memilih nama jaringan Anda, Anda harus mengetikkan kata sandi jaringan Anda."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:54
 msgid ""
 "If your computer successfully connects to the internet, you’ll see a white "
 "circle to the left of the name of your network."
-msgstr ""
+msgstr "Apabila komputer Anda berhasil menyambung ke internet, Anda akan melihat lingkaran putih di sebelah kiri nama jaringan Anda."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:57
 msgid "And just like that, you’re connected to the internet!"
-msgstr ""
+msgstr "Dan cukup semudah itu saja, Anda sudah terhubung ke internet!"
 
 #. (itstool) path: info/title
 #: C/endless-05-files.page:19
@@ -361,7 +361,7 @@ msgstr "05"
 #. (itstool) path: info/desc
 #: C/endless-05-files.page:21
 msgid "A video showing how to use the file system."
-msgstr ""
+msgstr "Video yang menampilkan cara menggunakan sistem berkas."
 
 #. (itstool) path: page/title
 #: C/endless-05-files.page:24
@@ -383,7 +383,7 @@ msgid ""
 " the bottom left side of your screen and clicking on the "
 "<app>Documents</app> icon on the right side of the screen, even if you have "
 "an app open."
-msgstr ""
+msgstr "Ikon <app>Dokumen</app> memberi Anda akses ke folder dan file-file Anda. Anda dapat menemukannya di desktop dengan menggerakkan mouse ke pojok aktif di sudut kiri bawah layar dan mengklik pada ikon <app>Dokumen</app> pada sisi kanan layar, sekalipun ada aplikasi yang terbuka."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:43
@@ -395,14 +395,14 @@ msgid ""
 "displayed on the right, click your mouse’s button quickly two times. We call"
 " this a double click. To return to the previous folder, click the back arrow"
 " above."
-msgstr ""
+msgstr "Saat Anda berada di dalam folder utama <app>Documents</app>, Anda dapat membuat folder baru untuk menyimpan semua berkas dan dokumen Anda agar tertata dengan rapi dan mudah ditemukan. Pada sisi kiri jendela, Anda akan melihat pintasan untuk membuka folder ini. Untuk membuka berkas atau folder yang ditampilkan di sisi kanan, klik tombol mouse Anda dua kali dengan cepat. Ini disebut klik ganda. Untuk kembali ke folder sebelumnya, klik panah kembali di atas."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:50
 msgid ""
 "You can also open a folder by clicking the right button of your mouse, and "
 "then clicking <gui>Open</gui> with the left button."
-msgstr ""
+msgstr "Anda juga dapat membuka folder dengan mengeklik tombol kanan pada mouse Anda, kemudian mengeklik <gui>Open</gui> dengan tombol kiri."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:53
@@ -411,7 +411,7 @@ msgid ""
 "name of the folder you wish to open. For example, if you click the name "
 "<gui>Images</gui> with your left mouse button, you’ll open the "
 "<gui>Images</gui> folder."
-msgstr ""
+msgstr "Untuk menggunakan shortcut yang berada di sisi kiri layar, klik pada nama folder yang ingin Anda buka. Misalnya, jika Anda klik nama <gui> Gambar</gui> dengan tombol kiri tetikus Anda, Anda akan membuka folder <gui> Gambar</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:58
@@ -422,7 +422,7 @@ msgid ""
 " the folder where you want it. For example, if I want to move my favorite "
 "song to the music folder, I click on the music file without letting go and "
 "drag it to the music folder. Now it’s in that folder!"
-msgstr ""
+msgstr "Saat Anda mengunduh berkas dari internet, berkas ini akan disimpan di folder <gui>Downloads</gui>. Jika Anda ingin memindahkan berkas ke folder ini atau folder lainnya, cukup klik pada berkas, tahan dan tarik ke folder yang Anda inginkan. Sebagai contoh, jika saya ingin memindahkan lagu favorit saya ke folder musik, saya mengeklik pada berkas musik tanpa melepaskannya dan menariknya ke folder musik. Sekarang berkas ini ada di folder tersebut!"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:65
@@ -431,7 +431,7 @@ msgid ""
 "on it without letting go and drag it to the recycling bin. To delete my "
 "favorite song, for example, click it without letting go, drag it to the "
 "recycling bin, and let go of the click."
-msgstr ""
+msgstr "Untuk menghapus sebuah file, baik itu sebuah lagu, foto, atau jenis lainnya, Anda dapat mengklik dan tidak melepasnya, lalu menyeretnya ke tong daur ulang. Contohnya untuk menghapus lagu favorit, klik pada lagu dan tahan terus, seret ke tong daur ulang, baru lepaskan klik-nya."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:70
@@ -447,19 +447,19 @@ msgstr "Dari kotak daur ulang, Anda bisa mengembalikan file yang sudah dihapus k
 #. (itstool) path: page/p
 #: C/endless-05-files.page:77
 msgid "It’s easy to organize your files on Endless, right?"
-msgstr ""
+msgstr "Mudah sekali bukan untuk mengorganisir file-file Anda menggunakan Endless?"
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:19
 msgctxt "link"
 msgid "Browsing the Internet"
-msgstr ""
+msgstr "Menjelajahi Internet"
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:20
 msgctxt "sort"
 msgid "06"
-msgstr ""
+msgstr "06"
 
 #. (itstool) path: info/desc
 #: C/endless-06-browser.page:21
@@ -469,14 +469,14 @@ msgstr "Video yang menjelaskan cara pengguna merambah halaman web."
 #. (itstool) path: page/title
 #: C/endless-06-browser.page:24
 msgid "Browsing the Internet"
-msgstr ""
+msgstr "Menjelajahi Internet"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:35
 msgid ""
 "If you’re connected to the internet you have access to websites from all "
 "around the world! Here, you can learn how to get to them."
-msgstr ""
+msgstr "Jika Anda terhubung ke internet Anda memiliki akses ke website dari seluruh dunia! Di sini Anda dapat mempelajari cara melakukannya."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:38
@@ -487,7 +487,7 @@ msgid ""
 "find it easily: on the desktop next to other apps’ icons, on the black task "
 "bar on the bottom part of your screen, and on the right side of the screen "
 "when you move your mouse to the bottom right hot corner."
-msgstr ""
+msgstr "Saat komputer Anda terhubung ke internet, Anda dapat membuka peramban dengan mengklik pada lingkaran oranye di batang tugas di pojok kiri bawah. Kami telah meletakkan ikon oranye ini di tiga tempat yang berbeda sehingga Anda mudah menemukan: di desktop di sebelah ikon aplikasi-aplikasi lainnya, di batang tugas hitam pada bagian bawah layar, dan di sisi kanan layar apabila Anda menggerakkan mouse Anda ke pojok aktif di sudut kanan bawah."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:45
@@ -498,7 +498,7 @@ msgid ""
 " look through to find useful websites. For example, in the <gui>News</gui> "
 "category, you’ll find links for different newspapers. You can explore the "
 "different categories to discover lots of cool websites!"
-msgstr ""
+msgstr "Ketika Anda pertama kali membuka peramban, Anda akan melihat <app>Pusat Konten</app>. Di sini kami telah mengumpulkan situs yang menarik bagi Anda untuk dijelajahi. Jika Anda klik pada judul <gui>Temukan</gui> Anda akan melihat kategori yang berbeda bagi Anda untuk dilihat untuk menemukan situs web yang bermanfaat. Misalnya, dalam kategori <gui> Berita</gui>, Anda akan menemukan tautan untuk surat kabar yang berbeda. Anda dapat menjelajahi berbagai kategori untuk menemukan banyak situs web keren!"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:52
@@ -512,7 +512,7 @@ msgid ""
 "easily in the future. Click <gui>Finished</gui>. Now the page you saved will"
 " appear when you click on <gui>Favorites</gui> in your <app>Content "
 "Center</app>."
-msgstr ""
+msgstr "Jika Anda melihat halaman yang menarik, Anda dapat menandainya sebagai favorit untuk menyimpannya dan menemukannya dengan mudah di masa mendatang. Sebagai contoh, buka halaman <gui>Universidad Galileo</gui>. Jika Anda ingin komputer mengingat halaman ini, atau halaman lainnya, yang perlu Anda lakukan hanya mengeklik bintang yang terletak di sisi kanan URL situs web di bagian atas jendela. Jika Anda ingin, Anda dapat menyimpannya dengan nama lain agar Anda dapat menemukannya dengan lebih mudah di masa mendatang. Klik <gui>Finished</gui>. Sekarang halaman yang Anda simpan akan tampil saat Anda mengeklik <gui>Favorites</gui> pada <app>Content Center</app> Anda."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:61
@@ -531,36 +531,36 @@ msgid ""
 "center, you can send us your comments or suggestions. Just write your "
 "message, your name, and your email address, then click <gui>Send "
 "Feedback</gui>. We would love to hear from you!"
-msgstr ""
+msgstr "Jika Anda mengklik <gui>Feedback</gui> di sisi kiri bawah pusat konten, Anda dapat mengirimkan komentar atau saran. Cukup tulis pesan Anda, nama Anda, dan alamat surel Anda, lalu klik <gui>Kirim Feedback</gui>. Kami akan sangat senang mendengar dari Anda!"
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:19
 msgctxt "link"
 msgid "Minimizing and closing windows"
-msgstr ""
+msgstr "Meminimalkan dan menutup jendela"
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:20
 msgctxt "sort"
 msgid "07"
-msgstr ""
+msgstr "07"
 
 #. (itstool) path: info/desc
 #: C/endless-07-windows.page:21
 msgid "A video showing how to minimize and close your windows."
-msgstr ""
+msgstr "Video yang menampilkan cara mengecilkan dan menutup jendela Anda."
 
 #. (itstool) path: page/title
 #: C/endless-07-windows.page:24
 msgid "Minimizing and closing windows"
-msgstr ""
+msgstr "Meminimalkan dan menutup jendela"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:35
 msgid ""
 "If you want to keep an app or folder open while you work on another task on "
 "your desktop or in another app, the minimizing option is extremely useful!"
-msgstr ""
+msgstr "Jika Anda ingin sebuah aplikasi atau folder tetap terbuka selagi Anda mengerjakan tugas lain di desktop atau aplikasi lain, maka pilihan untuk mengecilkan sangatlah berguna!"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:38
@@ -570,7 +570,7 @@ msgid ""
 "program’s icon on the task bar of your Endless screen. This will hide your "
 "app or folder in your task bar so that you can work on different tasks at "
 "the same time."
-msgstr ""
+msgstr "Anda dapat meminimalisir program dengan salah satu dari dua cara: klik ikon <key>-</key>, yang berada di sudut kanan di setiap jendela, atau klik ikon program di bilah tugas pada layar Endless. Ini akan menyembunyikan aplikasi atau folder di bilah tugas agar Anda dapat mengerjakan tugas lain dalam waktu bersamaan."
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:44
@@ -578,7 +578,7 @@ msgid ""
 "To make your app return to your screen, just click its icon once and it’ll "
 "return to its last size. When you’re done using a program, close it by "
 "clicking the <key>X</key> icon at the top right-hand corner of the window."
-msgstr ""
+msgstr "Untuk membuat aplikasi Anda kembali ke layar Anda, klik ikon sekali dan itu akan kembali ke ukuran terakhirnya. Setelah Anda selesai menggunakan program, tutup dengan mengklik ikon <key>X</key> di pojok kanan atas jendela."
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:48
@@ -586,7 +586,7 @@ msgid ""
 "You can also move your mouse down to the bottom right-hand corner of your "
 "screen, then move over to the window of the app you want to close and click "
 "the <key>X</key> on the top right of that window to close it."
-msgstr ""
+msgstr "Anda juga dapat memindahkan mouse ke sudut kanan bawah layar, lalu pindahkan ke atas jendela aplikasi yang ingin Anda tutup lalu klik <key>X</key> di sudut kanan atas jendela untuk menutupnya."
 
 #. (itstool) path: info/title
 #: C/endless-08-offline.page:19
@@ -603,12 +603,12 @@ msgstr "08"
 #. (itstool) path: info/desc
 #: C/endless-08-offline.page:21
 msgid "A video showing the offline content on your computer."
-msgstr ""
+msgstr "Sebuah video yang menunjukkan konten offline di komputer Anda."
 
 #. (itstool) path: page/title
 #: C/endless-08-offline.page:24
 msgid "Using Endless offline"
-msgstr ""
+msgstr "Menggunakan Endless secara luring"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:35
@@ -624,7 +624,7 @@ msgid ""
 "desktop where you can find apps like <app>Virtual School</app>, which allows"
 " you to watch hundreds of videos about all sorts of subjects you may find "
 "interesting."
-msgstr ""
+msgstr "Sebagai contoh, Anda akan menemukan sebuah folder bernama <gui>Menarik</gui> di desktop yang di dalamnya Anda dapat menemukan aplikasi seperti <app>Sekolah Maya</app>, yang memungkinkan Anda menyaksikan ratusan video mengenai berbagai topik yang mungkin Anda rasa menarik."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:43
@@ -635,14 +635,14 @@ msgid ""
 "example, in <gui>Sciences</gui>, you can see that there are 4 videos on the "
 "topic <gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of"
 " this topic, you’ll be able to see the list of videos available."
-msgstr ""
+msgstr "Mari menjelajah <app>Virtual School</app>. Bukalah aplikasinya untuk melihat semua mata pelajaran yang dapat Anda saksikan pelajaran videonya. Anda akan melihat jumlah video yang tersedia untuk setiap topik di samping kanan dari namanya. Sebagai contoh, di <gui>Ilmu Pengetahuan</gui> Anda dapat melihat bahwa terdapat 4 video untuk topik <gui>Kesehatan</gui> dan <gui>Obat</gui>. Jika mengklik nama dari topik ini, Anda dapat melihat daftar video yang tersedia."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:50
 msgid ""
 "For any video you’d like to watch, just click on it once to begin playing "
 "it."
-msgstr ""
+msgstr "Untuk setiap video yang Anda ingin menonton, klik saja sekali untuk mulai memainkannya."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:53
@@ -650,14 +650,14 @@ msgid ""
 "To end the video, just click on the <key>X</key> button at the top right-"
 "hand corner of the video. To learn more about how to control videos, please "
 "see the tutorial that talks about photos, music and video."
-msgstr ""
+msgstr "Untuk mengakhiri video, klik pada tombol <key>X</key> pada pojok kanan atas dari video tersebut. Untuk belajar lebih lanjut tentang bagaimana cara mengendalikan pemutaran video, silakan melihat tutorial yang menjelaskan tentang foto, musik, dan video."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:57
 msgid ""
 "You may also be interested in using the <app>Encyclopedia</app> app. We have"
 " put it on your desktop to make it easy to find."
-msgstr ""
+msgstr "Anda juga mungkin tertarik menggunakan aplikasi <app>Encyclopedia</app>. Kami telah meletakkannya di desktop agar mudah mencarinya."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:60
@@ -667,43 +667,43 @@ msgid ""
 " Guatemala. Once you start typing, a list will appear so that you can choose"
 " the item that best matches what you’d like to read about. Click on a title "
 "and all of the information on the topic you have chosen will appear."
-msgstr ""
+msgstr "Saat Anda membuka aplikasi ini, Anda akan melihat sebuah bilah di mana Anda dapat mencari topik apa pun yang ingin Anda kaji. Sebagai contoh, mari cari informasi mengenai Guatemala. Saat Anda mulai mengetik, sebuah daftar akan muncul agar Anda dapat memilih item yang paling cocok dengan yang ingin Anda baca. Klik pada sebuah judul dan semua informasi mengenai topik yang telah Anda pilih akan ditampilkan."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:66
 msgid ""
 "Remember that there are many apps that do not require internet. Keep "
 "exploring your computer to find them!"
-msgstr ""
+msgstr "Ingatlah bahwa ada banyak aplikasi yang tidak membutuhkan internet. Teruslah jelajahi komputer Anda dan temukan aplikasi-aplikasi ini!"
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:19
 msgctxt "link"
 msgid "Using the Writer app"
-msgstr ""
+msgstr "Menggunakan aplikasi Penulis"
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:20
 msgctxt "sort"
 msgid "09"
-msgstr ""
+msgstr "09"
 
 #. (itstool) path: info/desc
 #: C/endless-09-writer.page:21
 msgid "A video showing how to use the Writer app to create documents."
-msgstr ""
+msgstr "Sebuah video yang menunjukkan cara menggunakan aplikasi Writer untuk membuat dokumen."
 
 #. (itstool) path: page/title
 #: C/endless-09-writer.page:24
 msgid "Using the Writer app"
-msgstr ""
+msgstr "Menggunakan aplikasi Writer"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:35
 msgid ""
 "Your computer comes with apps for you to create the documents and "
 "presentations that you need."
-msgstr ""
+msgstr "Komputer Anda dilengkapi aplikasi untuk menciptakan dokumen dan presentasi yang Anda perlukan."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:38
@@ -713,14 +713,14 @@ msgid ""
 " <app>Spreadsheets</app> app, which is located in the <gui>Work</gui> "
 "folder. And, you can use the <app>Presentation</app> app to create "
 "presentations that can help you communicate your ideas."
-msgstr ""
+msgstr "Sebagai contoh, Anda dapat menemukan aplikasi <app>Writer</app> di desktop Anda, yang dapat digunakan untuk membuat dokumen. Anda juga dapat membuat spreadsheet dalam aplikasi <app>Spreadsheets</app>, yang terletak dalam folder <gui>Work</gui>. Dan Anda dapat menggunakan aplikasi <app>Presentation</app> untuk menciptakan presentasi yang dapat membantu Anda menyampaikan ide-ide."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:44
 msgid ""
 "Let’s walk through some basic things that you can do with the "
 "<app>Writer</app> app."
-msgstr ""
+msgstr "Mari telusuri sejumlah hal dasar yang dapat Anda lakukan dengan aplikasi <app>Writer</app>."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:47
@@ -729,7 +729,7 @@ msgid ""
 " the <app>Encyclopedia</app> app. Just select the text you want to copy, and"
 " right click on it. A menu with the option to <gui>Copy</gui> will appear. "
 "Click on that option."
-msgstr ""
+msgstr "Anda dapat dengan mudah menyalin teks dari aplikasi lain. Misalkan Anda ingin menyalin teks dari aplikasi <app>Encyclopedia</app>. Cukup pilih teks yang ingin Anda salin, dan klik kanan di atasnya. Sebuah menu dengan opsi untuk <gui>Salin</gui> akan muncul. Klik pilihan tersebut."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:52
@@ -737,7 +737,7 @@ msgid ""
 "Go back to the app where you want to paste the information. Then, simply "
 "right click again, and then click <gui>Paste</gui>. The text you copied from"
 " the encyclopedia will appear in your document."
-msgstr ""
+msgstr "Kembali ke aplikasi di mana Anda ingin menempelkan informasi. Lalu cukup klik kanan lagi, kemudian klik <gui>Tempel</gui>. Teks yang Anda salin dari ensiklopedia akan muncul dalam dokumen Anda."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:56
@@ -761,29 +761,29 @@ msgid ""
 "<gui>Save</gui>. Remember to give your document a name that you will "
 "remember (usually something that describes what is in the document) before "
 "saving it to make it easier to find later."
-msgstr ""
+msgstr "Anda dapat menyimpan dokumen dengan mengklik <gui>Berkas</gui>, lalu <gui>Simpan</gui>. Ingatlah untuk memberi nama yang mudah Anda ingat untuk dokumen (umumnya sesuatu yang mendeskripsikan apa yang ada dalam dokumen) sebelum menyimpannya guna mempermudah Anda mencarinya nanti."
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:19
 msgctxt "link"
 msgid "Playing videos"
-msgstr ""
+msgstr "Memutar video"
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:20
 msgctxt "sort"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. (itstool) path: info/desc
 #: C/endless-10-video-player.page:21
 msgid "A video showing how to play movies and videos with Endless."
-msgstr ""
+msgstr "Video yang menunjukkan cara memainkan film dan video menggunakan Endless."
 
 #. (itstool) path: page/title
 #: C/endless-10-video-player.page:24
 msgid "Playing videos"
-msgstr ""
+msgstr "Memutar video"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:35
@@ -792,7 +792,7 @@ msgid ""
 "watch them whenever you want. You can also watch videos from a USB memory "
 "stick, or you can download and watch videos from the internet if you have a "
 "connection."
-msgstr ""
+msgstr "Kami telah memasang beberapa video singkat yang ceria di komputer Anda sehingga Anda dapat menyaksikan kapan pun Anda inginkan. Anda juga dapat menyaksikan video dari USB drive, atau Anda dapat mengunduh dan menyaksikan video dari internet apabila ada sambungan."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:40
@@ -802,7 +802,7 @@ msgid ""
 " folder. Double click on the <gui>Samples</gui> folder to open it. This is "
 "where we have added the pre-installed short videos. To open a video, simply "
 "double click on its name."
-msgstr ""
+msgstr "Pertama, mari temukan folder <gui>Video</gui>. Dari desktop, klik pada folder <app>Dokumen</app>. Lalu klik-ganda pada folder <gui>Video</gui>. Klik-ganda pada folder <gui>Sampel</gui> untuk membukanya. Di sinilah tempat kami meletakkan video-video singkat yang kami berikan. Untuk membuka sebuah video, Anda tinggal melakukan klik-ganda pada namanya."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:46
@@ -811,7 +811,7 @@ msgid ""
 " lower left corner of the video. To continue playing it, click on that same "
 "button. You can click on the grey square that appears on the bottom bar of "
 "the video and drag it to advance or rewind the video."
-msgstr ""
+msgstr "Setelah video diputar, Anda dapat menghentikan sebentar dengan mengklik tombol di sudut kiri bawah video. Untuk melanjutkan pemutaran, klik pada tombol yang sama. Anda bisa klik di kotak abu-abu yang muncul di bagian bawah bar video dan tarik untuk memajukan atau memundurkan video."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:51
@@ -822,14 +822,14 @@ msgid ""
 "the top left-hand side of your keyboard. This key can also be used to quit "
 "games that take you into full-screen mode, or when any other video is in "
 "full-screen."
-msgstr ""
+msgstr "Jika Anda ingin melihat video dalam layar penuh, klik pada panah bawah video di sebelah kanan. Untuk mengecilkan video dan melihat yang lain di layar Anda lagi, Anda harus menekan tombol <key>ESC</key>, yang terletak di sisi kiri atas keyboard. Tombol ini juga dapat digunakan untuk mengeluarkan permainan yang membawa Anda ke modus layar penuh, atau ketika video lainnya dalam layar penuh."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:57
 msgid ""
 "You can find the button to adjust volume on the lower right-hand side of the"
 " video player. Click and then drag the bar up and down to adjust the volume."
-msgstr ""
+msgstr "Anda dapat menemukan tombol pengatur volume di sisi kanan bawah pemutar video. Klik lalu seret bilahnya ke atas dan bawah untuk mengatur volume."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:60
@@ -838,34 +838,34 @@ msgid ""
 "the video’s sound. If your computer is connected to a TV, then the TV’s "
 "speakers should work to play sound. If you still cannot hear anything, try "
 "turning up the volume on your computer or on your TV."
-msgstr ""
+msgstr "Ingatlah untuk menghubungkan komputer Anda ke headphone atau speaker agar Anda dapat mendengar suara video. Jika komputer terhubung ke TV, maka suara akan keluar dari speaker TV. Jika Anda masih tidak dapat mendengar apa pun, coba tingkatkan volume pada komputer atau TV Anda."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:65
 msgid "We hope you enjoy all the videos we chose for you!"
-msgstr ""
+msgstr "Kami harap Anda menikmati semua video pilihan kami!"
 
 #. (itstool) path: info/title
 #: C/endless-11-photos-and-music.page:19
 msgctxt "link"
 msgid "Photos and Music"
-msgstr ""
+msgstr "Foto dan Musik"
 
 #. (itstool) path: info/title
 #: C/endless-11-photos-and-music.page:20
 msgctxt "sort"
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #. (itstool) path: info/desc
 #: C/endless-11-photos-and-music.page:21
 msgid "A video showing how to edit photos and listen to music."
-msgstr ""
+msgstr "Video yang menampilkan cara menyunting foto dan mendengarkan musik."
 
 #. (itstool) path: page/title
 #: C/endless-11-photos-and-music.page:24
 msgid "Photos and Music"
-msgstr ""
+msgstr "Foto dan Musik"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:35
@@ -874,7 +874,7 @@ msgid ""
 "right on your desktop. Click once to open it and then choose a picture you "
 "want to edit. You can use one of the photos that comes with your computer, "
 "or a photo that you have taken and uploaded."
-msgstr ""
+msgstr "Mengedit foto Anda sungguh mudah! Anda dapat menemukan aplikasi <app>Photo Editor</app> langsung di desktop. Klik sekali untuk membukanya lalu pilih gambar yang ingin diedit. Anda dapat menggunakan salah satu foto yang disertakan dalam komputer, atau foto yang sudah Anda abadikan dan unggah."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:40
@@ -883,7 +883,7 @@ msgid ""
 " your computer, double click on the <gui>Samples</gui> folder. You can click"
 " once on a photo’s name to view it in a preview, and can double click on the"
 " picture you want to open and edit it."
-msgstr ""
+msgstr "Klik <gui>Buka Gambar</gui> untuk memulai. Untuk melihat foto yang sudah ada di komputer, klik ganda folder <gui>Sampel</gui>. Anda dapat mengklik sekali pada nama foto untuk melihatnya di pratinjau, dan klik ganda pada gambar yang ingin Anda buka atau edit."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:45
@@ -891,7 +891,7 @@ msgid ""
 "Once you have a photo open, you can edit it in many fun ways. For example, "
 "you can rotate, cut or change it until you find a look that you really like "
 "for it."
-msgstr ""
+msgstr "Setelah Anda memiliki foto terbuka, Anda dapat mengeditnya dalam banyak cara yang menyenangkan. Misalnya, Anda dapat memutar, memotong atau mengubahnya sampai Anda menemukan tampilan yang Anda benar-benar ingin untuk itu."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:49
@@ -899,7 +899,7 @@ msgid ""
 "We have included many filters to give you more options to create your "
 "perfect image. There are even options to distort the photo and make it look "
 "funny."
-msgstr ""
+msgstr "Kami telah menyertakan berbagai filter guna memberi Anda lebih banyak opsi dalam menciptakan gambar yang sempurna. Bahkan terdapat opsi untuk mendistorsi foto dan menjadikannya tampak lucu."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:52
@@ -907,7 +907,7 @@ msgid ""
 "Add a frame to your masterpiece if you’d like, and when you are finished "
 "editing the photo you can save it, post it to Facebook, or use it as your "
 "wallpaper!"
-msgstr ""
+msgstr "Tambahkan bingkai untuk karya besar Anda jika mau, dan saat selesai mengedit foto Anda dapat menyimpannya, mempostingnya ke Facebook, atau gunakan sebagai wallpaper!"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:56
@@ -923,7 +923,7 @@ msgid ""
 "To hear a song, double click on it. You can pause it by clicking on the "
 "button on the top left-hand side, and continue playing it by re-clicking the"
 " same button."
-msgstr ""
+msgstr "Untuk mendengar lagu, klik dua kali. Anda dapat menghentikan sementara dengan mengklik tombol di sisi kiri atas, dan melanjutkan bermain dengan mengklik ulang tombol yang sama."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:64
@@ -953,7 +953,7 @@ msgstr "Ingat, untuk mendengar audio, komputer Anda harus terkoneksi dengan head
 #: C/endless-12-social-bar.page:19
 msgctxt "link"
 msgid "Using Facebook"
-msgstr ""
+msgstr "Menggunakan Facebook"
 
 #. (itstool) path: info/title
 #: C/endless-12-social-bar.page:20
@@ -969,13 +969,13 @@ msgstr "Video yang memperlihatkan bagaimana menggunakan Facebook dengan program 
 #. (itstool) path: page/title
 #: C/endless-12-social-bar.page:24
 msgid "Using Facebook"
-msgstr ""
+msgstr "Menggunakan Facebook"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:35
 msgid ""
 "If you have internet, there are two simple ways to access <em>Facebook</em>."
-msgstr ""
+msgstr "Jika Anda terhubung ke internet, ada dua cara mudah untuk mengakses <em>Facebook</em>."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:38
@@ -983,7 +983,7 @@ msgid ""
 "The first is opening the browser and entering <em>facebook.com</em> at the "
 "top, then entering your name and password in the login part of the site as "
 "you may already be used to doing."
-msgstr ""
+msgstr "Yang pertama adalah membuka peramban dan memasukkan <em>facebook.com</em> pada bagian atas, lalu mengetikkan nama Anda dan kata sandi pada bagian login dari situs tersebut seperti biasanya yang Anda lakukan."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:42
@@ -992,7 +992,7 @@ msgid ""
 "right-hand corner of your screen. By clicking on it, you will see a window "
 "that appears on the right side of the screen. Enter your email and password "
 "and start using Facebook immediately!"
-msgstr ""
+msgstr "Cara lain adalah memakai tombol <em>Facebook</em> di pojok kanan bawah layar Anda. Dengan mengklik pada tombol itu, akan muncul sebuah jendela pada sisi kanan layar. Isi email dan kata sandi Anda dan Anda dapat langsung menggunakan Facebook!"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:47
@@ -1002,7 +1002,7 @@ msgid ""
 " be using the <app>Writer</app> app, and while you are working on a "
 "document, you can check <em>Facebook</em> quickly during breaks, and you can"
 " even continue a conversation without having to switch programs to do so."
-msgstr ""
+msgstr "Apabila Anda mengakses <em>Facebook</em> dengan cara kedua ini, Anda akan amat mudah mengakses <em>Facebook</em> pada saat menggunakan program-program lain. Contohnya, Anda dapat menggunakan aplikasi <app>Penulis</app>, dan saat sedang mengerjakan sebuah dokumen, Anda dapat memeriksa <em>Facebook</em> secara cepat saat rehat, dan Anda bahkan dapat melanjutkan percakapan tanpa perlu beralih program."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:53
@@ -1010,7 +1010,7 @@ msgid ""
 "If you use this second method, be sure to logout of your Facebook account "
 "before you stop using the computer, otherwise, someone else may be able to "
 "access your Facebook account."
-msgstr ""
+msgstr "Apabila Anda menggunakan metode kedua ini, pastikan untuk keluar dari akun Facebook sebelum berhenti menggunakan komputer. Jika tidak, orang lain akan dapat mengakses akun Facebook Anda."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:57
@@ -1018,41 +1018,41 @@ msgid ""
 "To logout of <em>Facebook</em>, make sure you are in the <em>Facebook</em> "
 "window, click on the menu button on the top left-hand side, scroll to the "
 "bottom of the window, and click on the <em>logout</em> button."
-msgstr ""
+msgstr "Untuk keluar dari <em>Facebook</em>, pastikan Anda berada di jendela <em>Facebook</em>, klik tombol menu di sisi kiri, gulir ke dasar jendela, lalu klik tombol <em>keluar</em>."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:61
 msgid "There you go, Facebook is now just a click away!"
-msgstr ""
+msgstr "Kini hanya butuh satu klik ke Facebook!"
 
 #. (itstool) path: info/title
 #: C/endless-13-printers.page:9
 msgctxt "link"
 msgid "Setting up a printer"
-msgstr ""
+msgstr "Menyiapkan printer"
 
 #. (itstool) path: info/title
 #: C/endless-13-printers.page:10
 msgctxt "sort"
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #. (itstool) path: info/desc
 #: C/endless-13-printers.page:11
 msgid "A video showing how to set up a printer for the first time."
-msgstr ""
+msgstr "Video yang menampilkan cara menyiapkan printer untuk pertama kalinya."
 
 #. (itstool) path: page/title
 #: C/endless-13-printers.page:14
 msgid "Setting up a printer"
-msgstr ""
+msgstr "Menyiapkan printer"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:25
 msgid ""
 "Click the <em>User Menu</em> button on the bottom left-hand corner of the "
 "screen, then select <gui>Settings</gui>."
-msgstr ""
+msgstr "Klik tombol <em> User Menu </em> di sudut kiri bawah layar, lalu pilih <gui> Pengaturan </gui>."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:28
@@ -1061,19 +1061,19 @@ msgid ""
 " unlock this window by clicking on the button that says <gui>Unlock</gui> in"
 " the upper right-hand corner. Enter your password and click "
 "<gui>Authenticate</gui> to finish unlocking the window."
-msgstr ""
+msgstr "Dalam jendela yang muncul, klik <gui>Printer</gui>. Untuk melanjutkan, Anda harus membuka kunci jendela ini dengan mengklik pada tombol yang bertuliskan <gui>Buka Kunci</gui> pada pojok kanan atas. Masukkan kata sandi Anda dan klik <gui>Otentikasi</gui> untuk menyelesaikan membuka kunci jendela."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:33
 msgid ""
 "Click the <key>+</key> symbol in the lower left-hand corner of this window."
-msgstr ""
+msgstr "Klik simbol <key>+</key> di sudut kiri bawah jendela ini."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:36
 msgid ""
 "Select your printer from the list that appears, and click <gui>Add</gui>."
-msgstr ""
+msgstr "Pilih printer dari daftar yang muncul, lalu klik <gui>Tambah</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:38
@@ -1087,18 +1087,18 @@ msgstr "Anda akan melihat nama printer Anda muncul. Jika Anda ingin memeriksa ko
 #: C/endless-13-printers.page:42
 msgid ""
 "You can now close this window and begin to use your printer with Endless!"
-msgstr ""
+msgstr "Sekarang Anda dapat menutup jendela ini dan mulai menggunakan printer dengan Endless!"
 
 #. (itstool) path: info/desc
 #: C/endless-videos.page:9
 msgid "Watch videos explaining how to use EndlessOS."
-msgstr ""
+msgstr "Saksikan video yang menjelaskan cara menggunakan EndlessOS."
 
 #. (itstool) path: info/title
 #: C/endless-videos.page:10
 msgctxt "link"
 msgid "Videos Tutorials"
-msgstr ""
+msgstr "Video Tutorial "
 
 #. (itstool) path: info/title
 #: C/endless-videos.page:11
@@ -1109,7 +1109,7 @@ msgstr "Video Tutorial"
 #. (itstool) path: page/title
 #: C/endless-videos.page:14
 msgid "Endless Videos"
-msgstr ""
+msgstr "Video Endless"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:3
@@ -1347,7 +1347,7 @@ msgstr "Petr Kovar"
 #. (itstool) path: info/desc
 #: C/gs-browse-web.page:20
 msgid "Use Facebook, Google and other popular websites with your browser."
-msgstr ""
+msgstr "Gunakan Facebook, Google dan website populer lainnya dengan peramban Anda."
 
 #. (itstool) path: page/title
 #: C/gs-browse-web.page:23
@@ -1360,7 +1360,7 @@ msgid ""
 "Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
 "your desktop. You can browse the internet by clicking on this desktop icon "
 "once."
-msgstr ""
+msgstr "Komputer Anda dilengkapi oleh ikon <gui>aplikasi Internet</gui> bawaan di desktop Anda. Anda dapat menjelajahi internet dengan mengeklik sekali pada ikon desktop ini."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:33
@@ -1368,31 +1368,31 @@ msgid ""
 "You can also open this app by moving your mouse pointer to the "
 "<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
 "clicking once."
-msgstr ""
+msgstr "Anda juga dapat membuka aplikasi ini dengan menggerakkan penunjuk mouse ke ikon bola dunia jingga <gui>Internet</gui> di kiri bawah layar dan mengkliknya sekali."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:39
 msgid "Click the address bar at the top of the browser window. Start typing!"
-msgstr ""
+msgstr "Klik batang alamat pada bagian atas jendela peramban. Mulailah mengetik!"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:43
 msgid ""
 "You do not need to remember the exact address if you have already visited "
 "the website because it will be stored in your history and/or bookmarks."
-msgstr ""
+msgstr "Anda tak perlu mengingat alamat tepatnya apabila Anda telah mengunjungi situs web tersebut karena akan disimpan di riwayat dan/atau penanda."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:46
 msgid ""
 "If the website is found in the history or bookmarks, you will see a drop-"
 "down list appear below the address bar."
-msgstr ""
+msgstr "Jika website ditemukan dalam riwayat atau markah, Anda akan melihat daftar drop-down yang muncul di bawah bilah alamat."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:49
 msgid "Select the website you are looking for using the arrow keys."
-msgstr ""
+msgstr "Pilih website yang Anda cari menggunakan tombol panah."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:52
@@ -1408,18 +1408,18 @@ msgid ""
 "your desktop. You will be shown the top results that are already on your "
 "Endless computer, and it will also ask if you want to search the internet. "
 "Click on the option to search the internet."
-msgstr ""
+msgstr "Anda dapat menjelajahi internet langsung dari desktop Anda dengan menggunakan fitur <link xref=\"gs-use-system-search\">bilah penelusuran global</link>. Pertama-tama, <gui>ketikkan langsung yang Anda cari</gui> pada bilah penelusuran di desktop Anda. Anda akan disajikan hasil penelusuran teratas yang sudah ada di komputer Endless Anda, dan komputer juga akan menanyakan apakah Anda ingin menelusuri internet. Klik pada pilihan untuk menelusuri internet."
 
 #. (itstool) path: info/desc
 #: C/gs-fix-overscan.page:19
 msgid ""
 "Fix a problem where your TV is cutting off the top and bottom of the screen."
-msgstr ""
+msgstr "Atasi masalah di mana TV Anda memotong bagian atas dan bawah layar."
 
 #. (itstool) path: page/title
 #: C/gs-fix-overscan.page:22
 msgid "I can't see the task bar or start menu, what do I do?"
-msgstr ""
+msgstr "Saya tidak melihat batang tugas atau menu awal, apa yang harus saya lakukan?"
 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
@@ -1427,7 +1427,7 @@ msgid ""
 "If you do not see the task bar at the bottom of your screen with the user "
 "menu on the left and the time and facebook icon on the right, you need to "
 "adjust your screen to fit your TV."
-msgstr ""
+msgstr "Jika Anda tidak melihat bilah tugas di bagian bawah layar, menu pengguna di sisi kiri, dan indikator waktu serta ikon facebook di sisi kanan, maka Anda perlu menyesuaikan layar Anda agar pas di TV Anda."
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:29
@@ -1442,26 +1442,26 @@ msgstr "Klik kanan pada desktop dan pilih <gui>\"Change Background...\"</gui>."
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:37
 msgid "Click the back button on the top left corner of the dialog box."
-msgstr ""
+msgstr "Klik tombol kembali di sudut kiri atas pada kotak dialog."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:41
 msgid "Select the <gui>Displays</gui> icon."
-msgstr ""
+msgstr "Pilih ikon <gui>Tampilan</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:45
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
-msgstr ""
+msgstr "Centang kotak dialog sebelah <gui>Scaling</gui> yang mengatakan <gui>\"Sesuaikan layar untuk TV\"</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:50
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
-msgstr ""
+msgstr "Anda sekarang seharusnya dapat melihat batang hitam pada bagian bawah layar Anda dan menu pengguna pada pojok kiri bawah layar Anda!"
 
 #. (itstool) path: page/title
 #: C/gs-get-online.page:21
@@ -1473,7 +1473,7 @@ msgstr "Bagaimana cara saya memasang internet?"
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
 "side of your screen will look like this <_:media-1/>."
-msgstr ""
+msgstr "Apabila Anda sedang luring, ikon sambungan jaringan di sisi kanan bawah layar Anda akan tampak seperti ini <_:media-1/>."
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:27
@@ -1522,7 +1522,7 @@ msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
 "corner of your screen. You will see this icon <_:media-1/>. Click on it and "
 "a menu should appear."
-msgstr ""
+msgstr "Apakah Wi-Fi Anda terhubung? Carilah ikon jaringan di sudut kanan bawah layar. Anda akan melihat ikon ini <_:media-1/>. Klik ikon tersebut untuk menampilkan menu."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:66
@@ -1541,7 +1541,7 @@ msgstr "Berikutnya, pilih jaringan Wi-Fi dari daftar."
 msgid ""
 "Enter your network password, which is usually different than the password "
 "you use to log in to your computer."
-msgstr ""
+msgstr "Masukkan kata sandi jaringan Anda, yang biasanya berbeda dari kata sandi yang Anda gunakan untuk masuk ke komputer."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:88
@@ -1549,7 +1549,7 @@ msgid ""
 "If you don’t see your network in the list, try unplugging your Wi-Fi router "
 "then plugging it back in. If it still doesn’t work, you may need to contact "
 "your internet provider directly."
-msgstr ""
+msgstr "Jika Anda tidak melihat jaringan Anda pada daftar, cobalah melepas router Wi-Fi Anda dan memasangnya kembali. Jika masih tidak berhasil, Anda mungkin perlu menghubungi langsung penyedia internet Anda."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:93
@@ -1562,14 +1562,14 @@ msgstr "Ingatlah bahwa teman dan tetangga kemungkinan memiliki standar nama jari
 #. (itstool) path: page/title
 #: C/gs-give-feedback.page:19
 msgid "How can I help make Endless better?"
-msgstr ""
+msgstr "Bagaimana saya bisa membantu membuat Endless lebih baik?"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:21
 msgid ""
 "What do you love about Endless? Is there anything you would change? Do you "
 "have any ideas or suggestions for new apps to include?"
-msgstr ""
+msgstr "Apa yang Anda sukai dari Endless? Apakah ada sesuatu yang ingin Anda ubah? Apakah Anda punya saran atau masukan untuk aplikasi baru?"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
@@ -1579,13 +1579,13 @@ msgstr "Kami ingin mendengar dari Anda!"
 #. (itstool) path: steps/title
 #: C/gs-give-feedback.page:27
 msgid "Here's how to give us your feedback:"
-msgstr ""
+msgstr "Berikut adalah cara untuk memberi saran:"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:29
 msgid ""
 "Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr ""
+msgstr "Klik pada <_:media-1/> di sudut kiri bawah pada layar Anda."
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:35
@@ -1600,14 +1600,14 @@ msgstr "Klik pilihan <gui>Beri Kami Masukan</gui>. Anda juga dapat mengakses hal
 msgid ""
 "Enter in your comment, name and email address. You must fill in all three "
 "fields in order to submit your feedback."
-msgstr ""
+msgstr "Tuliskan komentar, nama dan alamat email Anda. Anda harus mengisi seluruh larik untuk dapat mengirimkan umpan balik."
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:47
 msgid ""
 "You will receive a confirmation email to let you know that we have received "
 "your feedback. We will try to get back to you as soon as we can."
-msgstr ""
+msgstr "Anda akan menerima email konfirmasi yang memberi tahu bahwa kami telah menerima masukan dari Anda. Kami akan coba menghubungi Anda kembali sesegera mungkin."
 
 #. (itstool) path: note/p
 #: C/gs-give-feedback.page:54
@@ -2239,7 +2239,7 @@ msgstr "31"
 #: C/gs-use-offline.page:20
 msgctxt "link:shell-overview"
 msgid "Find apps that work without the internet"
-msgstr ""
+msgstr "Cari aplikasi yang bekerja tanpa internet"
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:21
@@ -2250,12 +2250,12 @@ msgstr "Gunakan komputer Anda tanpa koneksi internet"
 #. (itstool) path: info/desc
 #: C/gs-use-offline.page:22
 msgid "Discover all the offline content on your computer."
-msgstr ""
+msgstr "Temukan semua konten offline di komputer Anda."
 
 #. (itstool) path: page/title
 #: C/gs-use-offline.page:25
 msgid "What can I do if I don't have internet?"
-msgstr ""
+msgstr "Apa yang dapat saya lakukan jika tidak memiliki internet?"
 
 #. (itstool) path: page/p
 #: C/gs-use-offline.page:27
@@ -2276,12 +2276,12 @@ msgid ""
 "added to your desktop. Most of the apps you'll find there have offline "
 "capability and you can browse by category to find just what you're looking "
 "for, or else just click around and explore."
-msgstr ""
+msgstr "<app> Pusat Aplikasi </app> penuh aplikasi yang gratis dan dapat dengan mudah ditambahkan ke desktop Anda. Sebagian besar aplikasi yang Anda akan temukan memiliki kemampuan offline dan Anda dapat menelusuri berdasarkan kategori untuk menemukan apa yang Anda cari, atau cukup klik di sekitar dan eksplorasi."
 
 #. (itstool) path: steps/title
 #: C/gs-use-offline.page:37
 msgid "How to get to the <app>App Center</app>:"
-msgstr ""
+msgstr "Bagaimana untuk sampai ke <app>Pusat Aplikasi</app>:"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:39
@@ -2294,7 +2294,7 @@ msgid ""
 "Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
 "<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
 "section."
-msgstr ""
+msgstr "Klik kategori seperti <gui>Pendidikan</gui>, <gui>Permainan</gui>, <gui>Sumber Daya</gui> dan <gui>Utilitas</gui>, untuk melihat aplikasi di tiap bagian."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:49
@@ -2308,19 +2308,19 @@ msgstr "Klik pada aplikasi untuk membaca lebih lanjut dan memutuskan memasang at
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
 "<app>App Center</app>:"
-msgstr ""
+msgstr "Berikut adalah beberapa contoh dari konten offline di desktop Anda dan dalam <app>Pusat Aplikasi</app>:"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:61
 msgid "Education"
-msgstr ""
+msgstr "Pendidikan"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:63
 msgid ""
 "<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
 "encyclopedia with all the power of the internet's best."
-msgstr ""
+msgstr "<app>Encyclopedia</app> - Cari untuk belajar tentang hampir apa pun. Sebuah ensiklopedia offline dengan semua kekuatan internet terbaik."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:67
@@ -2335,66 +2335,66 @@ msgstr "<app>Virtual School</app> - Ratusan video untuk membantu Anda belajar le
 msgid ""
 "<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
 " help children of all ages develop their mental abilities."
-msgstr ""
+msgstr "<app>Edu Games</app> - Catur, puzzle, dan banyak permainan dan aktivitas lainnya guna membantu anak di segala usia mengembangkan kemampuan mental mereka."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:77
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
-msgstr ""
+msgstr "<app>Tux Math</app> - Sebuah cara yang menyenangkan bagi anak-anak untuk berlatih penambahan, pengurangan, perkalian, dan banyak lagi."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:81
 msgid ""
 "<app>Tux Typing</app> - Learn how to type with this game that guides you and"
 " helps you practice so that you can type faster and more accurately."
-msgstr ""
+msgstr "<app>Tux Typing</app> - pelajari cara mengetik dengan permainan yang memandu dan membantu Anda berlatih agar dapat mengetik dengan lebih cepat dan akurat."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:86
 msgid ""
 "<app>World Literature</app> - Read many of the world's greatest stories."
-msgstr ""
+msgstr "<app>World Literature</app> - Baca berbagai cerita menarik dari seluruh dunia."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:90
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
-msgstr ""
+msgstr "<app>Hewan</app> - Pelajari lebih lanjut tentang hewan-hewan favorit Anda, dan tentang hewan yang belum Anda kenal!"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:96
 msgid "Games"
-msgstr ""
+msgstr "Permainan"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:98
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
-msgstr ""
+msgstr "<app>Tux Kart</app> - Berpaculah dengan komputer atau teman. Dapatkan kekuatan super dan hindari jebakan untuk jadi yang pertama mencapai garis finish!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:102
 msgid ""
 "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
-msgstr ""
+msgstr "<app>Potato Guy</app> - Buat wajah dan karakter untuk Mr. Potato Guy."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:106
 msgid ""
 "<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
 " you get to the next level."
-msgstr ""
+msgstr "<app>Numpty Physics</app> - Gambar objek dan gunakan hukum fisika untuk membantu Anda menuju level selanjutnya."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:110
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
-msgstr ""
+msgstr "<app>X-Moto</app> - Cobalah kendarai motor Anda ke puncak bukit dan kelilingi objek secepat yang Anda bisa untuk menyelesaikan setiap level."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:114
@@ -2408,26 +2408,26 @@ msgstr "<app>Minetest</app> - Hindari area dengan ranjau tertanam di bawahnya, s
 msgid ""
 "<app>Blockout2</app> - A tetris-like game where you need to match the colors"
 " as best you can before the screen fills up and you lose."
-msgstr ""
+msgstr "<app>Blockout2</app> - Sebuah permainan seperti tetris di mana Anda harus mencocokkan warna sebisa mungkin sebelum layar penuh dan Anda kalah."
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:124
 msgid "Resources"
-msgstr ""
+msgstr "Sumber"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:126
 msgid ""
 "<app>Writer</app> - Write papers for school, work or for anything else you "
 "need. Compatible with Microsoft's Word."
-msgstr ""
+msgstr "<app>Writer</app> - Menulis makalah untuk sekolah, pekerjaan, atau apa saja yang Anda butuhkan. Kompatibel dengan Microsoft Word."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:130
 msgid ""
 "<app>Presentation</app> - Create beautiful presentations! Compatible with "
 "Microsoft's Powerpoint."
-msgstr ""
+msgstr "<app>Presentasi</app> - Buatlah presentasi yang cantik! Kompatibel dengan Microsoft Powerpoint."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:134
@@ -2435,7 +2435,7 @@ msgid ""
 "<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
 "yourself in ways you never thought possible with this powerful spreadsheet "
 "app. Compatible with Microsoft's Excel."
-msgstr ""
+msgstr "<app>Spreadsheet</app> - Buat penghitungan mudah atau rumit, atau kelola diri Anda dengan cara yang tidak pernah Anda bayangkan sebelumnya dengan aplikasi spreadsheet yang sangat berguna ini. Kompatibel dengan Microsoft Excel."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:139
@@ -2449,18 +2449,18 @@ msgstr "<app>Resume</app> - Pelajari bagaimana cara membuat resume yang hebat un
 msgid ""
 "<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
 "yourself and your family healthy."
-msgstr ""
+msgstr "<app>Health</app> - Mencari penyakit, perawatan, dan belajar bagaimana menjaga diri dan keluarga Anda sehat."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:147
 msgid ""
 "<app>How To</app> - Learn how to do just about anything with this handy app."
-msgstr ""
+msgstr "<app>Panduan</app> - Pelajari cara melakukan nyaris segalanya dengan aplikasi praktis ini."
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:153
 msgid "Entertainment"
-msgstr ""
+msgstr "Hiburan"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:155
@@ -2475,40 +2475,40 @@ msgid ""
 "<app>Videos</app> - Watch some of the pre-installed videos that come with "
 "Endless, or transfer videos from a USB or DVD and watch them on this great "
 "and easy-to use media player."
-msgstr ""
+msgstr "<app>Videos</app> - Tonton beberapa video bawaan yang hadir bersama Endless, atau transfer video dari USB atau DVD dan tonton di pemutar media yang canggih dan mudah digunakan ini."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:164
 msgid ""
 "<app>Myths and Legends</app> - Read about myths and legends from all over "
 "the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr ""
+msgstr "<app>Myths and Legends</app> - Baca seputar mitos dan legenda dari seluruh dunia! Segalanya mulai dari La Llorona sampai Big Foot dan masih banyak lagi!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:169
 msgid ""
 "<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
 "stars, and other celebrities"
-msgstr ""
+msgstr "<app>Selebritas</app> - Ketahui kabar tentang bintang olah raga, bintang film, dan selebritas lain favorit Anda"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:173
 msgid ""
 "<app>Travel</app> - Read about places around the world and see beautiful "
 "pictures that will make you feel like you're actually there!"
-msgstr ""
+msgstr "<app>Travel</app> - Baca tentang berbagai tempat di seluruh dunia dan lihat foto-foto indah yang akan membuat Anda merasa seolah-olah benar-benar berada di sana!"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:180
 msgid "Utility"
-msgstr ""
+msgstr "Kegunaan"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:182
 msgid ""
 "<app>Notes</app> - A handy app to help you jot down things you don't want to"
 " forget!"
-msgstr ""
+msgstr "<app>Notes</app> - Sebuah aplikasi praktis guna membantu Anda mencatat hal-hal yang tidak ingin Anda lupakan!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:186
@@ -2516,21 +2516,21 @@ msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
 "something of your own!"
-msgstr ""
+msgstr "<app>Video Editor</app> - Rekam video di ponsel Anda dan sunting untuk menciptakan sebuah mahakarya, atau cukup ambil klip video yang sudah ada dan sunting sesuai keinginan Anda!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:191
 msgid ""
 "<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
 " and more, to make them even more awesome!"
-msgstr ""
+msgstr "<app>Photo Editor</app> - Tambahkan filter dan garis tepi, atau potong foto Anda, dan banyak lagi, untuk membuat foto Anda semakin memukau!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:195
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
-msgstr ""
+msgstr "<app>Editor Audio</app> - Potong, mix dan ciptakan beat dan lagu menarik yang membuat semua teman berdansa bersama Anda."
 
 #. (itstool) path: info/desc
 #: C/gs-use-system-search.page:19
@@ -2542,7 +2542,7 @@ msgstr "Cari dokumen di komputer Anda dan di internet langsung dari desktop Anda
 #. (itstool) path: page/title
 #: C/gs-use-system-search.page:23
 msgid "Use global search"
-msgstr ""
+msgstr "Gunakan pencarian global"
 
 #. (itstool) path: page/p
 #: C/gs-use-system-search.page:25
@@ -2551,14 +2551,14 @@ msgid ""
 "photos and more, right from your desktop. If you have an internet conection,"
 " you can even look for things that are on the internet, like you would on "
 "google, with the global search tool."
-msgstr ""
+msgstr "Batang pencarian global membuat pencarian jadi mudah! Anda dapat mencari aplikasi, dokumen, foto, dan masih banyak lagi, langsung dari desktop. Apabila Anda mempunyai sambungan internet, Anda bahkan dapat mencari hal-hal yang ada di internet, seperti menggunakan google, dengan alat pencarian global."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr ""
+msgstr "Dari desktop, klik pada <app>batang pencarian global</app> di bagian atas layar Anda yang bertuliskan <gui>Ketik untuk mencari...</gui>. Mulailah mengetik untuk mencari."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
@@ -2570,7 +2570,7 @@ msgstr "Hasil yang cocok dengan apa yang telah Anda ketikkan akan muncul ketika 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40
 msgid "Press <key>Enter</key> to choose the first highlighted result."
-msgstr ""
+msgstr "Tekan <key>Enter</key> untuk memilih yang hasil pertama yang disorot."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:44 C/gs-where-files.page:40
@@ -2585,7 +2585,7 @@ msgstr "aplikasi yang cocok, ditampilkan di bagian puncak hasil pencarian,"
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:48 C/gs-where-files.page:44
 msgid "matching settings, and"
-msgstr ""
+msgstr "pengaturan yang sesuai, dan"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:49 C/gs-where-files.page:45
@@ -2595,7 +2595,7 @@ msgstr "dokumen yang cocok."
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:54 C/gs-where-files.page:49
 msgid "In the search results, click on the item you want to open."
-msgstr ""
+msgstr "Pada hasil penelusuran, klik item yang ingin Anda buka."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:55 C/gs-where-files.page:50
@@ -2655,24 +2655,24 @@ msgstr "Planet GNOME"
 #. (itstool) path: page/title
 #: C/gs-where-files.page:19
 msgid "Where are my documents and files?"
-msgstr ""
+msgstr "Di mana letak dokumen dan berkas saya?"
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
 "When you store files to your computer, they are automatically stored in your"
 " <app>Documents</app> folder on your desktop."
-msgstr ""
+msgstr "Saat Anda menyimpan berkas ke dalam komputer, berkas disimpan otomatis ke dalam folder <app>Dokumen</app> di dekstop Anda."
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:24
 msgid "Here are some ways to look for a file you have saved:"
-msgstr ""
+msgstr "Berikut ini beberapa cara untuk mencari berkas yang telah Anda simpan:"
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:27
 msgid "If you know the name of your file"
-msgstr ""
+msgstr "Jika Anda mengetahui nama berkas Anda"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:29
@@ -2687,18 +2687,18 @@ msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "Dari desktop, klik <app>bilah penelusuran global</app> di bagian atas layar yang menampilkan <gui>Type to search...</gui>. Mulailah ketikkan nama berkas yang Anda cari."
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58
 msgid "If you do not know the name of your file"
-msgstr ""
+msgstr "Jika Anda tidak mengetahui nama berkas Anda"
 
 #. (itstool) path: section/p
 #. (itstool) path: item/p
 #: C/gs-where-files.page:60 C/gs-where-files.page:90
 msgid "Click on <app>Documents</app> from the desktop."
-msgstr ""
+msgstr "Klik <app>Dokumen</app> dari desktop."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:63
@@ -2716,7 +2716,7 @@ msgid ""
 "click through the different folders you create to get to the files you have "
 "stored there. Clicking through folders is especially helpful if you are not "
 "sure what the file you saved is named."
-msgstr ""
+msgstr "Anda dapat menciptakan folder sendiri agar dapat mengorganisir berkas dengan lebih baik. Anda harus mengklik melalui sejumlah folder yang Anda buat untuk mencapai berkas yang telah Anda simpan di sana. Mengklik melalui sejumlah folder terutama berguna jika Anda tidak ingat apa nama berkas yang Anda simpan."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:74
@@ -2728,7 +2728,7 @@ msgid ""
 " to highlight the file and press <key>Enter</key> to open it. Or, you can "
 "click on the result you want with your mouse to higlight it, and double "
 "click to open it."
-msgstr ""
+msgstr "Lihat bar di bagian atas dengan kaca pembesar di dalamnya? Klik di sana dan mulai mengetik setidaknya sebagian dari nama berkas yang Anda cari. Saat Anda mulai mengetik, berkas yang cocok dengan apa yang Anda ketik ditampilkan di bawah. Jika Anda melihat berkas yang Anda cari dalam daftar, Anda dapat menggunakan tombol panah untuk menyorot berkas dan tekan <key>Enter</key> untuk membukanya. Atau, Anda bisa klik pada hasil yang Anda inginkan dengan tetikus Anda untuk menyorotnya, dan klik dua kali untuk membukanya."
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:84
@@ -2746,7 +2746,7 @@ msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
 "something with the device's brand, unless you have changed it."
-msgstr ""
+msgstr "Klik pada nama perangkat Anda pada menu di sebelah kiri jendela. Nama perangkat seharusnya muncul di atas ikon sampah dan biasanya bernama sesuatu dengan merek perangkat, kecuali jika Anda telah mengubahnya."
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:98
@@ -2754,7 +2754,7 @@ msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
 "the magnifying glass to search for the file name if you know it."
-msgstr ""
+msgstr "Menelusuri file-file di USB. Mengklik sekali pada file tersebut akan memungkinkan Anda melihat pratinjau dan klik-ganda akan membukanya. Anda juga dapat mengklik pada batang atas dengan kaca pembesar untuk mencari nama file apabila Anda ingat namanya."
 
 #. (itstool) path: note/p
 #: C/gs-where-files.page:105
@@ -2763,4 +2763,4 @@ msgid ""
 "without saving your work, you might not be able to find it again since not "
 "all programs auto-save. Save as often as you can in order to make sure that "
 "your work does not get lost."
-msgstr ""
+msgstr "Pastikan bahwa Anda telah benar-benar menyimpan berkas Anda! Jika Anda menutup program tanpa menyimpan pekerjaan Anda, Anda mungkin tidak dapat menemukannya lagi karena tidak semua program menyimpan otomatis. Simpan sesering yang Anda bisa untuk memastikan bahwa pekerjaan Anda tidak hilang."

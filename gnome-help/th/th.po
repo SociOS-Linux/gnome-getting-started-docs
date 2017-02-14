@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2017-02-04 05:18+0000\n"
+"PO-Revision-Date: 2017-02-10 18:28+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Thai (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/th/)\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "ผู้แปล-เครดิต"
 
 #. (itstool) path: credit/name
 #: C/endless-01-desktop.page:11 C/endless-02-folders.page:11
@@ -29,7 +29,7 @@ msgstr ""
 #: C/gs-give-feedback.page:8 C/gs-use-offline.page:8
 #: C/gs-use-system-search.page:15 C/gs-where-files.page:8
 msgid "Nuritzi Sanchez"
-msgstr ""
+msgstr "นูริทซิ ซานเชส"
 
 #. (itstool) path: credit/name
 #: C/endless-01-desktop.page:15 C/endless-02-folders.page:15
@@ -41,7 +41,7 @@ msgstr ""
 #: C/gs-fix-overscan.page:12 C/gs-give-feedback.page:12
 #: C/gs-use-offline.page:12 C/gs-where-files.page:12
 msgid "Endless Mobile, Inc."
-msgstr ""
+msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/endless-01-desktop.page:16 C/endless-02-folders.page:16
@@ -53,35 +53,35 @@ msgstr ""
 #: C/gs-fix-overscan.page:13 C/gs-give-feedback.page:13
 #: C/gs-use-offline.page:13 C/gs-where-files.page:13
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 #. (itstool) path: info/title
 #: C/endless-01-desktop.page:19
 msgctxt "link"
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "แนะนำการใช้งานเดสก์ท็อป"
 
 #. (itstool) path: info/title
 #: C/endless-01-desktop.page:20
 msgctxt "sort"
 msgid "01"
-msgstr ""
+msgstr "01"
 
 #. (itstool) path: info/desc
 #: C/endless-01-desktop.page:21
 msgid "A video showing the basics of the Endless desktop."
-msgstr ""
+msgstr "วิดีโอแสดงข้อมูลพื้นฐานของเดสก์ท็อป Endless "
 
 #. (itstool) path: page/title
 #: C/endless-01-desktop.page:24
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "แนะนำเดสก์ท็อป"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:34
 msgid ""
 "Welcome to Endless, the operating system that powers your new computer."
-msgstr ""
+msgstr "ขอต้อนรับสู่ Endless ระบบปฏิบัติการที่จะเป็นขุมพลังให้กับคอมพิวเตอร์ใหม่ของคุณ"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:35
@@ -89,7 +89,7 @@ msgid ""
 "We have made everything simple and easy to use. You can find your apps and "
 "your documents folder right on your desktop. Click on them once to open "
 "them."
-msgstr ""
+msgstr " เราได้ทำให้ทุกอย่างเรียบง่ายและง่ายต่อการใช้งาน คุณจะสามารถหาแอพและโฟลเดอร์เอกสารได้บนเดสก์ท็อปของคุณ คลิกที่โฟลเดอร์เหล่านั้นหนึ่งครั้งเพื่อเปิด"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:38
@@ -101,7 +101,7 @@ msgid ""
 "that you can also easily access the internet, your documents folder, and a "
 "button to return to the desktop on the right hand side with you are in the "
 "hot corner view mode."
-msgstr ""
+msgstr "คอมพิวเตอร์ของคุณมีมุมยอดนิยม  เคลื่อนเมาส์ของคุณไปที่มุมล่างขวามือและคุณจะสามารถเห็นแอปที่เปิดอยู่และกิจกรรมทั้งหมดได้ คุณจึงสามารถสลับเปลี่ยนระหว่างแอปหรือปิดแอปได้โดยการคลิกที่ปุ่ม x สีดำซึ่งจะปรากฏขึ้นเมื่อเลื่อนเมาส์เหนือรายการแอป  คุณจะสังเกตว่ายังสามารถเข้าถึงอินเทอร์เน็ต, โฟลเดอร์เอกสาร และปุ่มเพื่อกลับไปยังเดสก์ท็อปได้อย่างง่ายดายที่ด้านขวามือเมื่อคุณอยู่ในโหมดมุมมองมุมยอดนิยม"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:45
@@ -112,29 +112,29 @@ msgid ""
 "the task bar, you will find an icon to access the internet browser. When you"
 " finish using your computer, you'll be able to turn it off by clicking the "
 "user menu and selecting <gui>Exit</gui>."
-msgstr ""
+msgstr "ที่ด้านล่างของหน้าจอเป็นแถบงาน คุณสามารถเข้าไปที่ wifi บลูทูธ การควบคุมระดับเสียงของคอมพิวเตอร์ เปลี่ยนภาษาในคีย์บอร์ดและเวลา และดูว่าเปิดเว็บไหนอยู่ในขณะนั้นได้ ทางด้านซ้ายมือของแถบงาน คุณจะเห็นไอคอนเพื่อเข้าไปที่เบราว์เซอร์อินเทอร์เน็ต เมื่อคุณใช้คอมพิวเตอร์เสร็จแล้ว ปิด โดยคลิกที่เมนูผู้ใช้ แล้วเลือก <gui>ออก</gui>"
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:19
 msgctxt "link"
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "การเพิ่มโฟลเดอร์ลงในเดสก์ท็อป"
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:20
 msgctxt "sort"
 msgid "02"
-msgstr ""
+msgstr "02"
 
 #. (itstool) path: info/desc
 #: C/endless-02-folders.page:21
 msgid "A video showing how to add a folder to the desktop."
-msgstr ""
+msgstr "วิดีโอแสดงการเพิ่มโฟลเดอร์เข้าไปที่เดสก์ท็อป"
 
 #. (itstool) path: page/title
 #: C/endless-02-folders.page:24
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "เพิ่มโฟลเดอร์ไปที่เดสก์ท็อป"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:34
@@ -144,7 +144,7 @@ msgid ""
 "once on the folder called <gui>Games</gui>, you’ll find icons with the names"
 " of all the games in that folder. Click on a game once to open it and start "
 "playing!"
-msgstr ""
+msgstr "คอมพิวเตอร์ของคุณมาพร้อมกับแอพจำนวนมากที่ติดตั้งไว้ล่วงหน้าในเดสก์ท็อปและบางโฟลเดอร์เพื่อจัดระเบียบตามประเภท ตัวอย่างเช่น ถ้าคุณคลิกโฟลเดอร์ชื่อว่า <gui>เกม</gui> หนึ่งครั้ง คุณจะเห็นไอคอนพร้อมชื่อของเกมทั้งหมดในโฟลเดอร์นั้น คลิกหนึ่งครั้งที่เกมเพื่อเปิดและเล่น!"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:38
@@ -157,7 +157,7 @@ msgid ""
 "created and installed, you will see a confirmation telling you that your new"
 " folder has been added. Now you can close the window and find your new "
 "folder to the left of the <app>More Apps</app> icon."
-msgstr ""
+msgstr "คุณยังสามารถสร้างโฟลเดอร์ของตัวเองเพื่อจัดระเบียบแอพ คุณสามารถสร้างโฟลเดอร์ด้วยการคลิกที่ไอคอน<app>แอพอื่นๆ</app> จากนั้นคลิกคำว่า<gui>โฟลเดอร์</gui>ที่อยู่ทางซ้ายของหน้าจอ เลือกไอคอนสำหรับโฟลเดอร์ของคุณ จากนั้นตั้งชื่อ คลิกปุ่มสีเขียวที่มีเครื่องหมายบวกเพื่อเพิ่มโฟลเดอร์ไปยังเดสก์ท็อปของคุณ เมื่อสร้างและติดต้ังโฟลเดอร์เสร็จแล้ว คุณจะเห็นการยืนยันเพื่อบอกว่าโฟลเดอร์ใหม่ของคุณได้ถูกเพิ่มแล้ว ตอนนี้คุณสามารถปิดหน้าต่างและจะเห็นโฟลเดอร์ใหม่อยู่ทางซ้ายของไอคอน<app>แอพอื่นๆ</app>"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:46
@@ -166,43 +166,43 @@ msgid ""
 " without letting go, drag it on top of the folder, and let go of the click. "
 "When you open the folder, you’ll see the app inside. To remove an app from "
 "the folder, simply drag its icon out of the folder."
-msgstr ""
+msgstr "คุณสามารถเพิ่มแอพลงในโฟลเดอร์ใหม่ ด้วยการคลิกไอคอนแอพค้างไว้โดยไม่ต้องปล่อย จากนั้นลากไปวางเหนือโฟลเดอร์แล้วจึงปล่อย เมื่อคุณเปิดโฟลเดอร์ คุณจะเห็นแอพอยู่ภายใน หากต้องการลบแอพออกจากโฟลเดอร์ ก็เพียงลากไอคอนออกจากโฟลเดอร์ดังกล่าว"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:50
 msgid ""
 "Keep in mind that if you want to delete a folder, you’ll first have to "
 "remove all of the apps that are in it."
-msgstr ""
+msgstr "โปรดจำไว้ว่าหากคุณต้องการลบโฟลเดอร์ ก่อนอื่นคุณต้องลบแอปทั้งหมดที่อยู่ข้างในโฟลเดอร์นั้นก่อน"
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:19
 msgctxt "link"
 msgid "Installing programs"
-msgstr ""
+msgstr "การติดตั้งโปรแกรม"
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:20
 msgctxt "sort"
 msgid "03"
-msgstr ""
+msgstr "03"
 
 #. (itstool) path: info/desc
 #: C/endless-03-programs.page:21
 msgid "A video showing how to install programs."
-msgstr ""
+msgstr "วิดีโอแสดงการติดตั้งโปรแกรม"
 
 #. (itstool) path: page/title
 #: C/endless-03-programs.page:24
 msgid "Installing programs"
-msgstr ""
+msgstr "การติดตั้งโปรแกรม"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:35
 msgid ""
 "Your computer comes with a wide variety of apps that you can install for "
 "free and use even without an internet connection."
-msgstr ""
+msgstr "คอมพิวเตอร์ของคุณมากพร้อมแอพมากมายหลายประเภทที่คุณสามารถติดตั้งได้ฟรีและใช้งานได้โดยไม่ต้องมีการเชื่อมต่ออินเทอร์เน็ต"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:38
@@ -211,7 +211,7 @@ msgid ""
 "It will open a window where you can browse and explore all the apps that are"
 " available to you so you can choose the ones you want to install or add to "
 "your desktop."
-msgstr ""
+msgstr "จากหน้าจอ คลิกที่ <app>More Apps</app> เพื่อค้นหาและเพิ่มแอปอื่นๆ  นี่จะเปิดหน้าต่างซึ่งคุณสามารถค้นหาและสำรวจแอปทั้งหมดที่พร้อมใช้งาน เพื่อคุณจะสามารถเลือกแอปที่ต้องการติดตั้งหรือเพิ่มลงบนเดสก์ท็อปได้ "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:43
@@ -220,14 +220,14 @@ msgid ""
 "click on the <gui>Education</gui> category, you’ll find several educational "
 "apps that you can add and use offline. Similarly, if you click on the Games "
 "category, you’ll find games you can add."
-msgstr ""
+msgstr "คุณสามารถเข้าดู <app>ศูนย์แอพ</app>ได้ตามหมวดหมู่ เช่น หากคุณคลิกหมวด <gui>การศึกษา</gui> คุณจะเห็นแอพเพื่อการศึกษาหลายแอพ ที่คุณสามารถเพิ่มและใช้งานแบบออฟไลน์ได้ เช่นเดียวกัน หากคุณคลิกที่หมวดเกม คุณจะเห็นเกมที่เพิ่มเข้าไปได้ "
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:48
 msgid ""
 "You can find the apps that are already on your desktop in the "
 "<gui>Installed</gui> category."
-msgstr ""
+msgstr "คุณจะพบแอปที่อยู่บนเดสก์ท็อปของคุณแล้วในหมวดหมู่ <gui>ติดตั้งแล้ว</gui>"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:51
@@ -237,7 +237,7 @@ msgid ""
 "new window will come up with more information about the app. Click on the "
 "green button that says <gui>Add to Desktop</gui>, then after a moment the "
 "button will change to say <gui>Open</gui>."
-msgstr ""
+msgstr "ึคลิกที่แอพที่คุณต้องการจะดาวน์โหลด เช่น ไปที่หมวด <gui>การศึกษา</gui> และคลิกที่แอพ <app>กัวเตมาลา</app> จะมีหน้าต่างให่แสดงขึ้นมาและมีข้อมูลเพิ่มเพิ่มเติมเกี่ยวกัแอพนั้น คลิกที่ปุ่มสีเขียวที่เขียนว่า <gui>เพิ่มลงในเดสก์ท็อป</gui>จากนั้นอีกสักครู่ ปุ่มจะเขียนว่า <gui>เปิด</gui>"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:57
@@ -245,7 +245,7 @@ msgid ""
 "After closing this window you’ll see that the program you downloaded is now "
 "on your desktop. Now you can open it whenever you want to quickly and "
 "easily!"
-msgstr ""
+msgstr "หลังจากปิดหน้าต่างนี้ คุณจะเห็นว่าโปรแกรมที่ดาวน์โหลดมาอยู่บนเดสก์ท็อปแล้ว ขณะนี้ คุณสามารถเปิดได้ทันทีตามต้องการอย่างง่ายดาย"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:61
@@ -256,7 +256,7 @@ msgid ""
 " icon and you’ll see a window telling you that you’ve successfully removed "
 "the app from your desktop. Don’t worry, you can always reinstall the apps "
 "that you remove from your desktop!"
-msgstr ""
+msgstr "ในการลบแอพ คลิกที่ไอคอนแอพค้างไว้ และลากไปที่ด้านบนของไอคอน <app>แอพอื่นๆ</app> คุณจะเห็นว่าไอคอนเปลี่ยนจากสี่เหลี่ยมสีเทาเป็นรูปถังขยะ ปล่อยการคลิกไอคอนและคุณจะเห็นหน้าต่างที่บอกว่าคุณลบแอพจากเดสก์ท็อปไปแล้ว ไม่ต้องห่วง คุณยังสามารถติดตั้งแอพที่ลบออกไปใหม่ได้ตลอดเวลาจากเดสก์ท็อปของคุณ"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:68
@@ -264,47 +264,47 @@ msgid ""
 "You can also delete a folder this same way, by clicking on it, dragging it "
 "over the recycling bin, and letting go. Remember that the folder has to be "
 "empty in order to delete it."
-msgstr ""
+msgstr "คุณยังสามารถลบโฟลเดอร์ด้วยวิธีเดียวกันนี้ ด้วยการคลิกที่โฟลเดอร์ จากนั้นลากไปยังถังขยะ แล้วปล่อย อย่าลืมว่าจะต้องล้างโฟลเดอร์ให้หมดเพื่อที่จะลบ"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:72
 msgid ""
 "That’s how easy it is to add and remove apps and folders from your desktop!"
-msgstr ""
+msgstr "และนั่นเป็นวิธีง่ายๆ ในการเพิ่มและลบแอพและโฟลเดอร์จากเดสก์ท็อป"
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:19
 msgctxt "link"
 msgid "Using Wi-Fi"
-msgstr ""
+msgstr "การใช้ Wi-Fi"
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:20
 msgctxt "sort"
 msgid "04"
-msgstr ""
+msgstr "04"
 
 #. (itstool) path: info/desc
 #: C/endless-04-wifi.page:21
 msgid "A video showing how to set up Wi-Fi with Endless."
-msgstr ""
+msgstr "วิดีโอแสดงการตั้งค่า Wi-Fi ด้วย Endless"
 
 #. (itstool) path: page/title
 #: C/endless-04-wifi.page:24
 msgid "Using Wi-Fi"
-msgstr ""
+msgstr "การใช้ Wi-Fi"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:34
 msgid "You can connect to a Wi-Fi network with these easy steps:"
-msgstr ""
+msgstr "คุณสามารถเชื่อมต่อโครงข่าย Wi-Fi ได้ในขั้นตอนง่ายๆ:"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:36
 msgid ""
 "First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
 "right side of your desktop, on the task bar close to the clock."
-msgstr ""
+msgstr "ก่อนอื่น คลิกที่ไอคอน <gui>Wi-Fi</gui> ซึ่งอยู่ที่ด้านล่างขวาของเดสก์ท็อป บนแถบงานใกล้กับนาฬิกา"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:39
@@ -314,7 +314,7 @@ msgid ""
 "that your Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is "
 "turned on if there is a blue light to the right of the word <gui>Wi-"
 "Fi</gui>. If the light is not blue, you can click on it once to turn it on."
-msgstr ""
+msgstr "ในหน้าต่างที่ปรากฏขึ้นมา คุณจะเห็นชื่อของเครือข่าย Wi-Fi ทั้งหมดที่มีซึ่งคุณสามารถเชื่อมต่อได้ หากคุณไม่เห็นเครือข่ายใดๆ เลย กรุณาตรวจสอบว่าคุณเปิด Wi-Fi แล้ว คุณจะทราบว่า Wi-Fi ของคอมพิวเตอร์ของคุณเปิดไว้ หากเห็นแสงสีฟ้าที่ด้านขวาของคำว่า <gui>Wi-Fi</gui> หากแสงไม่เป็นสีฟ้า คุณสามารถคลิกที่คำดังกล่าวหนึ่งครั้งเพื่อเปิด"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:45
@@ -324,55 +324,55 @@ msgid ""
 " be different. If you’re not sure what the name of your Wi-Fi network is, or"
 " don’t know the password, you can call the company that provides your "
 "internet and ask them."
-msgstr ""
+msgstr "เลือกชื่อโครงข่ายไร้สาย โครงข่ายในตัวอย่างนี้ ชื่อว่า <gui>Endless Wi-Fi</gui>  แต่ชื่อของโครงข่าย Wi-Fi ของคุณจะแตกต่างออกไป หากคุณไม่แน่ใจว่าชื่อไหนคือชื่อโครงข่าย Wi-Fi ของคุณ หรือไม่ทราบรหัสผ่าน สามารถโทรศัพท์สอบถามบริษัทผู้ให้บริการอินเทอร์เน็ตได้"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:51
 msgid ""
 "After selecting the name of your network, you’ll have to type in your "
 "network’s password."
-msgstr ""
+msgstr "หลังจากเลือกชื่อเครือข่ายของคุณแล้ว คุณจะต้องพิมพ์รหัสผ่านของเครือข่าย"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:54
 msgid ""
 "If your computer successfully connects to the internet, you’ll see a white "
 "circle to the left of the name of your network."
-msgstr ""
+msgstr "ถ้าคอมพิวเตอร์ของคุณเชื่อมต่อกับอินเทอร์เน็ตได้สำเร็จ คุณจะเห็นวงกลมสีขาวอยู่ทางด้านซ้ายของชื่อเครือข่าย"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:57
 msgid "And just like that, you’re connected to the internet!"
-msgstr ""
+msgstr "เท่านี้ คุณก็เชื่อมต่อกับอินเทอร์เน็ตแล้ว"
 
 #. (itstool) path: info/title
 #: C/endless-05-files.page:19
 msgctxt "link"
 msgid "Exploring your files"
-msgstr ""
+msgstr "ดูไฟล์ของคุณ"
 
 #. (itstool) path: info/title
 #: C/endless-05-files.page:20
 msgctxt "sort"
 msgid "05"
-msgstr ""
+msgstr "05"
 
 #. (itstool) path: info/desc
 #: C/endless-05-files.page:21
 msgid "A video showing how to use the file system."
-msgstr ""
+msgstr "วิดีโอแสดงวิธีใช้ระบบไฟล์"
 
 #. (itstool) path: page/title
 #: C/endless-05-files.page:24
 msgid "Exploring your files"
-msgstr ""
+msgstr "สำรวจไฟล์ของคุณ "
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:35
 msgid ""
 "You can easily organize your documents and files with folders. Here’s how to"
 " do it."
-msgstr ""
+msgstr "คุณสามารถจัดการเอกสารและไฟล์กับโฟลเดอร์ได้อย่างง่ายดาย ด้วยวิธีการดังนี้"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:38
@@ -382,7 +382,7 @@ msgid ""
 " the bottom left side of your screen and clicking on the "
 "<app>Documents</app> icon on the right side of the screen, even if you have "
 "an app open."
-msgstr ""
+msgstr "ไอคอน<app>เอกสาร</app>ให้คุณสามารถเข้าถึงโฟลเดอร์และไฟล์ คุณจะพบไอคอนนี้บนเดสก์ท็อปหรือด้วยการเคลื่อนเมาส์ไปยังมุมจอทางด้านล่างซ้ายและคลิกที่ไอคอน<app>เอกสาร</app>ทางด้านขวาของหน้าจอ ถึงแม้คุณจะมีแอพเปิดไว้อยู่ก็ตาม"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:43
@@ -394,14 +394,14 @@ msgid ""
 "displayed on the right, click your mouse’s button quickly two times. We call"
 " this a double click. To return to the previous folder, click the back arrow"
 " above."
-msgstr ""
+msgstr "มื่อคุณอยู่ในโฟลเดอร์หลักของ <app>เอกสาร</app>แล้ว คุณจะสามารถสร้างโฟลเดอร์ใหม่ที่จะสามารถเก็บเอกสารและไฟล์ทั้งหมดเพื่อให้สามารถจัดและค้นหาได้ง่าย ทางด้านซ้ายของหน้าต่างจะเห็นทางลัดเข้าไปยังโฟลเดอร์เหล่านั้น ในการเปิดไฟล์หรือโฟลเดอร์ที่แสดงอยู่ทางด้านขวา คลิกปุ่มเม้าส์เร็วๆ สองครั้ง เราเรียกว่า ดับเบิลคลิก หากต้องการกลับไปโฟลเดอร์ก่อน คลิกลูกศรกลับที่ด้านบน"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:50
 msgid ""
 "You can also open a folder by clicking the right button of your mouse, and "
 "then clicking <gui>Open</gui> with the left button."
-msgstr ""
+msgstr "คุณยังสามารถเปิดโฟล์เดอร์ได้โดยคลิกขวาที่เม้าส์ จากนั้น คลิกซ้ายที่ <gui>เปิด</gui>"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:53
@@ -410,7 +410,7 @@ msgid ""
 "name of the folder you wish to open. For example, if you click the name "
 "<gui>Images</gui> with your left mouse button, you’ll open the "
 "<gui>Images</gui> folder."
-msgstr ""
+msgstr "วิธีใช้ทางลัดที่อยู่ทางด้านซ้ายมือของหน้าขอ คลิกที่ชื่อโฟลเดอร์ที่คุณต้องการเปิด เช่นหากคุณคลิกที่ชื่อ <gui>ภาพ</gui>ด้วยปุ่มซ้ายของเม้าส์ จะเป็นการเปิดโฟลเดอร์ <gui>ภาพ</gui>"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:58
@@ -421,7 +421,7 @@ msgid ""
 " the folder where you want it. For example, if I want to move my favorite "
 "song to the music folder, I click on the music file without letting go and "
 "drag it to the music folder. Now it’s in that folder!"
-msgstr ""
+msgstr "เมื่อคุณดาวน์โหลดไฟล์จากอินเทอร์เน็ต ไฟล์นั้นจะอยู่ที่โฟลเดอร์ <gui>Downloads</gui>  หากคุณต้องการย้ายไฟล์ไปยังโฟลเดอร์นี้หรือโฟลเดอร์อื่นๆ เพียงคลิกที่ไฟล์โดยไม่ปล่อยแล้วลากไปยังโฟลเดอร์ที่คุณต้องการ  ตัวอย่างเช่น หากฉันต้องการย้ายเพลงโปรดไปยังโฟลเดอร์เพลง ฉันคลิกบนไฟล์เพลงค้างไว้แล้วลากไปยังโฟลเดอร์เพลง แล้วตอนนี้มันก็อยู่ในโฟลเดอร์ดังกล่าวแล้ว!"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:65
@@ -430,7 +430,7 @@ msgid ""
 "on it without letting go and drag it to the recycling bin. To delete my "
 "favorite song, for example, click it without letting go, drag it to the "
 "recycling bin, and let go of the click."
-msgstr ""
+msgstr "ในการลบไฟล์ ไม่ว่าจะเป็นเพลง ภาพ หรือประเภทอื่นๆ ก็เพียงคลิกที่ไอเทมนั้นค้างไว้แล้วลากไปที่ถังขยะ เช่น หากต้องการลบเพลงโปรดของฉัน ไปที่คลิกค้างไว้แล้วลากไปที่ถังขยาย จากนั้นปล่อยคลิก"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:70
@@ -441,41 +441,41 @@ msgid ""
 "computer by clicking the button <gui>Empty</gui>. If you click this button, "
 "the files will no longer take up space on your computer, but you also won’t "
 "be able to restore them and will instead permanently delete them."
-msgstr ""
+msgstr "จากถังขยะ คุณสามารถเรียกคืนไฟล์ที่คุณลบไปยังตำแหน่งดั้งเดิมได้โดยเลือกไฟล์เหล่านั้นและคลิก <gui>Restore</gui>  คุณยังสามารถลบไฟล์เหล่านี้ถาวรจากคอมพิวเตอร์โดยคลิกที่ปุ่ม  <gui>Empty</gui>  หากคุณคลิกที่ปุ่มนี้ ไฟล์จะไม่อยู่บนพื้นที่เก็บในคอมพิวเตอร์ของคุณอีกต่อไป แต่คุณก็จะไม่สามารถเรียกคืนได้และเป็นการลบไฟล์ถาวร"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:77
 msgid "It’s easy to organize your files on Endless, right?"
-msgstr ""
+msgstr "ง่ายมากที่จะจัดการไฟล์บน Endless จริงไหม?"
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:19
 msgctxt "link"
 msgid "Browsing the Internet"
-msgstr ""
+msgstr "ท่องอินเทอร์เน็ต "
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:20
 msgctxt "sort"
 msgid "06"
-msgstr ""
+msgstr "06"
 
 #. (itstool) path: info/desc
 #: C/endless-06-browser.page:21
 msgid "A video explaining how to user browse web pages."
-msgstr ""
+msgstr "วิดีโออธิบายวิธีการที่ผู้ใช้เข้าดูเว็บเพจ"
 
 #. (itstool) path: page/title
 #: C/endless-06-browser.page:24
 msgid "Browsing the Internet"
-msgstr ""
+msgstr "ท่องอินเทอร์เน็ต"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:35
 msgid ""
 "If you’re connected to the internet you have access to websites from all "
 "around the world! Here, you can learn how to get to them."
-msgstr ""
+msgstr "หากคุณกำลังเชื่อมต่อกับอินเทอร์เน็ตคุณจะสามารถเข้าใช้งานเว็บได้ทั่วโลก! มาดูวิธีการใช้งานกัน"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:38
@@ -486,7 +486,7 @@ msgid ""
 "find it easily: on the desktop next to other apps’ icons, on the black task "
 "bar on the bottom part of your screen, and on the right side of the screen "
 "when you move your mouse to the bottom right hot corner."
-msgstr ""
+msgstr "เมื่อคอมพิวเตอร์ของคุณเชื่อมต่ออินเทอร์เน็ตแล้ว คุณสามารถเปิดเบราว์เซอร์โดยคลิกที่วงกลมสีส้มบนแถบงานของคุณที่มุมล่างซ้าย  เราสามารถวางวงกลมสีส้มนี้ได้ในสามตำแหน่งเพื่อที่คุณจะหาพบได้อย่างง่ายดาย ได้แก่ บนเดสก์ท็อปถัดจากไอคอนแอปอื่นๆ, บนแถบงานสีดำที่ด้านล่างของหน้าจอ และที่ด้านขวาของหน้าจอเมื่อคุณเคลื่อนเมาส์ไปยังฮอตคอร์เนอร์มุมขวาล่าง"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:45
@@ -497,7 +497,7 @@ msgid ""
 " look through to find useful websites. For example, in the <gui>News</gui> "
 "category, you’ll find links for different newspapers. You can explore the "
 "different categories to discover lots of cool websites!"
-msgstr ""
+msgstr "เมื่อคุณเปิดเบราว์เซอร์เป็นครั้งแรก คุณจะเห็น <app>ศูนย์เนื้อหา</app> เราได้รวบรวมเว็บไซต์ที่น่าสนใจไว้ที่นี่ เพื่อให้คุณเข้าไปดู หากคุณคลิกที่ชื่อ <gui>เข้าดู</gui> คุณจะเห็นหมวดหมู่ต่างๆ ให้คุณเข้าดูและหาเว็บที่มีประโยชน์ เช่น ในหมวด <gui>ข่าว</gui> คุณจะเห็นลิงค์ไปหนังสือพิมพ์ต่าง คุณสามารถเลือกดูหมวดหมู่อื่น เพื่อหาเว็บไซต์ดีๆ ได้อีกเพียบ!"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:52
@@ -511,7 +511,7 @@ msgid ""
 "easily in the future. Click <gui>Finished</gui>. Now the page you saved will"
 " appear when you click on <gui>Favorites</gui> in your <app>Content "
 "Center</app>."
-msgstr ""
+msgstr "เมื่อคุณเห็นหน้าที่สนใจ คุณสามารถทำเครื่องหมายไว้เป็นหน้าโปรดและบันทึกไว้เพื่อให้หาเจอง่ายในอนาคต เช่น เปิดหน้า<gui>Universidad Galileo</gui> หากเราต้องการให้คอมพิวเตอร์จำหน้านี้ หรือหน้าอื่นไว้ คุณก็แค่คลิกที่รูปดาวตรงด้านขวาของ URL เว็บ  ตรงด้านบนของหน้าต่าง หากต้องการ คุณสามารถเปลี่ยนชื่อที่บันทึก ให้หาเจอได้ง่ายในภายหลังได้ คลิก <gui>เสร็จสิ้น</gui> ขณะนี้ หน้าที่คุณบันทึกไว้จะแสดงเมื่อคุณคลิก <gui>ที่ชื่นชอบ</gui>ใน <app>ศูนย์เนื้อหา</app>"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:61
@@ -521,7 +521,7 @@ msgid ""
 "visited, you can find it here. If you want to clear the list of websites "
 "that you have visited, click on the button that says <gui>Clear "
 "History</gui>, then click to accept the action on the window that pops up."
-msgstr ""
+msgstr "การคลิกที่ <gui>ประวัติ</gui> จะอนุญาตให้คุณดูเว็บไซต์ทั้งหมดที่คุณเคยเข้าชมก่อนหน้านี้  หากคุณต้องการกลับไปยังไซต์ที่คุณเคยเข้าชม คุณสามารถค้นหาได้ที่นี่  หากคุณต้องการล้างรายการเว็บไซต์ที่เคยเข้าชม คลิกบนปุ่มที่เขียนว่า <gui>ล้างประวัติ</gui> จากนั้นคลิกเพื่อยอมรับแอคชั่นบนหน้าต่างที่เด้งขึ้นมา "
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:67
@@ -530,36 +530,36 @@ msgid ""
 "center, you can send us your comments or suggestions. Just write your "
 "message, your name, and your email address, then click <gui>Send "
 "Feedback</gui>. We would love to hear from you!"
-msgstr ""
+msgstr "หากคุณคลิกที่ <gui>ฟีดแบ็ค</gui>ตรงด้านล่างซ้ายของศูนย์เนื้อหา คุณจะสามารถส่งความเห็นและคำแนะนำมาให้เราได้ เพียงแค่เขียนข้อความ ชื่อและอีเมลของคุณ แล้วคลิก <gui>ส่งฟีดแบ็ค</gui> เราอยากฟังความเห็นของคุณ!"
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:19
 msgctxt "link"
 msgid "Minimizing and closing windows"
-msgstr ""
+msgstr "การลดขนาดและการปิดหน้าต่าง"
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:20
 msgctxt "sort"
 msgid "07"
-msgstr ""
+msgstr "07"
 
 #. (itstool) path: info/desc
 #: C/endless-07-windows.page:21
 msgid "A video showing how to minimize and close your windows."
-msgstr ""
+msgstr "วิดีโอแสดงการย่อและปิดหน้าต่าง "
 
 #. (itstool) path: page/title
 #: C/endless-07-windows.page:24
 msgid "Minimizing and closing windows"
-msgstr ""
+msgstr "การย่อและการปิดหน้าต่าง"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:35
 msgid ""
 "If you want to keep an app or folder open while you work on another task on "
 "your desktop or in another app, the minimizing option is extremely useful!"
-msgstr ""
+msgstr "หากต้องการให้แอพหรือโฟลเดอร์เปิดไว้ระหว่างทำงานและทำอย่างอื่นบนเดสก์ท็อปหรือแอพอื่น ตัวเลือกการย่อจะมีประโยชน์สุดๆ!"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:38
@@ -569,7 +569,7 @@ msgid ""
 "program’s icon on the task bar of your Endless screen. This will hide your "
 "app or folder in your task bar so that you can work on different tasks at "
 "the same time."
-msgstr ""
+msgstr "คุณสามารถลดขนาดโปรแกรมได้ด้วยหนึ่งในสองวิธี ได้แก่ คลิกที่ไอคอน <key>-</key> ซึ่งอยู่มุมบนขวาของหน้าต่าง หรือคลิกที่ไอคอนของโปรแกรมบนแถบงานในหน้าจอ Endless เพื่อซ่อนแอพหรือโฟลเดอร์ในแถบงานของคุณ เพื่อให้คุณสามารถทำได้หลายๆ งานพร้อมกัน"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:44
@@ -577,7 +577,7 @@ msgid ""
 "To make your app return to your screen, just click its icon once and it’ll "
 "return to its last size. When you’re done using a program, close it by "
 "clicking the <key>X</key> icon at the top right-hand corner of the window."
-msgstr ""
+msgstr "วิธีทำให้แอพกลับไปอยู่บนหน้าจอ แค่คลิกไอคอนหนึ่งครั้งก็จะกลับไปอยู่ในขนาดเดิม เมื่อคุณใช้เสร็จแล้ว ปิดแอพโดยการคลิกที่ไอคอน <key>X</key>ตรงมุมขวาบนของหน้าต่าง"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:48
@@ -585,36 +585,36 @@ msgid ""
 "You can also move your mouse down to the bottom right-hand corner of your "
 "screen, then move over to the window of the app you want to close and click "
 "the <key>X</key> on the top right of that window to close it."
-msgstr ""
+msgstr "คุณยังสามารถเลื่อนเมาส์ลงไปยังมุมขวาล่างของหน้าจอ จากนั้นย้ายไปยังหน้าต่างของแอปที่คุณต้องการปิด จากนั้นคลิก <key>X</key> ด้านขวาบนของหน้าต่างเพื่อปิด"
 
 #. (itstool) path: info/title
 #: C/endless-08-offline.page:19
 msgctxt "link"
 msgid "Using Endless offline"
-msgstr ""
+msgstr "การใช้งาน Endless แบบออฟไลน์"
 
 #. (itstool) path: info/title
 #: C/endless-08-offline.page:20
 msgctxt "sort"
 msgid "08"
-msgstr ""
+msgstr "08"
 
 #. (itstool) path: info/desc
 #: C/endless-08-offline.page:21
 msgid "A video showing the offline content on your computer."
-msgstr ""
+msgstr "วิดีโอแสดงเนื้อหาแบบออฟไลน์ในคอมพิวเตอร์ของคุณ "
 
 #. (itstool) path: page/title
 #: C/endless-08-offline.page:24
 msgid "Using Endless offline"
-msgstr ""
+msgstr "การใช้งาน Endless  ในแบบออฟไลน์"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:35
 msgid ""
 "Your computer includes a lot of offline content so you can learn and explore"
 " a great deal of things without having an internet connection!"
-msgstr ""
+msgstr "คอมพิวเตอร์ของคุณมีเนื้อหาแบบออฟไลน์ให้ใช้มากมาย คุณจึงสามารถศึกษาและเลือกดูข้อมูลต่างๆ ได้โดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต "
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:38
@@ -623,7 +623,7 @@ msgid ""
 "desktop where you can find apps like <app>Virtual School</app>, which allows"
 " you to watch hundreds of videos about all sorts of subjects you may find "
 "interesting."
-msgstr ""
+msgstr "ตัวอย่างเช่น คุณจะเห็นโฟลเดอร์ชื่อ <gui>การค้นคว้า</gui> บนเดสก์ท็อป คุณจะเห็นแอพอย่าง <app>Virtual School</app> which allows you to watch hundreds of videos about all sorts of subjects you may find interesting."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:43
@@ -634,14 +634,14 @@ msgid ""
 "example, in <gui>Sciences</gui>, you can see that there are 4 videos on the "
 "topic <gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of"
 " this topic, you’ll be able to see the list of videos available."
-msgstr ""
+msgstr "ลองดู <app>โรงเรียนเสมือนจริง</app> เปิดแอพเพื่อดูหัวข้อต่างๆ ทั้งหมด ที่คุณสามารถดูวิดีโอบทเรียนได้ คุณจะเห็นจำนวนของวิดีโอในแต่ละหัวข้ออยู่ด้านขวาของชื่อ เช่น ใน <gui>วิทยาศาสตร์</gui> ุคุณจะเห็นว่ามี 4 วิดีโอในหัวข้อนี้ <gui>สุขภาพ</gui>และ <gui>ยา</gui> หากคุณคลิกที่หัวข้อเหล่านี้ คุณจะเห็นรายการวิดีโอที่มีให้ดู"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:50
 msgid ""
 "For any video you’d like to watch, just click on it once to begin playing "
 "it."
-msgstr ""
+msgstr "สำหรับวิดีโอใดๆ ที่คุณต้องการรับชม คลิกที่ไฟล์นั้นหนึ่งครั้งเพื่อเริ่มเล่น"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:53
@@ -649,14 +649,14 @@ msgid ""
 "To end the video, just click on the <key>X</key> button at the top right-"
 "hand corner of the video. To learn more about how to control videos, please "
 "see the tutorial that talks about photos, music and video."
-msgstr ""
+msgstr "ในการยุติการเล่นวิดีโอ เพียงคลิกที่ปุ่ม <key>X</key> ที่มุมบนด้านขวามือของวิดีโอ  เพื่อดูเพิ่มเติมเกี่ยวกับวิธีควบคุมวิดีโอ กรุณาดูคำแนะนำที่กล่าวถึงเรื่องภาพถ่าย, ดนตรี และวิดีโอ"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:57
 msgid ""
 "You may also be interested in using the <app>Encyclopedia</app> app. We have"
 " put it on your desktop to make it easy to find."
-msgstr ""
+msgstr "คุณอาจสนใจใช้แอพ<app>สารานุกรม</app> เราใส่แอพไว้บนเดสก์ท็อปเพื่อให้หาง่าย"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:60
@@ -666,43 +666,43 @@ msgid ""
 " Guatemala. Once you start typing, a list will appear so that you can choose"
 " the item that best matches what you’d like to read about. Click on a title "
 "and all of the information on the topic you have chosen will appear."
-msgstr ""
+msgstr "เมื่อเปิดแอพนี้ คุณจะเห็นแถบสำหรับค้นหาหัวข้อที่คุณต้องการค้นคว้า ตัวอย่างเช่น ให้ลองค้นหาข้อมูลเกี่ยวกับกัวเตมาลา เมื่อคุณพิมพ์ รายการจะปรากฏขึ้นเพื่อให้คุณเลือกหัวข้อที่ตรงกับสิ่งที่ต้องการอ่านมากที่สุด คลิกชื่อเรื่อง แล้วข้อมูลทั้งหมดเกี่ยวกับหัวข้อที่คุณเลือกจะปรากฏขึ้น"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:66
 msgid ""
 "Remember that there are many apps that do not require internet. Keep "
 "exploring your computer to find them!"
-msgstr ""
+msgstr "จำไว้ว่ามีแอปมากมายที่ไม่ต้องใช้อินเทอร์เน็ต  สำรวจคอมพิวเตอร์ของคุณเพื่อค้นหามัน!"
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:19
 msgctxt "link"
 msgid "Using the Writer app"
-msgstr ""
+msgstr "การใช้งานแอป Writer "
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:20
 msgctxt "sort"
 msgid "09"
-msgstr ""
+msgstr "09"
 
 #. (itstool) path: info/desc
 #: C/endless-09-writer.page:21
 msgid "A video showing how to use the Writer app to create documents."
-msgstr ""
+msgstr "วิดีโอแสดงวิธีใช้แอพ Writer เพื่อสร้างเอกสาร"
 
 #. (itstool) path: page/title
 #: C/endless-09-writer.page:24
 msgid "Using the Writer app"
-msgstr ""
+msgstr "การใช้แอพนักเขียน"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:35
 msgid ""
 "Your computer comes with apps for you to create the documents and "
 "presentations that you need."
-msgstr ""
+msgstr "คอมพิวเตอร์ของคุณจะมีแอพที่ใช้สร้างเอกสารและงานนำเสนอที่คุณต้องใช้พร้อมอยู่แล้ว"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:38
@@ -712,14 +712,14 @@ msgid ""
 " <app>Spreadsheets</app> app, which is located in the <gui>Work</gui> "
 "folder. And, you can use the <app>Presentation</app> app to create "
 "presentations that can help you communicate your ideas."
-msgstr ""
+msgstr "เช่น คุณจะเห็นแอพ <app>Writer</app> บนเดสก์ท็อปของคุณ ซึ่งคุณสามารถใช้สร้างเอกสาร คุณยังสามารถสร้างสเปรดชีทในแอพ <app>Spreadsheets</app> ซึ่งอยู่ในโฟลเดอร์<gui>งาน</gui> และคุณยังสามารถใช้แอพ <app>Presentation</app> เพื่อสร้างงานนำเสนอที่ช่วยสื่อสารไอเดียของคุณ"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:44
 msgid ""
 "Let’s walk through some basic things that you can do with the "
 "<app>Writer</app> app."
-msgstr ""
+msgstr "เราจะแนะนำการใช้งานง่ายๆ ที่คุณทำได้เมื่อใช้แอพ <app>Writer</app>"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:47
@@ -728,7 +728,7 @@ msgid ""
 " the <app>Encyclopedia</app> app. Just select the text you want to copy, and"
 " right click on it. A menu with the option to <gui>Copy</gui> will appear. "
 "Click on that option."
-msgstr ""
+msgstr "คุณสามารถคัดลอกเนื้อหาจากแอพอื่นได้อย่างง่ายดาย สมมติว่าคุณต้องการคัดลอกข้อความจากแอพ <app>Encyclopedia</app> ก็เพียงแค่เลือกข้อความที่คุณต้องการจะคัดลอกและคลิกขวาตรงนั้น จะมีเมนูที่มีตัวเลือกให้ <gui>คัดลอก</gui>แสดงขึ้นมา คลิกที่ตัวเลือกนั้น"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:52
@@ -736,7 +736,7 @@ msgid ""
 "Go back to the app where you want to paste the information. Then, simply "
 "right click again, and then click <gui>Paste</gui>. The text you copied from"
 " the encyclopedia will appear in your document."
-msgstr ""
+msgstr "กลับไปยังแอพที่คุณต้องการวางข้อมูลลงไป จากนั้นเพียงคลิกขวาอีกครั้ง จากนั้นคลิก<gui>แปะ</gui> ข้อความที่คุณคัดลอกจากสารานุกรมจะปรากฏในเอกสารของคุณ"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:56
@@ -746,12 +746,12 @@ msgid ""
 "top of the screen to make the text bold, italic, or underlined. You can also"
 " center or justify the paragraph format so that it looks the way you want it"
 " to look."
-msgstr ""
+msgstr "เลือกข้อความอีกครั้งด้วยเม้าส์ หรือกด <key>Shift</key> และปุ่มลูกศรค้างไว้ คุณสามารถใช้ปุ่มที่ด้านบนของหน้าจอเพื่อทำให้ข้อความเป็นตัวหนา เอียง หรือขีดเส้นใต้ และคุณยังสามารถจัดหน้าให้อยู่ตรงกลาง หรือวางข้อความเต็มหน้ากระดาษ เพื่อให้งานออกมาในอย่างที่คุณอยากให้เป็น"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:62
 msgid "Explore all of the buttons up top to see the function of each!"
-msgstr ""
+msgstr "ลองดูปุ่มทั้งหมดที่อยู่ด้านบนเพื่อดูแต่ละฟังก์ชัน"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:64
@@ -760,29 +760,29 @@ msgid ""
 "<gui>Save</gui>. Remember to give your document a name that you will "
 "remember (usually something that describes what is in the document) before "
 "saving it to make it easier to find later."
-msgstr ""
+msgstr "คุณสามารถบันทึกเอกสารได้โดยคลิกที่ <gui>ไฟล์</gui>จากนั้นเลือก <gui>บันทึก</gui> \nอย่าลืมตั้งชื่อไฟล์ด้วยชื่อที่คุณสามารถจำง่าย (มักเป็นสิ่งที่ให้ข้อมูลว่าเอกสารนั้นมีอะไร) ก่อนบันทึกเพื่อให้สามารถหาเจอได้โดยง่ายเมื่อต้องการ"
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:19
 msgctxt "link"
 msgid "Playing videos"
-msgstr ""
+msgstr "การเล่นวิดีโอ"
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:20
 msgctxt "sort"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. (itstool) path: info/desc
 #: C/endless-10-video-player.page:21
 msgid "A video showing how to play movies and videos with Endless."
-msgstr ""
+msgstr "วิดีโอสาธิตวิธีการเล่นภาพยนตร์และวิดีโอด้วย Endless"
 
 #. (itstool) path: page/title
 #: C/endless-10-video-player.page:24
 msgid "Playing videos"
-msgstr ""
+msgstr "เล่นวิดีโอ"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:35
@@ -791,7 +791,7 @@ msgid ""
 "watch them whenever you want. You can also watch videos from a USB memory "
 "stick, or you can download and watch videos from the internet if you have a "
 "connection."
-msgstr ""
+msgstr "เราติดตั้งวิดีโอสั้นสนุกๆ จำนวนหนึ่งไว้ในคอมพิวเตอร์ของคุณเพื่อให้คุณดูได้ทุกเมื่อที่ต้องการ คุณยังอาจดูวิดีโอจากอุปกรณ์เก็บข้อมูล USB หรือหากเชื่อมต่ออินเทอร์เน็ตได้ก็สามารถดาวน์โหลดและดูวิดีโอจากอินเทอร์เน็ตได้"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:40
@@ -801,7 +801,7 @@ msgid ""
 " folder. Double click on the <gui>Samples</gui> folder to open it. This is "
 "where we have added the pre-installed short videos. To open a video, simply "
 "double click on its name."
-msgstr ""
+msgstr "ก่อนอื่น มาหาโฟลเดอร์ <gui>วิดีโอ</gui> จากเดสก์ท็อป คลิกที่โฟลเดอร์ <app>เอกสาร</app> จากนั้น ดับเบิลคลิกที่โฟลเดอร์ <gui>วิดีโอ</gui> ดับเบิลคลิกที่โฟลเดอร์ <gui>ตัวอย่าง</gui>เพื่อเปิด นี่คือที่ที่เราได้เพิ่มวิดีโอสั้นๆ ที่ติดตั้งไว้ล่วงหน้า เปิดวิดีโอด้วยการดับเบิลคลิกที่ชื่อ"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:46
@@ -810,7 +810,7 @@ msgid ""
 " lower left corner of the video. To continue playing it, click on that same "
 "button. You can click on the grey square that appears on the bottom bar of "
 "the video and drag it to advance or rewind the video."
-msgstr ""
+msgstr "เมื่อเล่นวิดีโอแล้ว คุณสามารถหยุดได้โดยการคลิกที่ปุ่มที่มุมล่างซ้ายของวิดีโอ หากต้องการเล่นต่อ คลิกที่ปุ่มเดียวกันนั้น คุณสามารถคลิกที่สี่เหลี่ยมสีเทาซึ่งแสดงขึ้นมาตรงแถบด้านล่างของวิดีโอ และลากไปที่ขั้นสูงหรือกรอกวิดีโอ"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:51
@@ -821,14 +821,14 @@ msgid ""
 "the top left-hand side of your keyboard. This key can also be used to quit "
 "games that take you into full-screen mode, or when any other video is in "
 "full-screen."
-msgstr ""
+msgstr "หากคุณอยากดูวิดีโอแบบเต็มหน้าขอ คลิกที่ลูกศรด้านล่างของวิดีโอทางขวามือ ในการลดขนาดวิดีโอและกลับมาดูอย่างอื่นบนจออีกครั้ง คุณจะต้องกดแป้น <key>ESC</key>  ซึ่งอยู่ตรงด้านขวาบนของคีย์บอร์ด แป้นนี้จะใช้ในการออกจากเกมและเข้าไปสู่โหมดเต็มหน้าขอ หรือเมื่อวิดีโออื่นๆ เล่นแบบเต็มหน้าจออยู่"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:57
 msgid ""
 "You can find the button to adjust volume on the lower right-hand side of the"
 " video player. Click and then drag the bar up and down to adjust the volume."
-msgstr ""
+msgstr "คุณสามารถเลือกปุ่มเพื่อปรับระดับเสียงในด้านขวาล่างของวิดีโอเพลเยอร์ คลิกและลากแถบขึ้นลงเพื่อปรับระดับเสียง"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:60
@@ -837,34 +837,34 @@ msgid ""
 "the video’s sound. If your computer is connected to a TV, then the TV’s "
 "speakers should work to play sound. If you still cannot hear anything, try "
 "turning up the volume on your computer or on your TV."
-msgstr ""
+msgstr "อย่าลืมเชื่อมต่อคอมพิวเตอร์เข้ากับหูฟังหรือลำโพง เพื่อให้สามารถฟังเสียงวิดีโอได้ หากคอมพิวเตอร์คุณ เชื่อมต่อกับทีวี ลำโพงทีวีก็จะสามารถใช้เล่นเสียงได้เช่นกัน หากคุณยังไม่ได้ยินเสียงอะไร ลองเพิ่มเสียงในคอมพิวเตอร์หรือทีวีดู"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:65
 msgid "We hope you enjoy all the videos we chose for you!"
-msgstr ""
+msgstr "เราหวังว่าคุณจะสนุกกับวิดีโอทั้งหลายที่เราเลือกไว้ให้!"
 
 #. (itstool) path: info/title
 #: C/endless-11-photos-and-music.page:19
 msgctxt "link"
 msgid "Photos and Music"
-msgstr ""
+msgstr "ภาพและเพลง"
 
 #. (itstool) path: info/title
 #: C/endless-11-photos-and-music.page:20
 msgctxt "sort"
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #. (itstool) path: info/desc
 #: C/endless-11-photos-and-music.page:21
 msgid "A video showing how to edit photos and listen to music."
-msgstr ""
+msgstr "วิดีโอแสดงวิธีการแก้ไขภาพและฟังเพลง"
 
 #. (itstool) path: page/title
 #: C/endless-11-photos-and-music.page:24
 msgid "Photos and Music"
-msgstr ""
+msgstr "รูปภาพและเพลง"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:35
@@ -873,7 +873,7 @@ msgid ""
 "right on your desktop. Click once to open it and then choose a picture you "
 "want to edit. You can use one of the photos that comes with your computer, "
 "or a photo that you have taken and uploaded."
-msgstr ""
+msgstr "การแก้ไขภาพถ่ายของคุณนั้นง่ายมาก!  คุณจะพบแอป  <app>Photo Editor</app> ด้านขวาของเดสก์ท็อป  คลิกหนึ่งครั้งเพื่อเปิด จากนั้นเลือกภาพที่คุณต้องการแก้ไข  คุณสามารถใช้หนึ่งในภาพถ่ายที่มากับคอมพิวเตอร์ของคุณ หรือภาพถ่ายที่คุณถ่ายและอัปโหลดก็ได้ "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:40
@@ -882,7 +882,7 @@ msgid ""
 " your computer, double click on the <gui>Samples</gui> folder. You can click"
 " once on a photo’s name to view it in a preview, and can double click on the"
 " picture you want to open and edit it."
-msgstr ""
+msgstr "คลิก <gui>เปิดภาพ</gui> เพื่อเริ่ม หากต้องการดูภาพที่อยู่ในหน้าจอของคุณอยูี่แล้ว ดับเบิลคลิกที่โฟลเดอร์ <gui>ตัวอย่าง</gui> คุณสามารถคลิกที่ชื่อภาพหนึ่งครั้ง เพื่อดูพรีวิว และสามารถดับเบิลคลิกที่ภาพที่ต้องการเปิดเพื่อแก้ไขได้ด้วย"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:45
@@ -890,7 +890,7 @@ msgid ""
 "Once you have a photo open, you can edit it in many fun ways. For example, "
 "you can rotate, cut or change it until you find a look that you really like "
 "for it."
-msgstr ""
+msgstr "เมื่อเปิดรูปภาพขึ้นมา คุณสามารถสนุกกับการแต่งรูปภาพได้หลายวิธี เช่น คุณอาจหมุน ตัด หรือเปลี่ยนแปลงจนกว่าจะได้รูปภาพที่ชอบจริงๆ"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:49
@@ -898,7 +898,7 @@ msgid ""
 "We have included many filters to give you more options to create your "
 "perfect image. There are even options to distort the photo and make it look "
 "funny."
-msgstr ""
+msgstr "เราได้รวมฟิลเตอร์ไว้มากมายเพื่อให้คุณมีตัวเลือกในการสร้างภาพที่สมบูรณ์แบบ  ยังมีกระทั่งตัวเลือกในการบิดภาพและทำให้มันดูตลก"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:52
@@ -906,7 +906,7 @@ msgid ""
 "Add a frame to your masterpiece if you’d like, and when you are finished "
 "editing the photo you can save it, post it to Facebook, or use it as your "
 "wallpaper!"
-msgstr ""
+msgstr "เพิ่มกรอบเข้าไปในงานชิ้นเอกของคุณได้ หากต้องการ และเมื่อคุณแก้ไขภาพเสร็จแล้ว ก็สามารถบันทึกได้ด้วย โพสต์ลงใน Facebook หรือใช้เป็นภาพวอลเปเปอร์"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:56
@@ -914,7 +914,7 @@ msgid ""
 "Make sure you also check out the <app>Music</app> on your desktop. Open to "
 "see a bunch of songs we have already added. You can of course add more songs"
 " by transferring them from a USB or downloading them."
-msgstr ""
+msgstr "อย่าลืมเข้าไปดูที่ <app>เพลง</app> ในเดสก์ท็อป เปิดเข้าไปฟังเพลงที่เราใส่ไว้ให้ และคุณยังสามารถ้เพิ่มเพลงโดยย้ายมาจาก USB หรือดาวน์โหลดเพลงมาได้ด้วย "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:60
@@ -922,7 +922,7 @@ msgid ""
 "To hear a song, double click on it. You can pause it by clicking on the "
 "button on the top left-hand side, and continue playing it by re-clicking the"
 " same button."
-msgstr ""
+msgstr "ในการฟังเพลง ดับเบิลคลิกที่เพลง คุณจะสามารถหยุดเพลงชั่วคราวได้โดยการคลิกที่ด้านซ้ายบน และเล่นต่อโดยคลิกปุ่มเดิมซ้ำ"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:64
@@ -931,14 +931,14 @@ msgid ""
 "buttons, and can even choose to repeat the song over and over again. You can"
 " play all of the songs in your playlists in order or shuffle the songs and "
 "play them out of order."
-msgstr ""
+msgstr "คุณสามารถข้ามไปเพลงต่อไปหรือเปิดเพลงเก้าซ้ำด้วยปุ่มลูกศรและสามารถเลือกเล่นเพลงซ้ำแล้วซ้ำอีกได้ตามต้องการ คุณจะสามารถเล่นทุกเพลงในเพลย์ลิสต์ของคุณหรือสุ่มเล่นเพลงแบบไม่ต้องเรียงกันได้ "
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:69
 msgid ""
 "You can find the area to adjust volume on the top right-hand side. Click and"
 " drag the circle button to the left or right to adjust the volume."
-msgstr ""
+msgstr "คุณสามารถหาบริเวณที่จะเพิ่มความดังได้ที่หน้าจอบนขวา คลิกและลากปุ่มวงกลมไปทางซ้ายหรือขวาเพื่อปรับระดับเสียง"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:72
@@ -946,35 +946,35 @@ msgid ""
 "Remember, to hear audio, you have to connect headphones or speakers to your "
 "computer. If you have your computer connected to a TV and still cannot hear "
 "the audio, try turning up the volume of your computer or of your TV."
-msgstr ""
+msgstr "อย่าลืมว่าในการฟังเสียง คุณจะต้องต่อหูฟังหรือลำโพงเข้ากับเครื่องคอมพิวเตอร์ หากคุณต่อคอมพิวเตอร์เข้ากับทีวี และยังไม่ได้ยินเสียง ลองเพิ่มระดับเสียงในคอมหรือในทีวีดู"
 
 #. (itstool) path: info/title
 #: C/endless-12-social-bar.page:19
 msgctxt "link"
 msgid "Using Facebook"
-msgstr ""
+msgstr "การใช้ Facebook"
 
 #. (itstool) path: info/title
 #: C/endless-12-social-bar.page:20
 msgctxt "sort"
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. (itstool) path: info/desc
 #: C/endless-12-social-bar.page:21
 msgid "A video showing how to use Facebook with other programs."
-msgstr ""
+msgstr "วิดีโอแสดงการใช้งาน Facebook ร่วมกับโปรแกรมอื่น"
 
 #. (itstool) path: page/title
 #: C/endless-12-social-bar.page:24
 msgid "Using Facebook"
-msgstr ""
+msgstr "การใช้งาน Facebook "
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:35
 msgid ""
 "If you have internet, there are two simple ways to access <em>Facebook</em>."
-msgstr ""
+msgstr "หากคุณมีอินเทอร์เน็ต มีสองวิธีง่ายๆ ในการเข้าใช้งาน <em>Facebook</em>"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:38
@@ -982,7 +982,7 @@ msgid ""
 "The first is opening the browser and entering <em>facebook.com</em> at the "
 "top, then entering your name and password in the login part of the site as "
 "you may already be used to doing."
-msgstr ""
+msgstr "ขั้นตอนแรกคือการเปิดเบราว์เซอร์และใส่ <em>facebook.com</em> ที่ด้านบน จากนั้นใส่ชื่อและรหัสผ่านของคุณในส่วนล็อกอินของไซต์ตามที่คุณอาจทำอยู่เป็นประจำ"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:42
@@ -991,7 +991,7 @@ msgid ""
 "right-hand corner of your screen. By clicking on it, you will see a window "
 "that appears on the right side of the screen. Enter your email and password "
 "and start using Facebook immediately!"
-msgstr ""
+msgstr "อีกหนึ่งวิธีคือการใช้ปุ่ม <em>Facebook</em> ที่มุมขวาล่างของหน้าจอ เมื่อคลิกปุ่ม หน้าต่างจะปรากฏขึ้นทางด้านขวาของหน้าจอ กรอกชื่อผู้ใช้และรหัสผ่านแล้วใช้ Facebook ได้ทันที!"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:47
@@ -1001,7 +1001,7 @@ msgid ""
 " be using the <app>Writer</app> app, and while you are working on a "
 "document, you can check <em>Facebook</em> quickly during breaks, and you can"
 " even continue a conversation without having to switch programs to do so."
-msgstr ""
+msgstr "หากคุณเข้าใช้งาน <em>Facebook</em> ด้วยวิธีที่สองนี้ คุณจะสามารถเข้าถึง <em>Facebook</em> ได้อย่างง่ายดายระหว่างที่ใช้งานโปรแกรมอื่น  ตัวอย่างเช่น คุณสามารถใช้งานแอป <app>Writer</app> และระหว่างที่กำลังทำงานบนเอกสาร คุณก็สามารถเช็ก <em>Facebook</em> ได้อย่างรวดเร็วระหว่างพัก และคุณก็สามารถสนทนาต่อเนื่องได้โดยไม่ต้องสลับเปิดโปรแกรม"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:53
@@ -1009,7 +1009,7 @@ msgid ""
 "If you use this second method, be sure to logout of your Facebook account "
 "before you stop using the computer, otherwise, someone else may be able to "
 "access your Facebook account."
-msgstr ""
+msgstr "หากคุณใช้วิธีที่สองนี้ ขอให้แน่ใจว่าได้ลงชื่อออกจากบัญชี Facebook ก่อนคุณเลิกใช้งานคอมพิวเตอร์ ไม่เช่นนั้น บุคคลอื่นอาจเข้าถึงบัญชี Facebook ของคุณได้"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:57
@@ -1017,41 +1017,41 @@ msgid ""
 "To logout of <em>Facebook</em>, make sure you are in the <em>Facebook</em> "
 "window, click on the menu button on the top left-hand side, scroll to the "
 "bottom of the window, and click on the <em>logout</em> button."
-msgstr ""
+msgstr "ในการลงชื่อออกจาก <em>Facebook</em> ตรวจสอบว่าคุณอยู่ในหน้าต่าง <em>Facebook</em> คลิกบนปุ่มเมนูมุมซ้ายบน เลื่อนลงไปด้านล่างของหน้าต่าง   จากนั้นคลิกปุ่ม <em>ลงชื่อออก</em> "
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:61
 msgid "There you go, Facebook is now just a click away!"
-msgstr ""
+msgstr "เรียบร้อย อีกไม่กี่คลิกก็สามารถใช้ Facebook ได้แล้ว!"
 
 #. (itstool) path: info/title
 #: C/endless-13-printers.page:9
 msgctxt "link"
 msgid "Setting up a printer"
-msgstr ""
+msgstr "ตั้งค่าเครื่องพิมพ์"
 
 #. (itstool) path: info/title
 #: C/endless-13-printers.page:10
 msgctxt "sort"
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #. (itstool) path: info/desc
 #: C/endless-13-printers.page:11
 msgid "A video showing how to set up a printer for the first time."
-msgstr ""
+msgstr "วิดีโอแสดงวิธีตั้งค่าเครื่องพิมพ์ในครั้งแรก"
 
 #. (itstool) path: page/title
 #: C/endless-13-printers.page:14
 msgid "Setting up a printer"
-msgstr ""
+msgstr "ตั้งค่าเครื่องพิมพ์"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:25
 msgid ""
 "Click the <em>User Menu</em> button on the bottom left-hand corner of the "
 "screen, then select <gui>Settings</gui>."
-msgstr ""
+msgstr "คลิกที่ปุ่ม <em>เมนูผู้ใช้</em>ตรงมุมซ้ายล่างของหน้าจอ และเลือก <gui>การตั้งค่า</gui>"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:28
@@ -1060,19 +1060,19 @@ msgid ""
 " unlock this window by clicking on the button that says <gui>Unlock</gui> in"
 " the upper right-hand corner. Enter your password and click "
 "<gui>Authenticate</gui> to finish unlocking the window."
-msgstr ""
+msgstr "ในหน้าต่างที่ปรากฏ คลิก <gui>Printers</gui>  ในการทำต่อ คุณจะต้องปลดล็อกหน้าต่างนี้โดยคลิกที่ปุ่ม <gui>ปลดล็อก</gui> ที่มุมขวาบน  กรอกรหัสผ่าน จากนั้นคลิก <gui>Authenticate</gui> เพื่อปลดล็อกให้เสร็จสิ้น "
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:33
 msgid ""
 "Click the <key>+</key> symbol in the lower left-hand corner of this window."
-msgstr ""
+msgstr "คลิกเครื่องหมาย <key>+</key> ตรงมุมล่างซ่ายของหน้าต่าง"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:36
 msgid ""
 "Select your printer from the list that appears, and click <gui>Add</gui>."
-msgstr ""
+msgstr "เลือกเครื่องพิมพ์จากรายการที่แสดงขึ้นมา แล้วคลิก <gui>เพิ่ม</gui>"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:38
@@ -1080,110 +1080,110 @@ msgid ""
 "You will see the name of your printer appear. If you want to check that your"
 " printer is configured correctly, click the button that says "
 "<gui>Print</gui> to print a sample page."
-msgstr ""
+msgstr "ึึคุณจะเห็นชื่อเครื่องพิมพ์แสดงอยู่ หากต้องการตรวจสอบว่าเครื่องพิมพ์ตั้งค่าไว้ถูกต้องหรือไม่ คลิกที่ปุ่มที่เขียนว่า<gui>พิมพ์</gui>เพื่อพิมพ์หน้าตัวอย่าง"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:42
 msgid ""
 "You can now close this window and begin to use your printer with Endless!"
-msgstr ""
+msgstr "ขณะนี้คุณสามารถปิดหน้าต่างนี้และเริ่มใช้เครื่องพิมพ์กับ Endless ได้แล้ว!"
 
 #. (itstool) path: info/desc
 #: C/endless-videos.page:9
 msgid "Watch videos explaining how to use EndlessOS."
-msgstr ""
+msgstr "ชมวิธีโออธิบายวิธีใช้ EndlessOS"
 
 #. (itstool) path: info/title
 #: C/endless-videos.page:10
 msgctxt "link"
 msgid "Videos Tutorials"
-msgstr ""
+msgstr "วิดีโอแนะนำ"
 
 #. (itstool) path: info/title
 #: C/endless-videos.page:11
 msgctxt "sort"
 msgid "Videos Tutorials"
-msgstr ""
+msgstr "วิดีโอแนะนำ"
 
 #. (itstool) path: page/title
 #: C/endless-videos.page:14
 msgid "Endless Videos"
-msgstr ""
+msgstr "วิดีโอ Endless"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:3
 msgid "Welcome"
-msgstr ""
+msgstr "ยินดีต้อนรับ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:4
 msgid "Launching Applications"
-msgstr ""
+msgstr "การเปิดแอพพลิเคชั่น "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:5
 msgid "Getting Started"
-msgstr ""
+msgstr "เริ่มต้นใช้งาน"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:6
 msgid "Changing Wallpaper"
-msgstr ""
+msgstr "เปลี่ยนพื้นหลัง"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:7
 msgid "Responding to Messages"
-msgstr ""
+msgstr "ตอบกลับข้อความ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:8
 msgid "Switching Tasks"
-msgstr ""
+msgstr "การสลับระหว่างงาน"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:9
 msgid "Delayed Response"
-msgstr ""
+msgstr "การคอบรับที่หน่วง"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:10
 msgid "Windows and Workspaces"
-msgstr ""
+msgstr "หน้าต่างและพื้นที่ทำงาน"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
 msgid "Changing Date, Time and Timezone"
-msgstr ""
+msgstr "การเปลี่ยนวันที่ เวลา และโซนเวลา"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:12
 msgid "Maximize"
-msgstr ""
+msgstr "ขยาย"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:13
 msgid "Restore"
-msgstr ""
+msgstr "กู้คืน "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:14
 msgid "Left half of screen"
-msgstr ""
+msgstr "หน้าจอซีกซ้าย"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:15
 msgid "Workspace down"
-msgstr ""
+msgstr "พื้นที่ทำงานขัดข้อง"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:16
 msgid "Workspace up"
-msgstr ""
+msgstr "เพิ่มพื้นที่ทำงาน "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:17
 msgid "Right half of screen"
-msgstr ""
+msgstr "ครึ่งขวาของหน้าจอ"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -1195,47 +1195,47 @@ msgstr ""
 #: C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
-msgstr ""
+msgstr "กิจกรรม"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:19
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:20
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:21
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:22
 msgid "Tab"
-msgstr ""
+msgstr "แท็บ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:23
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:24
 msgid "help"
-msgstr ""
+msgstr "ช่วยเหลือ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:25
 msgid "web"
-msgstr ""
+msgstr "เว็บ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:26
 msgid "Just start typing…"
-msgstr ""
+msgstr "เพียงแค่เริ่มพิมพ์..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -1243,115 +1243,115 @@ msgstr ""
 #: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
-msgstr ""
+msgstr "จอห์น โด"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:28
 msgid "Settings"
-msgstr ""
+msgstr "การตั้งค่า"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:29
 msgid "Background"
-msgstr ""
+msgstr "พื้นหลัง"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:30
 msgid "Wallpapers"
-msgstr ""
+msgstr "วอลล์เปเปอร์"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:31
 msgid "Select"
-msgstr ""
+msgstr "เลือก"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:32
 msgid "Ready for the meeting?"
-msgstr ""
+msgstr "พร้อมเข้าประชุมหรือยัง"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:33
 msgid "I'll be there in a sec..."
-msgstr ""
+msgstr "ฉันจะไปที่นั่นในอีกแป๊บเดียว..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "Good stuff, thanks again"
-msgstr ""
+msgstr "ยอดเยี่ยมมาก ขอบคุณอีกครั้ง"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:35
 msgid "Thanks for the support"
-msgstr ""
+msgstr "ขอบคุณที่สนับสนุน"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:36
 msgid "No worries."
-msgstr ""
+msgstr "ไม่ต้องห่วง"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:37
 msgid "Too kind."
-msgstr ""
+msgstr "ใจดีจริงๆ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:38
 msgid "Open Calendar"
-msgstr ""
+msgstr "เปิดปฏิทิน "
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
 msgid "Open Clocks"
-msgstr ""
+msgstr "เปิดนาฬิกา"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:40
 msgid "Date and Time Settings"
-msgstr ""
+msgstr "ตั้งค่าวันที่และเวลา"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:41
 msgid "Automatic Date and Time"
-msgstr ""
+msgstr "วันที่และเวลาอัตโนมัติ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
 msgid "Automatic Timezone"
-msgstr ""
+msgstr "ไทม์โซนอัตโนมัติ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:43
 msgid "14 October 2013, 20:00"
-msgstr ""
+msgstr "14 ตุลาคม2013, 20:00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:44
 msgid "14 October 2013, 14:00"
-msgstr ""
+msgstr "14 ตุลาคม 2013, 14:00"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-get-online.page:9 C/gs-use-system-search.page:9
 msgid "Jakub Steiner"
-msgstr ""
+msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:12 C/gs-get-online.page:12
 #: C/gs-use-system-search.page:12
 msgid "Petr Kovar"
-msgstr ""
+msgstr "พีเทอร์ โควาร์"
 
 #. (itstool) path: info/desc
 #: C/gs-browse-web.page:20
 msgid "Use Facebook, Google and other popular websites with your browser."
-msgstr ""
+msgstr "ใช้ Facebook Google และเว็บไซต์ยอดนิยมอื่นๆ ด้วยเบราว์เซอร์ของคุณ "
 
 #. (itstool) path: page/title
 #: C/gs-browse-web.page:23
 msgid "Browse the web"
-msgstr ""
+msgstr "ท่องเว็บ"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:27
@@ -1359,7 +1359,7 @@ msgid ""
 "Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
 "your desktop. You can browse the internet by clicking on this desktop icon "
 "once."
-msgstr ""
+msgstr "คอมพิวเจอร์ของคุณติดตั้งไอคอน <gui>แอพอินเตอร์เน็ต</gui> ไว้บนหน้าเดสก์ท็อปอยู่แล้ว คุณสามารถท่องเน็ตได้โดยคลิกที่ไอคอนบนเดสก์ท็อปนี้ครั้งหนึ่ง "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:33
@@ -1367,36 +1367,36 @@ msgid ""
 "You can also open this app by moving your mouse pointer to the "
 "<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
 "clicking once."
-msgstr ""
+msgstr "คุณยังสามารถเปิดแอปนี้โดยขยับตัวชี้เมาส์ไปยังไอคอน <gui>Internet</gui>  ลูกโลก สีส้มที่ด้านล่างซ้ายของหน้าจอแล้วคลิกหนึ่งครั้ง "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:39
 msgid "Click the address bar at the top of the browser window. Start typing!"
-msgstr ""
+msgstr "คลิกแถบที่อยู่ที่ด้านบนของหน้าต่างเบราว์เซอร์แล้วพิมพ์!"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:43
 msgid ""
 "You do not need to remember the exact address if you have already visited "
 "the website because it will be stored in your history and/or bookmarks."
-msgstr ""
+msgstr "คุณไม่จำเป็นต้องจำที่อยู่ทั้งหมดหากเคยเข้าเยี่ยมชมเว็บไซต์แล้ว เพราะมันจะถูกบันทึกไว้ในประวัติ และ/หรือบุ๊กมาร์ก"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:46
 msgid ""
 "If the website is found in the history or bookmarks, you will see a drop-"
 "down list appear below the address bar."
-msgstr ""
+msgstr "หากเว็บไซต์ อยู่ในประวัติหรือบุ๊กมาร์ค คุณจะเห็นรายการดร็อบดาวน์แสดงขึ้นมาตรงด้านล่างแถบที่อยู่"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:49
 msgid "Select the website you are looking for using the arrow keys."
-msgstr ""
+msgstr "เลือกเว็บไซต์ที่คุณมองหาโดยใช้แป้นลูกศร "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:52
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
+msgstr "หลังจากเลือกเว็บไซต์แล้ว กด <key>Enter</key> เพื่อเข้าไปที่ไซต์นั้น"
 
 #. (itstool) path: note/p
 #: C/gs-browse-web.page:58
@@ -1407,18 +1407,18 @@ msgid ""
 "your desktop. You will be shown the top results that are already on your "
 "Endless computer, and it will also ask if you want to search the internet. "
 "Click on the option to search the internet."
-msgstr ""
+msgstr "คุณสามารถค้นหาในอินเทอร์เน็ตได้จากเดสก์ท็อป โดยใช้ฟีเจอร์ <link xref=\"gs-use-system-search\">แถบค้นหาทั่วโลก</link> ก่อนอื่น<gui> พิมพ์สิ่งที่คุณต้องการหาลงไปใน </gui>แถบค้นหาในเดสก์ท็อป คุณจะเห็นผลการค้นหาระดับต้นๆ ซึ่งอยู่ในเครื่องคอมพิวเตอร์ของ Endless อยู่แล้ว และจะมีการถามว่าคุณต้องการค้นหาในอินเทอร์เน็ตหรือไม่คลิกที่ตัวเลือก เพื่อค้นหาในอินเทอร์เน็ต"
 
 #. (itstool) path: info/desc
 #: C/gs-fix-overscan.page:19
 msgid ""
 "Fix a problem where your TV is cutting off the top and bottom of the screen."
-msgstr ""
+msgstr "แก้ไขปัญหา TV ของคุณตัดภาพด้านบนและด้านล่างของหน้าจอ"
 
 #. (itstool) path: page/title
 #: C/gs-fix-overscan.page:22
 msgid "I can't see the task bar or start menu, what do I do?"
-msgstr ""
+msgstr "ฉันไม่เห็นแถบงานหรือเมนูเริ่ม ฉันควรทำอย่างไร"
 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
@@ -1426,53 +1426,53 @@ msgid ""
 "If you do not see the task bar at the bottom of your screen with the user "
 "menu on the left and the time and facebook icon on the right, you need to "
 "adjust your screen to fit your TV."
-msgstr ""
+msgstr "หากคุณไม่เห็นแถบงานที่ด้านล่างของหน้าจอโดยมีเมนูผู้ใช้อยู่ทางด้านซ้าย และเวลากับไอคอน Facebook อยู่ทางด้านขวา คุณจะเป็นต้องปรับหน้าจอให้พอดีกับทีวี "
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:29
 msgid "To adjust your screen:"
-msgstr ""
+msgstr "ในการปรับหน้าจอ:"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:32
 msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
-msgstr ""
+msgstr "คลิกขวาที่เดสก์ท็อปและเลือก <gui>\"เปลี่ยนพื้นหลัง...\"</gui>"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:37
 msgid "Click the back button on the top left corner of the dialog box."
-msgstr ""
+msgstr "คลิกปุ่มกลับตรงมุมซ้ายบนของกล่องไดอะล็อก"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:41
 msgid "Select the <gui>Displays</gui> icon."
-msgstr ""
+msgstr "เลือกไอคอน <gui>แสดง</gui>"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:45
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
-msgstr ""
+msgstr "เลือกกล่องไดอะล็อกข้างๆ <gui>สัดส่วน</gui>ที่เขียนว่า <gui>\"ปรับหน้าจอสำหรับทีวี\"</gui>"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:50
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
-msgstr ""
+msgstr "ขณะนี้คุณจะเห็นแถบบาร์สีดำที่ด้านล่างของหน้าจอและเมนูผู้ใช้บนมุมด้านซ้ายล่างของหน้าจอของคุณ!"
 
 #. (itstool) path: page/title
 #: C/gs-get-online.page:21
 msgid "How do I set up my internet?"
-msgstr ""
+msgstr "ฉันจะตั้งค่าอินเทอร์เน็ตได้อย่างไร "
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:23
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
 "side of your screen will look like this <_:media-1/>."
-msgstr ""
+msgstr "หากคุณออฟไลน์ ไอคอนการเชื่อมต่อเครือข่ายบนด้านล่างด้านขวามือของหน้าจอจะปรากฏเช่นนี้ <_:media-1/>"
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:27
@@ -1481,12 +1481,12 @@ msgid ""
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
-msgstr ""
+msgstr " สถานะออฟไลน์ เกิดได้จากหลายสาเหตุ เช่น สายเคเบิลหลุด คอมพิวเตอร์ถูกตั้งค่าเป็น <em>ใช้งานบนเครื่องบิน</em>หรือไม่มี Wi-Fi ในบริเวณที่คุณอยู่ "
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:34
 msgid "Connect to a wired network"
-msgstr ""
+msgstr "เชื่อมต่อกับเครือข่ายแบบมีสาย"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
@@ -1494,26 +1494,26 @@ msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
-msgstr ""
+msgstr "หากคุณเชื่อมต่อแบบมีสาย เพียงเสียบเคเบิลโครงข่ายก็สามารถออนไลน์ได้ คอมพิวเตอร์ก็จะพยายามเชื่อมต่อโครงข่ายด้วยโดยอัตโนมัติ"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:41 C/gs-get-online.page:76
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
-msgstr ""
+msgstr "ในขณะที่คอมพิวเตอร์ตั้งค่าการเชื่อมต่อโครงข่ายให้คุณ ไอคอนการเชื่อมต่อโครงจ่ายจะแสดงสามจุด"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to this <_:media-1/> networked computer symbol."
-msgstr ""
+msgstr "เมื่อกำหนดค่าการเชื่อมต่อเครือข่ายเรียบร้อย ไอคอนการเชื่อมต่อเครือข่ายจะเปลี่ยนเป็นสัญลักษณ์คอมพิวเตอร์ที่เชื่อมต่อเครือข่ายแล้วนี้ <_:media-1/>  "
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:56
 msgid "Connect to a Wi-Fi network"
-msgstr ""
+msgstr "เชื่อมต่อกับเครือข่าย Wi-Fi "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:60
@@ -1521,26 +1521,26 @@ msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
 "corner of your screen. You will see this icon <_:media-1/>. Click on it and "
 "a menu should appear."
-msgstr ""
+msgstr "Wi-Fi ของคุณเชื่อมต่ออยู่หรือไม่ มองหาไอคอนเครือข่ายที่ด้านล่างขวาของหน้าจอ คุณจะเห็นไอคอนนี้ <_:media-1/> เมื่อคลิกจะมีเมนูปรากฏขึ้นมา"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:66
 msgid ""
 "Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi” to turn "
 "it on. Check to make sure it is now blue."
-msgstr ""
+msgstr "สวิตช์ Wi-Fi เป็นสีน้ำเงินหรือไม่?  หากไม่ คลิกที่คำว่า “Wi-Fi” เพื่อเปิด  ตรวจสอบว่าขณะนี้มันเป็นสีน้ำเงิน"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:70
 msgid "Next, select your Wi-Fi network from the list."
-msgstr ""
+msgstr "ถัดไป เลือกเครือข่าย Wi-Fi จากรายการ"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:73
 msgid ""
 "Enter your network password, which is usually different than the password "
 "you use to log in to your computer."
-msgstr ""
+msgstr "ใส่รหัสผ่านเข้าโตรงข่าย ซึ่งมักจะต่างจากรหัสผ่านที่คุณใช้ล็อกอินเข้าคอมพิวเตอร์ของคุณ"
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:88
@@ -1548,7 +1548,7 @@ msgid ""
 "If you don’t see your network in the list, try unplugging your Wi-Fi router "
 "then plugging it back in. If it still doesn’t work, you may need to contact "
 "your internet provider directly."
-msgstr ""
+msgstr "หากคุณไม่เห็นโครงข่ายในรายการ ลองถอดปลั๊กเราท์เตอร์ Wi-Fi ออก จากนั้นเสียบเข้าไปใหม่ หากยังใช้งานไม่ได้ คุณอาจต้องติดต่อผู้ให้บริการอินเทอร์เน็ตโดยตรง"
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:93
@@ -1556,35 +1556,35 @@ msgid ""
 "Remember that your friends or neighbors may have the same default network "
 "name you do, and your computer may be picking up their network signal. If "
 "your password isn’t working, make sure you have selected the right network."
-msgstr ""
+msgstr "อย่าลืมว่าเพื่อนๆ หรือเพื่อนบ้านของคุณก็อาจใช้ชื่อโครงข่ายที่เป็นค่าตั้งต้นเหมือนกัน และคอมพิวเตอร์ของคุณก็อาจจะเลือกสัญญาณโครงข่ายของพวกเขา หากรหัสผ่านใช้ไม่ได้ ดูให้แน่ว่าคุณได้เลือกโครงข่ายที่ถูกต้องแล้ว"
 
 #. (itstool) path: page/title
 #: C/gs-give-feedback.page:19
 msgid "How can I help make Endless better?"
-msgstr ""
+msgstr "ฉันจะช่วยทำให้ Endless ดีขึ้นได้อย่างไร "
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:21
 msgid ""
 "What do you love about Endless? Is there anything you would change? Do you "
 "have any ideas or suggestions for new apps to include?"
-msgstr ""
+msgstr "คุณชอบ Endless อย่างไรบ้าง มีสิ่งใดที่คุณอยากให้เปลี่ยนแปลงบ้าง คุณมีไอเดียหรือคำแนะนำว่าควรใส่แอพใหม่อะไรเพิ่มบ้าง"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
 msgid "We want to hear from you!"
-msgstr ""
+msgstr "เราอยากได้ฟังความเห็นคุณ!"
 
 #. (itstool) path: steps/title
 #: C/gs-give-feedback.page:27
 msgid "Here's how to give us your feedback:"
-msgstr ""
+msgstr " นี่คือวิธีที่คุณจะสามารถให้ฟีดแบ็คแก่เรา"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:29
 msgid ""
 "Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr ""
+msgstr "คลิกที่ <_:มีเดีย-1/> ตรงมุมล่างซ้ายของหน้าจอ"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:35
@@ -1592,28 +1592,28 @@ msgid ""
 "Click the <gui>Give Us Feedback</gui> option. You can also access the "
 "feedback section by opening your browser and clicking the "
 "<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
-msgstr ""
+msgstr "คลิกที่ตัวเลือก <gui>Give Us Feedback</gui> คุณยังสามารถเข้าถึงส่วนคำติชมได้โดยการเปิดเบราว์เซอร์และคลิกที่ปุ่ม <gui>Feedback</gui> ที่มุมล่างด้านซ้ายมือของเบราว์เซอร์"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:42
 msgid ""
 "Enter in your comment, name and email address. You must fill in all three "
 "fields in order to submit your feedback."
-msgstr ""
+msgstr "กรอกความคิดเห็น ชื่อ และที่อยู่อีเมลของคุณ คุณจะต้องกรอกให้ครบทั้งสามฟิลด์เพื่อส่งคำติชม"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:47
 msgid ""
 "You will receive a confirmation email to let you know that we have received "
 "your feedback. We will try to get back to you as soon as we can."
-msgstr ""
+msgstr "คุณจะได้รับอีเมลยืนยันเพื่อแจ้งให้คุณทราบว่าเราได้รับความคิดเห็นของคุณแล้ว เราจะติดต่อกลับไปให้เร็วที่สุด"
 
 #. (itstool) path: note/p
 #: C/gs-give-feedback.page:54
 msgid ""
 "Please note that you will need an internet connection in order to submit "
 "your feedback."
-msgstr ""
+msgstr "โปรดทราบว่าคุณต้องเชื่อมต่ออินเทอร์เน็ตเพื่อส่งฟีดแบ็ค"
 
 #. (itstool) path: Work/format
 #: C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293
@@ -1627,7 +1627,7 @@ msgstr ""
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
 #: C/gs-web-browser2.svg:102
 msgid "image/svg+xml"
-msgstr ""
+msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:242 C/gs-go-online2.svg:278 C/gs-goa1.svg:80
@@ -1636,7 +1636,7 @@ msgstr ""
 #: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
@@ -1645,7 +1645,7 @@ msgstr ""
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
-msgstr ""
+msgstr "14:30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:266 C/gs-go-online3.svg:306 C/gs-goa1.svg:84
@@ -1654,256 +1654,256 @@ msgstr ""
 #: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
 #, no-wrap
 msgid "homenetwork"
-msgstr ""
+msgstr "เครือข่ายภายในบ้าน"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
 #, no-wrap
 msgid "Select Network"
-msgstr ""
+msgstr "เลือกโครงข่าย"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:339
 #, no-wrap
 msgid "Turn Off"
-msgstr ""
+msgstr "เปิด"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
 msgid "Network Settings"
-msgstr ""
+msgstr "การตั้งค่าเครือข่าย"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr ""
+msgstr "เครือข่าย Wi-Fi"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "Connect"
-msgstr ""
+msgstr "เชื่อมต่อ"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "wireless"
-msgstr ""
+msgstr "ไร้สาร"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:317
 #, no-wrap
 msgid "netgear"
-msgstr ""
+msgstr "Netgear"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:318
 #, no-wrap
 msgid "weak"
-msgstr ""
+msgstr "อ่อน"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:319
 #, no-wrap
 msgid "private"
-msgstr ""
+msgstr "ส่วนตัว"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:320
 #, no-wrap
 msgid "Select a network"
-msgstr ""
+msgstr "เลือกโครงข่าย"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:343 C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
 #, no-wrap
 msgid "Cancel"
-msgstr ""
+msgstr "ยกเลิก"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
 #: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
-msgstr ""
+msgstr "บัญชีออนไลน์"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:71 C/gs-goa3.svg:115
 #, no-wrap
 msgid "Add an online account"
-msgstr ""
+msgstr "เพิ่มบัญชีออนไลน์"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
 #: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:66
 #, no-wrap
 msgid "Add Account"
-msgstr ""
+msgstr "เพิ่มบัญชี"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:73 C/gs-goa4.svg:124
 #, no-wrap
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:74 C/gs-goa4.svg:125
 #, no-wrap
 msgid "Windows Live"
-msgstr ""
+msgstr "วินโดว์ ไลฟ์"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:75 C/gs-goa4.svg:126
 #, no-wrap
 msgid "Microsoft Exchange"
-msgstr ""
+msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:76 C/gs-goa4.svg:127
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
-msgstr ""
+msgstr "เข้าสู่ระบบองค์กร (Kerberos)"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
 #: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
-msgstr ""
+msgstr "บัญชี Google"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:69
 #, no-wrap
 msgid "SIGN UP"
-msgstr ""
+msgstr "สมัคร "
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:70
 #, no-wrap
 msgid "Sign in"
-msgstr ""
+msgstr " ลงชื่อเข้า"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:71
 #, no-wrap
 msgid "Email"
-msgstr ""
+msgstr "อีเมล"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:73
 #, no-wrap
 msgid "Password"
-msgstr ""
+msgstr "รหัสผ่าน"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:76
 #, no-wrap
 msgid "Sign In"
-msgstr ""
+msgstr "ลงชื่อเข้าใช้"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
 #, no-wrap
 msgid "john.doe@gmail.com"
-msgstr ""
+msgstr "john.doe@gmail.com"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:103
 #, no-wrap
 msgid "Grant Access"
-msgstr ""
+msgstr "อนุญาตให้เข้าถึง"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:108
 #, no-wrap
 msgid "Deny Access"
-msgstr ""
+msgstr "ปฏิเสธการเข้าถึง"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
 #, no-wrap
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:92
 #, no-wrap
 msgid "Use for"
-msgstr ""
+msgstr "ใช้งานเพื่อ"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:93
 #, no-wrap
 msgid "Mail"
-msgstr ""
+msgstr "เมล"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:98
 #, no-wrap
 msgid "Calendar"
-msgstr ""
+msgstr "ปฏิทิน"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:103 C/gs-search2.svg:293
 #, no-wrap
 msgid "Contacts"
-msgstr ""
+msgstr "รายชื่อ"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:108
 #, no-wrap
 msgid "Chat"
-msgstr ""
+msgstr "แชท"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:113
 #, no-wrap
 msgid "Documents"
-msgstr ""
+msgstr "เอกสาร"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
@@ -1911,131 +1911,131 @@ msgstr ""
 #: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
 #, no-wrap
 msgid "ON"
-msgstr ""
+msgstr "เปิด"
 
 #. (itstool) path: p/link
 #: C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr ""
+msgstr "การอนุญาตใช้งาน Creative Commons Attribution-ShareAlike 3.0 Unported "
 
 #. (itstool) path: license/p
 #: C/gs-legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
-msgstr ""
+msgstr "งานนี้มีลิขสิทธิ์ภายใต้ <_:link-1/>."
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:137
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "ค้นหา"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:148
 #, no-wrap
 msgid "Files"
-msgstr ""
+msgstr "ไฟล์"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:149
 #, no-wrap
 msgid "Enabled"
-msgstr ""
+msgstr "เปิดใช้งาน"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:264
 #, no-wrap
 msgid "Web"
-msgstr ""
+msgstr "เว็บ"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:265
 #, no-wrap
 msgid "Photos"
-msgstr ""
+msgstr "ภาพถ่าย"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:266
 #, no-wrap
 msgid "Music"
-msgstr ""
+msgstr "เพลง"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:293
 #, no-wrap
 msgid "OFF"
-msgstr ""
+msgstr "ปิด"
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:229
 #, no-wrap
 msgid "just type"
-msgstr ""
+msgstr "แค่พิมพ์"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:182
 #, no-wrap
 msgid "con"
-msgstr ""
+msgstr "ต่อ"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:246
 #, no-wrap
 msgid "Accounts"
-msgstr ""
+msgstr "บัญชี"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr ""
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:248
 #, no-wrap
 msgid "config"
-msgstr ""
+msgstr "config"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:249 C/gs-search2.svg:252
 #, no-wrap
 msgid "fontconfig"
-msgstr ""
+msgstr "fontconfig"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:250
 #, no-wrap
 msgid "system-config-http.zip"
-msgstr ""
+msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:251
 #, no-wrap
 msgid "Icon guidelines"
-msgstr ""
+msgstr "คำแนะนำในการใช้ไอคอน "
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:269
 #, no-wrap
 msgid "Secure Linux Containers"
-msgstr ""
+msgstr "รักษาความปลอดภัยให้กล่อง Linux"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:270
 #, no-wrap
 msgid "Developer Conference 2012"
-msgstr ""
+msgstr "การประชุมผู้พัฒนาระบบ 2012"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
 #, no-wrap
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Thanks f"
-msgstr ""
+msgstr "ขอบคุณ"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
@@ -2043,14 +2043,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. (itstool) path: text/tspan
 #. Translators: M stands for Monday here
 #: C/gs-thumb-timezone.svg:94
 #, no-wrap
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Tuesday here
@@ -2058,14 +2058,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
 #: C/gs-thumb-timezone.svg:96
 #, no-wrap
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
@@ -2073,14 +2073,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
 #: C/gs-thumb-timezone.svg:98
 #, no-wrap
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
@@ -2088,185 +2088,185 @@ msgstr ""
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:109
 #, no-wrap
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:110
 #, no-wrap
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:111
 #, no-wrap
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:112
 #, no-wrap
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:113
 #, no-wrap
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:114
 #, no-wrap
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:116
 #, no-wrap
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:117
 #, no-wrap
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:118
 #, no-wrap
 msgid "17"
-msgstr ""
+msgstr "17"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:119
 #, no-wrap
 msgid "18"
-msgstr ""
+msgstr "18"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:120
 #, no-wrap
 msgid "19"
-msgstr ""
+msgstr "19"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:121
 #, no-wrap
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:122
 #, no-wrap
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:124
 #, no-wrap
 msgid "22"
-msgstr ""
+msgstr "22 "
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:125
 #, no-wrap
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:126
 #, no-wrap
 msgid "24"
-msgstr ""
+msgstr "24"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:127
 #, no-wrap
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:128
 #, no-wrap
 msgid "26"
-msgstr ""
+msgstr "26"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:129
 #, no-wrap
 msgid "27"
-msgstr ""
+msgstr "27"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:130
 #, no-wrap
 msgid "28"
-msgstr ""
+msgstr "28"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:132
 #, no-wrap
 msgid "29"
-msgstr ""
+msgstr "29"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:133
 #, no-wrap
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:134
 #, no-wrap
 msgid "31"
-msgstr ""
+msgstr "31"
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:20
 msgctxt "link:shell-overview"
 msgid "Find apps that work without the internet"
-msgstr ""
+msgstr "หาแอพที่ทำงานได้แม้ไม่มีอินเทอร์เน็ต"
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:21
 msgctxt "link:net"
 msgid "Use your computer offline"
-msgstr ""
+msgstr "ใช้งานคอมพิวเตอร์ออฟไลน์"
 
 #. (itstool) path: info/desc
 #: C/gs-use-offline.page:22
 msgid "Discover all the offline content on your computer."
-msgstr ""
+msgstr "ดูเนื้อหาออฟไลน์ทั้งหมดบนคอมพิวเตอร์"
 
 #. (itstool) path: page/title
 #: C/gs-use-offline.page:25
 msgid "What can I do if I don't have internet?"
-msgstr ""
+msgstr "ฉันจะทำอย่างไรได้ หากไม่มีอินเทอร์เน็ต "
 
 #. (itstool) path: page/p
 #: C/gs-use-offline.page:27
 msgid ""
 "Your computer comes with a lot of great offline content you can use even if "
 "you don't have an internet connection."
-msgstr ""
+msgstr "คอมพิวเตอร์ของคุณมาพร้อมกับเนื้อหาออฟไลน์มากมายที่คุณสามารถใช้งานได้แม้ไม่มีสัญญาณอินเทอร์เน็ต "
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:31
 msgid "Introducing the <app>App Center</app>"
-msgstr ""
+msgstr "แนะนำ <app>ศูนย์แอพ</app>"
 
 #. (itstool) path: section/p
 #: C/gs-use-offline.page:32
@@ -2275,17 +2275,17 @@ msgid ""
 "added to your desktop. Most of the apps you'll find there have offline "
 "capability and you can browse by category to find just what you're looking "
 "for, or else just click around and explore."
-msgstr ""
+msgstr "<app>ศูนย์แอพ</app> จะมีแอพหลากหลาย ที่เป็นแอะฟรีและสามารถเพิ่มเข้าไปในเดสก์ท็อปของคุณได้อย่างง่ายดาย คุณจะเห็นว่าแอพส่วนใหญ่สามารถใช้งานแบบออฟไลน์ได้และคุณสามารถเลือกดูได้ตามหมวดหมู่เพื่อหาแอพที่คุณต้องการ หรือแค่คลิกดูไปเรื่อยๆ"
 
 #. (itstool) path: steps/title
 #: C/gs-use-offline.page:37
 msgid "How to get to the <app>App Center</app>:"
-msgstr ""
+msgstr "วิธีไปยัง <app>App Center</app>:"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:39
 msgid "Click on <app>More Apps</app> from the desktop."
-msgstr ""
+msgstr "คลิกที่ <app>แอพอื่นๆ</app> จากเดสก์ท็อป"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:43
@@ -2293,33 +2293,33 @@ msgid ""
 "Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
 "<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
 "section."
-msgstr ""
+msgstr "คลิกที่ประเภท เช่น <gui>การศึกษา</gui>, <gui>เกม</gui>, <gui>แหล่งข้อมูล</gui> และ <gui>อรรถประโยชน์</gui> เพื่อดูแอพในประเภทนั้นๆ"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:49
 msgid ""
 "Click on an app to read more about it and either install it or add it to "
 "your desktop."
-msgstr ""
+msgstr "คลิกที่แอพเพื่ออ่านข้อมูลเกี่ยวกับแอพ การติดตั้งหรือเพิ่มแอพเข้าไปในเดสก์ท็อปเพิ่มเติม "
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:57
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
 "<app>App Center</app>:"
-msgstr ""
+msgstr "นี่เป็นตัวอย่างเนื้อหาออฟไลน์บางรายการบนเดสก์ท็อปและใน <app>ศูนย์แอพ</app>:"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:61
 msgid "Education"
-msgstr ""
+msgstr "การศึกษา"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:63
 msgid ""
 "<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
 "encyclopedia with all the power of the internet's best."
-msgstr ""
+msgstr "<app>สารานุกรม</app>- ค้นหาเพื่อศึกษาข้อมูลในเกือบทุกๆ เรื่อง สารานุกรมแบบออฟไลน์ที่ใช้งานออนไลน์ได้ด้วย "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:67
@@ -2327,106 +2327,106 @@ msgid ""
 "<app>Virtual School</app> - Hundreds of videos to help you lean more about "
 "your favorite subjects, or to help you understand subjects that are "
 "difficult for you."
-msgstr ""
+msgstr "<app>โรงเรียนเสมือน</app> - มีวิดีโอนับร้อยๆ ที่จะช่วยให้คุณได้ศึกษาเพิ่มเติมเกี่ยวกับหัวข้อที่คุณสนใจหรือช่วยให้เข้าใจหัวข้อที่ยากสำหรับคุณ"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:72
 msgid ""
 "<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
 " help children of all ages develop their mental abilities."
-msgstr ""
+msgstr "<app>Edu Games</app> - หมากรุก ปริศนา พร้อมเกมและกิจกรรมอื่นๆ อีกมากมายเพื่อช่วยให้เด็กๆ ทุกวัยพัฒนาทางสติปัญญา"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:77
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
-msgstr ""
+msgstr "<app>Tux Math</app> -เป็นวิธีสนุกๆ สำหรับให้เด็กฝึกการบวก ลบ คูณเลข เป็นต้น "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:81
 msgid ""
 "<app>Tux Typing</app> - Learn how to type with this game that guides you and"
 " helps you practice so that you can type faster and more accurately."
-msgstr ""
+msgstr "<app>Tux Typing</app> - ฝึกฝนวิธีพิมพ์ด้วยเกมนี้ซึ่งจะแนะนำและช่วยเหลือคุณฝึกฝนจนสามารถพิมพ์ได้เร็วขึ้นและแม่นยำขึ้น"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:86
 msgid ""
 "<app>World Literature</app> - Read many of the world's greatest stories."
-msgstr ""
+msgstr "<app>วรรณกรรมโลก</app>- อ่านหลากหลายเรื่องราวยิ่งใหญ่ในโลก "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:90
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
-msgstr ""
+msgstr "<app>Animals</app> - เรียนรู้เพิ่มเติมเกี่ยวกับสัตว์ตัวโปรดของคุณและสัตว์ที่คุณไม่เคยเห็นมาก่อน!"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:96
 msgid "Games"
-msgstr ""
+msgstr "เกม"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:98
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
-msgstr ""
+msgstr "<app>Tux Kart</app> - แข่งกับคอมพิวเตอร์หรือเพื่อนของคุณ รับพลังวิเศษเพื่อไม่ให้โดนเล่นงานก่อน!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:102
 msgid ""
 "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
-msgstr ""
+msgstr "<app>Potato Guy</app> - สร้างรูปหน้าและตัวละครเรื่อง Mr. Potato Guy"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:106
 msgid ""
 "<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
 " you get to the next level."
-msgstr ""
+msgstr "<app>Numpty Physics</app> - วาดวัตถุและใช้กฎฟิสิกส์เพื่อช่วยให้คุณผ่านไปยังด่านถัดไป"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:110
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
-msgstr ""
+msgstr "<app>X-Moto</app> - ขับมอเตอร์ไซค์ขึ้นเนินและหลบหลีกสิ่งกีดขวางให้เร็วที่สุดเพื่อไปให้ถึงเส้นชัยในแต่ละสนาม"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:114
 msgid ""
 "<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
 " that you don't blow up. This strategy game is addictive."
-msgstr ""
+msgstr "<app>Minetest</app> - อย่าเข้าใกล้บริเวณที่มีเหมืองถูกขังไว้ มันจะได้ไม่ระเบิด เกมกลยุทธนี้เล่นแล้วติดใจจริงๆ"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:118
 msgid ""
 "<app>Blockout2</app> - A tetris-like game where you need to match the colors"
 " as best you can before the screen fills up and you lose."
-msgstr ""
+msgstr "<app>Blockout2</app> - เป็นเกมเหมือนเตอร์ตริส ซึ่งคุณสามารถจับคู่สีก่นอที่หน้าจอจะขึ้นเต็มและคุณแพ้"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:124
 msgid "Resources"
-msgstr ""
+msgstr "แหล่งข้อมูล "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:126
 msgid ""
 "<app>Writer</app> - Write papers for school, work or for anything else you "
 "need. Compatible with Microsoft's Word."
-msgstr ""
+msgstr "<app>Writer</app> - พิมพ์เอกสารสำหรับการบ้าน งาน หรือทุกสิ่งที่คุณต้องการ ทำงานร่วมกับ Word ของ Microsoft ได้"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:130
 msgid ""
 "<app>Presentation</app> - Create beautiful presentations! Compatible with "
 "Microsoft's Powerpoint."
-msgstr ""
+msgstr "<app>Presentation</app> - สร้างงานนำเสนอแสนสวย! ทำงานร่วมกับ Powerpoint ของ Microsoft ได้"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:134
@@ -2434,39 +2434,39 @@ msgid ""
 "<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
 "yourself in ways you never thought possible with this powerful spreadsheet "
 "app. Compatible with Microsoft's Excel."
-msgstr ""
+msgstr "<app>สเปรดชีท</app>- ทำให้คำนวณอย่างง่ายๆ หรือซับซ้อนได้ หรือจัดการข้อมูลของตัวคุณในแบบที่คุณไม่คาดมาก่อนว่าจะทำได้ด้วยแอพสเปรดชีทคุณภาพสูงนี้ ใช้งานได้กับ Microsoft's Excel ด้วย"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:139
 msgid ""
 "<app>Resume</app> - Learn how to make a great resume to help you find your "
 "ideal job."
-msgstr ""
+msgstr "<app>ประวัติงาน</app> - ดูวิธีการเขียนประวัติงานที่ดีเพื่อช่วยให้คุณได้งานในฝัน "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:143
 msgid ""
 "<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
 "yourself and your family healthy."
-msgstr ""
+msgstr "<app>สุขภาพ</app> - กำลังหาข้อมูลโรคภัยไข้เจ็บ การรักษาและดูว่าจะช่วยให้คุณและครอบครัวมีสูขภาพที่แข็งแรงได้อย่างไร"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:147
 msgid ""
 "<app>How To</app> - Learn how to do just about anything with this handy app."
-msgstr ""
+msgstr "<app>วิธีใช้งาน</app> - เรียนรู้วิธีทำแทบทุกสิ่งด้วยแอพที่มีประโยชน์สุดๆ นี้"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:153
 msgid "Entertainment"
-msgstr ""
+msgstr "ความบันเทิง"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:155
 msgid ""
 "<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
 " webcam, not included with Endless."
-msgstr ""
+msgstr "<app>ชีส</app> - ถ่ายภาพตลกๆ ของเพื่อนและครอบครัว *จำเป็นต้องมีเว็บเคม ซึ่งไม่ได้มาพร้อม Endless"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:159
@@ -2474,40 +2474,40 @@ msgid ""
 "<app>Videos</app> - Watch some of the pre-installed videos that come with "
 "Endless, or transfer videos from a USB or DVD and watch them on this great "
 "and easy-to use media player."
-msgstr ""
+msgstr "<app>Videos</app> - ชมวิดีโอที่ติดตั้งไว้ล่วงหน้าซึ่งมาพร้อมกับ Endless หรือถ่ายโอนวิดีโอจาก USB หรือ DVD และชมบนมีเดียเพลย์เยอร์ที่ยอดเยี่ยมและใช้งานง่าย"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:164
 msgid ""
 "<app>Myths and Legends</app> - Read about myths and legends from all over "
 "the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr ""
+msgstr "<app>นิทานและตำนาน</app>- อ่านเกี่ยวกับเทวนิยายและตำนานต่างๆ จากทั่วโลก ตั้งแต่ลาเลลโลน่า จนถึงบิ๊กฟุต และเรื่องต่างๆ อีกมากมาย "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:169
 msgid ""
 "<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
 "stars, and other celebrities"
-msgstr ""
+msgstr "<app>Celebrities</app> - รู้ทุกเรื่องเกี่ยวกับนักกีฬาดังคนโปรด, ดาราภาพยนตร์ และคนดังคนอื่นๆ"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:173
 msgid ""
 "<app>Travel</app> - Read about places around the world and see beautiful "
 "pictures that will make you feel like you're actually there!"
-msgstr ""
+msgstr "<app>การเดินทาง</app> - อ่านเรื่องราวสถานที่ต่างๆ รอบโลกและดูภาพสวยๆ ที่จะทำให้คุณรู้สึกราวกับอยู่ที่นั่น!"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:180
 msgid "Utility"
-msgstr ""
+msgstr "สารประโยชน์"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:182
 msgid ""
 "<app>Notes</app> - A handy app to help you jot down things you don't want to"
 " forget!"
-msgstr ""
+msgstr "<app>Notes</app> - แอพแสนสะดวกที่จะช่วยบันทึกสิ่งที่คุณไม่อยากลืม!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:186
@@ -2515,33 +2515,33 @@ msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
 "something of your own!"
-msgstr ""
+msgstr "<app>เครื่องมือแก้ไขวิดีโอ</app> -ถ่ายวิดีโอในมือถือและแก้ไขเพื่อสร้างผลงานชิ้นเอก หรือเพียงนำคลิปวิดีโอที่มีอยู่แล้วมาปรับให้เป็นแบบของตัวเอง"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:191
 msgid ""
 "<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
 " and more, to make them even more awesome!"
-msgstr ""
+msgstr "<app>Photo Editor</app> -ใส่ฟิลเตอร์และกรอบลงในภาพ ครอบตัดและอื่นๆ เพื่อให้ภาพสวยงามยิ่งขึ้น"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:195
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
-msgstr ""
+msgstr "<app>ออดิโอ เอดิเตอร์</app> - ตัด, มิกซ์ และสร้างจังหวะและเพลงเยี่ยมๆ ที่จะให้เพื่อนๆ แดนซ์ไปกับคุณ"
 
 #. (itstool) path: info/desc
 #: C/gs-use-system-search.page:19
 msgid ""
 "Search for things on your computer and on the internet right from your "
 "desktop!"
-msgstr ""
+msgstr "ค้นหาสิ่งต่างๆ บนคอมพิวเตอร์ของคุณและบนอินเทอร์เน็ตได้จากเดสก์ท็อป"
 
 #. (itstool) path: page/title
 #: C/gs-use-system-search.page:23
 msgid "Use global search"
-msgstr ""
+msgstr "ใช้การค้นหาแบบทั่วทั้งหมด"
 
 #. (itstool) path: page/p
 #: C/gs-use-system-search.page:25
@@ -2550,135 +2550,135 @@ msgid ""
 "photos and more, right from your desktop. If you have an internet conection,"
 " you can even look for things that are on the internet, like you would on "
 "google, with the global search tool."
-msgstr ""
+msgstr "แถบค้นหาทำให้สามารถค้นหาได้อย่างง่ายดาย คุณสามารถค้นหาแอพ เอกสาร รูปภาพ และอื่นๆ ได้จากเดสก์ท็อปโดยตรง หากคุณเชื่อมต่ออินเทอร์เน็ต คุณยังสามารถค้นหาสิ่งที่อยู่บนอินเทอร์เน็ต เหมือนกับการค้นหาจาก Google ด้วยเครื่องมือค้นหานี้"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr ""
+msgstr "จากเดสก์ท็อป คลิกที่ <app>แถบค้นหาทั่วไป</app> ที่ด้านบนสุดของหน้าจอที่มีข้อความ <gui>พิมพ์เพื่อค้นหา...</gui> เริ่มต้นพิมพ์เพื่อค้นหา"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
-msgstr ""
+msgstr "ผลการค้นหาที่ตรงกับสิ่งที่คุณพิมพ์ จะแสดงอยู่ในขณะที่คุณพิมพ์ ผลการค้นหาแรกๆ จะถูกไฮไลท์และแสดงอยู่ตรงด้านบน"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40
 msgid "Press <key>Enter</key> to choose the first highlighted result."
-msgstr ""
+msgstr "กด <key>Enter</key> เพื่อเลือกผลการค้นหาแรกที่ไฮไลท์"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:44 C/gs-where-files.page:40
 msgid "Items that may appear in the search results include:"
-msgstr ""
+msgstr "ไอเทมที่อาจแสดงอยู่ตรงผลการค้นหา ได้แก่: "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:46 C/gs-where-files.page:42
 msgid "matching applications, shown at the top of the search results,"
-msgstr ""
+msgstr "กำลังจับคู่แอพพลิเคชั่นที่แสดงอยู่ที่ด้านบนของผลการค้นหา "
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:48 C/gs-where-files.page:44
 msgid "matching settings, and"
-msgstr ""
+msgstr "จับคู่การตั้งค่า"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:49 C/gs-where-files.page:45
 msgid "matching documents."
-msgstr ""
+msgstr "จับคู่เอกสาร"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:54 C/gs-where-files.page:49
 msgid "In the search results, click on the item you want to open."
-msgstr ""
+msgstr "ในหน้าผลการค้นหา คลิกไอเทมที่คุณต้องการเปิด"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:55 C/gs-where-files.page:50
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
-msgstr ""
+msgstr "หรือไฮไลท์ไอเทมโดยใช้เครื่องหมายลูกศรแล้วกด <key>Enter</key>"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
 #, no-wrap
 msgid "Applications"
-msgstr ""
+msgstr "แอพพลิเคชั่น"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
-msgstr ""
+msgstr "โนม"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
 #, no-wrap
 msgid "Planet Gnome"
-msgstr ""
+msgstr "Planet Gnome"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
 #, no-wrap
 msgid "GNOME 3"
-msgstr ""
+msgstr "GNOME 3"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
 #, no-wrap
 msgid "http://planet.gnome.org"
-msgstr ""
+msgstr "http://planet.gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
 #, no-wrap
 msgid "http://gnome.org"
-msgstr ""
+msgstr "http://gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
-msgstr ""
+msgstr "planet.gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2.svg:247
 #, no-wrap
 msgid "Planet GNOME"
-msgstr ""
+msgstr "Planet GNOME "
 
 #. (itstool) path: page/title
 #: C/gs-where-files.page:19
 msgid "Where are my documents and files?"
-msgstr ""
+msgstr "เอกสารและไฟล์ของฉันอยู่ที่ไหน?"
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
 "When you store files to your computer, they are automatically stored in your"
 " <app>Documents</app> folder on your desktop."
-msgstr ""
+msgstr "เมื่อคุณบันทึกไฟล์ในคอมพิวเตอร์ พวกมันจะเก็บบันทึกไว้ในโฟลเดอร์ <app>เอกสาร</app> บนเดสก์ท็อปของคุณ"
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:24
 msgid "Here are some ways to look for a file you have saved:"
-msgstr ""
+msgstr "วิธีเหล่านี้จะใช้หาไฟล์ที่คุณบันทึกไว้ได้ "
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:27
 msgid "If you know the name of your file"
-msgstr ""
+msgstr "หากคุณรู้ชื่อไฟล์ของคุณ"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:29
 msgid ""
 "If you know the name of your file, then you can easily search for it right "
 "from the desktop."
-msgstr ""
+msgstr "หากคุณรู้ชื่อของไฟล์ ก็สามารถค้นหาไฟล์นั้นในเดสก์ท็อปได้อย่างรวดเร็ว "
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:33
@@ -2686,18 +2686,18 @@ msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "จากเดสก์ท็อป คลิกที่ <app>แถบค้นหาทั่วโลก</app>ที่ด้านบนของหน้าจอซึ่งเขียนว่า <gui>พิมพ์เพื่อค้นหา...</gui> เริ่มพิมพ์ชื่อของไฟล์ที่คุณต้องการหา"
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58
 msgid "If you do not know the name of your file"
-msgstr ""
+msgstr "หากคุณไม่รู้ชื่อไฟล์"
 
 #. (itstool) path: section/p
 #. (itstool) path: item/p
 #: C/gs-where-files.page:60 C/gs-where-files.page:90
 msgid "Click on <app>Documents</app> from the desktop."
-msgstr ""
+msgstr "คลิกที่ <app>เอกสาร</app> จากเดสก์ท็อป"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:63
@@ -2706,7 +2706,7 @@ msgid ""
 "and videos, so that they are easier for you to find. You will see that the "
 "menu on the left shows these categories. Click on them once to go to that "
 "folder."
-msgstr ""
+msgstr "Endless กำลังพยายามเก็บไฟล์ตามหมวดหมู่ อย่างเช่นเอกสาร เพลง ภาพ หรือวิดีโอ เพื่อให้คุณสามารถหาได้ง่าย คุณจะเห็นเมนูด้านซ้ายแสดงหมวดหมู่เหล่านี้ คลิกที่หมวดเหล่านั้นเมื่อไปที่โฟลเดอร์นั้น"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:69
@@ -2715,7 +2715,7 @@ msgid ""
 "click through the different folders you create to get to the files you have "
 "stored there. Clicking through folders is especially helpful if you are not "
 "sure what the file you saved is named."
-msgstr ""
+msgstr "คุณสามารถสร้างโฟลเดอร์ของตัวเองเพื่อจัดระเบียบไฟล์ให้ดียิ่งขึ้น คุณควรคลิกดูหลายๆ โฟลเดอร์ที่คุณสร้างเพื่อเข้าถึงไฟล์ที่คุณจัดเก็บไว้ การคลิกเข้าไปดูหลายๆ โฟลเดอร์นั้นมีประโยชน์อย่างยิ่งโดยเฉพาะเวลาที่คุณไม่แน่ใจว่าไฟล์ที่คุณบันทึกไว้นั้นชื่ออะไร"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:74
@@ -2727,17 +2727,17 @@ msgid ""
 " to highlight the file and press <key>Enter</key> to open it. Or, you can "
 "click on the result you want with your mouse to higlight it, and double "
 "click to open it."
-msgstr ""
+msgstr "เห็นแถบด้านบนที่มีรูปแว่นขยายอยู่หรือเปล่า ให้คลิกที่นั่นแล้วพิมพ์บางส่วนของชื่อไฟล์ที่คุณมองหาอยู่ ระหว่างที่คุณพิมพ์ ไฟล์ที่ตรงกับสิ่งที่คุณพิมพ์จะแสดงอยู่ด้านล่าง ถ้าคุณเห็นไฟล์ที่ต้องการอยู่ในรายชื่อ คุณสามารถใช้แป้นลูกศรเพื่อไฮไลต์ไฟล์แล้วกด <key>Enter</key> เพื่อเปิดไฟล์ได้ หรือคุณอาจใช้เมาส์คลิกผลลัพธ์การค้นหาที่ต้องการเพื่อไฮไลต์ แล้วคลิกสองครั้งเพื่อเปิดไฟล์"
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:84
 msgid "If your file is on a USB"
-msgstr ""
+msgstr "หากไฟล์ของคุณอยู่ในไดร์ฟ USB"
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:87
 msgid "Make sure that the USB is properly plugged in."
-msgstr ""
+msgstr "ตรวจสอบให้แน่ว่าเสียบ USB แล้ว "
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:93
@@ -2745,7 +2745,7 @@ msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
 "something with the device's brand, unless you have changed it."
-msgstr ""
+msgstr "คลิกที่ชื่ออุปกรณ์ของคุณในเมนูด้านซ้ายของหน้าต่าง ชื่อของอุปกรณ์ควรแสดงอยู่ด้านบนไอคอนถังขยะและมักจะถูกตั้งชื่อโดยใช้ยี่ห้อของอุปกรณ์นั้น เว้นแต่คุณจะได้เปลี่ยนชื่อไปแล้ว"
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:98
@@ -2753,7 +2753,7 @@ msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
 "the magnifying glass to search for the file name if you know it."
-msgstr ""
+msgstr "เลือกดูไฟล์ใน USB เมื่อคลิกที่ไฟล์หนึ่งครั้งจะเป็นการดูตัวอย่าง และเมื่อคลิกสองครั้งจะเป็นการเปิดไฟล์ คุณยังสามารถคลิกแท็บด้านบนที่มีรูปแว่นขยายเพื่อค้นหาชื่อไฟล์ หากคุณทราบ"
 
 #. (itstool) path: note/p
 #: C/gs-where-files.page:105
@@ -2762,4 +2762,4 @@ msgid ""
 "without saving your work, you might not be able to find it again since not "
 "all programs auto-save. Save as often as you can in order to make sure that "
 "your work does not get lost."
-msgstr ""
+msgstr "ตรวจดูให้แน่ใจว่าคุณบันทึกไฟล์แล้วจริงๆ! ถ้าปิดโปรแกรมโดยไม่ได้บันทึกงาน คุณอาจหางานไม่เจอในครั้งต่อไปเนื่องจากไม่ใช่ทุกโปรแกรมที่มีการบันทึกอัตโนมัติ บันทึกบ่อยๆ เพื่อให้แน่ใจว่างานของคุณจะไม่หายไป"

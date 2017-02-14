@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2017-02-04 05:18+0000\n"
+"PO-Revision-Date: 2017-02-10 02:37+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "translator-credits (biên tập viên-tín dụng)"
 
 #. (itstool) path: credit/name
 #: C/endless-01-desktop.page:11 C/endless-02-folders.page:11
@@ -29,7 +29,7 @@ msgstr ""
 #: C/gs-give-feedback.page:8 C/gs-use-offline.page:8
 #: C/gs-use-system-search.page:15 C/gs-where-files.page:8
 msgid "Nuritzi Sanchez"
-msgstr ""
+msgstr "Nuritzi Sanchez"
 
 #. (itstool) path: credit/name
 #: C/endless-01-desktop.page:15 C/endless-02-folders.page:15
@@ -41,7 +41,7 @@ msgstr ""
 #: C/gs-fix-overscan.page:12 C/gs-give-feedback.page:12
 #: C/gs-use-offline.page:12 C/gs-where-files.page:12
 msgid "Endless Mobile, Inc."
-msgstr ""
+msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/endless-01-desktop.page:16 C/endless-02-folders.page:16
@@ -53,35 +53,35 @@ msgstr ""
 #: C/gs-fix-overscan.page:13 C/gs-give-feedback.page:13
 #: C/gs-use-offline.page:13 C/gs-where-files.page:13
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 #. (itstool) path: info/title
 #: C/endless-01-desktop.page:19
 msgctxt "link"
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "Giới thiệu màn hình nền"
 
 #. (itstool) path: info/title
 #: C/endless-01-desktop.page:20
 msgctxt "sort"
 msgid "01"
-msgstr ""
+msgstr "01"
 
 #. (itstool) path: info/desc
 #: C/endless-01-desktop.page:21
 msgid "A video showing the basics of the Endless desktop."
-msgstr ""
+msgstr "Một đoạn video nói về các điểm cơ bản của màn hình nền Endless."
 
 #. (itstool) path: page/title
 #: C/endless-01-desktop.page:24
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "Giới thiệu màn hình nền"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:34
 msgid ""
 "Welcome to Endless, the operating system that powers your new computer."
-msgstr ""
+msgstr "Chào mừng bạn đến với Endless – hệ điều hành thúc đẩy hoạt động cho máy tính mới của bạn."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:35
@@ -89,7 +89,7 @@ msgid ""
 "We have made everything simple and easy to use. You can find your apps and "
 "your documents folder right on your desktop. Click on them once to open "
 "them."
-msgstr ""
+msgstr "Chúng tôi đã chế tạo sao cho mọi thứ thật đơn giản và dễ sử dụng. Bạn có thể tìm các ứng dụng của mình và thư mục tài liệu của mình ngay trên màn hình nền của bạn. Nhấp một lần để mở chúng."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:38
@@ -101,7 +101,7 @@ msgid ""
 "that you can also easily access the internet, your documents folder, and a "
 "button to return to the desktop on the right hand side with you are in the "
 "hot corner view mode."
-msgstr ""
+msgstr "Máy tính của bạn có một góc nóng. Dịch chuyển con chuột của bạn tới góc dưới bên phải và bạn sẽ thấy được tất cả các ứng dụng và các hoạt động đang được mở, để bạn có thể dễ dàng chuyển đổi giữa chúng hoặc đóng chúng nhờ nhấp vào nút X màu đen xuất hiện khi bạn rê chuột trên chúng. Bạn sẽ thấy rằng bạn còn có thể dễ dàng truy cập internet, thư mục tài liệu của bạn, và một nút để quay lại màn hình nền nằm ở bên tay phải khi bạn đang ở trong chế độ góc nóng."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:45
@@ -112,29 +112,29 @@ msgid ""
 "the task bar, you will find an icon to access the internet browser. When you"
 " finish using your computer, you'll be able to turn it off by clicking the "
 "user menu and selecting <gui>Exit</gui>."
-msgstr ""
+msgstr "Phía dưới màn hình của bạn là thanh tác vụ. Từ đây, bạn có thể truy cập wifi, bluetooth, điều chỉnh âm lượng cho máy tính của bạn, thay đổi ngôn ngữ bàn phím và thời gian, cũng như thấy được các ứng dụng nào bạn hiện đang mở. Ở bên trái của thanh tác vụ,  bạn sẽ thấy một biểu tượng để truy cập trình duyệt internet. Khi bạn không dùng máy tính nữa, bạn có thể tắt máy bằng cách nhấp vào danh mục người sử dụng và chọn <gui>Exit</gui>."
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:19
 msgctxt "link"
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "Thêm các thư mục vào màn hình nền"
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:20
 msgctxt "sort"
 msgid "02"
-msgstr ""
+msgstr "02"
 
 #. (itstool) path: info/desc
 #: C/endless-02-folders.page:21
 msgid "A video showing how to add a folder to the desktop."
-msgstr ""
+msgstr "Video cho thấy cách đưa thêm một thư mục lên màn hình nền."
 
 #. (itstool) path: page/title
 #: C/endless-02-folders.page:24
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "Thêm thư mục vào màn hình nền"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:34
@@ -144,7 +144,7 @@ msgid ""
 "once on the folder called <gui>Games</gui>, you’ll find icons with the names"
 " of all the games in that folder. Click on a game once to open it and start "
 "playing!"
-msgstr ""
+msgstr "Máy tính của bạn có chứa rất nhiều ứng dụng được cài sẵn trên màn hình nền và một số thư mục để sắp xếp chúng theo thể loại. Ví dụ: nếu bạn nhấp một lần vào thư mục có tên <gui>Trò chơi</gui>, bạn sẽ thấy các biểu tượng kèm tên của tất cả các trò chơi trong thư mục đó. Nhấp một lần để mở trò chơi và bắt đầu chơi!"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:38
@@ -157,7 +157,7 @@ msgid ""
 "created and installed, you will see a confirmation telling you that your new"
 " folder has been added. Now you can close the window and find your new "
 "folder to the left of the <app>More Apps</app> icon."
-msgstr ""
+msgstr "Bạn có thể tạo các thư mục riêng của mình để tổ chức kỹ hơn các ứng dụng của mình. Để tạo một thư mục, nhấp vào biểu tượng có chữ <app>Thêm Ứng dụng</app>. Sau đó, nhấp vào từ <gui>Thư mục</gui> bên trái màn hình của bạn. Chọn một biểu tượng cho thư mục của bạn và đặt tên cho nó. Nhấp vào nút màu xanh lục có dấu cộng để thêm thư mục vào màn hình nền của bạn. Khi quá trình hoàn tất, thư mục được tạo và cài đặt, bạn sẽ thấy một dòng xác nhận cho biết thư mục mới của bạn đã được thêm. Lúc này bạn có thể đóng cửa sổ và tìm thư mục mới của mình ở phía bên trái của biểu tượng <app>Thêm Ứng dụng</app>."
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:46
@@ -166,43 +166,43 @@ msgid ""
 " without letting go, drag it on top of the folder, and let go of the click. "
 "When you open the folder, you’ll see the app inside. To remove an app from "
 "the folder, simply drag its icon out of the folder."
-msgstr ""
+msgstr "Để thêm ứng dụng vào thư mục mới, chỉ cần nhấp và giữ biểu tượng ứng dụng, đồng thời kéo lên trên thư mục, rồi thả ra. Khi mở thư mục, bạn sẽ thấy ứng dụng ở bên trong. Để gỡ ứng dụng khỏi thư mục, chỉ cần kéo biểu tượng ứng dụng ra khỏi thư mục."
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:50
 msgid ""
 "Keep in mind that if you want to delete a folder, you’ll first have to "
 "remove all of the apps that are in it."
-msgstr ""
+msgstr "Nhớ là nếu bạn muốn xóa một thư mục, đầu tiên bạn phải gỡ mọi ứng dụng trong thư mục đó."
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:19
 msgctxt "link"
 msgid "Installing programs"
-msgstr ""
+msgstr "Cài đặt chương trình"
 
 #. (itstool) path: info/title
 #: C/endless-03-programs.page:20
 msgctxt "sort"
 msgid "03"
-msgstr ""
+msgstr "03"
 
 #. (itstool) path: info/desc
 #: C/endless-03-programs.page:21
 msgid "A video showing how to install programs."
-msgstr ""
+msgstr "Một video hướng dẫn cách cài đặt các chương trình."
 
 #. (itstool) path: page/title
 #: C/endless-03-programs.page:24
 msgid "Installing programs"
-msgstr ""
+msgstr "Cài đặt chương trình"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:35
 msgid ""
 "Your computer comes with a wide variety of apps that you can install for "
 "free and use even without an internet connection."
-msgstr ""
+msgstr "Máy tính của bạn đi kèm một loạt ứng dụng mà bạn có thể cài đặt miễn phí và sử dụng ngay cả khi không có kết nối internet."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:38
@@ -211,7 +211,7 @@ msgid ""
 "It will open a window where you can browse and explore all the apps that are"
 " available to you so you can choose the ones you want to install or add to "
 "your desktop."
-msgstr ""
+msgstr "Từ màn hình nền máy tính, nhấp vào mục <app>Thêm Ứng dụng</app> (More Apps) để tìm và thêm các ứng dụng khác. Một cửa sổ sẽ mở ra để bạn có thể xem qua và khám phá tất cả các ứng dụng sẵn có cho bạn, từ đó bạn có thể chọn những ứng dụng mà bạn muốn cài đặt hoặc thêm vào màn hình nền máy tính."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:43
@@ -220,14 +220,14 @@ msgid ""
 "click on the <gui>Education</gui> category, you’ll find several educational "
 "apps that you can add and use offline. Similarly, if you click on the Games "
 "category, you’ll find games you can add."
-msgstr ""
+msgstr "Bạn có thể duyệt qua <app>App Center</app> (Trung tâm Ứng dụng) theo mục. Ví dụ, nếu bạn nhấp vào mục <gui>Education</gui> (Giáo dục), bạn sẽ tìm thấy một số ứng dụng giáo dục mà bạn có thể thêm và sử dụng chúng ngoại tuyến. Tương tự như vậy, nếu bạn bấm vào mục Trò chơi, bạn sẽ tìm thấy những trò chơi mà bạn có thể thêm."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:48
 msgid ""
 "You can find the apps that are already on your desktop in the "
 "<gui>Installed</gui> category."
-msgstr ""
+msgstr "Bạn có thể tìm thấy các ứng dụng đã có trên màn hình nền của bạn trong mục <gui>Installed</gui> (Đã cài đặt)."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:51
@@ -237,7 +237,7 @@ msgid ""
 "new window will come up with more information about the app. Click on the "
 "green button that says <gui>Add to Desktop</gui>, then after a moment the "
 "button will change to say <gui>Open</gui>."
-msgstr ""
+msgstr "Nhấp vào ứng dụng mà bạn muốn tải về. Ví dụ, đi đến danh mục <gui>Giáo dục</gui> category và nhấp vào ứng dụng <app>Guatemala</app>. Một cửa sổ mới sẽ hiện ra, cung cấp thông tin chi tiết hơn về ứng dụng này. Nhấp vào nút xanh lục có dòng chữ <gui>Thêm vào Màn hình nền</gui>, sau đó ít lâu nút này sẽ chuyển thành <gui>Mở</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:57
@@ -245,7 +245,7 @@ msgid ""
 "After closing this window you’ll see that the program you downloaded is now "
 "on your desktop. Now you can open it whenever you want to quickly and "
 "easily!"
-msgstr ""
+msgstr "Sau khi đóng cửa sổ này, bạn sẽ thấy rằng chương trình bạn tải xuống giờ đây đã nằm ở màn hình nền. Bây giờ bạn có thể mở nó một cách nhanh chóng và dễ dàng bất kỳ khi nào bạn muốn!"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:61
@@ -256,7 +256,7 @@ msgid ""
 " icon and you’ll see a window telling you that you’ve successfully removed "
 "the app from your desktop. Don’t worry, you can always reinstall the apps "
 "that you remove from your desktop!"
-msgstr ""
+msgstr "Để gỡ một ứng dụng, nhấp và giữ biểu tượng của ứng dụng đó và kéo nó lên đầu biểu tượng <app>Thêm Ứng dụng</app>. Bạn sẽ nhận thấy biểu tượng này đã thay đổi từ hình vuông màu xám thành thùng rác. Thả chuột tại biểu tượng này và bạn sẽ thấy một cửa sổ hiện ra, cho biết bạn đã gỡ ứng dụng khỏi màn hình nền của bạn thành công. Đừng lo, bạn luôn có thể cài đặt lại các ứng dụng mà bạn đã gỡ khỏi màn hình nền của mình!"
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:68
@@ -264,47 +264,47 @@ msgid ""
 "You can also delete a folder this same way, by clicking on it, dragging it "
 "over the recycling bin, and letting go. Remember that the folder has to be "
 "empty in order to delete it."
-msgstr ""
+msgstr "Bạn cũng có thể làm tương tự để xóa một thư mục, bằng cách nhấp vào thư mục đó, kéo lên trên thùng rác rồi thả ra. Lưu ý rằng bạn chỉ được xóa thư mục rỗng."
 
 #. (itstool) path: page/p
 #: C/endless-03-programs.page:72
 msgid ""
 "That’s how easy it is to add and remove apps and folders from your desktop!"
-msgstr ""
+msgstr "Việc thêm và xóa ứng dụng cũng như thư mục khỏi màn hình nền máy tính dễ dàng như vậy đấy!"
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:19
 msgctxt "link"
 msgid "Using Wi-Fi"
-msgstr ""
+msgstr "Sử dụng Wi-Fi"
 
 #. (itstool) path: info/title
 #: C/endless-04-wifi.page:20
 msgctxt "sort"
 msgid "04"
-msgstr ""
+msgstr "04"
 
 #. (itstool) path: info/desc
 #: C/endless-04-wifi.page:21
 msgid "A video showing how to set up Wi-Fi with Endless."
-msgstr ""
+msgstr "Một video trình bày cách thiết lập Wi-Fi với Endless."
 
 #. (itstool) path: page/title
 #: C/endless-04-wifi.page:24
 msgid "Using Wi-Fi"
-msgstr ""
+msgstr "Đang dùng Wi-Fi"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:34
 msgid "You can connect to a Wi-Fi network with these easy steps:"
-msgstr ""
+msgstr "Bạn có thể kết nối với mạng Wifi theo các bước đơn giản sau:"
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:36
 msgid ""
 "First, click on the <gui>Wi-Fi</gui> icon that is located on the bottom "
 "right side of your desktop, on the task bar close to the clock."
-msgstr ""
+msgstr "Đầu tiên, nhấp vào biểu tượng <gui>Wi-Fi</gui> đặt ở bên phái phía dưới màn hình của bạn, trên thanh tác vụ gần với đồng hồ."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:39
@@ -314,7 +314,7 @@ msgid ""
 "that your Wi-Fi is turned on. You’ll know that your computer’s Wi-Fi is "
 "turned on if there is a blue light to the right of the word <gui>Wi-"
 "Fi</gui>. If the light is not blue, you can click on it once to turn it on."
-msgstr ""
+msgstr "Bạn sẽ thấy tên của tất cả các mạng Wi-Fi mà bạn có thể kết nối hiển thị trong cửa sổ mở ra. Nếu không thấy tên mạng nào được liệt kê, hãy chắc chắn Wi-Fi đã được bật. Nếu có đèn màu xanh dương bên phải chữ <gui>Wi-Fi</gui> tức là Wi-Fi trên máy tính của bạn đang bật. Nếu đèn không bật màu xanh, bạn có thể nhấp một lần để bật."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:45
@@ -324,55 +324,55 @@ msgid ""
 " be different. If you’re not sure what the name of your Wi-Fi network is, or"
 " don’t know the password, you can call the company that provides your "
 "internet and ask them."
-msgstr ""
+msgstr "Chọn tên mạng không dây của bạn. Mạng trong ví dụ này được gọi là <gui>Endless Wi-Fi</gui> (Wi-Fi Vô hạn), nhưng tên mạng Wi-Fi của bạn sẽ khác. Nếu bạn không chắc chắn về tên mạng Wi-Fi của bạn, hoặc không biết mật khẩu, bạn có thể gọi cho công ty cung cấp dịch vụ internet của bạn và hỏi điều đó."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:51
 msgid ""
 "After selecting the name of your network, you’ll have to type in your "
 "network’s password."
-msgstr ""
+msgstr "Sau khi chọn tên mạng, bạn phải nhập mật khẩu của mạng."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:54
 msgid ""
 "If your computer successfully connects to the internet, you’ll see a white "
 "circle to the left of the name of your network."
-msgstr ""
+msgstr "Nếu máy tính của bạn kết nối internet thành công, bạn sẽ thấy một vòng tròn màu trắng bên trái tên mạng của bạn."
 
 #. (itstool) path: page/p
 #: C/endless-04-wifi.page:57
 msgid "And just like that, you’re connected to the internet!"
-msgstr ""
+msgstr "Và chỉ vậy thôi, bạn đã kết nối với mạng internet!"
 
 #. (itstool) path: info/title
 #: C/endless-05-files.page:19
 msgctxt "link"
 msgid "Exploring your files"
-msgstr ""
+msgstr "Khám phá các tệp tin của bạn"
 
 #. (itstool) path: info/title
 #: C/endless-05-files.page:20
 msgctxt "sort"
 msgid "05"
-msgstr ""
+msgstr "05"
 
 #. (itstool) path: info/desc
 #: C/endless-05-files.page:21
 msgid "A video showing how to use the file system."
-msgstr ""
+msgstr "Một video hướng dẫn cách sử dụng hệ thống tập tin."
 
 #. (itstool) path: page/title
 #: C/endless-05-files.page:24
 msgid "Exploring your files"
-msgstr ""
+msgstr "Khám phá các tệp tin của bạn"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:35
 msgid ""
 "You can easily organize your documents and files with folders. Here’s how to"
 " do it."
-msgstr ""
+msgstr "Bạn có thể dễ dàng sắp xếp tài liệu và tệp của mình với các thư mục. Dưới đây là cách thực hiện."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:38
@@ -382,7 +382,7 @@ msgid ""
 " the bottom left side of your screen and clicking on the "
 "<app>Documents</app> icon on the right side of the screen, even if you have "
 "an app open."
-msgstr ""
+msgstr "Biểu tượng <app>Tài liệu</app> cho phép bạn truy cập vào các thư mục và tập tin. Bạn có thể tìm thấy biểu tượng này trên màn hình nền hoặc bằng cách di con trỏ đến góc nóng ở phía dưới bên trái màn hình và nhấp vào biểu tượng <app>Tài liệu</app> ở bên phải màn hình, kể cả nếu bạn có một ứng dụng đang mở."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:43
@@ -394,14 +394,14 @@ msgid ""
 "displayed on the right, click your mouse’s button quickly two times. We call"
 " this a double click. To return to the previous folder, click the back arrow"
 " above."
-msgstr ""
+msgstr "Khi đã vào thư mục chính <app>Tài liệu</app> (Documents), bạn có thể tạo các thư mục mới để cất đặt tất cả tài liệu và tập tin của bạn sao cho ngăn nắp và dễ tìm. Phía bên trái cửa sổ này, bạn sẽ thấy các phím tắt dẫn đến các thư mục đó. Để mở một tập tin hoặc thư mục hiển thị phía bên phải, hãy nhấp nút chuột của bạn hai lần thật nhanh. Chúng tôi gọi thao tác này là một lượt nhấp đúp. Để trở lại thư mục trước đó, hãy nhấp vào mũi tên quay lại ở trên."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:50
 msgid ""
 "You can also open a folder by clicking the right button of your mouse, and "
 "then clicking <gui>Open</gui> with the left button."
-msgstr ""
+msgstr "Bạn cũng có thể mở một thư mục bằng cách nhấp nút chuột phải, sau đó nhấp chuột trái vào mục <gui>Mở</gui> (Open)."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:53
@@ -410,7 +410,7 @@ msgid ""
 "name of the folder you wish to open. For example, if you click the name "
 "<gui>Images</gui> with your left mouse button, you’ll open the "
 "<gui>Images</gui> folder."
-msgstr ""
+msgstr "Sử dụng các lối tắt ở bên trái màn hình, bấm vào tên thư mục bạn muốn mở. Ví dụ, nếu bạn bấm vào tên <gui>Hình ảnh</gui> bằng nút chuột trái, bạn sẽ mở ra thư mục <gui>Hình ảnh</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:58
@@ -421,7 +421,7 @@ msgid ""
 " the folder where you want it. For example, if I want to move my favorite "
 "song to the music folder, I click on the music file without letting go and "
 "drag it to the music folder. Now it’s in that folder!"
-msgstr ""
+msgstr "Khi bạn tải về một tệp từ internet, nó sẽ được lưu vào thư mục <gui>Tải xuống</gui>. Nếu bạn muốn di chuyển tệp đến thư mục này hoặc vào thư mục khác, chỉ cần đơn giản bấm vào tệp, giữ chuột và kéo nó đến thư mục mong muốn. Ví dụ, nếu tôi muốn di chuyển bài hát yêu thích của mình đến thư mục âm nhạc, tôi sẽ bấm vào tệp âm nhạc, giữ chuột và kéo nó đến thư mục âm nhạc. Giờ đây tệp đã ở trong thư mục này!"
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:65
@@ -430,7 +430,7 @@ msgid ""
 "on it without letting go and drag it to the recycling bin. To delete my "
 "favorite song, for example, click it without letting go, drag it to the "
 "recycling bin, and let go of the click."
-msgstr ""
+msgstr "Để xóa một tệp, dù đó là tệp bài hát, hình ảnh hay một loại nào khác, chỉ cần nhấp vào đó, giữ và rê nó đến thùng rác. Chẳng hạn, để xóa bài hát yêu thích của tôi, nhấp và giữ nó, rê nó đến thùng rác và thả chuột."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:70
@@ -441,41 +441,41 @@ msgid ""
 "computer by clicking the button <gui>Empty</gui>. If you click this button, "
 "the files will no longer take up space on your computer, but you also won’t "
 "be able to restore them and will instead permanently delete them."
-msgstr ""
+msgstr "Từ thùng rác, bạn có thể khôi phục các tệp tin bạn đã xóa về vị trí ban đầu của chúng nhờ việc lựa chọn chúng rồi nhấp vào <gui>Restore</gui>. Bạn cũng có thể xóa vĩnh viễn các tệp tin này khỏi máy tính của mình nhờ việc nhấp vào nút <gui>Empty</gui>. Nếu bạn nhấp vào nút này, các tệp tin sẽ không còn chiếm dung lượng trong máy của bạn nữa, nhưng bạn cũng sẽ không thể khôi phục lại chúng mà thay vào đó, chúng sẽ bị xóa vĩnh viễn."
 
 #. (itstool) path: page/p
 #: C/endless-05-files.page:77
 msgid "It’s easy to organize your files on Endless, right?"
-msgstr ""
+msgstr "Việc tổ chức các tệp của bạn trên Endless thật dễ dàng, đúng không?"
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:19
 msgctxt "link"
 msgid "Browsing the Internet"
-msgstr ""
+msgstr "Truy cập Internet"
 
 #. (itstool) path: info/title
 #: C/endless-06-browser.page:20
 msgctxt "sort"
 msgid "06"
-msgstr ""
+msgstr "06"
 
 #. (itstool) path: info/desc
 #: C/endless-06-browser.page:21
 msgid "A video explaining how to user browse web pages."
-msgstr ""
+msgstr "Một video cho thấy cách người sử dụng duyệt các trang web."
 
 #. (itstool) path: page/title
 #: C/endless-06-browser.page:24
 msgid "Browsing the Internet"
-msgstr ""
+msgstr "Đang duyệt Internet"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:35
 msgid ""
 "If you’re connected to the internet you have access to websites from all "
 "around the world! Here, you can learn how to get to them."
-msgstr ""
+msgstr "Nếu bạn có kết nối với Internet, bạn sẽ truy cập được các trang web trên toàn thế giới! Tại đây bạn có thể tìm hiểu cách truy cập các trang web này."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:38
@@ -486,7 +486,7 @@ msgid ""
 "find it easily: on the desktop next to other apps’ icons, on the black task "
 "bar on the bottom part of your screen, and on the right side of the screen "
 "when you move your mouse to the bottom right hot corner."
-msgstr ""
+msgstr "Khi máy tính được kết nối internet, bạn có thể mở trình duyệt bằng cách nhấp vào vòng tròn màu cam trên thanh tác vụ ở góc dưới cùng bên trái. Chúng tôi đã đặt biểu tượng màu cam này ở ba vị trí khác nhau để bạn dễ dàng tìm thấy: trên màn hình nền bên cạnh biểu tượng ứng dụng khác, trên thanh tác vụ màu đen ở phía dưới màn hình, và ở phía bên phải của màn hình khi bạn di chuyển chuột đến góc nóng phía dưới bên tay phải."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:45
@@ -497,7 +497,7 @@ msgid ""
 " look through to find useful websites. For example, in the <gui>News</gui> "
 "category, you’ll find links for different newspapers. You can explore the "
 "different categories to discover lots of cool websites!"
-msgstr ""
+msgstr "Khi bạn mở trình duyệt web lần đầu tiên, bạn sẽ thấy <app>Content Center</app>. Tại đây, chúng tôi đã thu thập các trang web thú vị cho bạn khám phá. Nếu bạn nhấp vào tiêu đề <gui>Discover</gui>, bạn sẽ thấy các thể loại khác nhau cho bạn xem xét để giúp bạn tìm ra các trang web có ích. Ví dụ, trong thể loại <gui>News</gui>, bạn sẽ thấy đường dẫn tới các tờ báo khác nhau. Bạn có thể khám phá các thể loại khác nhau để tìm được rất nhiều trang web hay!"
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:52
@@ -511,7 +511,7 @@ msgid ""
 "easily in the future. Click <gui>Finished</gui>. Now the page you saved will"
 " appear when you click on <gui>Favorites</gui> in your <app>Content "
 "Center</app>."
-msgstr ""
+msgstr "Khi gặp một trang web khiến bạn hứng thú, bạn có thể đánh dấu là trang yêu thích để lưu lại và dễ tìm lại sau này. Ví dụ, mở trang <gui>Universidad Galileo</gui>. Nếu chúng ta muốn máy tính của bạn ghi nhớ trang này hay bất kỳ trang nào khác, thì tất cả những việc bạn phải làm là nhấp vào hình ngôi sao ở bên phải địa chỉ URL của website tại phần trên cùng của cửa sổ. Nếu muốn, bạn có thể thay đổi tên trang khi lưu để tìm lại dễ hơn sau này. Nhấp vào nút <gui>Hoàn thành</gui>. Bây giờ, trang web mà bạn đã lưu sẽ xuất hiện khi bạn nhấp vào mục <gui>Yêu thích</gui> (Favorites) trong <app>Trung tâm Nội dung</app> (Content Center) của bạn."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:61
@@ -521,7 +521,7 @@ msgid ""
 "visited, you can find it here. If you want to clear the list of websites "
 "that you have visited, click on the button that says <gui>Clear "
 "History</gui>, then click to accept the action on the window that pops up."
-msgstr ""
+msgstr "Nhấp vào <gui>Lịch sử</gui> cho phép xem tất cả các trang web bạn đã truy cập trước đó. Nếu bạn muốn quay lại một trang từng truy cập, bạn có thể tìm thấy nó ở đây. Nếu bạn muốn xóa danh sách trang web đã truy cập, nhấp vào nút <gui>Xóa Lịch sử</gui>, sau đó nhấp để chấp nhận hành động trên cửa sổ mở ra."
 
 #. (itstool) path: page/p
 #: C/endless-06-browser.page:67
@@ -530,36 +530,36 @@ msgid ""
 "center, you can send us your comments or suggestions. Just write your "
 "message, your name, and your email address, then click <gui>Send "
 "Feedback</gui>. We would love to hear from you!"
-msgstr ""
+msgstr "Nếu bạn bấm vào <gui>Phản hồi</gui> ở phía dưới bên trái của phần trung tâm nội dung, bạn có thể gửi cho chúng tôi nhận xét hoặc gợi ý của bạn. Chỉ cần viết nội dung, tên bạn và địa chỉ email của bạn, rồi bấm <gui>Gửi Phản hồi</gui>. Chúng tôi muốn được lắng nghe từ bạn!"
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:19
 msgctxt "link"
 msgid "Minimizing and closing windows"
-msgstr ""
+msgstr "Thu nhỏ và đóng cửa sổ"
 
 #. (itstool) path: info/title
 #: C/endless-07-windows.page:20
 msgctxt "sort"
 msgid "07"
-msgstr ""
+msgstr "07"
 
 #. (itstool) path: info/desc
 #: C/endless-07-windows.page:21
 msgid "A video showing how to minimize and close your windows."
-msgstr ""
+msgstr "Một video hướng dẫn cách thu nhỏ và đóng các cửa sổ của bạn."
 
 #. (itstool) path: page/title
 #: C/endless-07-windows.page:24
 msgid "Minimizing and closing windows"
-msgstr ""
+msgstr "Thu nhỏ và đóng cửa sổ"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:35
 msgid ""
 "If you want to keep an app or folder open while you work on another task on "
 "your desktop or in another app, the minimizing option is extremely useful!"
-msgstr ""
+msgstr "Nếu bạn muốn giữ một ứng dụng hay thư mục tiếp tục mở khi bạn thực hiện một nhiệm vụ khác trên màn hình nền máy tính hoặc trong ứng dụng khác, thì tùy chọn thu nhỏ sẽ vô cùng hữu ích!"
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:38
@@ -569,7 +569,7 @@ msgid ""
 "program’s icon on the task bar of your Endless screen. This will hide your "
 "app or folder in your task bar so that you can work on different tasks at "
 "the same time."
-msgstr ""
+msgstr "Bạn có thể giảm thiểu các chương trình của mình bằng một trong hai cách sau đây: nhấp vào biểu tượng <key>-</key> tại góc trên bên phải của mỗi cửa sổ, hoặc nhấp vào biểu tượng của chương trình trên thanh tác vụ trên màn hình Endless của bạn. Thao tác này sẽ ẩn ứng dụng hoặc thư mục trên thanh tác vụ của bạn để bạn có thể làm việc đồng thời với nhiều tác vụ khác."
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:44
@@ -577,7 +577,7 @@ msgid ""
 "To make your app return to your screen, just click its icon once and it’ll "
 "return to its last size. When you’re done using a program, close it by "
 "clicking the <key>X</key> icon at the top right-hand corner of the window."
-msgstr ""
+msgstr "Để đưa ứng dụng trở lại màn hình, chỉ cần bấm một lần vào biểu tượng của ứng dụng và nó sẽ khôi phục về kích thước trước đó. Khi bạn đã sử dụng xong một chương trình, hãy đóng chương trình đó bằng cách bấm vào biểu tượng <key>X</key> ở góc trên bên phải cửa sổ."
 
 #. (itstool) path: page/p
 #: C/endless-07-windows.page:48
@@ -585,36 +585,36 @@ msgid ""
 "You can also move your mouse down to the bottom right-hand corner of your "
 "screen, then move over to the window of the app you want to close and click "
 "the <key>X</key> on the top right of that window to close it."
-msgstr ""
+msgstr "Bạn cũng có thể di chuyển con chuột xuống góc phải phía cuối màn hình của bạn, sau đó di chuyển lên cửa sổ của ứng dụng mà bạn muốn đóng và nhấp vào biểu tượng dấu <key>X</key> ở góc trên bên phải của cửa sổ đó để đóng lại."
 
 #. (itstool) path: info/title
 #: C/endless-08-offline.page:19
 msgctxt "link"
 msgid "Using Endless offline"
-msgstr ""
+msgstr "Dùng Endless ngoại tuyến"
 
 #. (itstool) path: info/title
 #: C/endless-08-offline.page:20
 msgctxt "sort"
 msgid "08"
-msgstr ""
+msgstr "08"
 
 #. (itstool) path: info/desc
 #: C/endless-08-offline.page:21
 msgid "A video showing the offline content on your computer."
-msgstr ""
+msgstr "Một video cho thấy nội dung ngoại tuyến trên máy tính của bạn."
 
 #. (itstool) path: page/title
 #: C/endless-08-offline.page:24
 msgid "Using Endless offline"
-msgstr ""
+msgstr "Sử dụng Endless ngoại tuyến"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:35
 msgid ""
 "Your computer includes a lot of offline content so you can learn and explore"
 " a great deal of things without having an internet connection!"
-msgstr ""
+msgstr "Máy tính của bạn bao gồm rất nhiều nội dung ngoại tuyến, do đó bạn có thể tìm hiểu và khám phá rất nhiều điều mà không cần kết nối internet!"
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:38
@@ -623,7 +623,7 @@ msgid ""
 "desktop where you can find apps like <app>Virtual School</app>, which allows"
 " you to watch hundreds of videos about all sorts of subjects you may find "
 "interesting."
-msgstr ""
+msgstr "Ví dụ: bạn sẽ thấy một thư mục tên là <gui>Lý thú</gui> trên màn hình nền, nơi bạn có thể tìm thấy các ứng dụng như <app>Virtual School</app>, cho phép bạn xem hàng trăm video về tất cả các loại đối tượng có thể khiến bạn thấy thú vị."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:43
@@ -634,14 +634,14 @@ msgid ""
 "example, in <gui>Sciences</gui>, you can see that there are 4 videos on the "
 "topic <gui>Health</gui> and <gui>Medicine</gui>. If you click on the name of"
 " this topic, you’ll be able to see the list of videos available."
-msgstr ""
+msgstr "Hãy cùng khám phá <app>Trường học Ảo</app>. Mở ứng dụng ra là thấy tất cả các môn học khác nhau và bạn có thể xem video bài giảng của các môn đó. Bạn sẽ thấy số lượng video hiện có cho mỗi chủ đề ở phía bên phải của tên chủ đề. Chẳng hạn như, trong môn <gui>Khoa học</gui>, bạn có thể thấy có 4 video về chủ đề <gui>Sức khỏe</gui> và <gui>Y học</gui>. Nếu nhấp vào tên của chủ đề này, bạn sẽ thấy danh mục các video có sẵn."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:50
 msgid ""
 "For any video you’d like to watch, just click on it once to begin playing "
 "it."
-msgstr ""
+msgstr "Nếu bạn muốn xem bất cứ video nào, chỉ việc nhấp vào đó một lần để bắt đầu chạy."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:53
@@ -649,14 +649,14 @@ msgid ""
 "To end the video, just click on the <key>X</key> button at the top right-"
 "hand corner of the video. To learn more about how to control videos, please "
 "see the tutorial that talks about photos, music and video."
-msgstr ""
+msgstr "Để kết thúc đoạn video, chỉ cần nhấp vào nút <key>X</key> ở góc trên bên tay phải của video. Để tìm hiểu thêm về cách điều khiển video, vui lòng xem hướng dẫn về ảnh, nhạc và video."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:57
 msgid ""
 "You may also be interested in using the <app>Encyclopedia</app> app. We have"
 " put it on your desktop to make it easy to find."
-msgstr ""
+msgstr "Có thể bạn cũng sẽ thích sử dụng ứng dụng <app>Bách khoa toàn thư</app>. Chúng tôi đã đặt nó trên màn hình nền của bạn để bạn dễ thấy hơn."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:60
@@ -666,43 +666,43 @@ msgid ""
 " Guatemala. Once you start typing, a list will appear so that you can choose"
 " the item that best matches what you’d like to read about. Click on a title "
 "and all of the information on the topic you have chosen will appear."
-msgstr ""
+msgstr "Khi bạn mở ứng dụng này, bạn sẽ thấy một thanh tìm kiếm nơi bạn có thể tìm bất kỳ chủ đề nào bạn muốn tìm hiểu. Ví dụ, hãy tìm thông tin về Guatemala. Khi bạn bắt đầu gõ nhập, một danh sách sẽ xuất hiện để bạn có thể chọn mục khớp đúng nhất với những gì bạn muốn đọc. Bấm vào tiêu đề và tất cả thông tin về chủ đề bạn đã chọn sẽ xuất hiện."
 
 #. (itstool) path: page/p
 #: C/endless-08-offline.page:66
 msgid ""
 "Remember that there are many apps that do not require internet. Keep "
 "exploring your computer to find them!"
-msgstr ""
+msgstr "Ghi nhớ rằng có rất nhiều ứng dụng không cần internet. Hãy tiếp tục khám phá máy tính của mình để tìm những ứng dụng này!"
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:19
 msgctxt "link"
 msgid "Using the Writer app"
-msgstr ""
+msgstr "Sử dụng ứng dụng Trình Viết bài"
 
 #. (itstool) path: info/title
 #: C/endless-09-writer.page:20
 msgctxt "sort"
 msgid "09"
-msgstr ""
+msgstr "09"
 
 #. (itstool) path: info/desc
 #: C/endless-09-writer.page:21
 msgid "A video showing how to use the Writer app to create documents."
-msgstr ""
+msgstr "Video minh họa cách dùng ứng dụng Writer để tạo tài liệu."
 
 #. (itstool) path: page/title
 #: C/endless-09-writer.page:24
 msgid "Using the Writer app"
-msgstr ""
+msgstr "Dùng ứng dụng Writer"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:35
 msgid ""
 "Your computer comes with apps for you to create the documents and "
 "presentations that you need."
-msgstr ""
+msgstr "Máy tính của bạn có đi kèm các ứng dụng giúp bạn tạo các tài liệu và bài trình bày mà bạn cần."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:38
@@ -712,14 +712,14 @@ msgid ""
 " <app>Spreadsheets</app> app, which is located in the <gui>Work</gui> "
 "folder. And, you can use the <app>Presentation</app> app to create "
 "presentations that can help you communicate your ideas."
-msgstr ""
+msgstr "Chẳng hạn, bạn có thể tìm thấy ứng dụng <app>Trình Viết bài</app> tại màn hình nền của mình và bạn có thể tạo tài liệu của mình với ứng dụng này. Bạn cũng có thể tạo các trang tính tại ứng dụng <app>Trang tính</app> nằm trong thư mục <gui>Công việc</gui>. Ngoài ra, bạn có thể sử dụng ứng dụng <app>Trình chiếu</app> để tạo các bài trình chiếu giúp bạn trao đổi ý tưởng của mình."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:44
 msgid ""
 "Let’s walk through some basic things that you can do with the "
 "<app>Writer</app> app."
-msgstr ""
+msgstr "Hãy xem qua một số điều cơ bản bạn có thể thực hiện với ứng dụng <app>Trình Viết bài</app>."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:47
@@ -728,7 +728,7 @@ msgid ""
 " the <app>Encyclopedia</app> app. Just select the text you want to copy, and"
 " right click on it. A menu with the option to <gui>Copy</gui> will appear. "
 "Click on that option."
-msgstr ""
+msgstr "Bạn có thể dễ dàng sao chép văn bản từ các ứng dụng khác. Giả sử bạn muốn sao chép văn bản từ ứng dụng <app>Encyclopedia</app>. Chỉ cần chọn văn bản bạn muốn sao chép, và bấm chuột phải vào đó. Một menu cùng với tùy chọn <gui>Sao chép</gui> sẽ xuất hiện. Bấm vào tùy chọn đó."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:52
@@ -736,7 +736,7 @@ msgid ""
 "Go back to the app where you want to paste the information. Then, simply "
 "right click again, and then click <gui>Paste</gui>. The text you copied from"
 " the encyclopedia will appear in your document."
-msgstr ""
+msgstr "Trở lại ứng dụng mà bạn muốn dán thông tin. Sau đó, chỉ cần nhấp chuột phải lại và nhấp <gui>Dán</gui>. Văn bản bạn đã sao chép từ bách khoa toàn thư sẽ xuất hiện trong tài liệu của bạn."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:56
@@ -746,12 +746,12 @@ msgid ""
 "top of the screen to make the text bold, italic, or underlined. You can also"
 " center or justify the paragraph format so that it looks the way you want it"
 " to look."
-msgstr ""
+msgstr "Dùng chuột của bạn chọn đoạn văn bản một lần nữa, hoặc bằng việc nhấn và giữ <key>Shift</key> cùng các phím mũi tên. Sau đó, bạn có thể sử dụng các nút nằm ở phía trên màn hình để làm đậm, nghiêng hoặc gạch dưới văn bản. Bạn cũng có thể căn vào giữa hoặc căn cả hai lề đều nhau để đoạn văn có cấu trúc bạn muốn."
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:62
 msgid "Explore all of the buttons up top to see the function of each!"
-msgstr ""
+msgstr "Khám phá tất cả các nút ở phía trên cùng để xem chức năng của từng nút!"
 
 #. (itstool) path: page/p
 #: C/endless-09-writer.page:64
@@ -760,29 +760,29 @@ msgid ""
 "<gui>Save</gui>. Remember to give your document a name that you will "
 "remember (usually something that describes what is in the document) before "
 "saving it to make it easier to find later."
-msgstr ""
+msgstr "Bạn có thể lưu tài liệu của mình bằng cách nhấp vào mục <gui>Tập tin</gui> (File), rồi bấm <gui>Lưu</gui> (Save). Đừng quên đặt cho tài liệu của bạn một cái tên dễ nhớ với bạn (thường là một tên mô tả được nội dung trong tài liệu) trước khi lưu để sau này có thể tìm lại dễ dàng hơn."
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:19
 msgctxt "link"
 msgid "Playing videos"
-msgstr ""
+msgstr "Phát video"
 
 #. (itstool) path: info/title
 #: C/endless-10-video-player.page:20
 msgctxt "sort"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. (itstool) path: info/desc
 #: C/endless-10-video-player.page:21
 msgid "A video showing how to play movies and videos with Endless."
-msgstr ""
+msgstr "Một đoạn video hướng dẫn cách phát phim và video trong Endless."
 
 #. (itstool) path: page/title
 #: C/endless-10-video-player.page:24
 msgid "Playing videos"
-msgstr ""
+msgstr "Phát video"
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:35
@@ -791,7 +791,7 @@ msgid ""
 "watch them whenever you want. You can also watch videos from a USB memory "
 "stick, or you can download and watch videos from the internet if you have a "
 "connection."
-msgstr ""
+msgstr "Chúng tôi đã cài đặt sẵn một số đoạn video ngắn vui nhộn trên máy tính của bạn để bạn có thể xem chúng khi nào bạn muốn. Bạn cũng có thể xem video từ thẻ nhớ USB, hoặc tải và xem video qua mạng, nếu bạn có kết nối internet."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:40
@@ -801,7 +801,7 @@ msgid ""
 " folder. Double click on the <gui>Samples</gui> folder to open it. This is "
 "where we have added the pre-installed short videos. To open a video, simply "
 "double click on its name."
-msgstr ""
+msgstr "Đầu tiên, hãy tìm thư mục <gui>Video</gui>. Từ màn hình nền, nhấp chuột vào thư mục <app>Tài liệu</app>. Sau đó, nhấp đúp vào thư mục <gui>Video</gui>. Nhấp đúp để mở thư mục <gui>Mẫu</gui>. Ở đây chúng tôi đã thêm các video ngắn được cài đặt sẵn. Để mở một video, hãy nhấp đúp vào tên video đó."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:46
@@ -810,7 +810,7 @@ msgid ""
 " lower left corner of the video. To continue playing it, click on that same "
 "button. You can click on the grey square that appears on the bottom bar of "
 "the video and drag it to advance or rewind the video."
-msgstr ""
+msgstr "Khi video đang phát, bạn có thể tạm dừng bằng cách bấm vào nút ở góc dưới bên trái video. Để tiếp tục phát, hãy bấm lại vào nút đó. Bạn có thể bấm vào ô vuông màu xám xuất hiện ở thanh phía dưới video và kéo nó để tua đi hoặc tua lại video."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:51
@@ -821,14 +821,14 @@ msgid ""
 "the top left-hand side of your keyboard. This key can also be used to quit "
 "games that take you into full-screen mode, or when any other video is in "
 "full-screen."
-msgstr ""
+msgstr "Nếu bạn muốn xem video toàn màn hình, chỉ việc nhấp vào các mũi tên nằm phía dưới bên phải của video. Để thu nhỏ video và lại thấy được những thứ khác trên màn hình của bạn, bạn sẽ phải nhấn phím <key>ESC</key>, phím này nằm ở góc trên bên trái bàn phím của bạn. Phím này cũng có thể được sử dụng để thoát khỏi các trò chơi đưa bạn vào chế độ toàn màn hình, hoặc khi bất cứ một video nào khác đang ở chế độ toàn màn hình."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:57
 msgid ""
 "You can find the button to adjust volume on the lower right-hand side of the"
 " video player. Click and then drag the bar up and down to adjust the volume."
-msgstr ""
+msgstr "Bạn có thể tìm thấy nút điều chỉnh âm lượng tại phần dưới bên phải trình phát video. Nhấp vào rồi kéo thanh âm lượng lên xuống để điều chỉnh âm lượng."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:60
@@ -837,34 +837,34 @@ msgid ""
 "the video’s sound. If your computer is connected to a TV, then the TV’s "
 "speakers should work to play sound. If you still cannot hear anything, try "
 "turning up the volume on your computer or on your TV."
-msgstr ""
+msgstr "Hãy nhớ kết nối máy tính của bạn với bộ tai nghe hoặc loa để bạn có thể nghe âm thanh của video. Nếu máy tính của bạn được kết nối với Tivi, thì loa của Tivi phải hoạt động được để phát âm thanh. Nếu bạn vẫn không thể nghe thấy gì, hãy thử tăng âm lượng trên máy tính hoặc Tivi của bạn."
 
 #. (itstool) path: page/p
 #: C/endless-10-video-player.page:65
 msgid "We hope you enjoy all the videos we chose for you!"
-msgstr ""
+msgstr "Chúng tôi hy vọng bạn thích thú với tất cả những video chúng tôi đã chọn cho bạn!"
 
 #. (itstool) path: info/title
 #: C/endless-11-photos-and-music.page:19
 msgctxt "link"
 msgid "Photos and Music"
-msgstr ""
+msgstr "Ảnh và Âm nhạc"
 
 #. (itstool) path: info/title
 #: C/endless-11-photos-and-music.page:20
 msgctxt "sort"
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #. (itstool) path: info/desc
 #: C/endless-11-photos-and-music.page:21
 msgid "A video showing how to edit photos and listen to music."
-msgstr ""
+msgstr "Video minh họa cách chỉnh sửa ảnh và nghe nhạc."
 
 #. (itstool) path: page/title
 #: C/endless-11-photos-and-music.page:24
 msgid "Photos and Music"
-msgstr ""
+msgstr "Ảnh và Nhạc"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:35
@@ -873,7 +873,7 @@ msgid ""
 "right on your desktop. Click once to open it and then choose a picture you "
 "want to edit. You can use one of the photos that comes with your computer, "
 "or a photo that you have taken and uploaded."
-msgstr ""
+msgstr "Việc chỉnh sửa hình ảnh của bạn thật dễ dàng! Bạn có thể tìm thấy ứng dụng <app>Trình chỉnh sửa Ảnh</app> ngay trên màn hình nền của mình. Nhấp một lần để mở nó, sau đó chọn một hình ảnh bạn muốn chỉnh sửa. Bạn có thể sử dụng một trong những bức ảnh có sẵn trong hệ thống máy tính hoặc một bức ảnh bạn đã chụp và tải lên."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:40
@@ -882,7 +882,7 @@ msgid ""
 " your computer, double click on the <gui>Samples</gui> folder. You can click"
 " once on a photo’s name to view it in a preview, and can double click on the"
 " picture you want to open and edit it."
-msgstr ""
+msgstr "Nhấp <gui>Mở Hình ảnh</gui> để bắt đầu. Để xem các hình ảnh đã có trong máy tính của bạn, nhấp đúp vào thư mục <gui>Mẫu</gui>. Bạn có thể nhấp một lần vào tên của ảnh để xem nó tại trình xem trước và có thể nhấp đúp vào hình bạn muốn mở và chỉnh sửa nó."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:45
@@ -890,7 +890,7 @@ msgid ""
 "Once you have a photo open, you can edit it in many fun ways. For example, "
 "you can rotate, cut or change it until you find a look that you really like "
 "for it."
-msgstr ""
+msgstr "Khi bạn đã mở ảnh, bạn có thể chỉnh sửa nó theo nhiều cách thú vị. Ví dụ, bạn có thể xoay, cắt hoặc thay đổi cho đến khi bạn thấy thực sự thích thú với bức ảnh đó."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:49
@@ -898,7 +898,7 @@ msgid ""
 "We have included many filters to give you more options to create your "
 "perfect image. There are even options to distort the photo and make it look "
 "funny."
-msgstr ""
+msgstr "Chúng tôi đã bao gồm nhiều bộ lọc để bạn có nhiều tùy chọn hơn trong việc tạo ra hình ảnh hoàn hảo của mình. Có cả các tùy chọn bóp méo ảnh và làm nó trông buồn cười."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:52
@@ -906,7 +906,7 @@ msgid ""
 "Add a frame to your masterpiece if you’d like, and when you are finished "
 "editing the photo you can save it, post it to Facebook, or use it as your "
 "wallpaper!"
-msgstr ""
+msgstr "Thêm khung hình vào tuyệt tác của bạn nếu bạn muốn. Khi bạn chỉnh sửa xong bức ảnh, bạn có thể lưu nó, đăng nó lên Facebook hay dùng nó làm hình nền của bạn!"
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:56
@@ -914,7 +914,7 @@ msgid ""
 "Make sure you also check out the <app>Music</app> on your desktop. Open to "
 "see a bunch of songs we have already added. You can of course add more songs"
 " by transferring them from a USB or downloading them."
-msgstr ""
+msgstr "Hãy chắc chắn rằng bạn cũng kiểm tra <app>Music</app> (Âm nhạc) trên màn hình nền của bạn. Mở thư mục đó để xem một loạt bài hát chúng tôi đã thêm vào. Tất nhiên là bạn có thể thêm nhiều bài hát hơn nữa bằng cách chuyển từ USB hoặc tải xuống."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:60
@@ -922,7 +922,7 @@ msgid ""
 "To hear a song, double click on it. You can pause it by clicking on the "
 "button on the top left-hand side, and continue playing it by re-clicking the"
 " same button."
-msgstr ""
+msgstr "Để nghe một bài hát, hãy bấm đúp vào bài hát đó. Bạn có thể tạm dừng bằng cách bấm vào nút ở phía trên bên trái, và tiếp tục phát bài hát bằng cách bấm lại vào nút đó."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:64
@@ -931,14 +931,14 @@ msgid ""
 "buttons, and can even choose to repeat the song over and over again. You can"
 " play all of the songs in your playlists in order or shuffle the songs and "
 "play them out of order."
-msgstr ""
+msgstr "Bạn cũng có thể bỏ qua để tới bài hát tiếp theo hoặc nghe lại bài hát trước đó khi dùng các nút mũi tên, và thậm chí có thể chọn để nghe đi nghe lại một bài. Bạn có thể nghe tất cả các bài hát trong danh sách bài hát của mình theo thứ tự hoặc sắp xếp lại các bài hát và nghe không theo thứ tự."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:69
 msgid ""
 "You can find the area to adjust volume on the top right-hand side. Click and"
 " drag the circle button to the left or right to adjust the volume."
-msgstr ""
+msgstr "Bạn có thể tìm thấy khu vực điều chỉnh âm lượng ở phía trên cùng bên tay phải. Nhấp và kéo nút tròn sang phải hoặc trái để điều chỉnh âm lượng."
 
 #. (itstool) path: page/p
 #: C/endless-11-photos-and-music.page:72
@@ -946,35 +946,35 @@ msgid ""
 "Remember, to hear audio, you have to connect headphones or speakers to your "
 "computer. If you have your computer connected to a TV and still cannot hear "
 "the audio, try turning up the volume of your computer or of your TV."
-msgstr ""
+msgstr "Hãy nhớ rằng để nghe được âm thanh, bạn phải kết nối tai nghe hoặc loa với máy tính của bạn. Nếu máy tính của bạn được kết nối với TV và vẫn không thể nghe thấy âm thanh, hãy thử tăng âm lượng của máy tính hoặc TV."
 
 #. (itstool) path: info/title
 #: C/endless-12-social-bar.page:19
 msgctxt "link"
 msgid "Using Facebook"
-msgstr ""
+msgstr "Sử dụng Facebook"
 
 #. (itstool) path: info/title
 #: C/endless-12-social-bar.page:20
 msgctxt "sort"
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. (itstool) path: info/desc
 #: C/endless-12-social-bar.page:21
 msgid "A video showing how to use Facebook with other programs."
-msgstr ""
+msgstr "Một video thể hiện cách sử dụng Facebook với các chương trình khác."
 
 #. (itstool) path: page/title
 #: C/endless-12-social-bar.page:24
 msgid "Using Facebook"
-msgstr ""
+msgstr "Sử dụng Facebook"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:35
 msgid ""
 "If you have internet, there are two simple ways to access <em>Facebook</em>."
-msgstr ""
+msgstr "Nếu bạn có internet, có hai cách đơn giản để truy cập <em>Facebook</em>."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:38
@@ -982,7 +982,7 @@ msgid ""
 "The first is opening the browser and entering <em>facebook.com</em> at the "
 "top, then entering your name and password in the login part of the site as "
 "you may already be used to doing."
-msgstr ""
+msgstr "Trước tiên, cần mở trình duyệt và gõ <em>facebook.com</em> vào phía trên cùng, sau đó nhập tên và mật khẩu của bạn vào phần đăng nhập của trang này như bạn vẫn thường làm."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:42
@@ -991,7 +991,7 @@ msgid ""
 "right-hand corner of your screen. By clicking on it, you will see a window "
 "that appears on the right side of the screen. Enter your email and password "
 "and start using Facebook immediately!"
-msgstr ""
+msgstr "Cách khác là sử dụng nút <em>Facebook</em> ở góc dưới bên tay phải màn hình. Khi nhấp vào nút này, bạn sẽ thấy có một cửa sổ hiện ra ở phía bên phải màn hình. Nhập email và mật khẩu của bạn và bắt đầu sử dụng Facebook ngay lập tức!"
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:47
@@ -1001,7 +1001,7 @@ msgid ""
 " be using the <app>Writer</app> app, and while you are working on a "
 "document, you can check <em>Facebook</em> quickly during breaks, and you can"
 " even continue a conversation without having to switch programs to do so."
-msgstr ""
+msgstr "Nếu bạn truy cập <em>Facebook</em> theo cách thứ hai này, bạn sẽ truy cập <em>Facebook</em> rất dễ dàng trong khi đang sử dụng các chương trình khác. Ví dụ, có thể bạn đang dùng ứng dụng <app>Trình Viết bài</app>, và khi đang làm việc trên một tài liệu, bạn có thể kiểm tra nhanh <em>Facebook</em> những lúc nghỉ, và bạn còn có thể tiếp tục một cuộc hội thoại mà không phải chuyển các chương trình để làm điều này."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:53
@@ -1009,7 +1009,7 @@ msgid ""
 "If you use this second method, be sure to logout of your Facebook account "
 "before you stop using the computer, otherwise, someone else may be able to "
 "access your Facebook account."
-msgstr ""
+msgstr "Nếu bạn sử dụng phương pháp thứ hai này, hãy nhớ đăng xuất khỏi tài khoản Facebook của bạn trước khi bạn ngừng sử dụng máy tính, nếu không, người khác có thể truy cập vào tài khoản Facebook của bạn."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:57
@@ -1017,41 +1017,41 @@ msgid ""
 "To logout of <em>Facebook</em>, make sure you are in the <em>Facebook</em> "
 "window, click on the menu button on the top left-hand side, scroll to the "
 "bottom of the window, and click on the <em>logout</em> button."
-msgstr ""
+msgstr "Để đăng xuất ra khỏi <em>Facebook</em>, hãy chắc chắn là bạn đang trong cửa sổ <em>Facebook</em>, nhấp vào nút trình đơn ở bên trái phía trên, cuộn chuột xuống phía cuối cửa sổ và nhấp vào nút <em>logout</em> (đăng xuất)."
 
 #. (itstool) path: page/p
 #: C/endless-12-social-bar.page:61
 msgid "There you go, Facebook is now just a click away!"
-msgstr ""
+msgstr "Đây rồi, giờ thì chỉ cần nhấp chuột một lần là truy cập được Facebook!"
 
 #. (itstool) path: info/title
 #: C/endless-13-printers.page:9
 msgctxt "link"
 msgid "Setting up a printer"
-msgstr ""
+msgstr "Thiết lập máy in"
 
 #. (itstool) path: info/title
 #: C/endless-13-printers.page:10
 msgctxt "sort"
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #. (itstool) path: info/desc
 #: C/endless-13-printers.page:11
 msgid "A video showing how to set up a printer for the first time."
-msgstr ""
+msgstr "Video minh hoạt cách thiết lập máy in lần đầu tiên."
 
 #. (itstool) path: page/title
 #: C/endless-13-printers.page:14
 msgid "Setting up a printer"
-msgstr ""
+msgstr "Thiết lập máy in"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:25
 msgid ""
 "Click the <em>User Menu</em> button on the bottom left-hand corner of the "
 "screen, then select <gui>Settings</gui>."
-msgstr ""
+msgstr "Bấm nút <em>Menu Người dùng</em> ở góc dưới bên trái màn hình, rồi chọn <gui>Cài đặt</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:28
@@ -1060,19 +1060,19 @@ msgid ""
 " unlock this window by clicking on the button that says <gui>Unlock</gui> in"
 " the upper right-hand corner. Enter your password and click "
 "<gui>Authenticate</gui> to finish unlocking the window."
-msgstr ""
+msgstr "Trong cửa sổ mở ra, nhấp vào <gui>Máy in</gui>. Để tiếp tục, bạn phải mở khóa cửa sổ này bằng cách nhấp vào nút <gui>Mở khóa</gui> ở góc trên bên phải. Nhập mật khẩu của bạn và nhấp vào <gui>Xác thực</gui> để hoàn thành việc mở khóa cửa sổ."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:33
 msgid ""
 "Click the <key>+</key> symbol in the lower left-hand corner of this window."
-msgstr ""
+msgstr "Nhấp vào biểu tượng <key>+</key> ở góc trái phía dưới của cửa sổ này."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:36
 msgid ""
 "Select your printer from the list that appears, and click <gui>Add</gui>."
-msgstr ""
+msgstr "Chọn máy in của bạn từ danh sách xuất hiện và nhấp <gui>Thêm</gui>."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:38
@@ -1080,110 +1080,110 @@ msgid ""
 "You will see the name of your printer appear. If you want to check that your"
 " printer is configured correctly, click the button that says "
 "<gui>Print</gui> to print a sample page."
-msgstr ""
+msgstr "Bạn sẽ thấy tên của máy in của bạn xuất hiện. Nếu bạn muốn kiểm tra xem máy in của bạn có được định dạng đúng hay chưa, nhấp vào nút <gui>Print</gui> để in thử một trang."
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:42
 msgid ""
 "You can now close this window and begin to use your printer with Endless!"
-msgstr ""
+msgstr "Giờ đây bạn có thể đóng cửa sổ này và bắt đầu dùng máy in cùng với Endless!"
 
 #. (itstool) path: info/desc
 #: C/endless-videos.page:9
 msgid "Watch videos explaining how to use EndlessOS."
-msgstr ""
+msgstr "Xem video hướng dẫn cách sử dụng EndlessOS."
 
 #. (itstool) path: info/title
 #: C/endless-videos.page:10
 msgctxt "link"
 msgid "Videos Tutorials"
-msgstr ""
+msgstr "Hướng dẫn dùng Video"
 
 #. (itstool) path: info/title
 #: C/endless-videos.page:11
 msgctxt "sort"
 msgid "Videos Tutorials"
-msgstr ""
+msgstr "Hướng dẫn bằng video"
 
 #. (itstool) path: page/title
 #: C/endless-videos.page:14
 msgid "Endless Videos"
-msgstr ""
+msgstr "Các video của Endless"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:3
 msgid "Welcome"
-msgstr ""
+msgstr "Chào mừng"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:4
 msgid "Launching Applications"
-msgstr ""
+msgstr "Khởi chạy Ứng dụng"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:5
 msgid "Getting Started"
-msgstr ""
+msgstr "Bắt đầu"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:6
 msgid "Changing Wallpaper"
-msgstr ""
+msgstr "Đổi Hình nền"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:7
 msgid "Responding to Messages"
-msgstr ""
+msgstr "Đang phản hồi Tin nhắn"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:8
 msgid "Switching Tasks"
-msgstr ""
+msgstr "Chuyển đổi Tác vụ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:9
 msgid "Delayed Response"
-msgstr ""
+msgstr "Phản hồi bị Chậm trễ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:10
 msgid "Windows and Workspaces"
-msgstr ""
+msgstr "Windows và Workspaces"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
 msgid "Changing Date, Time and Timezone"
-msgstr ""
+msgstr "Thay đổi Ngày, Giờ và Múi giờ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:12
 msgid "Maximize"
-msgstr ""
+msgstr "Phóng to"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:13
 msgid "Restore"
-msgstr ""
+msgstr "Khôi phục"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:14
 msgid "Left half of screen"
-msgstr ""
+msgstr "Nửa bên trái của màn hình"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:15
 msgid "Workspace down"
-msgstr ""
+msgstr "Không gian làm việc bên dưới"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:16
 msgid "Workspace up"
-msgstr ""
+msgstr "Không gian làm việc bên trên"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:17
 msgid "Right half of screen"
-msgstr ""
+msgstr "Nửa bên phải của màn hình"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -1195,47 +1195,47 @@ msgstr ""
 #: C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
-msgstr ""
+msgstr "Hoạt động"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:19
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:20
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:21
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:22
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:23
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:24
 msgid "help"
-msgstr ""
+msgstr "trợ giúp"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:25
 msgid "web"
-msgstr ""
+msgstr "web"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:26
 msgid "Just start typing…"
-msgstr ""
+msgstr "Hãy bắt đầu gõ..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -1243,115 +1243,115 @@ msgstr ""
 #: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
-msgstr ""
+msgstr "John Doe"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:28
 msgid "Settings"
-msgstr ""
+msgstr "Cài đặt"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:29
 msgid "Background"
-msgstr ""
+msgstr "Ảnh nền"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:30
 msgid "Wallpapers"
-msgstr ""
+msgstr "Hình nền"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:31
 msgid "Select"
-msgstr ""
+msgstr "Lựa chọn"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:32
 msgid "Ready for the meeting?"
-msgstr ""
+msgstr "Sẵn sàng họp?"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:33
 msgid "I'll be there in a sec..."
-msgstr ""
+msgstr "Tôi sẽ tới đó trong giây lát..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "Good stuff, thanks again"
-msgstr ""
+msgstr "Bạn làm tốt lắm, xin cám ơn lần nữa"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:35
 msgid "Thanks for the support"
-msgstr ""
+msgstr "Cám ơn vì sự hỗ trợ của bạn."
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:36
 msgid "No worries."
-msgstr ""
+msgstr "Đừng lo."
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:37
 msgid "Too kind."
-msgstr ""
+msgstr "Quá tốt bụng."
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:38
 msgid "Open Calendar"
-msgstr ""
+msgstr "Mở Calendar (Lịch)"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
 msgid "Open Clocks"
-msgstr ""
+msgstr "Mở Clocks (Đồng hồ)"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:40
 msgid "Date and Time Settings"
-msgstr ""
+msgstr "Cài đặt Ngày Giờ"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:41
 msgid "Automatic Date and Time"
-msgstr ""
+msgstr "Ngày và giờ tự động"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
 msgid "Automatic Timezone"
-msgstr ""
+msgstr "Múi giờ Tự động"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:43
 msgid "14 October 2013, 20:00"
-msgstr ""
+msgstr "20:00 ngày 14 tháng Mười năm 2013"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:44
 msgid "14 October 2013, 14:00"
-msgstr ""
+msgstr "14:00 ngày 14 tháng Mười năm 2013"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-get-online.page:9 C/gs-use-system-search.page:9
 msgid "Jakub Steiner"
-msgstr ""
+msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:12 C/gs-get-online.page:12
 #: C/gs-use-system-search.page:12
 msgid "Petr Kovar"
-msgstr ""
+msgstr "Petr Kovar"
 
 #. (itstool) path: info/desc
 #: C/gs-browse-web.page:20
 msgid "Use Facebook, Google and other popular websites with your browser."
-msgstr ""
+msgstr "Sử dụng Facebook, Google và các website được ưa thích khác với trình duyệt của bạn."
 
 #. (itstool) path: page/title
 #: C/gs-browse-web.page:23
 msgid "Browse the web"
-msgstr ""
+msgstr "Duyệt trang web."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:27
@@ -1359,7 +1359,7 @@ msgid ""
 "Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
 "your desktop. You can browse the internet by clicking on this desktop icon "
 "once."
-msgstr ""
+msgstr "Máy tính của bạn có một biểu tượng <gui>ứng dụng Internet</gui> cài sẵn trên màn hình máy. Bạn có thể tìm duyệt internet bằng cách nhấp một lần vào biểu tượng ngoài màn hình này. "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:33
@@ -1367,36 +1367,36 @@ msgid ""
 "You can also open this app by moving your mouse pointer to the "
 "<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
 "clicking once."
-msgstr ""
+msgstr "Bạn cũng có thể mở ứng dụng này bằng cách di chuyển con trỏ chuột đến biểu tượng quả cầu màu cam <gui>Internet</gui> ở góc trái phía cuối của màn hình và nhấp chuột một lần."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:39
 msgid "Click the address bar at the top of the browser window. Start typing!"
-msgstr ""
+msgstr "Nhấp vào thanh địa chỉ ở phía trên cùng của cửa sổ trình duyệt. Bắt đầu gõ nào!"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:43
 msgid ""
 "You do not need to remember the exact address if you have already visited "
 "the website because it will be stored in your history and/or bookmarks."
-msgstr ""
+msgstr "Bạn không cần phải nhớ địa chỉ chính xác nếu bạn đã truy cập trang web vì trang đó sẽ được lưu trong lịch sử và/hoặc thẻ đánh dấu. "
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:46
 msgid ""
 "If the website is found in the history or bookmarks, you will see a drop-"
 "down list appear below the address bar."
-msgstr ""
+msgstr "Nếu các trang web được tìm thấy trong lịch sử hoặc dấu trang, bạn sẽ thấy một danh sách thả xuống xuất hiện bên dưới thanh địa chỉ."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:49
 msgid "Select the website you are looking for using the arrow keys."
-msgstr ""
+msgstr "Chọn trang web bạn đang tìm kiếm bằng cách sử dụng các phím mũi tên."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:52
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
+msgstr "Sau khi đã chọn trang web, nhấn <key>Enter</key> để truy cập."
 
 #. (itstool) path: note/p
 #: C/gs-browse-web.page:58
@@ -1407,18 +1407,18 @@ msgid ""
 "your desktop. You will be shown the top results that are already on your "
 "Endless computer, and it will also ask if you want to search the internet. "
 "Click on the option to search the internet."
-msgstr ""
+msgstr "Bạn có thể tìm kiếm trên internet ngay từ màn hình nền máy tính của mình bằng cách dùng tính năng <link xref=\"gs-use-system-search\">thanh tìm kiếm toàn cầu</link>. Đầu tiên, <gui>gõ trực tiếp nội dung bạn cần tìm</gui> vào thanh tìm kiếm trên màn hình nền máy tính. Bạn sẽ được xem những kết quả hàng đầu đã có sẵn trên máy tính Endless của bạn, và máy cũng sẽ hỏi xem bạn có muốn tìm kiếm trên internet không. Hãy nhấp vào tùy chọn đó để tìm trên internet."
 
 #. (itstool) path: info/desc
 #: C/gs-fix-overscan.page:19
 msgid ""
 "Fix a problem where your TV is cutting off the top and bottom of the screen."
-msgstr ""
+msgstr "Khắc phục vấn đề khi phần trên và dưới màn hình TV của bạn bị cắt."
 
 #. (itstool) path: page/title
 #: C/gs-fix-overscan.page:22
 msgid "I can't see the task bar or start menu, what do I do?"
-msgstr ""
+msgstr "Tôi không nhìn thấy thanh tác vụ hay trình đơn bắt đầu, tôi phải làm gì?"
 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
@@ -1426,53 +1426,53 @@ msgid ""
 "If you do not see the task bar at the bottom of your screen with the user "
 "menu on the left and the time and facebook icon on the right, you need to "
 "adjust your screen to fit your TV."
-msgstr ""
+msgstr "Nếu bạn không thấy thanh tác vụ ở phía cuối màn hình của bạn cùng với trình đơn người dùng ở bên trái và thời gian cũng như biểu tượng facebook ở bên phải, thì bạn cần điều chỉnh màn hình của bạn cho khớp với Tivi."
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:29
 msgid "To adjust your screen:"
-msgstr ""
+msgstr "Để điều chỉnh màn hình của bạn:"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:32
 msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
-msgstr ""
+msgstr "Nhấp chuột phải vào desktop và chọn <gui>\"Change Background...\"</gui> (Thay đổi Ảnh nền...)."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:37
 msgid "Click the back button on the top left corner of the dialog box."
-msgstr ""
+msgstr "Nhấp vào nút quay lại ở góc trái phía trên của hộp thoại."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:41
 msgid "Select the <gui>Displays</gui> icon."
-msgstr ""
+msgstr "Chọn biểu tượng <gui>Hiển thị</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:45
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
-msgstr ""
+msgstr "Chọn hộp thoại kế bên <gui>Đặt tỷ lệ</gui> có nội dung <gui>\"Điều chỉnh màn hình cho TV\"</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:50
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
-msgstr ""
+msgstr "Lúc này bạn sẽ thấy một thanh màu đen ở dưới màn hình và thanh thực đơn người dùng ở góc dưới bên trái màn hình của bạn!"
 
 #. (itstool) path: page/title
 #: C/gs-get-online.page:21
 msgid "How do I set up my internet?"
-msgstr ""
+msgstr "Cách tôi thiết lập internet của mình?"
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:23
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
 "side of your screen will look like this <_:media-1/>."
-msgstr ""
+msgstr "Nếu bạn đang ngoại tuyến, biểu tượng kết nối mạng ở phía dưới bên phải màn hình của bạn sẽ trông như thế này <_:media-1/>."
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:27
@@ -1481,12 +1481,12 @@ msgid ""
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
-msgstr ""
+msgstr "Có một số lý do gây ra tình trạng ngoại tuyến: ví dụ như cáp mạng đã bị tháo ra, máy tính đã được thiết lập để chạy <em>chế độ máy bay</em>, hoặc không có mạng Wi-Fi nào trong khu vực của bạn."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:34
 msgid "Connect to a wired network"
-msgstr ""
+msgstr "Kết nối với một mạng có dây"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
@@ -1494,26 +1494,26 @@ msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
-msgstr ""
+msgstr "Nếu bạn muốn sử dụng kết nối có dây, chỉ việc cắm vào một đường cáp mạng để kết nối trực tuyến. Máy tính sẽ tự động tìm cách thiết lập kết nối mạng giúp bạn."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:41 C/gs-get-online.page:76
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
-msgstr ""
+msgstr "Trong khi máy tính thiết lập kết nối mạng cho bạn, biểu tượng kết nối mạng hiển thị ba dấu chấm"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to this <_:media-1/> networked computer symbol."
-msgstr ""
+msgstr "Ngay khi kết nối mạng đã được thiết lập thành công, biểu tượng kết nối mạng thay đổi thành  biểu tượng là máy tính đã được kết nối mạng <_: media-1/>."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:56
 msgid "Connect to a Wi-Fi network"
-msgstr ""
+msgstr "Kết nối với mạng Wi-Fi"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:60
@@ -1521,26 +1521,26 @@ msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
 "corner of your screen. You will see this icon <_:media-1/>. Click on it and "
 "a menu should appear."
-msgstr ""
+msgstr "Bạn có kết nối Wi-Fi? Hãy tìm biểu tượng mạng ở góc dưới bên phải màn hình của bạn. Bạn sẽ thấy biểu tượng này <_:media-1/>. Nhấp vào đó và thanh công cụ sẽ hiện ra."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:66
 msgid ""
 "Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi” to turn "
 "it on. Check to make sure it is now blue."
-msgstr ""
+msgstr "Biểu tượng chuyển Wi-Fi có màu xanh dương không? Nếu không, nhấp vào chữ “Wi-Fi” để bật lên. Kiểm tra để chắc chắn rằng biểu tượng bây giờ là màu xanh."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:70
 msgid "Next, select your Wi-Fi network from the list."
-msgstr ""
+msgstr "Tiếp theo, chọn mạng Wi-Fi của bạn từ danh sách."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:73
 msgid ""
 "Enter your network password, which is usually different than the password "
 "you use to log in to your computer."
-msgstr ""
+msgstr "Nhập mật khẩu mạng của bạn, thường khác với mật khẩu bạn dùng để đăng nhập máy tính."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:88
@@ -1548,7 +1548,7 @@ msgid ""
 "If you don’t see your network in the list, try unplugging your Wi-Fi router "
 "then plugging it back in. If it still doesn’t work, you may need to contact "
 "your internet provider directly."
-msgstr ""
+msgstr "Nếu bạn không thấy mạng của mình trong danh sách, hãy thử rút phích cắm bộ định tuyến Wifi của bạn rồi cắm lại. Nếu việc đó vẫn không có tác dụng, có thể bạn cần phải liên hệ trực tiếp với nhà cung cấp mạng internet của bạn."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:93
@@ -1556,35 +1556,35 @@ msgid ""
 "Remember that your friends or neighbors may have the same default network "
 "name you do, and your computer may be picking up their network signal. If "
 "your password isn’t working, make sure you have selected the right network."
-msgstr ""
+msgstr "Nhớ rằng bạn bè hoặc hàng xóm của bạn có thể cũng dùng tên mạng lưới mặc định giống bạn, và có thể máy tính của bạn nhận được tín hiệu mạng của họ. Nếu mật khẩu của bạn không hoạt động, đảm bảo rằng bạn đã lựa chọn đúng mạng lưới."
 
 #. (itstool) path: page/title
 #: C/gs-give-feedback.page:19
 msgid "How can I help make Endless better?"
-msgstr ""
+msgstr "Tôi làm thế nào để giúp cho Endless trở nên tốt hơn?"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:21
 msgid ""
 "What do you love about Endless? Is there anything you would change? Do you "
 "have any ideas or suggestions for new apps to include?"
-msgstr ""
+msgstr "Bạn yêu thích những điều gì về Endless? Có bất kỳ điều gì mà bạn muốn thay đổi không? Bạn có bất cứ ý tưởng hay gợi ý nào để đưa vào các ứng dụng mới không?"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
 msgid "We want to hear from you!"
-msgstr ""
+msgstr "Chúng tôi muốn nghe từ bạn!"
 
 #. (itstool) path: steps/title
 #: C/gs-give-feedback.page:27
 msgid "Here's how to give us your feedback:"
-msgstr ""
+msgstr "Đây là cách bạn gửi phản hồi cho chúng tôi:"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:29
 msgid ""
 "Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr ""
+msgstr "Nhấp chuột vào nút <_:media-1/> ở góc trái phía cuối màn hình của bạn."
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:35
@@ -1592,28 +1592,28 @@ msgid ""
 "Click the <gui>Give Us Feedback</gui> option. You can also access the "
 "feedback section by opening your browser and clicking the "
 "<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
-msgstr ""
+msgstr "Nhấp vào tùy chọn <gui>Phản hồi</gui>. Bạn cũng có thể truy cập vào mục phản hồi bằng cách mở trình duyệt và nhấp vào nút <gui>Phản hồi</gui> ở góc dưới cùng bên trái của trình duyệt."
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:42
 msgid ""
 "Enter in your comment, name and email address. You must fill in all three "
 "fields in order to submit your feedback."
-msgstr ""
+msgstr "Nhập bình luận, tên và địa chỉ email của bạn. Bạn phải điền vào cả ba mục để gửi phản hồi."
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:47
 msgid ""
 "You will receive a confirmation email to let you know that we have received "
 "your feedback. We will try to get back to you as soon as we can."
-msgstr ""
+msgstr "Bạn sẽ nhận được email xác nhận cho biết chúng tôi đã nhận được phản hồi của bạn. Chúng tôi sẽ cố gắng liên hệ lại với bạn sớm nhất có thể."
 
 #. (itstool) path: note/p
 #: C/gs-give-feedback.page:54
 msgid ""
 "Please note that you will need an internet connection in order to submit "
 "your feedback."
-msgstr ""
+msgstr "Xin lưu ý rằng bạn sẽ cần kết nối internet để gửi ý kiến phản hồi của mình."
 
 #. (itstool) path: Work/format
 #: C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293
@@ -1627,7 +1627,7 @@ msgstr ""
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
 #: C/gs-web-browser2.svg:102
 msgid "image/svg+xml"
-msgstr ""
+msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:242 C/gs-go-online2.svg:278 C/gs-goa1.svg:80
@@ -1636,7 +1636,7 @@ msgstr ""
 #: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
@@ -1645,7 +1645,7 @@ msgstr ""
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
-msgstr ""
+msgstr "14:30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:266 C/gs-go-online3.svg:306 C/gs-goa1.svg:84
@@ -1654,256 +1654,256 @@ msgstr ""
 #: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
 #, no-wrap
 msgid "homenetwork"
-msgstr ""
+msgstr "homenetwork"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
 #, no-wrap
 msgid "Select Network"
-msgstr ""
+msgstr "Chọn Mạng Lưới"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:339
 #, no-wrap
 msgid "Turn Off"
-msgstr ""
+msgstr "Tắt"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
 msgid "Network Settings"
-msgstr ""
+msgstr "Cài đặt Mạng"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr ""
+msgstr "Mạng Wi-Fi"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "Connect"
-msgstr ""
+msgstr "Kết nối"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "wireless"
-msgstr ""
+msgstr "không dây"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:317
 #, no-wrap
 msgid "netgear"
-msgstr ""
+msgstr "netgear"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:318
 #, no-wrap
 msgid "weak"
-msgstr ""
+msgstr "yếu"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:319
 #, no-wrap
 msgid "private"
-msgstr ""
+msgstr "riêng tư"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:320
 #, no-wrap
 msgid "Select a network"
-msgstr ""
+msgstr "Chọn một mạng"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:343 C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
 #, no-wrap
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
 #: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
-msgstr ""
+msgstr "Tài khoản trực tuyến"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:71 C/gs-goa3.svg:115
 #, no-wrap
 msgid "Add an online account"
-msgstr ""
+msgstr "Thêm tài khoản trực tuyến"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
 #: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:66
 #, no-wrap
 msgid "Add Account"
-msgstr ""
+msgstr "Thêm Tài Khoản"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:73 C/gs-goa4.svg:124
 #, no-wrap
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:74 C/gs-goa4.svg:125
 #, no-wrap
 msgid "Windows Live"
-msgstr ""
+msgstr "Windows Live"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:75 C/gs-goa4.svg:126
 #, no-wrap
 msgid "Microsoft Exchange"
-msgstr ""
+msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:76 C/gs-goa4.svg:127
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
-msgstr ""
+msgstr "Doanh nghiệp Đăng nhập (Kerberos)"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
 #: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
-msgstr ""
+msgstr "Tài khoản Google"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:69
 #, no-wrap
 msgid "SIGN UP"
-msgstr ""
+msgstr "ĐĂNG KÝ"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:70
 #, no-wrap
 msgid "Sign in"
-msgstr ""
+msgstr "Đăng nhập"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:71
 #, no-wrap
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:73
 #, no-wrap
 msgid "Password"
-msgstr ""
+msgstr "Mật khẩu"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:76
 #, no-wrap
 msgid "Sign In"
-msgstr ""
+msgstr "Đăng nhập"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
 #, no-wrap
 msgid "john.doe@gmail.com"
-msgstr ""
+msgstr "john.doe@gmail.com"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:103
 #, no-wrap
 msgid "Grant Access"
-msgstr ""
+msgstr "Cấp quyền truy cập"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:108
 #, no-wrap
 msgid "Deny Access"
-msgstr ""
+msgstr "Từ chối truy cập"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
 #, no-wrap
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:92
 #, no-wrap
 msgid "Use for"
-msgstr ""
+msgstr "Sử dụng cho"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:93
 #, no-wrap
 msgid "Mail"
-msgstr ""
+msgstr "Thư"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:98
 #, no-wrap
 msgid "Calendar"
-msgstr ""
+msgstr "Lịch"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:103 C/gs-search2.svg:293
 #, no-wrap
 msgid "Contacts"
-msgstr ""
+msgstr "Liên hệ"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:108
 #, no-wrap
 msgid "Chat"
-msgstr ""
+msgstr "Trò chuyện"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:113
 #, no-wrap
 msgid "Documents"
-msgstr ""
+msgstr "Tài liệu"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
@@ -1911,131 +1911,131 @@ msgstr ""
 #: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
 #, no-wrap
 msgid "ON"
-msgstr ""
+msgstr "BẬT"
 
 #. (itstool) path: p/link
 #: C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr ""
+msgstr "Giấy phép Chung về Thẩm Quyền-Chia sẻ Tương tự Tài Sản Sáng Tạo Công Cộng phiên bản 3.0"
 
 #. (itstool) path: license/p
 #: C/gs-legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
-msgstr ""
+msgstr "Trang này được cấp phép theo <_:link-1/>."
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:137
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:148
 #, no-wrap
 msgid "Files"
-msgstr ""
+msgstr "Tập tin"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:149
 #, no-wrap
 msgid "Enabled"
-msgstr ""
+msgstr "Đã bật"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:264
 #, no-wrap
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:265
 #, no-wrap
 msgid "Photos"
-msgstr ""
+msgstr "Ảnh"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:266
 #, no-wrap
 msgid "Music"
-msgstr ""
+msgstr "Âm nhạc"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:293
 #, no-wrap
 msgid "OFF"
-msgstr ""
+msgstr "TẮT"
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:229
 #, no-wrap
 msgid "just type"
-msgstr ""
+msgstr "chỉ cần gõ"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:182
 #, no-wrap
 msgid "con"
-msgstr ""
+msgstr "con"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:246
 #, no-wrap
 msgid "Accounts"
-msgstr ""
+msgstr "Tài khoản"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr ""
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:248
 #, no-wrap
 msgid "config"
-msgstr ""
+msgstr "cấu hình"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:249 C/gs-search2.svg:252
 #, no-wrap
 msgid "fontconfig"
-msgstr ""
+msgstr "cấu hình font"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:250
 #, no-wrap
 msgid "system-config-http.zip"
-msgstr ""
+msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:251
 #, no-wrap
 msgid "Icon guidelines"
-msgstr ""
+msgstr "Hướng dẫn về biểu tượng"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:269
 #, no-wrap
 msgid "Secure Linux Containers"
-msgstr ""
+msgstr "Secure Linux Containers"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:270
 #, no-wrap
 msgid "Developer Conference 2012"
-msgstr ""
+msgstr "Hội nghị Lập trình viên 2012"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
 #, no-wrap
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Thanks f"
-msgstr ""
+msgstr "Cảm ơn f"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
@@ -2043,14 +2043,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
-msgstr ""
+msgstr "CN"
 
 #. (itstool) path: text/tspan
 #. Translators: M stands for Monday here
 #: C/gs-thumb-timezone.svg:94
 #, no-wrap
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Tuesday here
@@ -2058,14 +2058,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
 #: C/gs-thumb-timezone.svg:96
 #, no-wrap
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
@@ -2073,14 +2073,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
 #: C/gs-thumb-timezone.svg:98
 #, no-wrap
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
@@ -2088,185 +2088,185 @@ msgstr ""
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:109
 #, no-wrap
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:110
 #, no-wrap
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:111
 #, no-wrap
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:112
 #, no-wrap
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:113
 #, no-wrap
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:114
 #, no-wrap
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:116
 #, no-wrap
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:117
 #, no-wrap
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:118
 #, no-wrap
 msgid "17"
-msgstr ""
+msgstr "17"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:119
 #, no-wrap
 msgid "18"
-msgstr ""
+msgstr "18"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:120
 #, no-wrap
 msgid "19"
-msgstr ""
+msgstr "19"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:121
 #, no-wrap
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:122
 #, no-wrap
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:124
 #, no-wrap
 msgid "22"
-msgstr ""
+msgstr "22"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:125
 #, no-wrap
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:126
 #, no-wrap
 msgid "24"
-msgstr ""
+msgstr "24"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:127
 #, no-wrap
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:128
 #, no-wrap
 msgid "26"
-msgstr ""
+msgstr "26"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:129
 #, no-wrap
 msgid "27"
-msgstr ""
+msgstr "27"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:130
 #, no-wrap
 msgid "28"
-msgstr ""
+msgstr "28"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:132
 #, no-wrap
 msgid "29"
-msgstr ""
+msgstr "29"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:133
 #, no-wrap
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:134
 #, no-wrap
 msgid "31"
-msgstr ""
+msgstr "31"
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:20
 msgctxt "link:shell-overview"
 msgid "Find apps that work without the internet"
-msgstr ""
+msgstr "Tìm những ứng dụng chạy không cần internet"
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:21
 msgctxt "link:net"
 msgid "Use your computer offline"
-msgstr ""
+msgstr "Dùng máy tính ngoại tuyến"
 
 #. (itstool) path: info/desc
 #: C/gs-use-offline.page:22
 msgid "Discover all the offline content on your computer."
-msgstr ""
+msgstr "Khám phá tất cả các nội dung ngoại tuyến trên máy tính của bạn."
 
 #. (itstool) path: page/title
 #: C/gs-use-offline.page:25
 msgid "What can I do if I don't have internet?"
-msgstr ""
+msgstr "Tôi có thể làm gì nếu không có internet?"
 
 #. (itstool) path: page/p
 #: C/gs-use-offline.page:27
 msgid ""
 "Your computer comes with a lot of great offline content you can use even if "
 "you don't have an internet connection."
-msgstr ""
+msgstr "Máy tính của bạn đi kèm với rất nhiều nội dung ngoại tuyến tuyệt vời mà bạn có thể sử dụng ngay cả khi bạn không có kết nối internet."
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:31
 msgid "Introducing the <app>App Center</app>"
-msgstr ""
+msgstr "Giới thiệu <app>App Center</app>"
 
 #. (itstool) path: section/p
 #: C/gs-use-offline.page:32
@@ -2275,17 +2275,17 @@ msgid ""
 "added to your desktop. Most of the apps you'll find there have offline "
 "capability and you can browse by category to find just what you're looking "
 "for, or else just click around and explore."
-msgstr ""
+msgstr "<app>Trung tâm Ứng dụng</app> có rất nhiều ứng dụng miễn phí và có thể dễ dàng thêm vào màn hình nền của bạn. Hầu hết các ứng dụng mà bạn có thể tìm thấy ở đây đều có khả năng chạy ngoại tuyến và bạn có thể duyệt theo thể loại để tìm đúng những gì bạn muốn, hoặc chỉ bấm chuột để khám phá xung quanh."
 
 #. (itstool) path: steps/title
 #: C/gs-use-offline.page:37
 msgid "How to get to the <app>App Center</app>:"
-msgstr ""
+msgstr "Làm thế nào để tới được <app>App Center</app>"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:39
 msgid "Click on <app>More Apps</app> from the desktop."
-msgstr ""
+msgstr "Nhấp vào <app>More Apps</app> trên màn hình nền."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:43
@@ -2293,33 +2293,33 @@ msgid ""
 "Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
 "<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
 "section."
-msgstr ""
+msgstr "Nhấp vào một danh mục như <gui>Giáo dục</gui>, <gui>Trò chơi</gui>, <gui>Tài nguyên</gui> và <gui>Tiện ích</gui> để xem các ứng dụng trong mỗi mục."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:49
 msgid ""
 "Click on an app to read more about it and either install it or add it to "
 "your desktop."
-msgstr ""
+msgstr "Nhấp vào một ứng dụng để đọc thêm thông tin và để hoặc cài đặt hoặc đưa lên màn hình nền của bạn."
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:57
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
 "<app>App Center</app>:"
-msgstr ""
+msgstr "Đây là vài ví dụ về các nội dung ngoại tuyến trên màn hình nền của bạn và trong <app>App Center</app>:"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:61
 msgid "Education"
-msgstr ""
+msgstr "Giáo dục"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:63
 msgid ""
 "<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
 "encyclopedia with all the power of the internet's best."
-msgstr ""
+msgstr "<app>Encyclopedia</app> - Tìm kiếm để tìm hiểu gần như về tất cả mọi thứ. Một bách khoa toàn thư ngoại tuyến chứa đựng tất cả sức mạnh tuyệt vời nhất của internet."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:67
@@ -2327,106 +2327,106 @@ msgid ""
 "<app>Virtual School</app> - Hundreds of videos to help you lean more about "
 "your favorite subjects, or to help you understand subjects that are "
 "difficult for you."
-msgstr ""
+msgstr "<app>Trường Ảo</app> - Hàng trăm video giúp bạn học được nhiều hơn về các môn học yêu thích của bạn, hoặc giúp bạn hiểu rõ những môn học khó đối với bạn."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:72
 msgid ""
 "<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
 " help children of all ages develop their mental abilities."
-msgstr ""
+msgstr "<app>Trò chơi Giáo dục</app> - Cờ, câu đố cùng nhiều trò chơi và hoạt động khác giúp trẻ em mọi lứa tuổi phát triển khả năng trí tuệ của trẻ."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:77
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
-msgstr ""
+msgstr "<app>Tux Math</app> - Một cách vui nhộn để trẻ em thực hành phép cộng, phép trừ, phép nhân và nhiều thứ khác."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:81
 msgid ""
 "<app>Tux Typing</app> - Learn how to type with this game that guides you and"
 " helps you practice so that you can type faster and more accurately."
-msgstr ""
+msgstr "<app>Tux Typing</app> - Tìm hiểu cách đánh máy với trò chơi này. Trò chơi này sẽ hướng dẫn cách đánh máy và giúp bạn tập luyện để bạn có thể đánh máy nhanh hơn và chính xác hơn."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:86
 msgid ""
 "<app>World Literature</app> - Read many of the world's greatest stories."
-msgstr ""
+msgstr "<app>World Literature</app> (Văn học Thế giới) – Đọc nhiều câu chuyện vĩ đại nhất thế giới."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:90
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
-msgstr ""
+msgstr "<app>Động vật</app> - Tìm hiểu thêm về loài vật bạn yêu thích, và về các loài mà bạn chưa từng biết đến!"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:96
 msgid "Games"
-msgstr ""
+msgstr "Trò chơi"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:98
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
-msgstr ""
+msgstr "<app>Tux Kart</app> - Thi đua với máy tính hoặc với bạn bè. Có được năng lực siêu nhiên và tránh những cái bẫy để đến đích trước."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:102
 msgid ""
 "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
-msgstr ""
+msgstr "<app>Potato Guy</app> - Tạo một khuôn mặt và đặc điểm cho Ngài Khoai Tây."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:106
 msgid ""
 "<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
 " you get to the next level."
-msgstr ""
+msgstr "<app>Vật lý Vui</app> - Vẽ các vật thể và sử dụng các định luật vật lý để giúp bạn tiến đến cấp độ tiếp theo."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:110
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
-msgstr ""
+msgstr "<app>X-Moto</app> - Cố gắp đi xe đạp lên đồi và đi vòng quanh các đối tượng càng nhanh càng tốt để hoàn tất mỗi khóa học."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:114
 msgid ""
 "<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
 " that you don't blow up. This strategy game is addictive."
-msgstr ""
+msgstr "<app>Minetest</app> - Tránh những khu vực chôn mìn c bên dưới để bạn không bị nổ tung. Trò chơi chiến lược này đang gây sốt."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:118
 msgid ""
 "<app>Blockout2</app> - A tetris-like game where you need to match the colors"
 " as best you can before the screen fills up and you lose."
-msgstr ""
+msgstr "<app>Blockout2</app> - Một trò chơi tương tự Tetris, trong đó bạn phải cố xếp màu cho tốt trước khi màn hình đầy và bạn thua cuộc."
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:124
 msgid "Resources"
-msgstr ""
+msgstr "Nguồn lực"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:126
 msgid ""
 "<app>Writer</app> - Write papers for school, work or for anything else you "
 "need. Compatible with Microsoft's Word."
-msgstr ""
+msgstr "<app>Writer</app> - Viết tài liệu học tập, công việc hoặc bất kỳ thứ gì bạn cần. Tương thích với Word của Microsoft."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:130
 msgid ""
 "<app>Presentation</app> - Create beautiful presentations! Compatible with "
 "Microsoft's Powerpoint."
-msgstr ""
+msgstr "<app>Bản trình bày</app> - Tạo ra các bản trình bày đẹp mắt! Tương thích với Microsoft Powerpoint."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:134
@@ -2434,39 +2434,39 @@ msgid ""
 "<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
 "yourself in ways you never thought possible with this powerful spreadsheet "
 "app. Compatible with Microsoft's Excel."
-msgstr ""
+msgstr "<app>Spreadsheet</app> (Bảng tính) – Thực hiện các phép tính đơn giản hay phức tạp, hoặc tự sắp xếp theo những cách mà bạn chưa từng nghĩ là có thể nhờ ứng dụng bảng tính mạnh mẽ này. Tương thích với Excel của Microsoft."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:139
 msgid ""
 "<app>Resume</app> - Learn how to make a great resume to help you find your "
 "ideal job."
-msgstr ""
+msgstr "<app>Resume</app> (Khôi phục) - Tìm hiểu cách tạo ra sơ yếu lý lịch tuyệt vời để giúp bạn tìm thấy công việc lý tưởng của mình."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:143
 msgid ""
 "<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
 "yourself and your family healthy."
-msgstr ""
+msgstr "<app>Health</app> - Tra cứu bệnh, cách điều trị và tìm hiểu cách giữ sức khỏe cho chính bạn và gia đình của bạn."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:147
 msgid ""
 "<app>How To</app> - Learn how to do just about anything with this handy app."
-msgstr ""
+msgstr "<app>Cách thực hiện</app> - Tìm hiểu cách thực hiện mọi việc với ứng dụng tiện lợi này."
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:153
 msgid "Entertainment"
-msgstr ""
+msgstr "Giải trí"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:155
 msgid ""
 "<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
 " webcam, not included with Endless."
-msgstr ""
+msgstr "<app>Cheese</app> (Pho mát) - Chụp ảnh vui nhộn cùng với bạn bè và gia đình! * Cần có webcam, không có trong Endless."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:159
@@ -2474,40 +2474,40 @@ msgid ""
 "<app>Videos</app> - Watch some of the pre-installed videos that come with "
 "Endless, or transfer videos from a USB or DVD and watch them on this great "
 "and easy-to use media player."
-msgstr ""
+msgstr "<app>Videos</app> – Xem một số video cài sẵn đi liền với Endless, hoặc chuyển video từ một USB hoặc ổ DVD và xem video trên trình phát đa phương tiện tuyệt vời và dễ dùng này."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:164
 msgid ""
 "<app>Myths and Legends</app> - Read about myths and legends from all over "
 "the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr ""
+msgstr "<app>Thần thoại và Truyền thuyết</app> - Đọc về các thần thoại và truyền thuyết từ khắp nơi trên thế giới! Mọi thứ từ câu chuyện Tình nữ khóc than La Llorona đến Quái vật Big Foot và nhiều câu chuyện khác"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:169
 msgid ""
 "<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
 "stars, and other celebrities"
-msgstr ""
+msgstr "<app>Người nổi tiếng</app> - Nắm bắt thông tin về các ngôi sao thể thao và điện ảnh yêu thích của bạn, và những người nổi tiếng khác"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:173
 msgid ""
 "<app>Travel</app> - Read about places around the world and see beautiful "
 "pictures that will make you feel like you're actually there!"
-msgstr ""
+msgstr "<app>Travel</app> - Đọc về các nơi trên thế giới và xem những bức ảnh đẹp để khiến bạn cảm thấy như mình đang thực sự ở đó!"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:180
 msgid "Utility"
-msgstr ""
+msgstr "Tiện ích"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:182
 msgid ""
 "<app>Notes</app> - A handy app to help you jot down things you don't want to"
 " forget!"
-msgstr ""
+msgstr "<app>Ghi chú</app> - Một ứng dụng tiện lợi giúp bạn ghi lại những điều bạn không muốn quên!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:186
@@ -2515,33 +2515,33 @@ msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
 "something of your own!"
-msgstr ""
+msgstr "<app>Video Editor</app> - Quay  video bằng điện thoại và chỉnh sửa chúng để tạo ra những kiệt tác, hoặc đơn giản là lấy một video clip sẵn có và biến nó trở thành thứ gì đó riêng của bạn!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:191
 msgid ""
 "<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
 " and more, to make them even more awesome!"
-msgstr ""
+msgstr "<app>Photo Editor</app> - Thêm các bộ lọc và đường viền vào ảnh, xén ảnh và nhiều tính năng khác để các bức ảnh của bạn tuyệt vời hơn nữa!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:195
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
-msgstr ""
+msgstr "<app>Trình chỉnh sửa Âm thanh</app> - Cắt, trộn và tạo ra những ca khúc và nhịp điệu tuyệt vời sẽ khiến tất cả bạn bè của bạn cùng nhảy múa với bạn."
 
 #. (itstool) path: info/desc
 #: C/gs-use-system-search.page:19
 msgid ""
 "Search for things on your computer and on the internet right from your "
 "desktop!"
-msgstr ""
+msgstr "Tìm kiếm mọi thứ trên máy tính của bạn và trên mạng Internet ngay từ desktop của bạn!"
 
 #. (itstool) path: page/title
 #: C/gs-use-system-search.page:23
 msgid "Use global search"
-msgstr ""
+msgstr "Sử dụng tìm kiếm toàn bộ"
 
 #. (itstool) path: page/p
 #: C/gs-use-system-search.page:25
@@ -2550,135 +2550,135 @@ msgid ""
 "photos and more, right from your desktop. If you have an internet conection,"
 " you can even look for things that are on the internet, like you would on "
 "google, with the global search tool."
-msgstr ""
+msgstr "Thanh tìm kiếm toàn cầu khiến cho việc tìm kiếm trở nên thật dễ dàng! Bạn có thể tìm kiếm ứng dụng, tài liệu, hình ảnh và hơn thế nữa, ngay từ màn hình nền của mình. Nếu bạn có kết nối internet thì bạn còn có thể tìm kiếm trên internet, như bạn thường làm trên Google, với công cụ tìm kiếm toàn cầu."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr ""
+msgstr "Từ màn hình nền, nhấp vào <app>thanh tìm kiếm toàn cầu</app> ở phía trên cùng của màn hình có dòng chữ <gui>Gõ để tìm kiếm...</gui>. Bắt đầu gõ để tìm kiếm."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
-msgstr ""
+msgstr "Các kết quả tương xứng với những gì bạn đã gõ sẽ hiện ra khi bạn gõ. Kết quả đầu tiên luôn được đánh dấu và hiện ra phía trên đầu."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40
 msgid "Press <key>Enter</key> to choose the first highlighted result."
-msgstr ""
+msgstr "Nhấn <key>Enter</key> để chọn kết quả đầu tiên được tô sáng."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:44 C/gs-where-files.page:40
 msgid "Items that may appear in the search results include:"
-msgstr ""
+msgstr "Các mục có thể xuất hiện trong kết quả tìm kiếm bao gồm:"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:46 C/gs-where-files.page:42
 msgid "matching applications, shown at the top of the search results,"
-msgstr ""
+msgstr "so khớp các ứng dụng, hiển thị ở đầu kết quả tìm kiếm,"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:48 C/gs-where-files.page:44
 msgid "matching settings, and"
-msgstr ""
+msgstr "cài đặt trùng khớp, và"
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:49 C/gs-where-files.page:45
 msgid "matching documents."
-msgstr ""
+msgstr "các tài liệu trùng khớp."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:54 C/gs-where-files.page:49
 msgid "In the search results, click on the item you want to open."
-msgstr ""
+msgstr "Trong kết quả tìm kiếm, bấm vào mục bạn muốn mở."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:55 C/gs-where-files.page:50
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
-msgstr ""
+msgstr "Một cách khác là tô sáng một mục bằng cách dùng các phím mũi tên và nhấn <key>Enter</key>."
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
 #, no-wrap
 msgid "Applications"
-msgstr ""
+msgstr "Các Ứng Dụng"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
-msgstr ""
+msgstr "gnome"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
 #, no-wrap
 msgid "Planet Gnome"
-msgstr ""
+msgstr "Planet Gnome"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
 #, no-wrap
 msgid "GNOME 3"
-msgstr ""
+msgstr "GNOME 3"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
 #, no-wrap
 msgid "http://planet.gnome.org"
-msgstr ""
+msgstr "http://planet.gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
 #, no-wrap
 msgid "http://gnome.org"
-msgstr ""
+msgstr "http://gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
-msgstr ""
+msgstr "planet.gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2.svg:247
 #, no-wrap
 msgid "Planet GNOME"
-msgstr ""
+msgstr "Planet GNOME"
 
 #. (itstool) path: page/title
 #: C/gs-where-files.page:19
 msgid "Where are my documents and files?"
-msgstr ""
+msgstr "Các tài liệu và tệp của tôi ở đâu?"
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
 "When you store files to your computer, they are automatically stored in your"
 " <app>Documents</app> folder on your desktop."
-msgstr ""
+msgstr "Khi bạn lưu trữ các tệp vào máy tính của mình, chúng được tự động lưu vào thư mục <app>Tài liệu</app> trên màn hình nền của bạn."
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:24
 msgid "Here are some ways to look for a file you have saved:"
-msgstr ""
+msgstr "Đây là một vài cách để tìm tệp bạn đã lưu:"
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:27
 msgid "If you know the name of your file"
-msgstr ""
+msgstr "Nếu bạn biết tên tệp"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:29
 msgid ""
 "If you know the name of your file, then you can easily search for it right "
 "from the desktop."
-msgstr ""
+msgstr "Nếu bạn biết tên tệp của mình, khi đó bạn có thể dễ dàng tìm kiến nó ngay từ desktop."
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:33
@@ -2686,18 +2686,18 @@ msgid ""
 "From the desktop, click on the <app>global search bar</app> at the top of "
 "your screen that says <gui>Type to search...</gui>. Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "Từ màn hình nền máy tính, nhấp chuột vào <app>thanh tìm kiếm toàn cầu</app> ở phía trên của màn hình với dòng chữ <gui>Gõ để tìm kiếm...</gui> (Type to search...).  Bắt đầu gõ tên của tập tin bạn cần tìm."
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58
 msgid "If you do not know the name of your file"
-msgstr ""
+msgstr "Nếu bạn không biết tên tệp"
 
 #. (itstool) path: section/p
 #. (itstool) path: item/p
 #: C/gs-where-files.page:60 C/gs-where-files.page:90
 msgid "Click on <app>Documents</app> from the desktop."
-msgstr ""
+msgstr "Nhấp vào <app>Tài liệu</app> từ màn hình nền."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:63
@@ -2706,7 +2706,7 @@ msgid ""
 "and videos, so that they are easier for you to find. You will see that the "
 "menu on the left shows these categories. Click on them once to go to that "
 "folder."
-msgstr ""
+msgstr "Endless cố lưu giữ các tệp tin theo thể loại như tài liệu, âm nhạc, hình ảnh và video, để bạn tìm được chúng dễ dàng hơn. Bạn sẽ thấy rằng danh mục bên tay trái cho thấy các thể loại này. Nhấp chuột một lần để tới được thư mục đó."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:69
@@ -2715,7 +2715,7 @@ msgid ""
 "click through the different folders you create to get to the files you have "
 "stored there. Clicking through folders is especially helpful if you are not "
 "sure what the file you saved is named."
-msgstr ""
+msgstr "Bạn có thể tạo các thư mục riêng của mình để tổ chức các tệp tốt hơn. Bạn nên nhấp hết vào các thư mục khác nhau mà bạn đã tạo để thấy được các tệp bạn đã lưu trữ ở đó. Việc nhấp vào toàn bộ các thư mục đặc biệt hữu ích nếu bạn không chắc tệp bạn đã lưu có tên là gì."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:74
@@ -2727,17 +2727,17 @@ msgid ""
 " to highlight the file and press <key>Enter</key> to open it. Or, you can "
 "click on the result you want with your mouse to higlight it, and double "
 "click to open it."
-msgstr ""
+msgstr "Có thấy một thanh chứa chiếc kính lúp phía trên không? Nhấp vào đó và bắt đầu gõ ít nhất một phần của tên tệp tin bạn đang tìm kiếm. Khi bạn bắt đầu đánh, các tệp tin tương ứng với những gì bạn đang gõ sẽ hiện ra ở dưới. Nếu bạn thấy tệp tin bạn đang tìm kiếm trong danh sách, bạn có thể dùng phím mũi tên để đánh dấu tệp tin và nhấn <key>Enter</key> để mở tệp tin. Hoặc bạn có thể nhấp chuột vào kết quả bạn muốn để đánh dấu rồi nhấp đúp chuột để mở."
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:84
 msgid "If your file is on a USB"
-msgstr ""
+msgstr "Nếu tệp của bạn ở trên USB"
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:87
 msgid "Make sure that the USB is properly plugged in."
-msgstr ""
+msgstr "Đảm bảo rằng USB được cắm vào một cách đúng đắn."
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:93
@@ -2745,7 +2745,7 @@ msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
 "something with the device's brand, unless you have changed it."
-msgstr ""
+msgstr "Nhấp vào tên thiết bị của bạn trên danh mục nằm bên trái của cửa sổ. Tên thiết bị hiện ra phía trên biểu tượng thùng rác và thường được đặt tên liên quan tới nhãn hiệu của thiết bị, trừ trường hợp bạn đã thay đổi từ trước."
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:98
@@ -2753,7 +2753,7 @@ msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
 "the magnifying glass to search for the file name if you know it."
-msgstr ""
+msgstr "Duyệt các tập tin trên USB. Nhấp một lần để xem trước tập tin và nhấp hai lần để mở tập tin. Bạn cũng có thể nhấp chuột vào thanh trên cùng có chứa kính lúp để tìm kiếm nếu bạn biết tên tập tin."
 
 #. (itstool) path: note/p
 #: C/gs-where-files.page:105
@@ -2762,4 +2762,4 @@ msgid ""
 "without saving your work, you might not be able to find it again since not "
 "all programs auto-save. Save as often as you can in order to make sure that "
 "your work does not get lost."
-msgstr ""
+msgstr "Bảo đảm rằng bạn đã thực sự lưu tệp! Nếu bạn đóng một chương trình mà chưa lưu những gì bạn đã làm, có thể bạn sẽ không tìm lại được nó vì không phải tất cả các chương trình đều tự động lưu. Hãy lưu thường xuyên nhất có thể để những gì bạn đã làm không bị mất."
