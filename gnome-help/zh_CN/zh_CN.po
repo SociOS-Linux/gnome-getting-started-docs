@@ -2,6 +2,7 @@
 # Translators:
 # chenzibing <chenzibing_endless@126.com>, 2016
 # Marco Mai <marco@endlessm.com>, 2016
+# Roddy Shuler <roddy@endlessm.com>, 2017
 # tanyuanxing <tanyuanxingendless@126.com>, 2016
 # zhifeng peng <jnufeng@126.com>, 2016
 # zhoushumin <zhoushumin_endless@126.com>, 2016
@@ -9,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2016-08-31 21:39+0000\n"
-"Last-Translator: Philip Chimento <philip.chimento@gmail.com>\n"
+"PO-Revision-Date: 2017-02-14 18:20+0000\n"
+"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1065,7 +1066,7 @@ msgid ""
 " unlock this window by clicking on the button that says <gui>Unlock</gui> in"
 " the upper right-hand corner. Enter your password and click "
 "<gui>Authenticate</gui> to finish unlocking the window."
-msgstr "在出现的窗口中,点击< gui > 打印机< / gui >。想要继续，你必须打开窗口，点击右上角的按钮< gui >解锁 < / gui >。输入密码,然后点击< gui > 进行身份验证< / gui >完成打开窗口。"
+msgstr "在出现的窗口中,点击<gui> 打印机</gui>。想要继续，你必须打开窗口，点击右上角的按钮<gui>解锁 </gui>。输入密码,然后点击<gui> 进行身份验证</gui>完成打开窗口。"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:33
@@ -1085,7 +1086,7 @@ msgid ""
 "You will see the name of your printer appear. If you want to check that your"
 " printer is configured correctly, click the button that says "
 "<gui>Print</gui> to print a sample page."
-msgstr "您将看到打印机的名字。如果你想检查打印机是正确配置，点击< gui >打印 < / gui >按钮来打印示例页面。"
+msgstr "您将看到打印机的名字。如果你想检查打印机是正确配置，点击<gui>打印 </gui>按钮来打印示例页面。"
 
 #. (itstool) path: page/p
 #: C/endless-13-printers.page:42
@@ -1364,7 +1365,7 @@ msgid ""
 "Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
 "your desktop. You can browse the internet by clicking on this desktop icon "
 "once."
-msgstr "你的电脑在桌面上有预装的< gui >互联网app</gui > 图标。您可以通过点击桌面图标浏览互联网。"
+msgstr "你的电脑在桌面上有预装的<gui>互联网app</gui> 图标。您可以通过点击桌面图标浏览互联网。"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:33
@@ -1372,7 +1373,7 @@ msgid ""
 "You can also open this app by moving your mouse pointer to the "
 "<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
 "clicking once."
-msgstr "你也可以通过移动鼠标指针到屏幕左下角的< gui > 全球互联网< / gui >橙色图标并点击一次来打开这个应用程序。"
+msgstr "你也可以通过移动鼠标指针到屏幕左下角的<gui> 全球互联网</gui>橙色图标并点击一次来打开这个应用程序。"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:39
@@ -1412,7 +1413,7 @@ msgid ""
 "your desktop. You will be shown the top results that are already on your "
 "Endless computer, and it will also ask if you want to search the internet. "
 "Click on the option to search the internet."
-msgstr "你可以通过使用<linkxref = \" gs-use-system-search \" >全球搜索栏< /link>直接从你的桌面搜索互联网使用。首先,在桌面搜索栏上< gui >直接输入你寻找的东西< / gui >。结果会显示在Endless计算机上，它也会问你是否想搜索互联网。点击选择搜索互联网。"
+msgstr "你可以通过使用<link xref=\"gs-use-system-search\">全球搜索栏</link>直接从你的桌面搜索互联网使用。首先,在桌面搜索栏上<gui>直接输入你寻找的东西</gui>。结果会显示在Endless计算机上，它也会问你是否想搜索互联网。点击选择搜索互联网。"
 
 #. (itstool) path: info/desc
 #: C/gs-fix-overscan.page:19
@@ -1477,7 +1478,7 @@ msgstr "如何开始使用互联网？"
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
 "side of your screen will look like this <_:media-1/>."
-msgstr "如果你处于离线状态，屏幕右下端的网络连接图标会显示< _:media-1 / >。"
+msgstr "如果你处于离线状态，屏幕右下端的网络连接图标会显示<_:media-1/>。"
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:27
@@ -1486,7 +1487,7 @@ msgid ""
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
-msgstr "造成离线状态的原因较多：例如，网络电缆被拔出，电脑已经设置为< em >飞行模式 < / em >，或没有可用的无线网络。"
+msgstr "造成离线状态的原因较多：例如，网络电缆被拔出，电脑已经设置为<em>飞行模式 </em>，或没有可用的无线网络。"
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:34
@@ -1513,7 +1514,7 @@ msgstr "电脑为您设置了网络连接后，网络连接图标显示三个点
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to this <_:media-1/> networked computer symbol."
-msgstr "网络连接成功设置后,网络连接图标更改为< _:media-1 / >，表示连接了网络的计算机。"
+msgstr "网络连接成功设置后,网络连接图标更改为<_:media-1/>，表示连接了网络的计算机。"
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:56
@@ -1526,7 +1527,7 @@ msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
 "corner of your screen. You will see this icon <_:media-1/>. Click on it and "
 "a menu should appear."
-msgstr "你连接WI-FI了吗？寻找屏幕右下角的网络图标，你会看到<_:media-1 / 图标 。点击它，就会出现一个菜单。 "
+msgstr "你连接WI-FI了吗？寻找屏幕右下角的网络图标，你会看到<_:media-1/> 图标 。点击它，就会出现一个菜单。 "
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:66
@@ -1589,7 +1590,7 @@ msgstr "如何给我们建议？"
 #: C/gs-give-feedback.page:29
 msgid ""
 "Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr "点击屏幕左下角的< _:media-1 / >。"
+msgstr "点击屏幕左下角的<_:media-1/>。"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:35
@@ -1597,7 +1598,7 @@ msgid ""
 "Click the <gui>Give Us Feedback</gui> option. You can also access the "
 "feedback section by opening your browser and clicking the "
 "<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
-msgstr "点击< gui > 反馈意见< / gui >选项。您还可以通过打开您的浏览器并点击左下角的<gui > 反馈< / gui >按钮访问反馈部分。"
+msgstr "点击<gui> 反馈意见</gui>选项。您还可以通过打开您的浏览器并点击左下角的<gui> 反馈</gui>按钮访问反馈部分。"
 
 #. (itstool) path: item/p
 #: C/gs-give-feedback.page:42

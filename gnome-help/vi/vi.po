@@ -1,10 +1,11 @@
 # 
 # Translators:
+# Roddy Shuler <roddy@endlessm.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2017-02-10 02:37+0000\n"
+"PO-Revision-Date: 2017-02-14 18:07+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -1508,7 +1509,7 @@ msgstr "Trong khi máy tính thiết lập kết nối mạng cho bạn, biểu 
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to this <_:media-1/> networked computer symbol."
-msgstr "Ngay khi kết nối mạng đã được thiết lập thành công, biểu tượng kết nối mạng thay đổi thành  biểu tượng là máy tính đã được kết nối mạng <_: media-1/>."
+msgstr "Ngay khi kết nối mạng đã được thiết lập thành công, biểu tượng kết nối mạng thay đổi thành biểu tượng là máy tính đã được kết nối mạng <_:media-1/>."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:56
