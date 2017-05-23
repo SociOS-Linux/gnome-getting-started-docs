@@ -3,12 +3,13 @@
 # AlainLojewski <allomervan@gmail.com>, 2013
 # AlainLojewski <allomervan@gmail.com>, 2013
 # Alexandre Franke <alexandre.franke@gmail.com>, 2013
+# Marc Boisban <marc.boisban@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2015-08-11 11:56-0700\n"
-"PO-Revision-Date: 2016-12-14 07:12+0000\n"
-"Last-Translator: Vicki Niu <vicki@endlessm.com>\n"
+"PO-Revision-Date: 2017-05-22 06:25+0000\n"
+"Last-Translator: Marc Boisban <marc.boisban@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,7 +33,7 @@ msgstr "Alain Lojewski <allomervan@gmail.com>, 2013-2014\nAlexandre Franke <alex
 #: C/gs-give-feedback.page:8 C/gs-use-offline.page:8
 #: C/gs-use-system-search.page:15 C/gs-where-files.page:8
 msgid "Nuritzi Sanchez"
-msgstr ""
+msgstr "Nuritzi Sanchez"
 
 #. (itstool) path: credit/name
 #: C/endless-01-desktop.page:15 C/endless-02-folders.page:15
@@ -44,7 +45,7 @@ msgstr ""
 #: C/gs-fix-overscan.page:12 C/gs-give-feedback.page:12
 #: C/gs-use-offline.page:12 C/gs-where-files.page:12
 msgid "Endless Mobile, Inc."
-msgstr ""
+msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/endless-01-desktop.page:16 C/endless-02-folders.page:16
@@ -56,35 +57,35 @@ msgstr ""
 #: C/gs-fix-overscan.page:13 C/gs-give-feedback.page:13
 #: C/gs-use-offline.page:13 C/gs-where-files.page:13
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 #. (itstool) path: info/title
 #: C/endless-01-desktop.page:19
 msgctxt "link"
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "Présentation du bureau"
 
 #. (itstool) path: info/title
 #: C/endless-01-desktop.page:20
 msgctxt "sort"
 msgid "01"
-msgstr ""
+msgstr "01"
 
 #. (itstool) path: info/desc
 #: C/endless-01-desktop.page:21
 msgid "A video showing the basics of the Endless desktop."
-msgstr ""
+msgstr "Une vidéo qui présente les principes fondamentaux du bureau d'Endless."
 
 #. (itstool) path: page/title
 #: C/endless-01-desktop.page:24
 msgid "Introduction to the desktop"
-msgstr ""
+msgstr "Présentation du bureau"
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:34
 msgid ""
 "Welcome to Endless, the operating system that powers your new computer."
-msgstr ""
+msgstr "Bienvenue sur Endless, le système d'exploitation sous lequel votre nouvel ordinateur fonctionne."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:35
@@ -92,7 +93,7 @@ msgid ""
 "We have made everything simple and easy to use. You can find your apps and "
 "your documents folder right on your desktop. Click on them once to open "
 "them."
-msgstr ""
+msgstr "Nous en avons grandement simplifié l'utilisation. Vous pouvez trouver vos applications et votre dossier de documents sur votre bureau."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:38
@@ -104,7 +105,7 @@ msgid ""
 "that you can also easily access the internet, your documents folder, and a "
 "button to return to the desktop on the right hand side with you are in the "
 "hot corner view mode."
-msgstr ""
+msgstr "Votre ordinateur dispose d'un coin intelligent. Déplacez votre souris dans le coin inférieur droit et vous pourrez voir toutes vos applications et activités ouvertes. Vous pouvez ainsi facilement basculer d'une à l'autre ou les fermer en cliquant sur le bouton X noir qui apparaît en défilant dessus. Vous remarquerez que vous pouvez aussi accéder à Internet, à votre dossier de documents et à un bouton pour retourner au bureau sur le côté droit dans la vue du coin intelligent."
 
 #. (itstool) path: page/p
 #: C/endless-01-desktop.page:45
@@ -115,29 +116,29 @@ msgid ""
 "the task bar, you will find an icon to access the internet browser. When you"
 " finish using your computer, you'll be able to turn it off by clicking the "
 "user menu and selecting <gui>Exit</gui>."
-msgstr ""
+msgstr "La barre des tâches se situe en bas de votre écran. Elle vous permet d'accéder au Wi-Fi, au Bluetooth, au volume de votre ordinateur, au changement de la langue du clavier et de l'heure, et voir quelles applications sont ouvertes. Sur le côté gauche de la barre des tâches, vous trouverez une icône pour accéder au navigateur Internet. Après avoir terminé d'utiliser votre ordinateur, vous pourrez l'éteindre en cliquant sur le menu utilisateur et en sélectionnant <gui>Éteindre</gui>."
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:19
 msgctxt "link"
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "Ajouter des dossiers sur le bureau"
 
 #. (itstool) path: info/title
 #: C/endless-02-folders.page:20
 msgctxt "sort"
 msgid "02"
-msgstr ""
+msgstr "02"
 
 #. (itstool) path: info/desc
 #: C/endless-02-folders.page:21
 msgid "A video showing how to add a folder to the desktop."
-msgstr ""
+msgstr "Une vidéo qui explique comment ajouter un dossier sur le bureau."
 
 #. (itstool) path: page/title
 #: C/endless-02-folders.page:24
 msgid "Adding folders to the desktop"
-msgstr ""
+msgstr "Ajouter des dossiers sur le bureau"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:34
@@ -147,7 +148,7 @@ msgid ""
 "once on the folder called <gui>Games</gui>, you’ll find icons with the names"
 " of all the games in that folder. Click on a game once to open it and start "
 "playing!"
-msgstr ""
+msgstr "Votre ordinateur dispose d'un ensemble d'applications pré-installées sur le bureau et de quelques dossiers pour vous aider les organiser par catégorie. Par exemple, si vous cliquez une fois sur le dossier <gui>Jeux</gui>, vous y trouverez des icônes portant les noms des jeux. Cliquez une fois sur un jeu pour l'ouvrir et commencez à jouer !"
 
 #. (itstool) path: page/p
 #: C/endless-02-folders.page:38
@@ -1131,7 +1132,7 @@ msgstr "Premiers pas"
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:6
 msgid "Changing Wallpaper"
-msgstr "Modification du papier peint"
+msgstr "Modification du fond d'écran"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:7
@@ -1261,7 +1262,7 @@ msgstr "Arrière-plan"
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:30
 msgid "Wallpapers"
-msgstr "Papiers peints"
+msgstr "Fonds d'écran"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:31
@@ -1504,7 +1505,7 @@ msgstr "Si vous voulez une liaison filaire, branchez simplement le câble résea
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
-msgstr "Pendant que l'ordinateur configure une connexion réseau, l'îcone de connexion affiche trois points."
+msgstr "Pendant que l'ordinateur configure une connexion réseau, l’icône de connexion affiche trois points."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:45 C/gs-get-online.page:80
