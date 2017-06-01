@@ -4,13 +4,7 @@ HELP_ID = gnome-help
 
 HELP_LINGUAS = as bn ca cs da de el es fi fr gl gu he hi hu id it ja kn ko lv mr nl pa pl pt pt_BR ru sk sv ta te th vi zh_CN zh_HK zh_TW
 
-HELP_MEDIA = \
-	figures/gnome-change-wallpaper.webm \
-	figures/gnome-launching-applications.webm \
-	figures/gnome-responding-to-messages.webm \
-	figures/gnome-task-switching.webm \
-	figures/gnome-timezone.webm \
-	figures/gnome-windows-and-workspaces.webm
+HELP_MEDIA =
 
 # Please ASK MAINTAINERS first before updating the HELP_FILES list below.
 # Keep in mind that some files are missing on purpose.
