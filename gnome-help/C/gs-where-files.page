@@ -30,8 +30,8 @@
 
     <steps>
       <item>
-        <p>From the desktop, click on the <app>global search bar</app> at the top
-         of your screen that says <gui>Type to search...</gui>. Start typing the
+        <p>From the desktop, click on the <gui>global search bar</gui> at the top
+         of your screen that says "Search Google and more..." Start typing the
          name of the file you are looking for.</p>
         <p>Results matching what you have typed will appear as you type. The first
          result is always highlighted and shown at the top.</p>

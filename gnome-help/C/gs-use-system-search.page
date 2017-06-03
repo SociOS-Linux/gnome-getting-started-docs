@@ -29,8 +29,8 @@
     
   <steps>
     <item>
-      <p>From the desktop, click on the <app>global search bar</app> at the top
-       of your screen that says <gui>Type to search...</gui>. Start typing to
+      <p>From the desktop, click on the <gui>global search bar</gui> at the top
+       of your screen that says "Search Google and more..." Start typing to
        search.</p>
       <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop.png"/>
     </item>
