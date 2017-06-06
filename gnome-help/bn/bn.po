@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-06-01 16:35-0700\n"
-"PO-Revision-Date: 2017-06-01 23:37+0000\n"
+"POT-Creation-Date: 2017-06-05 22:29-0700\n"
+"PO-Revision-Date: 2017-06-06 05:51+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -351,40 +351,39 @@ msgstr "আমি টাস্ক বা বা শুরু তালিকা 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
 msgid ""
-"If you do not see the task bar at the bottom of your screen with the user "
-"menu on the left and the time and facebook icon on the right, you need to "
-"adjust your screen to fit your TV."
-msgstr "আপনি যদি আপনার পর্দার নিচের দিকে টাস্ক বার না দেখতে পান বামে ব্যবহারকারী তালিকা দিয়ে আর ডানে সময় ও ফেসবুক আইকন, তাহলে আপনাকে আপনার টিভির পর্দার সাথে  আপনার পর্দাটা ঠিক করে নিতে হবে। "
+"If you do not see the black task bar at the bottom of your screen, you need "
+"to adjust your screen to fit your TV."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-fix-overscan.page:29
+#: C/gs-fix-overscan.page:28
 msgid "To adjust your screen:"
 msgstr "আপনার পর্দা ঠিক করুন: "
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:32
+#: C/gs-fix-overscan.page:31
 msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
 msgstr "ডেস্কটপে ডানে ক্লিক করুন এবং  <gui>\"পেছন পরিবর্তন...\"</gui> নির্বাচন করুন। "
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:37
+#: C/gs-fix-overscan.page:36
 msgid "Click the back button on the top left corner of the dialog box."
 msgstr "ওপরের বাম কোণার ডায়ালগ বাক্সের পেছন বোতামে ক্লিক করুন। "
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:41
+#: C/gs-fix-overscan.page:40
 msgid "Select the <gui>Displays</gui> icon."
 msgstr "নির্বাচন করুন  <gui>প্রদর্শন</gui> আইকন। "
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:45
+#: C/gs-fix-overscan.page:44
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
 msgstr " <gui>পরিমাপণ</gui> -এর পাশের ডায়ালগ বাক্স দেখুন যেখানে বলেছে <gui>\"টিভির জন্য পর্দা ঠিক করুন\"</gui> । "
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:50
+#: C/gs-fix-overscan.page:49
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
@@ -500,44 +499,18 @@ msgstr "এন্ডলেসের কোন জিনিষটা আপনা
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
+msgid ""
+"Click on the <gui>Give Us Feedback</gui> link in this Help Center app and "
+"let us know."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-give-feedback.page:26
 msgid "We want to hear from you!"
 msgstr "আমরা আপনার কাছ থেকে শুনতে চাই! "
 
-#. (itstool) path: steps/title
-#: C/gs-give-feedback.page:27
-msgid "Here's how to give us your feedback:"
-msgstr "দেখুন কীভাবে আমাদেরকে ফিডব্যাক দেবেন: "
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:29
-msgid ""
-"Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr "আপনার পর্দার বাম হাতের কোণায়  <_:media-1/> -তে ক্লিক করুন "
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:35
-msgid ""
-"Click the <gui>Give Us Feedback</gui> option. You can also access the "
-"feedback section by opening your browser and clicking the "
-"<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
-msgstr "ক্লিক করুন <gui>আমাদের ফিডব্যাক দিন</gui> -এ। আপনি ফিডব্যাক বিভাগে যেতে পারেন ব্রাউজার খুলে এর বাম হাতের দিকে কোণায় <gui>ফিডব্যাক</gui> -এ ক্লিক করুন। "
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:42
-msgid ""
-"Enter in your comment, name and email address. You must fill in all three "
-"fields in order to submit your feedback."
-msgstr "আপনার মন্তব্য, নাম ও ইমেল ঠিকানা  লিখুন। আপনাকে অবশ্যই তিনটি স্থানই পূরণ করতে হবে আমাদেরকে ফিডব্যাক দিতে হলে। "
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:47
-msgid ""
-"You will receive a confirmation email to let you know that we have received "
-"your feedback. We will try to get back to you as soon as we can."
-msgstr "আপনি একটি নিশ্চিতকরণ বার্তা পাবেন ইমেলে যেখানে আমার জানাব যে আপনার ফিডব্যাকটি পেয়েছি। যত দ্রুত সম্ভব, আমার আপনার সাথে যোগাযোগ করব। "
-
 #. (itstool) path: note/p
-#: C/gs-give-feedback.page:54
+#: C/gs-give-feedback.page:30
 msgid ""
 "Please note that you will need an internet connection in order to submit "
 "your feedback."
@@ -1218,227 +1191,117 @@ msgstr "ডেস্কটপ থেকে ক্লিক করুন <app>আ
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:43
 msgid ""
-"Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
-"<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
-"section."
-msgstr "ক্লিক করুন প্রতিটা বিভাগে যেমন <gui>শিক্ষা</gui>, <gui>খেলা</gui>, <gui>রিসোর্সসমূহ</gui> and <gui>ব্যবহারোপযোগী</gui>,  প্রতিটি অংশ দেখার জন্য।  "
+"Click on a category like <gui>Learning</gui>, <gui>Games</gui>, and "
+"<gui>Utilities</gui>, to see the apps in each section."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:49
+#: C/gs-use-offline.page:48
 msgid ""
 "Click on an app to read more about it and either install it or add it to "
 "your desktop."
 msgstr "কোন অ্যাপে ক্লিক করুন পড়ার জন্য এবং সেটা হয় ইনস্টল করুন বা তা ডেস্কটপে যোগ করুন।  "
 
 #. (itstool) path: section/title
-#: C/gs-use-offline.page:57
+#: C/gs-use-offline.page:56
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
 "<app>App Center</app>:"
 msgstr "আপনার ডেস্কটপে অফলাইন বিষয়ের কিছু উদাহরণ আছে <app>অ্যাপ কেন্দ্র</app>  -এ : "
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:61
-msgid "Education"
-msgstr "শিক্ষা "
+#: C/gs-use-offline.page:60
+msgid "Learning"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:63
-msgid ""
-"<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
-"encyclopedia with all the power of the internet's best."
-msgstr "<app>বিশ্বকোষ</app> -  প্রায় সব কিছু জানার জন্য দেখুন। একটি অফলাইন বিশ্বকোষ যার ইন্টারনেটের সমস্ত ক্ষমতা আছে।  "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:67
-msgid ""
-"<app>Virtual School</app> - Hundreds of videos to help you lean more about "
-"your favorite subjects, or to help you understand subjects that are "
-"difficult for you."
-msgstr "<app>ভার্চুয়াল বিদ্যালয়</app> - শতশত ভিডিও আছে আপনাকে আপনার সবচাইতের পছন্দের বিষয় সম্পর্কে জানতে সাহায্য করার জন্য, বা যে সব বিষয় কঠিন আপনার জন্য তা বুঝতে সাহায্য করা।  "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:72
+#: C/gs-use-offline.page:62
 msgid ""
 "<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
 " help children of all ages develop their mental abilities."
 msgstr "<app>শিক্ষা খেলা</app> - দাবা, ধাঁধাঁ এবং আরও অনেক খেলা এবং কর্মকাণ্ড আছে সব বয়সের শিশুদের মানসিক সক্ষমতার উন্নয়নে সাহায্য করার জন্য।  "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:77
+#: C/gs-use-offline.page:67
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
 msgstr "<app>টাক্স অংক</app> - শিশুদের মজাদার উপায়ে যোগ, বিয়োগ, গুণ ও আরও কিছু শেখানো।  "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:81
+#: C/gs-use-offline.page:71
 msgid ""
 "<app>Tux Typing</app> - Learn how to type with this game that guides you and"
 " helps you practice so that you can type faster and more accurately."
 msgstr "<app>টাক্স লিখন</app> - কীভাবে লিখবেন এই খেলাটি দিয়ে শিখুন যা আপনাকে শেখানে এবং সাহায্য করবে আপনি যেন দ্রুত ও নিখুঁতভাবে লেখায় অনুশীলন করতে।  "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:86
-msgid ""
-"<app>World Literature</app> - Read many of the world's greatest stories."
-msgstr "<app>বিশ্ব সাহিত্য</app> - পড়ুন বিশ্বের মহান কাহিনীগুলো।  "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:90
+#: C/gs-use-offline.page:76
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
 msgstr "<app> প্রাণী</app> - জানুন আপনার প্রিয় প্রাণী সম্পর্কে, এবং যেসব প্রাণী আছে বলেই আপনি জানতেন না! "
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:96
+#: C/gs-use-offline.page:82
 msgid "Games"
 msgstr "খেলা "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:98
+#: C/gs-use-offline.page:84
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
 msgstr "<app>টাক্স কার্ট</app> - আপনার বন্ধুদের কম্পিউটারের সাথে পাল্লা দিন। চরম শক্তি নিন আর প্রথম হয়ে শেষ করতে ফাঁদ এড়িয়ে চলুন!  "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:102
+#: C/gs-use-offline.page:88
 msgid ""
 "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
 msgstr "<app>আলু মানব</app> - জনাব আলু মানবের চেহারা ও চরিত্র তৈরি করুন।  "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:106
+#: C/gs-use-offline.page:92
 msgid ""
 "<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
 " you get to the next level."
 msgstr "<app>বোকা পদার্থবিজ্ঞান</app> - জিনিষের ছনি আঁজুন এবং পরের স্তরের উঠতে পদার্থবিজ্ঞানের সূত্র ব্যবহার করুন।  "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:110
+#: C/gs-use-offline.page:96
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
 msgstr "<app>X-মোটো</app> - আপনার মোটরসাইকেলটি নিয়ে ঢিবির ওপরে উঠতে এবং বস্তুর কাছে নিতে চেষ্টা করুন যত দ্রুত সম্ভব প্রতিটা কোর্স শেষ করতে।  "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:114
+#: C/gs-use-offline.page:100
 msgid ""
 "<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
 " that you don't blow up. This strategy game is addictive."
 msgstr "<app>বোমাপরীক্ষা</app> - যে সব স্থানের নিচে বোমা আছে তা এড়িয়ে চলুন যে আপনি উড়ে না যান। এই কৌশলের খেলাটি আসক্তির সৃষ্টি করে।  "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:118
+#: C/gs-use-offline.page:104
 msgid ""
 "<app>Blockout2</app> - A tetris-like game where you need to match the colors"
 " as best you can before the screen fills up and you lose."
 msgstr "<app>ব্লকআউট2</app> - টেট্রিসের মত খেলা যেখানে আপনাকে রং মেলাতে হবে খুব ভালভাবে পুরো পর্দা ভরে গিয়ে আপনি হেরে যাবার আগেই।  "
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:124
-msgid "Resources"
-msgstr "সম্পদ "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:126
-msgid ""
-"<app>Writer</app> - Write papers for school, work or for anything else you "
-"need. Compatible with Microsoft's Word."
-msgstr "<app>লেখক</app> - বিদ্যালয়, কাজ বা যে কোন কিছুর জন্য পেপার লিখুন। মাইক্রোসফট ওয়ার্ডের সাথে সামঞ্জস্যপূর্ণ।  "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:130
-msgid ""
-"<app>Presentation</app> - Create beautiful presentations! Compatible with "
-"Microsoft's Powerpoint."
-msgstr "<app>উপস্থাপনা</app> - চমৎকার উপস্থাপনা তৈরি করুন! মাইক্রোসফট পাওয়ারপয়েন্টের সাথে সামঞ্জস্যপূর্ণ।  "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:134
-msgid ""
-"<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
-"yourself in ways you never thought possible with this powerful spreadsheet "
-"app. Compatible with Microsoft's Excel."
-msgstr "<app>স্প্রেডশিট</app> - সহজ অংক করুন, বা নিজেকে এমনভাবে গুছিয়ে নিন যা আপনি এই শক্তিশাকী স্প্রেডশিট অ্যাপ দিয়ে করা সম্ভব বলে আপনার মনে হয়নি। মাইক্রোদফট এক্সেলের সাথে সামঞ্জস্যপূর্ণ। "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:139
-msgid ""
-"<app>Resume</app> - Learn how to make a great resume to help you find your "
-"ideal job."
-msgstr "<app>জীবনবৃত্তান্ত</app> - শিখে নিন কীভাবে আপনার আদর্শ চাকুরী খুঁজে পেতে দারুণ জীবনবৃত্তান্ত  তৈরি করবেন।  "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:143
-msgid ""
-"<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
-"yourself and your family healthy."
-msgstr "<app>স্বাস্থ্য</app> - দেখুন অসুখ, নিরাময় এবং জানুন কীভাবে আপনি ও আপনার পরিবার সুস্থ থাকবেন।  "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:147
-msgid ""
-"<app>How To</app> - Learn how to do just about anything with this handy app."
-msgstr "<app>কীভাবে</app> - কীভাবে যে কোন কিছু করবেন এই সুবিধাজনক অ্যাপ থেকে শিখুন। "
-
-#. (itstool) path: list/title
-#: C/gs-use-offline.page:153
-msgid "Entertainment"
-msgstr "বিনোদন "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:155
-msgid ""
-"<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
-" webcam, not included with Endless."
-msgstr "<app>চিজ</app> - বন্ধু আর পরিবারের সাথে মজার ছবি তুলুন! *ওয়েবক্যাম লাগবে যা এন্ডলেসের সাথে দেয়া নেই। "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:159
-msgid ""
-"<app>Videos</app> - Watch some of the pre-installed videos that come with "
-"Endless, or transfer videos from a USB or DVD and watch them on this great "
-"and easy-to use media player."
-msgstr "<app>ভিডিও</app> - এন্ডলেসে আগে থেকেই রাখা ভিডিও দেখুন, অথবা ইউএসবি বা ডিভিডি থেকে ভিডিও স্থানান্তর করুন এবং সেগুলো দারুণ ও সহজ-ব্যবহারযোগ্য মিডিয়া প্লেয়ারে দেখুন।  "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:164
-msgid ""
-"<app>Myths and Legends</app> - Read about myths and legends from all over "
-"the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr "<app>পৌরাণিক এবং কিংবদন্তী</app> - সারা পৃথিবীর পৌরাণিক এবং কিংবদন্তী সম্পর্কে পড়ুন!  লা লোরনা থেকে বিগ ফুট পর্যন্ত সব এবং আরও অনেক কিছু  "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:169
-msgid ""
-"<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
-"stars, and other celebrities"
-msgstr "<app>তারকা</app> - আপনার পছন্দের ক্রীড়া, চলচ্চিত্র, এবং অন্য তারকাদের সম্পর্কে জানুন "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:173
-msgid ""
-"<app>Travel</app> - Read about places around the world and see beautiful "
-"pictures that will make you feel like you're actually there!"
-msgstr "<app>ভ্রমণ</app> - পৃথিবীর বিভিন্ন স্থান সম্পর্কে পড়ুন এবং এবং সুন্দর ছবি দেখুন যেন আপনি আসলেই সেখানে আছেন!  "
-
-#. (itstool) path: list/title
-#: C/gs-use-offline.page:180
+#: C/gs-use-offline.page:110
 msgid "Utility"
 msgstr "উপযোগী "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:182
+#: C/gs-use-offline.page:112
 msgid ""
 "<app>Notes</app> - A handy app to help you jot down things you don't want to"
 " forget!"
 msgstr "<app>নোট</app> - আপনি ভুলে যেতে চান না এমন কথা টুকে রাখার জন্য একটি সুবিধাজনক অ্যাপ! "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:186
+#: C/gs-use-offline.page:116
 msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
@@ -1446,14 +1309,14 @@ msgid ""
 msgstr "<app>ভিডিও সম্পাদক</app> - আপনার ফোনে ভিডিও তুলুন এবং মাস্টারপিস তৈরি করতে সম্পাদনা করুন, বা স্রেফ আগে থেকে আছে এমন ভিডিওর অংশ নিন এবং নিজস্ব কিছু একটা বানান!  "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:191
+#: C/gs-use-offline.page:121
 msgid ""
 "<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
 " and more, to make them even more awesome!"
 msgstr "<app>আলোকচিত্র সম্পাদক</app> - ফিল্টার আর বর্ডার যোগ করুন আপনার আলোকচিত্রে, ছোট করুন, এবং আরও অনেক কিছু, সেগুলোকে আরও দারুণ করে তুলতে!  "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:195
+#: C/gs-use-offline.page:125
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
@@ -1483,9 +1346,9 @@ msgstr "খোঁজাকে আরও সহজ করে গ্লোবা�
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at the top of "
-"your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr "ডেস্কটপের পর্দার ওপরে <app>গ্লোবাল সার্চ বার</app> - এ  ক্লিক করুন যেখানে লেখা আছে <gui>খুঁজতে লিখুন...</gui> । এবার খুঁজতে লিখুন। "
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing to search."
+msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
@@ -1611,10 +1474,10 @@ msgstr "আপনি যদি আপনার ফাইলের নাম জ�
 #. (itstool) path: item/p
 #: C/gs-where-files.page:33
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at the top of "
-"your screen that says <gui>Type to search...</gui>. Start typing the name of"
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing the name of"
 " the file you are looking for."
-msgstr "ডেস্কটপের পর্দার ওপরে <app>গ্লোবাল সার্চ বার</app> - এ ক্লিক করুন যেখানে লেখা আছে <gui>খুঁজতে লিখুন...</gui> । এবার যে ফাইলটা খুঁজছেন সেটার নাম লিখুন। "
+msgstr ""
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58

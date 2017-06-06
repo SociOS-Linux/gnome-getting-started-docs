@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-06-01 16:35-0700\n"
-"PO-Revision-Date: 2017-06-01 23:37+0000\n"
+"POT-Creation-Date: 2017-06-05 22:29-0700\n"
+"PO-Revision-Date: 2017-06-06 05:51+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -351,40 +351,39 @@ msgstr "Tôi không nhìn thấy thanh tác vụ hay trình đơn bắt đầu, 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
 msgid ""
-"If you do not see the task bar at the bottom of your screen with the user "
-"menu on the left and the time and facebook icon on the right, you need to "
-"adjust your screen to fit your TV."
-msgstr "Nếu bạn không thấy thanh tác vụ ở phía cuối màn hình của bạn cùng với trình đơn người dùng ở bên trái và thời gian cũng như biểu tượng facebook ở bên phải, thì bạn cần điều chỉnh màn hình của bạn cho khớp với Tivi."
+"If you do not see the black task bar at the bottom of your screen, you need "
+"to adjust your screen to fit your TV."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-fix-overscan.page:29
+#: C/gs-fix-overscan.page:28
 msgid "To adjust your screen:"
 msgstr "Để điều chỉnh màn hình của bạn:"
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:32
+#: C/gs-fix-overscan.page:31
 msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
 msgstr "Nhấp chuột phải vào desktop và chọn <gui>\"Change Background...\"</gui> (Thay đổi Ảnh nền...)."
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:37
+#: C/gs-fix-overscan.page:36
 msgid "Click the back button on the top left corner of the dialog box."
 msgstr "Nhấp vào nút quay lại ở góc trái phía trên của hộp thoại."
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:41
+#: C/gs-fix-overscan.page:40
 msgid "Select the <gui>Displays</gui> icon."
 msgstr "Chọn biểu tượng <gui>Hiển thị</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:45
+#: C/gs-fix-overscan.page:44
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
 msgstr "Chọn hộp thoại kế bên <gui>Đặt tỷ lệ</gui> có nội dung <gui>\"Điều chỉnh màn hình cho TV\"</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:50
+#: C/gs-fix-overscan.page:49
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
@@ -500,44 +499,18 @@ msgstr "Bạn yêu thích những điều gì về Endless? Có bất kỳ đi�
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
+msgid ""
+"Click on the <gui>Give Us Feedback</gui> link in this Help Center app and "
+"let us know."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-give-feedback.page:26
 msgid "We want to hear from you!"
 msgstr "Chúng tôi muốn nghe từ bạn!"
 
-#. (itstool) path: steps/title
-#: C/gs-give-feedback.page:27
-msgid "Here's how to give us your feedback:"
-msgstr "Đây là cách bạn gửi phản hồi cho chúng tôi:"
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:29
-msgid ""
-"Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr "Nhấp chuột vào nút <_:media-1/> ở góc trái phía cuối màn hình của bạn."
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:35
-msgid ""
-"Click the <gui>Give Us Feedback</gui> option. You can also access the "
-"feedback section by opening your browser and clicking the "
-"<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
-msgstr "Nhấp vào tùy chọn <gui>Phản hồi</gui>. Bạn cũng có thể truy cập vào mục phản hồi bằng cách mở trình duyệt và nhấp vào nút <gui>Phản hồi</gui> ở góc dưới cùng bên trái của trình duyệt."
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:42
-msgid ""
-"Enter in your comment, name and email address. You must fill in all three "
-"fields in order to submit your feedback."
-msgstr "Nhập bình luận, tên và địa chỉ email của bạn. Bạn phải điền vào cả ba mục để gửi phản hồi."
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:47
-msgid ""
-"You will receive a confirmation email to let you know that we have received "
-"your feedback. We will try to get back to you as soon as we can."
-msgstr "Bạn sẽ nhận được email xác nhận cho biết chúng tôi đã nhận được phản hồi của bạn. Chúng tôi sẽ cố gắng liên hệ lại với bạn sớm nhất có thể."
-
 #. (itstool) path: note/p
-#: C/gs-give-feedback.page:54
+#: C/gs-give-feedback.page:30
 msgid ""
 "Please note that you will need an internet connection in order to submit "
 "your feedback."
@@ -1218,227 +1191,117 @@ msgstr "Nhấp vào <app>More Apps</app> trên màn hình nền."
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:43
 msgid ""
-"Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
-"<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
-"section."
-msgstr "Nhấp vào một danh mục như <gui>Giáo dục</gui>, <gui>Trò chơi</gui>, <gui>Tài nguyên</gui> và <gui>Tiện ích</gui> để xem các ứng dụng trong mỗi mục."
+"Click on a category like <gui>Learning</gui>, <gui>Games</gui>, and "
+"<gui>Utilities</gui>, to see the apps in each section."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:49
+#: C/gs-use-offline.page:48
 msgid ""
 "Click on an app to read more about it and either install it or add it to "
 "your desktop."
 msgstr "Nhấp vào một ứng dụng để đọc thêm thông tin và để hoặc cài đặt hoặc đưa lên màn hình nền của bạn."
 
 #. (itstool) path: section/title
-#: C/gs-use-offline.page:57
+#: C/gs-use-offline.page:56
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
 "<app>App Center</app>:"
 msgstr "Đây là vài ví dụ về các nội dung ngoại tuyến trên màn hình nền của bạn và trong <app>App Center</app>:"
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:61
-msgid "Education"
-msgstr "Giáo dục"
+#: C/gs-use-offline.page:60
+msgid "Learning"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:63
-msgid ""
-"<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
-"encyclopedia with all the power of the internet's best."
-msgstr "<app>Encyclopedia</app> - Tìm kiếm để tìm hiểu gần như về tất cả mọi thứ. Một bách khoa toàn thư ngoại tuyến chứa đựng tất cả sức mạnh tuyệt vời nhất của internet."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:67
-msgid ""
-"<app>Virtual School</app> - Hundreds of videos to help you lean more about "
-"your favorite subjects, or to help you understand subjects that are "
-"difficult for you."
-msgstr "<app>Trường Ảo</app> - Hàng trăm video giúp bạn học được nhiều hơn về các môn học yêu thích của bạn, hoặc giúp bạn hiểu rõ những môn học khó đối với bạn."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:72
+#: C/gs-use-offline.page:62
 msgid ""
 "<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
 " help children of all ages develop their mental abilities."
 msgstr "<app>Trò chơi Giáo dục</app> - Cờ, câu đố cùng nhiều trò chơi và hoạt động khác giúp trẻ em mọi lứa tuổi phát triển khả năng trí tuệ của trẻ."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:77
+#: C/gs-use-offline.page:67
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
 msgstr "<app>Tux Math</app> - Một cách vui nhộn để trẻ em thực hành phép cộng, phép trừ, phép nhân và nhiều thứ khác."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:81
+#: C/gs-use-offline.page:71
 msgid ""
 "<app>Tux Typing</app> - Learn how to type with this game that guides you and"
 " helps you practice so that you can type faster and more accurately."
 msgstr "<app>Tux Typing</app> - Tìm hiểu cách đánh máy với trò chơi này. Trò chơi này sẽ hướng dẫn cách đánh máy và giúp bạn tập luyện để bạn có thể đánh máy nhanh hơn và chính xác hơn."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:86
-msgid ""
-"<app>World Literature</app> - Read many of the world's greatest stories."
-msgstr "<app>World Literature</app> (Văn học Thế giới) – Đọc nhiều câu chuyện vĩ đại nhất thế giới."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:90
+#: C/gs-use-offline.page:76
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
 msgstr "<app>Động vật</app> - Tìm hiểu thêm về loài vật bạn yêu thích, và về các loài mà bạn chưa từng biết đến!"
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:96
+#: C/gs-use-offline.page:82
 msgid "Games"
 msgstr "Trò chơi"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:98
+#: C/gs-use-offline.page:84
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
 msgstr "<app>Tux Kart</app> - Thi đua với máy tính hoặc với bạn bè. Có được năng lực siêu nhiên và tránh những cái bẫy để đến đích trước."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:102
+#: C/gs-use-offline.page:88
 msgid ""
 "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
 msgstr "<app>Potato Guy</app> - Tạo một khuôn mặt và đặc điểm cho Ngài Khoai Tây."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:106
+#: C/gs-use-offline.page:92
 msgid ""
 "<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
 " you get to the next level."
 msgstr "<app>Vật lý Vui</app> - Vẽ các vật thể và sử dụng các định luật vật lý để giúp bạn tiến đến cấp độ tiếp theo."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:110
+#: C/gs-use-offline.page:96
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
 msgstr "<app>X-Moto</app> - Cố gắp đi xe đạp lên đồi và đi vòng quanh các đối tượng càng nhanh càng tốt để hoàn tất mỗi khóa học."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:114
+#: C/gs-use-offline.page:100
 msgid ""
 "<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
 " that you don't blow up. This strategy game is addictive."
 msgstr "<app>Minetest</app> - Tránh những khu vực chôn mìn c bên dưới để bạn không bị nổ tung. Trò chơi chiến lược này đang gây sốt."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:118
+#: C/gs-use-offline.page:104
 msgid ""
 "<app>Blockout2</app> - A tetris-like game where you need to match the colors"
 " as best you can before the screen fills up and you lose."
 msgstr "<app>Blockout2</app> - Một trò chơi tương tự Tetris, trong đó bạn phải cố xếp màu cho tốt trước khi màn hình đầy và bạn thua cuộc."
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:124
-msgid "Resources"
-msgstr "Nguồn lực"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:126
-msgid ""
-"<app>Writer</app> - Write papers for school, work or for anything else you "
-"need. Compatible with Microsoft's Word."
-msgstr "<app>Writer</app> - Viết tài liệu học tập, công việc hoặc bất kỳ thứ gì bạn cần. Tương thích với Word của Microsoft."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:130
-msgid ""
-"<app>Presentation</app> - Create beautiful presentations! Compatible with "
-"Microsoft's Powerpoint."
-msgstr "<app>Bản trình bày</app> - Tạo ra các bản trình bày đẹp mắt! Tương thích với Microsoft Powerpoint."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:134
-msgid ""
-"<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
-"yourself in ways you never thought possible with this powerful spreadsheet "
-"app. Compatible with Microsoft's Excel."
-msgstr "<app>Spreadsheet</app> (Bảng tính) – Thực hiện các phép tính đơn giản hay phức tạp, hoặc tự sắp xếp theo những cách mà bạn chưa từng nghĩ là có thể nhờ ứng dụng bảng tính mạnh mẽ này. Tương thích với Excel của Microsoft."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:139
-msgid ""
-"<app>Resume</app> - Learn how to make a great resume to help you find your "
-"ideal job."
-msgstr "<app>Resume</app> (Khôi phục) - Tìm hiểu cách tạo ra sơ yếu lý lịch tuyệt vời để giúp bạn tìm thấy công việc lý tưởng của mình."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:143
-msgid ""
-"<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
-"yourself and your family healthy."
-msgstr "<app>Health</app> - Tra cứu bệnh, cách điều trị và tìm hiểu cách giữ sức khỏe cho chính bạn và gia đình của bạn."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:147
-msgid ""
-"<app>How To</app> - Learn how to do just about anything with this handy app."
-msgstr "<app>Cách thực hiện</app> - Tìm hiểu cách thực hiện mọi việc với ứng dụng tiện lợi này."
-
-#. (itstool) path: list/title
-#: C/gs-use-offline.page:153
-msgid "Entertainment"
-msgstr "Giải trí"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:155
-msgid ""
-"<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
-" webcam, not included with Endless."
-msgstr "<app>Cheese</app> (Pho mát) - Chụp ảnh vui nhộn cùng với bạn bè và gia đình! * Cần có webcam, không có trong Endless."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:159
-msgid ""
-"<app>Videos</app> - Watch some of the pre-installed videos that come with "
-"Endless, or transfer videos from a USB or DVD and watch them on this great "
-"and easy-to use media player."
-msgstr "<app>Videos</app> – Xem một số video cài sẵn đi liền với Endless, hoặc chuyển video từ một USB hoặc ổ DVD và xem video trên trình phát đa phương tiện tuyệt vời và dễ dùng này."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:164
-msgid ""
-"<app>Myths and Legends</app> - Read about myths and legends from all over "
-"the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr "<app>Thần thoại và Truyền thuyết</app> - Đọc về các thần thoại và truyền thuyết từ khắp nơi trên thế giới! Mọi thứ từ câu chuyện Tình nữ khóc than La Llorona đến Quái vật Big Foot và nhiều câu chuyện khác"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:169
-msgid ""
-"<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
-"stars, and other celebrities"
-msgstr "<app>Người nổi tiếng</app> - Nắm bắt thông tin về các ngôi sao thể thao và điện ảnh yêu thích của bạn, và những người nổi tiếng khác"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:173
-msgid ""
-"<app>Travel</app> - Read about places around the world and see beautiful "
-"pictures that will make you feel like you're actually there!"
-msgstr "<app>Travel</app> - Đọc về các nơi trên thế giới và xem những bức ảnh đẹp để khiến bạn cảm thấy như mình đang thực sự ở đó!"
-
-#. (itstool) path: list/title
-#: C/gs-use-offline.page:180
+#: C/gs-use-offline.page:110
 msgid "Utility"
 msgstr "Tiện ích"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:182
+#: C/gs-use-offline.page:112
 msgid ""
 "<app>Notes</app> - A handy app to help you jot down things you don't want to"
 " forget!"
 msgstr "<app>Ghi chú</app> - Một ứng dụng tiện lợi giúp bạn ghi lại những điều bạn không muốn quên!"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:186
+#: C/gs-use-offline.page:116
 msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
@@ -1446,14 +1309,14 @@ msgid ""
 msgstr "<app>Video Editor</app> - Quay  video bằng điện thoại và chỉnh sửa chúng để tạo ra những kiệt tác, hoặc đơn giản là lấy một video clip sẵn có và biến nó trở thành thứ gì đó riêng của bạn!"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:191
+#: C/gs-use-offline.page:121
 msgid ""
 "<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
 " and more, to make them even more awesome!"
 msgstr "<app>Photo Editor</app> - Thêm các bộ lọc và đường viền vào ảnh, xén ảnh và nhiều tính năng khác để các bức ảnh của bạn tuyệt vời hơn nữa!"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:195
+#: C/gs-use-offline.page:125
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
@@ -1483,9 +1346,9 @@ msgstr "Thanh tìm kiếm toàn cầu khiến cho việc tìm kiếm trở nên 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at the top of "
-"your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr "Từ màn hình nền, nhấp vào <app>thanh tìm kiếm toàn cầu</app> ở phía trên cùng của màn hình có dòng chữ <gui>Gõ để tìm kiếm...</gui>. Bắt đầu gõ để tìm kiếm."
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing to search."
+msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
@@ -1611,10 +1474,10 @@ msgstr "Nếu bạn biết tên tệp của mình, khi đó bạn có thể dễ
 #. (itstool) path: item/p
 #: C/gs-where-files.page:33
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at the top of "
-"your screen that says <gui>Type to search...</gui>. Start typing the name of"
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing the name of"
 " the file you are looking for."
-msgstr "Từ màn hình nền máy tính, nhấp chuột vào <app>thanh tìm kiếm toàn cầu</app> ở phía trên của màn hình với dòng chữ <gui>Gõ để tìm kiếm...</gui> (Type to search...).  Bắt đầu gõ tên của tập tin bạn cần tìm."
+msgstr ""
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58

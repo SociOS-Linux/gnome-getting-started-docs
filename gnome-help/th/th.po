@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-06-01 16:35-0700\n"
-"PO-Revision-Date: 2017-06-01 23:37+0000\n"
+"POT-Creation-Date: 2017-06-05 22:29-0700\n"
+"PO-Revision-Date: 2017-06-06 05:51+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Thai (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/th/)\n"
 "MIME-Version: 1.0\n"
@@ -351,40 +351,39 @@ msgstr "ฉันไม่เห็นแถบงานหรือเมนู
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
 msgid ""
-"If you do not see the task bar at the bottom of your screen with the user "
-"menu on the left and the time and facebook icon on the right, you need to "
-"adjust your screen to fit your TV."
-msgstr "หากคุณไม่เห็นแถบงานที่ด้านล่างของหน้าจอโดยมีเมนูผู้ใช้อยู่ทางด้านซ้าย และเวลากับไอคอน Facebook อยู่ทางด้านขวา คุณจะเป็นต้องปรับหน้าจอให้พอดีกับทีวี "
+"If you do not see the black task bar at the bottom of your screen, you need "
+"to adjust your screen to fit your TV."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-fix-overscan.page:29
+#: C/gs-fix-overscan.page:28
 msgid "To adjust your screen:"
 msgstr "ในการปรับหน้าจอ:"
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:32
+#: C/gs-fix-overscan.page:31
 msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
 msgstr "คลิกขวาที่เดสก์ท็อปและเลือก <gui>\"เปลี่ยนพื้นหลัง...\"</gui>"
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:37
+#: C/gs-fix-overscan.page:36
 msgid "Click the back button on the top left corner of the dialog box."
 msgstr "คลิกปุ่มกลับตรงมุมซ้ายบนของกล่องไดอะล็อก"
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:41
+#: C/gs-fix-overscan.page:40
 msgid "Select the <gui>Displays</gui> icon."
 msgstr "เลือกไอคอน <gui>แสดง</gui>"
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:45
+#: C/gs-fix-overscan.page:44
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
 msgstr "เลือกกล่องไดอะล็อกข้างๆ <gui>สัดส่วน</gui>ที่เขียนว่า <gui>\"ปรับหน้าจอสำหรับทีวี\"</gui>"
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:50
+#: C/gs-fix-overscan.page:49
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
@@ -500,44 +499,18 @@ msgstr "คุณชอบ Endless อย่างไรบ้าง มีส�
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
+msgid ""
+"Click on the <gui>Give Us Feedback</gui> link in this Help Center app and "
+"let us know."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-give-feedback.page:26
 msgid "We want to hear from you!"
 msgstr "เราอยากได้ฟังความเห็นคุณ!"
 
-#. (itstool) path: steps/title
-#: C/gs-give-feedback.page:27
-msgid "Here's how to give us your feedback:"
-msgstr " นี่คือวิธีที่คุณจะสามารถให้ฟีดแบ็คแก่เรา"
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:29
-msgid ""
-"Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr "คลิกที่ <_:media-1/> ตรงมุมล่างซ้ายของหน้าจอ"
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:35
-msgid ""
-"Click the <gui>Give Us Feedback</gui> option. You can also access the "
-"feedback section by opening your browser and clicking the "
-"<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
-msgstr "คลิกที่ตัวเลือก <gui>Give Us Feedback</gui> คุณยังสามารถเข้าถึงส่วนคำติชมได้โดยการเปิดเบราว์เซอร์และคลิกที่ปุ่ม <gui>Feedback</gui> ที่มุมล่างด้านซ้ายมือของเบราว์เซอร์"
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:42
-msgid ""
-"Enter in your comment, name and email address. You must fill in all three "
-"fields in order to submit your feedback."
-msgstr "กรอกความคิดเห็น ชื่อ และที่อยู่อีเมลของคุณ คุณจะต้องกรอกให้ครบทั้งสามฟิลด์เพื่อส่งคำติชม"
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:47
-msgid ""
-"You will receive a confirmation email to let you know that we have received "
-"your feedback. We will try to get back to you as soon as we can."
-msgstr "คุณจะได้รับอีเมลยืนยันเพื่อแจ้งให้คุณทราบว่าเราได้รับความคิดเห็นของคุณแล้ว เราจะติดต่อกลับไปให้เร็วที่สุด"
-
 #. (itstool) path: note/p
-#: C/gs-give-feedback.page:54
+#: C/gs-give-feedback.page:30
 msgid ""
 "Please note that you will need an internet connection in order to submit "
 "your feedback."
@@ -1218,227 +1191,117 @@ msgstr "คลิกที่ <app>แอพอื่นๆ</app> จากเ�
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:43
 msgid ""
-"Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
-"<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
-"section."
-msgstr "คลิกที่ประเภท เช่น <gui>การศึกษา</gui>, <gui>เกม</gui>, <gui>แหล่งข้อมูล</gui> และ <gui>อรรถประโยชน์</gui> เพื่อดูแอพในประเภทนั้นๆ"
+"Click on a category like <gui>Learning</gui>, <gui>Games</gui>, and "
+"<gui>Utilities</gui>, to see the apps in each section."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:49
+#: C/gs-use-offline.page:48
 msgid ""
 "Click on an app to read more about it and either install it or add it to "
 "your desktop."
 msgstr "คลิกที่แอพเพื่ออ่านข้อมูลเกี่ยวกับแอพ การติดตั้งหรือเพิ่มแอพเข้าไปในเดสก์ท็อปเพิ่มเติม "
 
 #. (itstool) path: section/title
-#: C/gs-use-offline.page:57
+#: C/gs-use-offline.page:56
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
 "<app>App Center</app>:"
 msgstr "นี่เป็นตัวอย่างเนื้อหาออฟไลน์บางรายการบนเดสก์ท็อปและใน <app>ศูนย์แอพ</app>:"
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:61
-msgid "Education"
-msgstr "การศึกษา"
+#: C/gs-use-offline.page:60
+msgid "Learning"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:63
-msgid ""
-"<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
-"encyclopedia with all the power of the internet's best."
-msgstr "<app>สารานุกรม</app>- ค้นหาเพื่อศึกษาข้อมูลในเกือบทุกๆ เรื่อง สารานุกรมแบบออฟไลน์ที่ใช้งานออนไลน์ได้ด้วย "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:67
-msgid ""
-"<app>Virtual School</app> - Hundreds of videos to help you lean more about "
-"your favorite subjects, or to help you understand subjects that are "
-"difficult for you."
-msgstr "<app>โรงเรียนเสมือน</app> - มีวิดีโอนับร้อยๆ ที่จะช่วยให้คุณได้ศึกษาเพิ่มเติมเกี่ยวกับหัวข้อที่คุณสนใจหรือช่วยให้เข้าใจหัวข้อที่ยากสำหรับคุณ"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:72
+#: C/gs-use-offline.page:62
 msgid ""
 "<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
 " help children of all ages develop their mental abilities."
 msgstr "<app>Edu Games</app> - หมากรุก ปริศนา พร้อมเกมและกิจกรรมอื่นๆ อีกมากมายเพื่อช่วยให้เด็กๆ ทุกวัยพัฒนาทางสติปัญญา"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:77
+#: C/gs-use-offline.page:67
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
 msgstr "<app>Tux Math</app> -เป็นวิธีสนุกๆ สำหรับให้เด็กฝึกการบวก ลบ คูณเลข เป็นต้น "
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:81
+#: C/gs-use-offline.page:71
 msgid ""
 "<app>Tux Typing</app> - Learn how to type with this game that guides you and"
 " helps you practice so that you can type faster and more accurately."
 msgstr "<app>Tux Typing</app> - ฝึกฝนวิธีพิมพ์ด้วยเกมนี้ซึ่งจะแนะนำและช่วยเหลือคุณฝึกฝนจนสามารถพิมพ์ได้เร็วขึ้นและแม่นยำขึ้น"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:86
-msgid ""
-"<app>World Literature</app> - Read many of the world's greatest stories."
-msgstr "<app>วรรณกรรมโลก</app>- อ่านหลากหลายเรื่องราวยิ่งใหญ่ในโลก "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:90
+#: C/gs-use-offline.page:76
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
 msgstr "<app>Animals</app> - เรียนรู้เพิ่มเติมเกี่ยวกับสัตว์ตัวโปรดของคุณและสัตว์ที่คุณไม่เคยเห็นมาก่อน!"
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:96
+#: C/gs-use-offline.page:82
 msgid "Games"
 msgstr "เกม"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:98
+#: C/gs-use-offline.page:84
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
 msgstr "<app>Tux Kart</app> - แข่งกับคอมพิวเตอร์หรือเพื่อนของคุณ รับพลังวิเศษเพื่อไม่ให้โดนเล่นงานก่อน!"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:102
+#: C/gs-use-offline.page:88
 msgid ""
 "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
 msgstr "<app>Potato Guy</app> - สร้างรูปหน้าและตัวละครเรื่อง Mr. Potato Guy"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:106
+#: C/gs-use-offline.page:92
 msgid ""
 "<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
 " you get to the next level."
 msgstr "<app>Numpty Physics</app> - วาดวัตถุและใช้กฎฟิสิกส์เพื่อช่วยให้คุณผ่านไปยังด่านถัดไป"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:110
+#: C/gs-use-offline.page:96
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
 msgstr "<app>X-Moto</app> - ขับมอเตอร์ไซค์ขึ้นเนินและหลบหลีกสิ่งกีดขวางให้เร็วที่สุดเพื่อไปให้ถึงเส้นชัยในแต่ละสนาม"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:114
+#: C/gs-use-offline.page:100
 msgid ""
 "<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
 " that you don't blow up. This strategy game is addictive."
 msgstr "<app>Minetest</app> - อย่าเข้าใกล้บริเวณที่มีเหมืองถูกขังไว้ มันจะได้ไม่ระเบิด เกมกลยุทธนี้เล่นแล้วติดใจจริงๆ"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:118
+#: C/gs-use-offline.page:104
 msgid ""
 "<app>Blockout2</app> - A tetris-like game where you need to match the colors"
 " as best you can before the screen fills up and you lose."
 msgstr "<app>Blockout2</app> - เป็นเกมเหมือนเตอร์ตริส ซึ่งคุณสามารถจับคู่สีก่นอที่หน้าจอจะขึ้นเต็มและคุณแพ้"
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:124
-msgid "Resources"
-msgstr "แหล่งข้อมูล "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:126
-msgid ""
-"<app>Writer</app> - Write papers for school, work or for anything else you "
-"need. Compatible with Microsoft's Word."
-msgstr "<app>Writer</app> - พิมพ์เอกสารสำหรับการบ้าน งาน หรือทุกสิ่งที่คุณต้องการ ทำงานร่วมกับ Word ของ Microsoft ได้"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:130
-msgid ""
-"<app>Presentation</app> - Create beautiful presentations! Compatible with "
-"Microsoft's Powerpoint."
-msgstr "<app>Presentation</app> - สร้างงานนำเสนอแสนสวย! ทำงานร่วมกับ Powerpoint ของ Microsoft ได้"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:134
-msgid ""
-"<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
-"yourself in ways you never thought possible with this powerful spreadsheet "
-"app. Compatible with Microsoft's Excel."
-msgstr "<app>สเปรดชีท</app>- ทำให้คำนวณอย่างง่ายๆ หรือซับซ้อนได้ หรือจัดการข้อมูลของตัวคุณในแบบที่คุณไม่คาดมาก่อนว่าจะทำได้ด้วยแอพสเปรดชีทคุณภาพสูงนี้ ใช้งานได้กับ Microsoft's Excel ด้วย"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:139
-msgid ""
-"<app>Resume</app> - Learn how to make a great resume to help you find your "
-"ideal job."
-msgstr "<app>ประวัติงาน</app> - ดูวิธีการเขียนประวัติงานที่ดีเพื่อช่วยให้คุณได้งานในฝัน "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:143
-msgid ""
-"<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
-"yourself and your family healthy."
-msgstr "<app>สุขภาพ</app> - กำลังหาข้อมูลโรคภัยไข้เจ็บ การรักษาและดูว่าจะช่วยให้คุณและครอบครัวมีสูขภาพที่แข็งแรงได้อย่างไร"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:147
-msgid ""
-"<app>How To</app> - Learn how to do just about anything with this handy app."
-msgstr "<app>วิธีใช้งาน</app> - เรียนรู้วิธีทำแทบทุกสิ่งด้วยแอพที่มีประโยชน์สุดๆ นี้"
-
-#. (itstool) path: list/title
-#: C/gs-use-offline.page:153
-msgid "Entertainment"
-msgstr "ความบันเทิง"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:155
-msgid ""
-"<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
-" webcam, not included with Endless."
-msgstr "<app>ชีส</app> - ถ่ายภาพตลกๆ ของเพื่อนและครอบครัว *จำเป็นต้องมีเว็บเคม ซึ่งไม่ได้มาพร้อม Endless"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:159
-msgid ""
-"<app>Videos</app> - Watch some of the pre-installed videos that come with "
-"Endless, or transfer videos from a USB or DVD and watch them on this great "
-"and easy-to use media player."
-msgstr "<app>Videos</app> - ชมวิดีโอที่ติดตั้งไว้ล่วงหน้าซึ่งมาพร้อมกับ Endless หรือถ่ายโอนวิดีโอจาก USB หรือ DVD และชมบนมีเดียเพลย์เยอร์ที่ยอดเยี่ยมและใช้งานง่าย"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:164
-msgid ""
-"<app>Myths and Legends</app> - Read about myths and legends from all over "
-"the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr "<app>นิทานและตำนาน</app>- อ่านเกี่ยวกับเทวนิยายและตำนานต่างๆ จากทั่วโลก ตั้งแต่ลาเลลโลน่า จนถึงบิ๊กฟุต และเรื่องต่างๆ อีกมากมาย "
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:169
-msgid ""
-"<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
-"stars, and other celebrities"
-msgstr "<app>Celebrities</app> - รู้ทุกเรื่องเกี่ยวกับนักกีฬาดังคนโปรด, ดาราภาพยนตร์ และคนดังคนอื่นๆ"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:173
-msgid ""
-"<app>Travel</app> - Read about places around the world and see beautiful "
-"pictures that will make you feel like you're actually there!"
-msgstr "<app>การเดินทาง</app> - อ่านเรื่องราวสถานที่ต่างๆ รอบโลกและดูภาพสวยๆ ที่จะทำให้คุณรู้สึกราวกับอยู่ที่นั่น!"
-
-#. (itstool) path: list/title
-#: C/gs-use-offline.page:180
+#: C/gs-use-offline.page:110
 msgid "Utility"
 msgstr "สารประโยชน์"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:182
+#: C/gs-use-offline.page:112
 msgid ""
 "<app>Notes</app> - A handy app to help you jot down things you don't want to"
 " forget!"
 msgstr "<app>Notes</app> - แอพแสนสะดวกที่จะช่วยบันทึกสิ่งที่คุณไม่อยากลืม!"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:186
+#: C/gs-use-offline.page:116
 msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
@@ -1446,14 +1309,14 @@ msgid ""
 msgstr "<app>เครื่องมือแก้ไขวิดีโอ</app> -ถ่ายวิดีโอในมือถือและแก้ไขเพื่อสร้างผลงานชิ้นเอก หรือเพียงนำคลิปวิดีโอที่มีอยู่แล้วมาปรับให้เป็นแบบของตัวเอง"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:191
+#: C/gs-use-offline.page:121
 msgid ""
 "<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
 " and more, to make them even more awesome!"
 msgstr "<app>Photo Editor</app> -ใส่ฟิลเตอร์และกรอบลงในภาพ ครอบตัดและอื่นๆ เพื่อให้ภาพสวยงามยิ่งขึ้น"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:195
+#: C/gs-use-offline.page:125
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
@@ -1483,9 +1346,9 @@ msgstr "แถบค้นหาทำให้สามารถค้นหา
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at the top of "
-"your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr "จากเดสก์ท็อป คลิกที่ <app>แถบค้นหาทั่วไป</app> ที่ด้านบนสุดของหน้าจอที่มีข้อความ <gui>พิมพ์เพื่อค้นหา...</gui> เริ่มต้นพิมพ์เพื่อค้นหา"
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing to search."
+msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
@@ -1611,10 +1474,10 @@ msgstr "หากคุณรู้ชื่อของไฟล์ ก็ส�
 #. (itstool) path: item/p
 #: C/gs-where-files.page:33
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at the top of "
-"your screen that says <gui>Type to search...</gui>. Start typing the name of"
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing the name of"
 " the file you are looking for."
-msgstr "จากเดสก์ท็อป คลิกที่ <app>แถบค้นหาทั่วโลก</app>ที่ด้านบนของหน้าจอซึ่งเขียนว่า <gui>พิมพ์เพื่อค้นหา...</gui> เริ่มพิมพ์ชื่อของไฟล์ที่คุณต้องการหา"
+msgstr ""
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58

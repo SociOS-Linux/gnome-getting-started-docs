@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-06-01 16:35-0700\n"
-"PO-Revision-Date: 2017-06-01 23:37+0000\n"
+"POT-Creation-Date: 2017-06-05 22:29-0700\n"
+"PO-Revision-Date: 2017-06-06 05:51+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -351,40 +351,39 @@ msgstr "Saya tidak melihat batang tugas atau menu awal, apa yang harus saya laku
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
 msgid ""
-"If you do not see the task bar at the bottom of your screen with the user "
-"menu on the left and the time and facebook icon on the right, you need to "
-"adjust your screen to fit your TV."
-msgstr "Jika Anda tidak melihat bilah tugas di bagian bawah layar, menu pengguna di sisi kiri, dan indikator waktu serta ikon facebook di sisi kanan, maka Anda perlu menyesuaikan layar Anda agar pas di TV Anda."
+"If you do not see the black task bar at the bottom of your screen, you need "
+"to adjust your screen to fit your TV."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-fix-overscan.page:29
+#: C/gs-fix-overscan.page:28
 msgid "To adjust your screen:"
 msgstr "Untuk mengatur layar:"
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:32
+#: C/gs-fix-overscan.page:31
 msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
 msgstr "Klik kanan pada desktop dan pilih <gui>\"Change Background...\"</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:37
+#: C/gs-fix-overscan.page:36
 msgid "Click the back button on the top left corner of the dialog box."
 msgstr "Klik tombol kembali di sudut kiri atas pada kotak dialog."
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:41
+#: C/gs-fix-overscan.page:40
 msgid "Select the <gui>Displays</gui> icon."
 msgstr "Pilih ikon <gui>Tampilan</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:45
+#: C/gs-fix-overscan.page:44
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
 msgstr "Centang kotak dialog sebelah <gui>Scaling</gui> yang mengatakan <gui>\"Sesuaikan layar untuk TV\"</gui>."
 
 #. (itstool) path: item/p
-#: C/gs-fix-overscan.page:50
+#: C/gs-fix-overscan.page:49
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
@@ -500,44 +499,18 @@ msgstr "Apa yang Anda sukai dari Endless? Apakah ada sesuatu yang ingin Anda uba
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
+msgid ""
+"Click on the <gui>Give Us Feedback</gui> link in this Help Center app and "
+"let us know."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/gs-give-feedback.page:26
 msgid "We want to hear from you!"
 msgstr "Kami ingin mendengar dari Anda!"
 
-#. (itstool) path: steps/title
-#: C/gs-give-feedback.page:27
-msgid "Here's how to give us your feedback:"
-msgstr "Berikut adalah cara untuk memberi saran:"
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:29
-msgid ""
-"Click on the <_:media-1/> on the bottom left-hand corner of your screen."
-msgstr "Klik pada <_:media-1/> di sudut kiri bawah pada layar Anda."
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:35
-msgid ""
-"Click the <gui>Give Us Feedback</gui> option. You can also access the "
-"feedback section by opening your browser and clicking the "
-"<gui>Feedback</gui> button on the bottom left-hand corner of the browser."
-msgstr "Klik pilihan <gui>Beri Kami Masukan</gui>. Anda juga dapat mengakses halaman masukan dengan membuka peramban dan mengeklik tombol <gui>Masukan</gui> di sudut kiri bawah peramban."
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:42
-msgid ""
-"Enter in your comment, name and email address. You must fill in all three "
-"fields in order to submit your feedback."
-msgstr "Tuliskan komentar, nama dan alamat email Anda. Anda harus mengisi seluruh larik untuk dapat mengirimkan umpan balik."
-
-#. (itstool) path: item/p
-#: C/gs-give-feedback.page:47
-msgid ""
-"You will receive a confirmation email to let you know that we have received "
-"your feedback. We will try to get back to you as soon as we can."
-msgstr "Anda akan menerima email konfirmasi yang memberi tahu bahwa kami telah menerima masukan dari Anda. Kami akan coba menghubungi Anda kembali sesegera mungkin."
-
 #. (itstool) path: note/p
-#: C/gs-give-feedback.page:54
+#: C/gs-give-feedback.page:30
 msgid ""
 "Please note that you will need an internet connection in order to submit "
 "your feedback."
@@ -1218,227 +1191,117 @@ msgstr "Klik pada <app>More Apps</app> dari desktop."
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:43
 msgid ""
-"Click on a category like <gui>Education</gui>, <gui>Games</gui>, "
-"<gui>Resources</gui> and <gui>Utilities</gui>, to see the apps in each "
-"section."
-msgstr "Klik kategori seperti <gui>Pendidikan</gui>, <gui>Permainan</gui>, <gui>Sumber Daya</gui> dan <gui>Utilitas</gui>, untuk melihat aplikasi di tiap bagian."
+"Click on a category like <gui>Learning</gui>, <gui>Games</gui>, and "
+"<gui>Utilities</gui>, to see the apps in each section."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:49
+#: C/gs-use-offline.page:48
 msgid ""
 "Click on an app to read more about it and either install it or add it to "
 "your desktop."
 msgstr "Klik pada aplikasi untuk membaca lebih lanjut dan memutuskan memasang atau menambahkannya ke desktop Anda."
 
 #. (itstool) path: section/title
-#: C/gs-use-offline.page:57
+#: C/gs-use-offline.page:56
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
 "<app>App Center</app>:"
 msgstr "Berikut adalah beberapa contoh dari konten offline di desktop Anda dan dalam <app>Pusat Aplikasi</app>:"
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:61
-msgid "Education"
-msgstr "Pendidikan"
+#: C/gs-use-offline.page:60
+msgid "Learning"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:63
-msgid ""
-"<app>Encyclopedia</app> - Search to learn about nearly anything. An offline "
-"encyclopedia with all the power of the internet's best."
-msgstr "<app>Encyclopedia</app> - Cari untuk belajar tentang hampir apa pun. Sebuah ensiklopedia offline dengan semua kekuatan internet terbaik."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:67
-msgid ""
-"<app>Virtual School</app> - Hundreds of videos to help you lean more about "
-"your favorite subjects, or to help you understand subjects that are "
-"difficult for you."
-msgstr "<app>Virtual School</app> - Ratusan video untuk membantu Anda belajar lebih banyak tentang subjek favorit atau membantu Anda memahami subjek yang sulit buat Anda."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:72
+#: C/gs-use-offline.page:62
 msgid ""
 "<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
 " help children of all ages develop their mental abilities."
 msgstr "<app>Edu Games</app> - Catur, puzzle, dan banyak permainan dan aktivitas lainnya guna membantu anak di segala usia mengembangkan kemampuan mental mereka."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:77
+#: C/gs-use-offline.page:67
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
 msgstr "<app>Tux Math</app> - Sebuah cara yang menyenangkan bagi anak-anak untuk berlatih penambahan, pengurangan, perkalian, dan banyak lagi."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:81
+#: C/gs-use-offline.page:71
 msgid ""
 "<app>Tux Typing</app> - Learn how to type with this game that guides you and"
 " helps you practice so that you can type faster and more accurately."
 msgstr "<app>Tux Typing</app> - pelajari cara mengetik dengan permainan yang memandu dan membantu Anda berlatih agar dapat mengetik dengan lebih cepat dan akurat."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:86
-msgid ""
-"<app>World Literature</app> - Read many of the world's greatest stories."
-msgstr "<app>World Literature</app> - Baca berbagai cerita menarik dari seluruh dunia."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:90
+#: C/gs-use-offline.page:76
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
 msgstr "<app>Hewan</app> - Pelajari lebih lanjut tentang hewan-hewan favorit Anda, dan tentang hewan yang belum Anda kenal!"
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:96
+#: C/gs-use-offline.page:82
 msgid "Games"
 msgstr "Permainan"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:98
+#: C/gs-use-offline.page:84
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
 msgstr "<app>Tux Kart</app> - Berpaculah dengan komputer atau teman. Dapatkan kekuatan super dan hindari jebakan untuk jadi yang pertama mencapai garis finish!"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:102
+#: C/gs-use-offline.page:88
 msgid ""
 "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
 msgstr "<app>Potato Guy</app> - Buat wajah dan karakter untuk Mr. Potato Guy."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:106
+#: C/gs-use-offline.page:92
 msgid ""
 "<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
 " you get to the next level."
 msgstr "<app>Numpty Physics</app> - Gambar objek dan gunakan hukum fisika untuk membantu Anda menuju level selanjutnya."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:110
+#: C/gs-use-offline.page:96
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
 msgstr "<app>X-Moto</app> - Cobalah kendarai motor Anda ke puncak bukit dan kelilingi objek secepat yang Anda bisa untuk menyelesaikan setiap level."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:114
+#: C/gs-use-offline.page:100
 msgid ""
 "<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
 " that you don't blow up. This strategy game is addictive."
 msgstr "<app>Minetest</app> - Hindari area dengan ranjau tertanam di bawahnya, supaya Anda tidak terkena ledakan. Permainan strategi ini sangat adiktif."
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:118
+#: C/gs-use-offline.page:104
 msgid ""
 "<app>Blockout2</app> - A tetris-like game where you need to match the colors"
 " as best you can before the screen fills up and you lose."
 msgstr "<app>Blockout2</app> - Sebuah permainan seperti tetris di mana Anda harus mencocokkan warna sebisa mungkin sebelum layar penuh dan Anda kalah."
 
 #. (itstool) path: list/title
-#: C/gs-use-offline.page:124
-msgid "Resources"
-msgstr "Sumber"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:126
-msgid ""
-"<app>Writer</app> - Write papers for school, work or for anything else you "
-"need. Compatible with Microsoft's Word."
-msgstr "<app>Writer</app> - Menulis makalah untuk sekolah, pekerjaan, atau apa saja yang Anda butuhkan. Kompatibel dengan Microsoft Word."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:130
-msgid ""
-"<app>Presentation</app> - Create beautiful presentations! Compatible with "
-"Microsoft's Powerpoint."
-msgstr "<app>Presentasi</app> - Buatlah presentasi yang cantik! Kompatibel dengan Microsoft Powerpoint."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:134
-msgid ""
-"<app>Spreadsheet</app> - Make simple or complex calculations, or organize "
-"yourself in ways you never thought possible with this powerful spreadsheet "
-"app. Compatible with Microsoft's Excel."
-msgstr "<app>Spreadsheet</app> - Buat penghitungan mudah atau rumit, atau kelola diri Anda dengan cara yang tidak pernah Anda bayangkan sebelumnya dengan aplikasi spreadsheet yang sangat berguna ini. Kompatibel dengan Microsoft Excel."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:139
-msgid ""
-"<app>Resume</app> - Learn how to make a great resume to help you find your "
-"ideal job."
-msgstr "<app>Resume</app> - Pelajari bagaimana cara membuat resume yang hebat untuk membantu menemukan pekerjaan ideal."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:143
-msgid ""
-"<app>Health</app> - Look up illnesses, treatments, and learn how to keep "
-"yourself and your family healthy."
-msgstr "<app>Health</app> - Mencari penyakit, perawatan, dan belajar bagaimana menjaga diri dan keluarga Anda sehat."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:147
-msgid ""
-"<app>How To</app> - Learn how to do just about anything with this handy app."
-msgstr "<app>Panduan</app> - Pelajari cara melakukan nyaris segalanya dengan aplikasi praktis ini."
-
-#. (itstool) path: list/title
-#: C/gs-use-offline.page:153
-msgid "Entertainment"
-msgstr "Hiburan"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:155
-msgid ""
-"<app>Cheese</app> - Take funny pictures with friends and family! *Requires a"
-" webcam, not included with Endless."
-msgstr "<app>Cheese</app> - Ambil gambar lucu bersama teman dan keluarga! *Membutuhkan kamera web, tidak termasuk dengan Endless."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:159
-msgid ""
-"<app>Videos</app> - Watch some of the pre-installed videos that come with "
-"Endless, or transfer videos from a USB or DVD and watch them on this great "
-"and easy-to use media player."
-msgstr "<app>Videos</app> - Tonton beberapa video bawaan yang hadir bersama Endless, atau transfer video dari USB atau DVD dan tonton di pemutar media yang canggih dan mudah digunakan ini."
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:164
-msgid ""
-"<app>Myths and Legends</app> - Read about myths and legends from all over "
-"the world! Everything from La Llorona to Big Foot and many, many more"
-msgstr "<app>Myths and Legends</app> - Baca seputar mitos dan legenda dari seluruh dunia! Segalanya mulai dari La Llorona sampai Big Foot dan masih banyak lagi!"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:169
-msgid ""
-"<app>Celebrities</app> - Learn all about your favorite sports stars, movie "
-"stars, and other celebrities"
-msgstr "<app>Selebritas</app> - Ketahui kabar tentang bintang olah raga, bintang film, dan selebritas lain favorit Anda"
-
-#. (itstool) path: item/p
-#: C/gs-use-offline.page:173
-msgid ""
-"<app>Travel</app> - Read about places around the world and see beautiful "
-"pictures that will make you feel like you're actually there!"
-msgstr "<app>Travel</app> - Baca tentang berbagai tempat di seluruh dunia dan lihat foto-foto indah yang akan membuat Anda merasa seolah-olah benar-benar berada di sana!"
-
-#. (itstool) path: list/title
-#: C/gs-use-offline.page:180
+#: C/gs-use-offline.page:110
 msgid "Utility"
 msgstr "Kegunaan"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:182
+#: C/gs-use-offline.page:112
 msgid ""
 "<app>Notes</app> - A handy app to help you jot down things you don't want to"
 " forget!"
 msgstr "<app>Notes</app> - Sebuah aplikasi praktis guna membantu Anda mencatat hal-hal yang tidak ingin Anda lupakan!"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:186
+#: C/gs-use-offline.page:116
 msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
@@ -1446,14 +1309,14 @@ msgid ""
 msgstr "<app>Video Editor</app> - Rekam video di ponsel Anda dan sunting untuk menciptakan sebuah mahakarya, atau cukup ambil klip video yang sudah ada dan sunting sesuai keinginan Anda!"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:191
+#: C/gs-use-offline.page:121
 msgid ""
 "<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
 " and more, to make them even more awesome!"
 msgstr "<app>Photo Editor</app> - Tambahkan filter dan garis tepi, atau potong foto Anda, dan banyak lagi, untuk membuat foto Anda semakin memukau!"
 
 #. (itstool) path: item/p
-#: C/gs-use-offline.page:195
+#: C/gs-use-offline.page:125
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
@@ -1483,9 +1346,9 @@ msgstr "Batang pencarian global membuat pencarian jadi mudah! Anda dapat mencari
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at the top of "
-"your screen that says <gui>Type to search...</gui>. Start typing to search."
-msgstr "Dari desktop, klik pada <app>batang pencarian global</app> di bagian atas layar Anda yang bertuliskan <gui>Ketik untuk mencari...</gui>. Mulailah mengetik untuk mencari."
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing to search."
+msgstr ""
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:38 C/gs-where-files.page:36
@@ -1611,10 +1474,10 @@ msgstr "Jika Anda mengetahui nama file, Anda bisa dengan mudah mencarinya langsu
 #. (itstool) path: item/p
 #: C/gs-where-files.page:33
 msgid ""
-"From the desktop, click on the <app>global search bar</app> at the top of "
-"your screen that says <gui>Type to search...</gui>. Start typing the name of"
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing the name of"
 " the file you are looking for."
-msgstr "Dari desktop, klik <app>bilah penelusuran global</app> di bagian atas layar yang menampilkan <gui>Type to search...</gui>. Mulailah ketikkan nama berkas yang Anda cari."
+msgstr ""
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:58
