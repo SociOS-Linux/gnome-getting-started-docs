@@ -18,23 +18,48 @@
 
   <title>Where are my documents and files?</title>
 
-  <p>When you store files to your computer, they are automatically stored in
-  your <app>Documents</app> folder on your desktop.</p>
+  <p>When you store files to your computer, they are accessible via
+  the <app>Documents</app> file manager.</p>
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-documents.png"/>
 
   <p>Here are some ways to look for a file you have saved:</p>
 
   <section>
-    <title>If you know the name of your file</title>
+    <title>Use Global Search to find your file</title>
 
-    <p>If you know the name of your file, then you can easily search for it right from the desktop.</p>
+    <p>If you know the name of your file, you can easily search for it right
+    from the desktop.</p>
+
+    <p>You'll need to enable the <gui>global search bar</gui> to search your
+    files the first time you use it. Here's how to enable this feature:</p>
 
     <steps>
       <item>
         <p>From the desktop, click on the <gui>global search bar</gui> at the top
-         of your screen that says "Search Google and more..." Start typing the
-         name of the file you are looking for.</p>
+        of your screen that says "Search Google and more..." Start typing
+        the word "search".</p>
+      </item>
+      <item>
+        <p>Click once on the result showing the settings to control search.</p>
+      </item>
+      <item>
+        <p>Scroll through the apps that have been enabled to work with Global Search.
+        Turn the access <gui>On</gui> for the <app>Documents</app> file manager.</p>
+        <p>That's it. Global Search has now been enabled to work with your files
+        and documents.</p>
+      </item>
+    </steps>
+
+    <p>Once Global Search has been enabled, you can start searching for your
+    files directly from the desktop:</p>
+
+    <steps>
+      <item>
+        <p>From the desktop, click on the <gui>global search bar</gui> at the top
+        of your screen that says "Search Google and more..." Start typing the
+        name of the file you are looking for.</p>
         <p>Results matching what you have typed will appear as you type. The first
-         result is always highlighted and shown at the top.</p>
+        result is always highlighted and shown at the top.</p>
       </item>
       <item>
         <p>Items that may appear in the search results include:</p>
@@ -48,36 +73,38 @@
       <item>
         <p>In the search results, click on the item you want to open.</p>
         <p>Alternatively, highlight an item using the arrow keys and press
-         <key>Enter</key>.</p>
+        <key>Enter</key>.</p>
       </item>
     </steps>
 
   </section>
 
   <section>
-    <title>If you do not know the name of your file</title>
+    <title>Browse through folders to find your file</title>
 
-    <p>Click on <app>Documents</app> from the desktop.</p>
+    <p>If you do not know the name of your file, you may browse through
+    the <app>Documents</app> file manager in order to find it.</p>
+
+    <p>To begin browsing your files, click on the <app>Documents</app> icon
+    on the desktop.</p>
     <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-documents.png"/>
 
     <p>Endless tries to store files by categories like documents, music, photos,
     and videos, so that they are easier for you to find. You will see that the
-    menu on the left shows these categories. Click on them once to go to that
-    folder.</p>
+    menu on the left shows these categories. Click on a category once to go to
+    that folder, and then look through its content for your file.</p>
     <media its:translate="no" type="image" mime="image/png" src="figures/eos-file-manager.png"/>
 
-    <p>You can create your own folders to better organize your files. You should
-    click through the different folders you create to get to the files you have
-    stored there. Clicking through folders is especially helpful if you are not
-    sure what the file you saved is named.</p>
+    <p>You can also search for your files directly within the <app>Documents</app> file manager.</p>
 
-    <p>See the bar at the top with a magnifying glass in it? Click there and start
-    typing at least part of the name of the file you are looking for. As you start
-    typing, files that match what you are typing are displayed below. If you see
-    the file you are looking for in the list, you can use your arrow key to
-    highlight the file and press <key>Enter</key> to open it. Or, you can click on
-    the result you want with your mouse to higlight it, and double click to open
-    it.</p>
+    <p>To do so, look for the bar at the top of the <app>Documents</app> file manager
+    with a magnifying glass in it. Click there and start typing at least part of the
+    name of the file you are looking for. As you start typing, files that match
+    are displayed below.</p>
+
+    <p>If you see the file you are looking for in the list, you can use the arrow
+    keys to highlight the file and press <key>Enter</key> to open it. Or, just
+    double-click on the result you want to open.</p>
   </section>
 
   <section>
