@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-06-05 22:29-0700\n"
-"PO-Revision-Date: 2017-06-06 05:51+0000\n"
+"POT-Creation-Date: 2017-06-23 17:36-0700\n"
+"PO-Revision-Date: 2017-06-24 06:45+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -353,7 +353,7 @@ msgstr "Tôi không nhìn thấy thanh tác vụ hay trình đơn bắt đầu, 
 msgid ""
 "If you do not see the black task bar at the bottom of your screen, you need "
 "to adjust your screen to fit your TV."
-msgstr ""
+msgstr "Nếu không thấy thanh tác vụ màu đen ở phía dưới màn hình, bạn cần điều chỉnh màn hình cho phù hợp với TV."
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:28
@@ -502,7 +502,7 @@ msgstr "Bạn yêu thích những điều gì về Endless? Có bất kỳ đi�
 msgid ""
 "Click on the <gui>Give Us Feedback</gui> link in this Help Center app and "
 "let us know."
-msgstr ""
+msgstr "Bấm vào đường dẫn <gui>Phản hồi với Chúng tôi</gui> trong ứng dụng Trung tâm Trợ giúp này và cho chúng tôi biết ý kiến của bạn."
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:26
@@ -1193,7 +1193,7 @@ msgstr "Nhấp vào <app>More Apps</app> trên màn hình nền."
 msgid ""
 "Click on a category like <gui>Learning</gui>, <gui>Games</gui>, and "
 "<gui>Utilities</gui>, to see the apps in each section."
-msgstr ""
+msgstr "Bấm vào một danh mục như <gui>Học tập</gui>, <gui>Game</gui>, và <gui>Tiện ích</gui>, để đem các ứng dụng trong mỗi phần đó."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:48
@@ -1212,7 +1212,7 @@ msgstr "Đây là vài ví dụ về các nội dung ngoại tuyến trên màn 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:60
 msgid "Learning"
-msgstr ""
+msgstr "Học tập"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:62
@@ -1348,10 +1348,10 @@ msgstr "Thanh tìm kiếm toàn cầu khiến cho việc tìm kiếm trở nên 
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing to search."
-msgstr ""
+msgstr "Từ màn hình nền, bấm vào <gui>thanh tìm kiếm toàn cầu</gui> ở phía trên của màn hình với nội dung \"Tìm kiếm trên Google và hơn nữa...\" Bắt đầu gõ chữ để tìm kiếm."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:38 C/gs-where-files.page:36
+#: C/gs-use-system-search.page:38 C/gs-where-files.page:61
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
@@ -1363,32 +1363,32 @@ msgid "Press <key>Enter</key> to choose the first highlighted result."
 msgstr "Nhấn <key>Enter</key> để chọn kết quả đầu tiên được tô sáng."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:44 C/gs-where-files.page:40
+#: C/gs-use-system-search.page:44 C/gs-where-files.page:65
 msgid "Items that may appear in the search results include:"
 msgstr "Các mục có thể xuất hiện trong kết quả tìm kiếm bao gồm:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:46 C/gs-where-files.page:42
+#: C/gs-use-system-search.page:46 C/gs-where-files.page:67
 msgid "matching applications, shown at the top of the search results,"
 msgstr "so khớp các ứng dụng, hiển thị ở đầu kết quả tìm kiếm,"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:48 C/gs-where-files.page:44
+#: C/gs-use-system-search.page:48 C/gs-where-files.page:69
 msgid "matching settings, and"
 msgstr "cài đặt trùng khớp, và"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:49 C/gs-where-files.page:45
+#: C/gs-use-system-search.page:49 C/gs-where-files.page:70
 msgid "matching documents."
 msgstr "các tài liệu trùng khớp."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:54 C/gs-where-files.page:49
+#: C/gs-use-system-search.page:54 C/gs-where-files.page:74
 msgid "In the search results, click on the item you want to open."
 msgstr "Trong kết quả tìm kiếm, bấm vào mục bạn muốn mở."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:55 C/gs-where-files.page:50
+#: C/gs-use-system-search.page:55 C/gs-where-files.page:75
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
@@ -1450,88 +1450,145 @@ msgstr "Các tài liệu và tệp của tôi ở đâu?"
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
-"When you store files to your computer, they are automatically stored in your"
-" <app>Documents</app> folder on your desktop."
-msgstr "Khi bạn lưu trữ các tệp vào máy tính của mình, chúng được tự động lưu vào thư mục <app>Tài liệu</app> trên màn hình nền của bạn."
+"When you store files to your computer, they are accessible via the "
+"<app>Documents</app> file manager."
+msgstr "Khi bạn lưu trữ tệp vào máy tính, các tệp đó cho phép truy cập qua trình quản lý tệp <app>Tài liệu</app>."
 
 #. (itstool) path: page/p
-#: C/gs-where-files.page:24
+#: C/gs-where-files.page:25
 msgid "Here are some ways to look for a file you have saved:"
 msgstr "Đây là một vài cách để tìm tệp bạn đã lưu:"
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:27
-msgid "If you know the name of your file"
-msgstr "Nếu bạn biết tên tệp"
+#: C/gs-where-files.page:28
+msgid "Use Global Search to find your file"
+msgstr "Dùng tính năng Tìm kiếm Toàn cầu để tìm tệp của bạn"
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:29
+#: C/gs-where-files.page:30
 msgid ""
-"If you know the name of your file, then you can easily search for it right "
-"from the desktop."
-msgstr "Nếu bạn biết tên tệp của mình, khi đó bạn có thể dễ dàng tìm kiến nó ngay từ desktop."
+"If you know the name of your file, you can easily search for it right from "
+"the desktop."
+msgstr "Nếu đã biết tên tệp cần tìm, bạn có thể dễ dàng tìm kiếm tệp ngay từ màn hình nền."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:33
+msgid ""
+"You'll need to enable the <gui>global search bar</gui> to search your files "
+"the first time you use it. Here's how to enable this feature:"
+msgstr "Để tìm kiếm tệp bằng <gui>thanh tìm kiếm toàn cầu</gui>, bạn sẽ phải kích hoạt tính năng này vào lần đầu sử dụng. Dưới đây là cách thực hiện:"
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:33
+#: C/gs-where-files.page:38
+msgid ""
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing the word "
+"\"search\"."
+msgstr "Từ màn hình nền, bấm vào <gui>thanh tìm kiếm toàn cầu</gui> ở phía trên màn hình của bạn với dòng chữ \"Tìm kiếm trên Google và hơn nữa...\" Bắt đầu gõ từ \"tìm\"."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:43
+msgid "Click once on the result showing the settings to control search."
+msgstr "Bấm một lần vào kết quả hiển thị mục cài đặt để kiểm soát việc tìm kiếm."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:46
+msgid ""
+"Scroll through the apps that have been enabled to work with Global Search. "
+"Turn the access <gui>On</gui> for the <app>Documents</app> file manager."
+msgstr "Cuộn chuột qua các ứng dụng đã được kích hoạt để làm việc với tính năng Tìm kiếm Toàn cầu. Chuyển trạng thái truy cập thành <gui>Bật</gui> cho trình quản lý tệp <app>Tài liệu</app>."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:48
+msgid ""
+"That's it. Global Search has now been enabled to work with your files and "
+"documents."
+msgstr "Vậy là xong. Tính năng Tìm kiếm Toàn cầu giờ đây đã được bật để hoạt động với các tệp và tài liệu của bạn."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:53
+msgid ""
+"Once Global Search has been enabled, you can start searching for your files "
+"directly from the desktop:"
+msgstr "Khi tính năng Tìm kiếm Toàn cầu đã được kích hoạt, bạn có thể bắt đầu tìm tệp ngay từ màn hình nền:"
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:58
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "Từ màn hình nền, bấm vào <gui>thanh tìm kiếm toàn cầu</gui> ở phía trên cùng của màn hình với dòng chữ \"Tìm kiếm trên Google và hơn nữa...\" Bắt đầu gõ tên của tệp bạn cần tìm."
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:58
-msgid "If you do not know the name of your file"
-msgstr "Nếu bạn không biết tên tệp"
+#: C/gs-where-files.page:83
+msgid "Browse through folders to find your file"
+msgstr "Duyệt xem các thư mục để tìm tệp của bạn"
 
 #. (itstool) path: section/p
-#. (itstool) path: item/p
-#: C/gs-where-files.page:60 C/gs-where-files.page:90
-msgid "Click on <app>Documents</app> from the desktop."
-msgstr "Nhấp vào <app>Tài liệu</app> từ màn hình nền."
+#: C/gs-where-files.page:85
+msgid ""
+"If you do not know the name of your file, you may browse through the "
+"<app>Documents</app> file manager in order to find it."
+msgstr "Nếu không biết tên tệp của mình, bạn có thể dùng trình quản lý tệp <app>Tài liệu</app> để tìm."
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:63
+#: C/gs-where-files.page:88
+msgid ""
+"To begin browsing your files, click on the <app>Documents</app> icon on the "
+"desktop."
+msgstr "Để bắt đầu tìm tệp, bạn hãy bấm vào biểu tượng <app>Tài liệu</app> trên màn hình nền."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:92
 msgid ""
 "Endless tries to store files by categories like documents, music, photos, "
 "and videos, so that they are easier for you to find. You will see that the "
-"menu on the left shows these categories. Click on them once to go to that "
-"folder."
-msgstr "Endless cố lưu giữ các tệp tin theo thể loại như tài liệu, âm nhạc, hình ảnh và video, để bạn tìm được chúng dễ dàng hơn. Bạn sẽ thấy rằng danh mục bên tay trái cho thấy các thể loại này. Nhấp chuột một lần để tới được thư mục đó."
+"menu on the left shows these categories. Click on a category once to go to "
+"that folder, and then look through its content for your file."
+msgstr "Endless cố gắng lưu tệp theo danh mục như tài liệu, âm nhạc, ảnh, và video để bạn dễ tìm hơn. Bạn sẽ thấy trình đơn bên trái hiển thị các danh mục này. Bấm một lần vào một danh mục để truy cập thư mục đó, rồi xem qua nội dung trong đó để tìm tệp của bạn."
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:69
+#: C/gs-where-files.page:98
 msgid ""
-"You can create your own folders to better organize your files. You should "
-"click through the different folders you create to get to the files you have "
-"stored there. Clicking through folders is especially helpful if you are not "
-"sure what the file you saved is named."
-msgstr "Bạn có thể tạo các thư mục riêng của mình để tổ chức các tệp tốt hơn. Bạn nên nhấp hết vào các thư mục khác nhau mà bạn đã tạo để thấy được các tệp bạn đã lưu trữ ở đó. Việc nhấp vào toàn bộ các thư mục đặc biệt hữu ích nếu bạn không chắc tệp bạn đã lưu có tên là gì."
+"You can also search for your files directly within the <app>Documents</app> "
+"file manager."
+msgstr "Bạn cũng có thể tìm tệp ngay trong trình quản lý tệp <app>Tập tin</app>."
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:74
+#: C/gs-where-files.page:100
 msgid ""
-"See the bar at the top with a magnifying glass in it? Click there and start "
-"typing at least part of the name of the file you are looking for. As you "
-"start typing, files that match what you are typing are displayed below. If "
-"you see the file you are looking for in the list, you can use your arrow key"
-" to highlight the file and press <key>Enter</key> to open it. Or, you can "
-"click on the result you want with your mouse to higlight it, and double "
-"click to open it."
-msgstr "Có thấy một thanh chứa chiếc kính lúp phía trên không? Nhấp vào đó và bắt đầu gõ ít nhất một phần của tên tệp tin bạn đang tìm kiếm. Khi bạn bắt đầu đánh, các tệp tin tương ứng với những gì bạn đang gõ sẽ hiện ra ở dưới. Nếu bạn thấy tệp tin bạn đang tìm kiếm trong danh sách, bạn có thể dùng phím mũi tên để đánh dấu tệp tin và nhấn <key>Enter</key> để mở tệp tin. Hoặc bạn có thể nhấp chuột vào kết quả bạn muốn để đánh dấu rồi nhấp đúp chuột để mở."
+"To do so, look for the bar at the top of the <app>Documents</app> file "
+"manager with a magnifying glass in it. Click there and start typing at least"
+" part of the name of the file you are looking for. As you start typing, "
+"files that match are displayed below."
+msgstr "Để thực hiện, bạn xem phía trên cùng của trình quản lý tệp <app>Tài liệu</app> để tìm thanh nào có hình chiếc kính lúp bên trong. Bấm vào thanh đó và bắt đầu gõ tối thiểu là một phần tên của tệp mà bạn cần tìm. Khi bạn bắt đầu gõ, các tệp phù hợp sẽ hiển thị phía dưới."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:105
+msgid ""
+"If you see the file you are looking for in the list, you can use the arrow "
+"keys to highlight the file and press <key>Enter</key> to open it. Or, just "
+"double-click on the result you want to open."
+msgstr "Nếu bạn thấy trong danh sách có tệp cần tìm, bạn có thể dùng các phím mũi tên để tô đậm tệp đó và nhấn <key>Enter</key> để mở. Hoặc chỉ cần nhấp đúp chuột vào kết quả bạn muốn mở."
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:84
+#: C/gs-where-files.page:111
 msgid "If your file is on a USB"
 msgstr "Nếu tệp của bạn ở trên USB"
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:87
+#: C/gs-where-files.page:114
 msgid "Make sure that the USB is properly plugged in."
 msgstr "Đảm bảo rằng USB được cắm vào một cách đúng đắn."
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:93
+#: C/gs-where-files.page:117
+msgid "Click on <app>Documents</app> from the desktop."
+msgstr "Nhấp vào <app>Tài liệu</app> từ màn hình nền."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:120
 msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
@@ -1539,7 +1596,7 @@ msgid ""
 msgstr "Nhấp vào tên thiết bị của bạn trên danh mục nằm bên trái của cửa sổ. Tên thiết bị hiện ra phía trên biểu tượng thùng rác và thường được đặt tên liên quan tới nhãn hiệu của thiết bị, trừ trường hợp bạn đã thay đổi từ trước."
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:98
+#: C/gs-where-files.page:125
 msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
@@ -1547,7 +1604,7 @@ msgid ""
 msgstr "Duyệt các tập tin trên USB. Nhấp một lần để xem trước tập tin và nhấp hai lần để mở tập tin. Bạn cũng có thể nhấp chuột vào thanh trên cùng có chứa kính lúp để tìm kiếm nếu bạn biết tên tập tin."
 
 #. (itstool) path: note/p
-#: C/gs-where-files.page:105
+#: C/gs-where-files.page:132
 msgid ""
 "Make sure that you have actually saved your file! If you close a program "
 "without saving your work, you might not be able to find it again since not "

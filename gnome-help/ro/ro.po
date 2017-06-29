@@ -1,10 +1,12 @@
 # 
 # Translators:
+# georgian balan <braila222@gmail.com>, 2017
+# Nuritzi Sanchez <ns@endlessm.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-06-05 22:29-0700\n"
-"PO-Revision-Date: 2017-06-06 05:56+0000\n"
+"POT-Creation-Date: 2017-06-23 17:36-0700\n"
+"PO-Revision-Date: 2017-06-24 00:37+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -16,77 +18,77 @@ msgstr ""
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:3
 msgid "Welcome"
-msgstr ""
+msgstr "Bun Venit"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:4
 msgid "Launching Applications"
-msgstr ""
+msgstr "Lansarea aplicatiilor"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:5
 msgid "Getting Started"
-msgstr ""
+msgstr "Noțiuni de bază"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:6
 msgid "Changing Wallpaper"
-msgstr ""
+msgstr "Schimbarea tapetului / wallpaper"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:7
 msgid "Responding to Messages"
-msgstr ""
+msgstr "Răspunzând la mesaje"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:8
 msgid "Switching Tasks"
-msgstr ""
+msgstr "Comutarea sarcinilor"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:9
 msgid "Delayed Response"
-msgstr ""
+msgstr "Răspuns întârziat"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:10
 msgid "Windows and Workspaces"
-msgstr ""
+msgstr "Ferestre și Spații de lucru"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:11
 msgid "Changing Date, Time and Timezone"
-msgstr ""
+msgstr "Schimbarea datei, a orei și a fusului orar"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:12
 msgid "Maximize"
-msgstr ""
+msgstr "Mareste"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:13
 msgid "Restore"
-msgstr ""
+msgstr "Restabileste"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:14
 msgid "Left half of screen"
-msgstr ""
+msgstr "Jumatatea stânga a ecranului"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:15
 msgid "Workspace down"
-msgstr ""
+msgstr "Spatiu de lucru jos"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:16
 msgid "Workspace up"
-msgstr ""
+msgstr "Spatiu de lucru sus"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:17
 msgid "Right half of screen"
-msgstr ""
+msgstr "Jumatatea dreapta a ecranului"
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -98,47 +100,47 @@ msgstr ""
 #: C/gs-web-browser1.svg:122
 #, no-wrap
 msgid "Activities"
-msgstr ""
+msgstr "Activitati"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:19
 msgid "Enter"
-msgstr ""
+msgstr "Intra"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:20
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:21
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:22
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:23
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:24
 msgid "help"
-msgstr ""
+msgstr "Ajutor"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:25
 msgid "web"
-msgstr ""
+msgstr "web"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:26
 msgid "Just start typing…"
-msgstr ""
+msgstr "A inceput sa tasteze..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
@@ -146,127 +148,127 @@ msgstr ""
 #: C/gs-thumb-responding-to-messages.svg:90
 #, no-wrap
 msgid "John Doe"
-msgstr ""
+msgstr "John Doe"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:28
 msgid "Settings"
-msgstr ""
+msgstr "Setari"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:29
 msgid "Background"
-msgstr ""
+msgstr "Fundal"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:30
 msgid "Wallpapers"
-msgstr ""
+msgstr "Imagini de fundal"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:31
 msgid "Select"
-msgstr ""
+msgstr "Selecteaza"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:32
 msgid "Ready for the meeting?"
-msgstr ""
+msgstr "Sunteți gata pentru întâlnire?"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:33
 msgid "I'll be there in a sec..."
-msgstr ""
+msgstr "Voi fi acolo într-o secundă ..."
 
 #. (itstool) path: titles/t
 #. (itstool) path: text/tspan
 #: C/gs-animation.xml:34 C/gs-thumb-responding-to-messages.svg:89
 #, no-wrap
 msgid "Good stuff, thanks again"
-msgstr ""
+msgstr "Chestii bune, mulțumesc din nou"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:35
 msgid "Thanks for the support"
-msgstr ""
+msgstr "Multumesc pentru ajutor"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:36
 msgid "No worries."
-msgstr ""
+msgstr "Nici o grija"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:37
 msgid "Too kind."
-msgstr ""
+msgstr "Prea bun."
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:38
 msgid "Open Calendar"
-msgstr ""
+msgstr "Deschide calendarul"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:39
 msgid "Open Clocks"
-msgstr ""
+msgstr "Deschide ceasul"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:40
 msgid "Date and Time Settings"
-msgstr ""
+msgstr "Setări de dată și oră."
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:41
 msgid "Automatic Date and Time"
-msgstr ""
+msgstr "Data și ora automată"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:42
 msgid "Automatic Timezone"
-msgstr ""
+msgstr "Fus orar automat"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:43
 msgid "14 October 2013, 20:00"
-msgstr ""
+msgstr "14 Octombrie 2013, 20:00"
 
 #. (itstool) path: titles/t
 #: C/gs-animation.xml:44
 msgid "14 October 2013, 14:00"
-msgstr ""
+msgstr "14 Octombrie 2013, 14:00"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "credite-traducător"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:9 C/gs-get-online.page:9 C/gs-use-system-search.page:9
 msgid "Jakub Steiner"
-msgstr ""
+msgstr "Jakub Steiner"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:12 C/gs-get-online.page:12
 #: C/gs-use-system-search.page:12
 msgid "Petr Kovar"
-msgstr ""
+msgstr "Petr Kovar"
 
 #. (itstool) path: credit/name
 #: C/gs-browse-web.page:15 C/gs-fix-overscan.page:8 C/gs-get-online.page:15
 #: C/gs-give-feedback.page:8 C/gs-use-offline.page:8
 #: C/gs-use-system-search.page:15 C/gs-where-files.page:8
 msgid "Nuritzi Sanchez"
-msgstr ""
+msgstr "Nuritzi Sanchez"
 
 #. (itstool) path: info/desc
 #: C/gs-browse-web.page:20
 msgid "Use Facebook, Google and other popular websites with your browser."
-msgstr ""
+msgstr "Utilizați Facebook, Google și alte site-uri populare cu browserul dvs."
 
 #. (itstool) path: page/title
 #: C/gs-browse-web.page:23
 msgid "Browse the web"
-msgstr ""
+msgstr "Navighează pe internet."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:27
@@ -274,7 +276,7 @@ msgid ""
 "Your computer comes with a pre-installed <gui>Internet app</gui> icon on "
 "your desktop. You can browse the internet by clicking on this desktop icon "
 "once."
-msgstr ""
+msgstr "Computerul dvs. vine cu o pictogramă <gui> aplicație Internet </ gui> preinstalată pe desktop. Puteți naviga pe internet făcând click o dată pe această pictogramă desktop."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:33
@@ -282,36 +284,36 @@ msgid ""
 "You can also open this app by moving your mouse pointer to the "
 "<gui>Internet</gui> orange globe icon at the bottom left of the screen and "
 "clicking once."
-msgstr ""
+msgstr "De asemenea, puteți să deschideți această aplicație mutând indicatorul mouse-ului pe pictograma glob de culoare portocaliu <gui> Internet </ gui> din partea stângă jos a ecranului și făcând clic o singură dată."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:39
 msgid "Click the address bar at the top of the browser window. Start typing!"
-msgstr ""
+msgstr "Faceți clic pe bara de adrese din partea superioară a ferestrei browserului. Începeți să tastați!"
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:43
 msgid ""
 "You do not need to remember the exact address if you have already visited "
 "the website because it will be stored in your history and/or bookmarks."
-msgstr ""
+msgstr "Nu aveți nevoie să vă amintiți adresa exactă dacă ați vizitat deja site-ul, deoarece acesta va fi stocat în istoric și / sau în marcaje."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:46
 msgid ""
 "If the website is found in the history or bookmarks, you will see a drop-"
 "down list appear below the address bar."
-msgstr ""
+msgstr "Dacă site-ul Web este găsit în istoric sau în marcaje, veți vedea o listă derulantă afișată sub bara de adrese."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:49
 msgid "Select the website you are looking for using the arrow keys."
-msgstr ""
+msgstr "Selectați site-ul web pe care îl căutați utilizând tastele săgeți."
 
 #. (itstool) path: item/p
 #: C/gs-browse-web.page:52
 msgid "After you have selected a website, press <key>Enter</key> to visit it."
-msgstr ""
+msgstr "După ce ați selectat un site Web, apăsați pe <key> Enter </ key> pentru al vizita."
 
 #. (itstool) path: note/p
 #: C/gs-browse-web.page:58
@@ -322,83 +324,83 @@ msgid ""
 "your desktop. You will be shown the top results that are already on your "
 "Endless computer, and it will also ask if you want to search the internet. "
 "Click on the option to search the internet."
-msgstr ""
+msgstr "Puteți căuta pe internet direct de pe desktop folosind <link xref=\"gs-use-system-search\"> funcția globală de căutare</link>. Mai întâi, <gui> tastați ceea ce căutați direct </gui> în bara de căutare de pe desktop. Vi se vor afișa rezultatele de top care sunt deja pe computerul dvs. Endless și vă va întreba dacă doriți să căutați pe internet. Faceți clic pe opțiunea pentru a căuta pe internet."
 
 #. (itstool) path: credit/name
 #: C/gs-fix-overscan.page:12 C/gs-give-feedback.page:12
 #: C/gs-use-offline.page:12 C/gs-where-files.page:12
 msgid "Endless Mobile, Inc."
-msgstr ""
+msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/gs-fix-overscan.page:13 C/gs-give-feedback.page:13
 #: C/gs-use-offline.page:13 C/gs-where-files.page:13
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 #. (itstool) path: info/desc
 #: C/gs-fix-overscan.page:19
 msgid ""
 "Fix a problem where your TV is cutting off the top and bottom of the screen."
-msgstr ""
+msgstr "Remediați o problemă în care televizorul dvs. taie partea superioară și inferioară a ecranului."
 
 #. (itstool) path: page/title
 #: C/gs-fix-overscan.page:22
 msgid "I can't see the task bar or start menu, what do I do?"
-msgstr ""
+msgstr "Nu pot vedea bara de sarcini sau meniul de start, ce să fac?"
 
 #. (itstool) path: page/p
 #: C/gs-fix-overscan.page:24
 msgid ""
 "If you do not see the black task bar at the bottom of your screen, you need "
 "to adjust your screen to fit your TV."
-msgstr ""
+msgstr "Dacă nu vedeți bara de sarcini neagră din partea inferioară a ecranului, trebuie să ajustați ecranul pentru a se potrivi televizorului."
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:28
 msgid "To adjust your screen:"
-msgstr ""
+msgstr "Pentru a ajusta ecranul:"
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:31
 msgid "Right click on the desktop and select <gui>\"Change Background...\"</gui>."
-msgstr ""
+msgstr "Faceți click dreapta pe desktop și selectați <gui> \"Schimbarea fundalului ...\" </ gui>."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:36
 msgid "Click the back button on the top left corner of the dialog box."
-msgstr ""
+msgstr "Faceți click pe butonul din spate din colțul din stânga sus al casetei de dialog."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:40
 msgid "Select the <gui>Displays</gui> icon."
-msgstr ""
+msgstr "Selectați pictograma <gui> Display </ gui>."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:44
 msgid ""
 "Check the dialog box next to <gui>Scaling</gui> that says <gui>\"Adjust "
 "screen for TV\"</gui>."
-msgstr ""
+msgstr "Bifați caseta de dialog de lângă <gui> Scalare </gui> care afișează <gui>\"Reglați ecranul pentru televizor\"</gui>."
 
 #. (itstool) path: item/p
 #: C/gs-fix-overscan.page:49
 msgid ""
 "You should now see a black bar at the bottom of your screen and the user "
 "menu on the bottom left-hand corner of your screen!"
-msgstr ""
+msgstr "Ar trebui să vedeți acum o bară neagră în partea de jos a ecranului și meniul de utilizator din colțul din stânga jos al ecranului!"
 
 #. (itstool) path: page/title
 #: C/gs-get-online.page:21
 msgid "How do I set up my internet?"
-msgstr ""
+msgstr "Cum configurez internetul meu?"
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:23
 msgid ""
 "If you are offline, the network connection icon on the bottom right-hand "
 "side of your screen will look like this <_:media-1/>."
-msgstr ""
+msgstr "Dacă sunteți offline, pictograma de conectare la rețea din partea din dreapta jos a ecranului va arăta astfel: <_: media-1 />."
 
 #. (itstool) path: page/p
 #: C/gs-get-online.page:27
@@ -407,12 +409,12 @@ msgid ""
 "network cable has been unplugged, the computer has been set to run in "
 "<em>airplane mode</em>, or there are no available Wi-Fi networks in your "
 "area."
-msgstr ""
+msgstr "Starea offline poate fi cauzată de o serie de motive: de exemplu, un cablu de rețea a fost deconectat, calculatorul a fost setat să fie difuzat în modul <em> avionului </ em> sau nu există rețele Wi-Fi disponibile in zona ta."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:34
 msgid "Connect to a wired network"
-msgstr ""
+msgstr "Conectați-vă la o rețea cu fir"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:38
@@ -420,26 +422,26 @@ msgid ""
 "If you want to use a wired connection, just plug in a network cable to go "
 "online. The computer will try to set up the network connection for you "
 "automatically."
-msgstr ""
+msgstr "Dacă doriți să utilizați o conexiune prin cablu, conectați doar un cablu de rețea pentru a vă conecta online. Computerul va încerca să configureze automat conexiunea de rețea pentru dvs."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:41 C/gs-get-online.page:76
 msgid ""
 "While the computer sets up a network connection for you, the network "
 "connection icon shows three dots."
-msgstr ""
+msgstr "În timp ce computerul stabilește o conexiune de rețea pentru dvs., pictograma conexiunii la rețea afișează trei puncte."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:45 C/gs-get-online.page:80
 msgid ""
 "Once the network connection has been successfully set up, the network "
 "connection icon changes to this <_:media-1/> networked computer symbol."
-msgstr ""
+msgstr "Odată ce conexiunea la rețea a fost configurată cu succes, pictograma de conexiune la rețea se va schimba în acest simbol al computerului <_: media-1 /> în rețea."
 
 #. (itstool) path: section/title
 #: C/gs-get-online.page:56
 msgid "Connect to a Wi-Fi network"
-msgstr ""
+msgstr "Conectați-vă la o rețea Wi-Fi"
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:60
@@ -447,26 +449,26 @@ msgid ""
 "Is your Wi-Fi connected? Look for the network icon at the bottom right "
 "corner of your screen. You will see this icon <_:media-1/>. Click on it and "
 "a menu should appear."
-msgstr ""
+msgstr "Este conectat Wi-Fi-ul? Căutați pictograma de rețea din colțul din dreapta jos al ecranului. Veți vedea această pictogramă <_: media-1 />. Faceți clic pe acesta și trebuie să apară un meniu."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:66
 msgid ""
 "Is the Wi-Fi switch blue? If it is not, click on the words “Wi-Fi” to turn "
 "it on. Check to make sure it is now blue."
-msgstr ""
+msgstr "Comutatorul Wi-Fi este albastru? Dacă nu, faceți clic pe cuvintele \"Wi-Fi\" pentru a il activa. Verificați pentru a vă asigura că este acum albastru."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:70
 msgid "Next, select your Wi-Fi network from the list."
-msgstr ""
+msgstr "Apoi, selectați rețeaua Wi-Fi din listă."
 
 #. (itstool) path: item/p
 #: C/gs-get-online.page:73
 msgid ""
 "Enter your network password, which is usually different than the password "
 "you use to log in to your computer."
-msgstr ""
+msgstr "Introduceți parola de rețea, care de obicei diferă de parola pe care o utilizați pentru a vă conecta la computer."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:88
@@ -474,7 +476,7 @@ msgid ""
 "If you don’t see your network in the list, try unplugging your Wi-Fi router "
 "then plugging it back in. If it still doesn’t work, you may need to contact "
 "your internet provider directly."
-msgstr ""
+msgstr "Dacă nu vedeți rețeaua dvs. în listă, încercați să deconectați routerul Wi-Fi, apoi conectați-l din nou. Dacă aceasta nu funcționează, este posibil să fie necesar să vă contactați direct furnizorul dvs. de internet."
 
 #. (itstool) path: note/p
 #: C/gs-get-online.page:93
@@ -482,38 +484,38 @@ msgid ""
 "Remember that your friends or neighbors may have the same default network "
 "name you do, and your computer may be picking up their network signal. If "
 "your password isn’t working, make sure you have selected the right network."
-msgstr ""
+msgstr "Amintiți-vă că prietenii sau vecinii dvs. pot avea același nume de rețea implicit pe care îl faceți, iar computerul poate recepționează semnalul de rețea. Dacă parola nu funcționează, asigurați-vă că ați selectat rețeaua potrivită."
 
 #. (itstool) path: page/title
 #: C/gs-give-feedback.page:19
 msgid "How can I help make Endless better?"
-msgstr ""
+msgstr "Cum pot ajuta la îmbunătățirea Endless?"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:21
 msgid ""
 "What do you love about Endless? Is there anything you would change? Do you "
 "have any ideas or suggestions for new apps to include?"
-msgstr ""
+msgstr "Ce îți place la Endless? E ceva ce ai schimba? Aveți idei sau sugestii pentru a include noi aplicații?"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:24
 msgid ""
 "Click on the <gui>Give Us Feedback</gui> link in this Help Center app and "
 "let us know."
-msgstr ""
+msgstr "Dați click pe linkul <gui> Trimiteți-ne feedback </gui> din această aplicație din Centrul de ajutor și anunțați-ne."
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:26
 msgid "We want to hear from you!"
-msgstr ""
+msgstr "Vrem sa auzim de la tine!"
 
 #. (itstool) path: note/p
 #: C/gs-give-feedback.page:30
 msgid ""
 "Please note that you will need an internet connection in order to submit "
 "your feedback."
-msgstr ""
+msgstr "Vă rugăm să rețineți că veți avea nevoie de o conexiune la internet pentru a vă trimite feedbackul."
 
 #. (itstool) path: Work/format
 #: C/gs-go-online1.svg:230 C/gs-go-online2.svg:265 C/gs-go-online3.svg:293
@@ -527,7 +529,7 @@ msgstr ""
 #: C/gs-web-browser1.svg:108 C/gs-web-browser2-firefox.svg:100
 #: C/gs-web-browser2.svg:102
 msgid "image/svg+xml"
-msgstr ""
+msgstr "image/svg+xml"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:242 C/gs-go-online2.svg:278 C/gs-goa1.svg:80
@@ -536,7 +538,7 @@ msgstr ""
 #: C/gs-web-browser1-firefox.svg:120 C/gs-web-browser1.svg:120
 #, no-wrap
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:250 C/gs-search1.svg:196 C/gs-search2.svg:152
@@ -545,7 +547,7 @@ msgstr ""
 #: C/gs-thumb-timezone.svg:57 C/gs-thumb-windows-and-workspaces.svg:105
 #, no-wrap
 msgid "14:30"
-msgstr ""
+msgstr "14:30"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online1.svg:266 C/gs-go-online3.svg:306 C/gs-goa1.svg:84
@@ -554,256 +556,256 @@ msgstr ""
 #: C/gs-web-browser1-firefox.svg:153 C/gs-web-browser1.svg:153
 #, no-wrap
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:328
 #, no-wrap
 msgid "Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:336 C/gs-go-online3.svg:315
 #, no-wrap
 msgid "homenetwork"
-msgstr ""
+msgstr "homenetwork"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:338
 #, no-wrap
 msgid "Select Network"
-msgstr ""
+msgstr "Selectați Rețea"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:339
 #, no-wrap
 msgid "Turn Off"
-msgstr ""
+msgstr "opriți"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online2.svg:340
 #, no-wrap
 msgid "Network Settings"
-msgstr ""
+msgstr "Setari de retea"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:309
 #, no-wrap
 msgid "Wi-Fi Networks"
-msgstr ""
+msgstr "Rețelele Wi-Fi"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:313
 #, no-wrap
 msgid "Connect"
-msgstr ""
+msgstr "Conectați"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:316
 #, no-wrap
 msgid "wireless"
-msgstr ""
+msgstr "wireless"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:317
 #, no-wrap
 msgid "netgear"
-msgstr ""
+msgstr "netgear"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:318
 #, no-wrap
 msgid "weak"
-msgstr ""
+msgstr "slab"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:319
 #, no-wrap
 msgid "private"
-msgstr ""
+msgstr "privat"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:320
 #, no-wrap
 msgid "Select a network"
-msgstr ""
+msgstr "Selectați o rețea"
 
 #. (itstool) path: text/tspan
 #: C/gs-go-online3.svg:343 C/gs-goa3.svg:70 C/gs-goa4.svg:56 C/gs-goa4.svg:90
 #, no-wrap
 msgid "Cancel"
-msgstr ""
+msgstr "Anulare"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:50 C/gs-thumb-timezone.svg:103 C/gs-thumb-timezone.svg:137
 #: C/gs-web-browser2-firefox.svg:164 C/gs-web-browser2.svg:165
 #, no-wrap
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:69 C/gs-goa3.svg:113 C/gs-goa5.svg:79
 #, no-wrap
 msgid "Online Accounts"
-msgstr ""
+msgstr "Conturi Online"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa2.svg:71 C/gs-goa3.svg:115
 #, no-wrap
 msgid "Add an online account"
-msgstr ""
+msgstr "Adauga un cont online"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:63 C/gs-thumb-timezone.svg:104 C/gs-thumb-timezone.svg:138
 #: C/gs-web-browser2-firefox.svg:113 C/gs-web-browser2.svg:115
 #, no-wrap
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:66
 #, no-wrap
 msgid "Add Account"
-msgstr ""
+msgstr "Adauga cont"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:72 C/gs-goa4.svg:123 C/gs-goa5.svg:86 C/gs-goa5.svg:89
 #, no-wrap
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:73 C/gs-goa4.svg:124
 #, no-wrap
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:74 C/gs-goa4.svg:125
 #, no-wrap
 msgid "Windows Live"
-msgstr ""
+msgstr "Windows live"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:75 C/gs-goa4.svg:126
 #, no-wrap
 msgid "Microsoft Exchange"
-msgstr ""
+msgstr "Microsoft Exchange"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa3.svg:76 C/gs-goa4.svg:127
 #, no-wrap
 msgid "Enterprise Login (Kerberos)"
-msgstr ""
+msgstr "Enterprise Login (Kerberos)"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:48 C/gs-thumb-timezone.svg:105
 #: C/gs-web-browser2-firefox.svg:259 C/gs-web-browser2.svg:255
 #, no-wrap
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:52 C/gs-goa4.svg:86
 #, no-wrap
 msgid "Google account"
-msgstr ""
+msgstr "Cont Google"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:69
 #, no-wrap
 msgid "SIGN UP"
-msgstr ""
+msgstr "INSCRIE-TE"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:70
 #, no-wrap
 msgid "Sign in"
-msgstr ""
+msgstr "Logare"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:71
 #, no-wrap
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:73
 #, no-wrap
 msgid "Password"
-msgstr ""
+msgstr "Parola"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:76
 #, no-wrap
 msgid "Sign In"
-msgstr ""
+msgstr "Logare"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:77 C/gs-goa5.svg:88 C/gs-goa5.svg:91
 #, no-wrap
 msgid "john.doe@gmail.com"
-msgstr ""
+msgstr "john.doe@gmail.com"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:103
 #, no-wrap
 msgid "Grant Access"
-msgstr ""
+msgstr "Ofera acces"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:108
 #, no-wrap
 msgid "Deny Access"
-msgstr ""
+msgstr "Interzice acces"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa4.svg:119 C/gs-thumb-timezone.svg:106
 #, no-wrap
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:60 C/gs-thumb-timezone.svg:107
 #, no-wrap
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:92
 #, no-wrap
 msgid "Use for"
-msgstr ""
+msgstr "Foloseste pentru"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:93
 #, no-wrap
 msgid "Mail"
-msgstr ""
+msgstr "Mail"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:98
 #, no-wrap
 msgid "Calendar"
-msgstr ""
+msgstr "Calendar"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:103 C/gs-search2.svg:293
 #, no-wrap
 msgid "Contacts"
-msgstr ""
+msgstr "Contacte"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:108
 #, no-wrap
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:113
 #, no-wrap
 msgid "Documents"
-msgstr ""
+msgstr "Documente"
 
 #. (itstool) path: text/tspan
 #: C/gs-goa5.svg:118 C/gs-goa5.svg:119 C/gs-goa5.svg:120 C/gs-goa5.svg:121
@@ -811,131 +813,131 @@ msgstr ""
 #: C/gs-search-settings.svg:279 C/gs-search-settings.svg:286
 #, no-wrap
 msgid "ON"
-msgstr ""
+msgstr "Pornit"
 
 #. (itstool) path: p/link
 #: C/gs-legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr ""
+msgstr "Creative Commons Attribution-ShareAlike 3.0 Licență Neportata"
 
 #. (itstool) path: license/p
 #: C/gs-legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
-msgstr ""
+msgstr "Această lucrare este licențiată sub un <_: link-1 />."
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:137
 #, no-wrap
 msgid "Search"
-msgstr ""
+msgstr "Cauta"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:148
 #, no-wrap
 msgid "Files"
-msgstr ""
+msgstr "Fisiere"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:149
 #, no-wrap
 msgid "Enabled"
-msgstr ""
+msgstr "Activat"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:264
 #, no-wrap
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:265
 #, no-wrap
 msgid "Photos"
-msgstr ""
+msgstr "Poze"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:266
 #, no-wrap
 msgid "Music"
-msgstr ""
+msgstr "Muzica"
 
 #. (itstool) path: text/tspan
 #: C/gs-search-settings.svg:293
 #, no-wrap
 msgid "OFF"
-msgstr ""
+msgstr "Oprit"
 
 #. (itstool) path: text/tspan
 #: C/gs-search1.svg:229
 #, no-wrap
 msgid "just type"
-msgstr ""
+msgstr "doar scrie"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:182
 #, no-wrap
 msgid "con"
-msgstr ""
+msgstr "con"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:246
 #, no-wrap
 msgid "Accounts"
-msgstr ""
+msgstr "Conturi"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:247
 #, no-wrap
 msgid "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
-msgstr ""
+msgstr "https://accounts.google.com/ServiceLogin?service=oz&amp;con..."
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:248
 #, no-wrap
 msgid "config"
-msgstr ""
+msgstr "config"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:249 C/gs-search2.svg:252
 #, no-wrap
 msgid "fontconfig"
-msgstr ""
+msgstr "fontconfig"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:250
 #, no-wrap
 msgid "system-config-http.zip"
-msgstr ""
+msgstr "system-config-http.zip"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:251
 #, no-wrap
 msgid "Icon guidelines"
-msgstr ""
+msgstr "Instrucțiuni pentru icoane"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:269
 #, no-wrap
 msgid "Secure Linux Containers"
-msgstr ""
+msgstr "Secure Linux Containers"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:270
 #, no-wrap
 msgid "Developer Conference 2012"
-msgstr ""
+msgstr "Conferința pentru dezvoltatori 2012"
 
 #. (itstool) path: text/tspan
 #: C/gs-search2.svg:294 C/gs-web-browser2-firefox.svg:218
 #, no-wrap
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-responding-to-messages.svg:88
 #, no-wrap
 msgid "Thanks f"
-msgstr ""
+msgstr "Multumesc f"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Sunday here
@@ -943,14 +945,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Sunday"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. (itstool) path: text/tspan
 #. Translators: M stands for Monday here
 #: C/gs-thumb-timezone.svg:94
 #, no-wrap
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Tuesday here
@@ -958,14 +960,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Tuesday"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: W stands for Wednesday here
 #: C/gs-thumb-timezone.svg:96
 #, no-wrap
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #. (itstool) path: text/tspan
 #. Translators: T stands for Thursday here
@@ -973,14 +975,14 @@ msgstr ""
 #, no-wrap
 msgctxt "Thursday"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #. (itstool) path: text/tspan
 #. Translators: F stands for Friday here
 #: C/gs-thumb-timezone.svg:98
 #, no-wrap
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #. (itstool) path: text/tspan
 #. Translators: S stands for Saturday here
@@ -988,185 +990,185 @@ msgstr ""
 #, no-wrap
 msgctxt "Saturday"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:108
 #, no-wrap
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:109
 #, no-wrap
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:110
 #, no-wrap
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:111
 #, no-wrap
 msgid "11"
-msgstr ""
+msgstr "11"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:112
 #, no-wrap
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:113
 #, no-wrap
 msgid "13"
-msgstr ""
+msgstr "13"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:114
 #, no-wrap
 msgid "14"
-msgstr ""
+msgstr "14"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:116
 #, no-wrap
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:117
 #, no-wrap
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:118
 #, no-wrap
 msgid "17"
-msgstr ""
+msgstr "17"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:119
 #, no-wrap
 msgid "18"
-msgstr ""
+msgstr "18"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:120
 #, no-wrap
 msgid "19"
-msgstr ""
+msgstr "19"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:121
 #, no-wrap
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:122
 #, no-wrap
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:124
 #, no-wrap
 msgid "22"
-msgstr ""
+msgstr "22"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:125
 #, no-wrap
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:126
 #, no-wrap
 msgid "24"
-msgstr ""
+msgstr "24"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:127
 #, no-wrap
 msgid "25"
-msgstr ""
+msgstr "25"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:128
 #, no-wrap
 msgid "26"
-msgstr ""
+msgstr "26"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:129
 #, no-wrap
 msgid "27"
-msgstr ""
+msgstr "27"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:130
 #, no-wrap
 msgid "28"
-msgstr ""
+msgstr "28"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:132
 #, no-wrap
 msgid "29"
-msgstr ""
+msgstr "29"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:133
 #, no-wrap
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #. (itstool) path: text/tspan
 #: C/gs-thumb-timezone.svg:134
 #, no-wrap
 msgid "31"
-msgstr ""
+msgstr "31"
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:20
 msgctxt "link:shell-overview"
 msgid "Find apps that work without the internet"
-msgstr ""
+msgstr "Gaseste aplicatii care functioneaza fara internet"
 
 #. (itstool) path: info/title
 #: C/gs-use-offline.page:21
 msgctxt "link:net"
 msgid "Use your computer offline"
-msgstr ""
+msgstr "Foloseste computerul offline"
 
 #. (itstool) path: info/desc
 #: C/gs-use-offline.page:22
 msgid "Discover all the offline content on your computer."
-msgstr ""
+msgstr "Descoperă tot conținutul offline de pe computer."
 
 #. (itstool) path: page/title
 #: C/gs-use-offline.page:25
 msgid "What can I do if I don't have internet?"
-msgstr ""
+msgstr "Ce pot face dacă nu am internet?"
 
 #. (itstool) path: page/p
 #: C/gs-use-offline.page:27
 msgid ""
 "Your computer comes with a lot of great offline content you can use even if "
 "you don't have an internet connection."
-msgstr ""
+msgstr "Calculatorul dvs. are o mulțime de conținut offline excelent pe care îl puteți utiliza, chiar dacă nu aveți o conexiune la internet."
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:31
 msgid "Introducing the <app>App Center</app>"
-msgstr ""
+msgstr "Introducerea <app>Centrului de aplicații</app>"
 
 #. (itstool) path: section/p
 #: C/gs-use-offline.page:32
@@ -1175,129 +1177,129 @@ msgid ""
 "added to your desktop. Most of the apps you'll find there have offline "
 "capability and you can browse by category to find just what you're looking "
 "for, or else just click around and explore."
-msgstr ""
+msgstr "<app>Centrul de aplicații</app> este plin de aplicații gratuite și pot fi ușor adăugate pe desktop. Majoritatea aplicațiilor pe care le veți găsi acolo au capacități offline și puteți căuta după categorie pentru a găsi exact ceea ce căutați sau altceva, doar faceți click pe și explorați."
 
 #. (itstool) path: steps/title
 #: C/gs-use-offline.page:37
 msgid "How to get to the <app>App Center</app>:"
-msgstr ""
+msgstr "Cum se ajunge la <app>App Center</app>:"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:39
 msgid "Click on <app>More Apps</app> from the desktop."
-msgstr ""
+msgstr "Faceți click pe <app>Mai multe aplicații</app> de pe desktop."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:43
 msgid ""
 "Click on a category like <gui>Learning</gui>, <gui>Games</gui>, and "
 "<gui>Utilities</gui>, to see the apps in each section."
-msgstr ""
+msgstr "Click pe o categorie ca<gui>Invata</gui>, <gui>Jocuri</gui>, si <gui>Utilitati</gui>, pentru a vedea aplicatii in fiecare sectiune."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:48
 msgid ""
 "Click on an app to read more about it and either install it or add it to "
 "your desktop."
-msgstr ""
+msgstr "Click pe aplicatie pentru a citi mai multe despre ea si fie o instalezi sau o adaugi pe desktop."
 
 #. (itstool) path: section/title
 #: C/gs-use-offline.page:56
 msgid ""
 "Here are a few examples of the offline content on your desktop and in the "
 "<app>App Center</app>:"
-msgstr ""
+msgstr "Iată câteva exemple de conținut offline pe desktop și în <app>App Center</app>:"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:60
 msgid "Learning"
-msgstr ""
+msgstr "învăţare"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:62
 msgid ""
 "<app>Edu Games</app> - Chess, puzzles, and many more games and activities to"
 " help children of all ages develop their mental abilities."
-msgstr ""
+msgstr "<app>Jocuri Edu</app> - Șah, puzzle-uri și multe alte jocuri și activități care ajută copiii de toate vârstele să-și dezvolte abilitățile mentale."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:67
 msgid ""
 "<app>Tux Math</app> - A fun way for kids to practice addition, subtraction, "
 "multiplication and more."
-msgstr ""
+msgstr "<app>Tux Math</app> - Un mod distractiv pentru copii de a practica adunarea, scăderea, înmulțirea și multe altele."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:71
 msgid ""
 "<app>Tux Typing</app> - Learn how to type with this game that guides you and"
 " helps you practice so that you can type faster and more accurately."
-msgstr ""
+msgstr "<app>Tux Typing</app> - Aflați cum să tastați cu acest joc care vă ghidează și vă ajută să practicati astfel încât să puteți tasta mai rapid și mai precis."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:76
 msgid ""
 "<app>Animals</app> - Learn more about your favorite animals, and about "
 "animals you never even knew existed!"
-msgstr ""
+msgstr "<app>Animale</app> - Aflați mai multe despre animalele preferate și despre animalele pe care niciodată nu știați că au existat!"
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:82
 msgid "Games"
-msgstr ""
+msgstr "Jocuri"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:84
 msgid ""
 "<app>Tux Kart</app> - Race against the computer or your friends. Get "
 "superpowers and avoid traps to finish first!"
-msgstr ""
+msgstr "<app>Tux Kart</app> - Cursa impotriva computerului sau a prietenilor tai. Obțineți superputeri și evitați capcanele pentru a termina primul!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:88
 msgid ""
 "<app>Potato Guy</app> - Create a face and character for Mr. Potato Guy."
-msgstr ""
+msgstr "<app>Potato Guy</app> - Creați o față și un caracter pentru domnul Potato Guy."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:92
 msgid ""
 "<app>Numpty Physics</app> - Draw objects and use the laws of physics to help"
 " you get to the next level."
-msgstr ""
+msgstr "<app>Numai Fizică</app> - Desenați obiecte și folosiți legile fizicii pentru a vă ajuta să ajungeți la nivelul următor."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:96
 msgid ""
 "<app>X-Moto</app> - Try to get your motorcycle up hills and around objects "
 "as fast as you can to complete each course."
-msgstr ""
+msgstr "<app>X-Moto</app> - Încercați să urcați motocicleta pe dealuri și în jurul obiectelor cât de repede puteți pentru a finaliza fiecare cursa."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:100
 msgid ""
 "<app>Minetest</app> - Avoid the areas that have mines buried beneath them so"
 " that you don't blow up. This strategy game is addictive."
-msgstr ""
+msgstr "<app>Minetest</app> - Evitați zonele care au miniele îngropate sub ele, astfel încât să nu va arunce în aer. Acest joc de strategie este captivant."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:104
 msgid ""
 "<app>Blockout2</app> - A tetris-like game where you need to match the colors"
 " as best you can before the screen fills up and you lose."
-msgstr ""
+msgstr "<app>Blockout2</app> - Un joc asemănător Tetris în care trebuie să potriviți culorile cât mai bine puteți înainte ca ecranul să se umple și să pierdeți."
 
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:110
 msgid "Utility"
-msgstr ""
+msgstr "Utilitare"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:112
 msgid ""
 "<app>Notes</app> - A handy app to help you jot down things you don't want to"
 " forget!"
-msgstr ""
+msgstr "<app>Note</app> - O aplicație la îndemână care vă ajută să vă înscrieți lucrurile pe care nu doriți să le uitați!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:116
@@ -1305,33 +1307,33 @@ msgid ""
 "<app>Video Editor</app> - Film videos on your phone and edit them to create "
 "a masterpiece, or simply take already existing video clips and make them "
 "something of your own!"
-msgstr ""
+msgstr "<app>Editor video</app> - Filmezi clipuri pe telefonul tău și le editezi pentru a crea o capodoperă, sau pur și simplu iei clipuri video deja existente și să le faci ceva de-al tău!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:121
 msgid ""
 "<app>Photo Editor</app> - Add filters and borders to your photos, crop them,"
 " and more, to make them even more awesome!"
-msgstr ""
+msgstr "<app>Photo Editor</app> - Adăugați filtre și frontiere la fotografiile dvs., le dcupati și multe altele, pentru a le face chiar mai minunate!"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:125
 msgid ""
 "<app>Audio Editor</app> - Cut, mix and create great beats and songs that "
 "will have all of your friends dancing along with you."
-msgstr ""
+msgstr "<app>Editor audio</app> - taie, mixeaza si creeaza beat-uri si melodii care vor face toti prietenii tai sa danseze impreuna cu tine."
 
 #. (itstool) path: info/desc
 #: C/gs-use-system-search.page:19
 msgid ""
 "Search for things on your computer and on the internet right from your "
 "desktop!"
-msgstr ""
+msgstr "Căutați lucruri pe computerul dvs. și pe internet chiar de pe desktop!"
 
 #. (itstool) path: page/title
 #: C/gs-use-system-search.page:23
 msgid "Use global search"
-msgstr ""
+msgstr "Utilizați căutarea globală"
 
 #. (itstool) path: page/p
 #: C/gs-use-system-search.page:25
@@ -1340,216 +1342,273 @@ msgid ""
 "photos and more, right from your desktop. If you have an internet conection,"
 " you can even look for things that are on the internet, like you would on "
 "google, with the global search tool."
-msgstr ""
+msgstr "Bara de căutare globală ușurează căutarea! Puteți căuta aplicații, documente, fotografii și multe altele chiar de pe desktop. Dacă aveți o conexiune la internet, puteți chiar să căutați lucruri care sunt pe internet, cum ar fi pe Google, cu ajutorul instrumentului de căutare global."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:32
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing to search."
-msgstr ""
+msgstr "De pe desktop, faceți click pe <gui>bara de căutare globală</gui> din partea superioară a ecranului, care afișează \"Căutare Google și multe altele ...\" Începeți să tastați pentru a căuta."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:38 C/gs-where-files.page:36
+#: C/gs-use-system-search.page:38 C/gs-where-files.page:61
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
-msgstr ""
+msgstr "Rezultatele potrivite cu ceea ce ați tastat vor apărea pe măsură ce tastați. Primul rezultat este întotdeauna evidențiat și afișat în partea de sus."
 
 #. (itstool) path: item/p
 #: C/gs-use-system-search.page:40
 msgid "Press <key>Enter</key> to choose the first highlighted result."
-msgstr ""
+msgstr "Apăsați <key>Enter</key> pentru a alege primul rezultat evidențiat."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:44 C/gs-where-files.page:40
+#: C/gs-use-system-search.page:44 C/gs-where-files.page:65
 msgid "Items that may appear in the search results include:"
-msgstr ""
+msgstr "Elementele care pot apărea în rezultatele căutării includ:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:46 C/gs-where-files.page:42
+#: C/gs-use-system-search.page:46 C/gs-where-files.page:67
 msgid "matching applications, shown at the top of the search results,"
-msgstr ""
+msgstr "aplicatiile potrivite, afișate în partea de sus a rezultatelor căutării,"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:48 C/gs-where-files.page:44
+#: C/gs-use-system-search.page:48 C/gs-where-files.page:69
 msgid "matching settings, and"
-msgstr ""
+msgstr "setarile potrivite, și"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:49 C/gs-where-files.page:45
+#: C/gs-use-system-search.page:49 C/gs-where-files.page:70
 msgid "matching documents."
-msgstr ""
+msgstr "documentele potrivite."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:54 C/gs-where-files.page:49
+#: C/gs-use-system-search.page:54 C/gs-where-files.page:74
 msgid "In the search results, click on the item you want to open."
-msgstr ""
+msgstr "În rezultatele căutării, faceți click pe elementul pe care doriți să îl deschideți."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:55 C/gs-where-files.page:50
+#: C/gs-use-system-search.page:55 C/gs-where-files.page:75
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
-msgstr ""
+msgstr "Alternativ, evidențiați un element utilizând tastele săgeți și apăsați <key>ENTER</key>."
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser1-firefox-classic.svg:118
 #, no-wrap
 msgid "Applications"
-msgstr ""
+msgstr "Aplicatii"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:147 C/gs-web-browser2.svg:153
 #, no-wrap
 msgid "gnome"
-msgstr ""
+msgstr "gnome"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:151 C/gs-web-browser2.svg:157
 #, no-wrap
 msgid "Planet Gnome"
-msgstr ""
+msgstr "Planeta Gnome"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:152 C/gs-web-browser2.svg:158
 #, no-wrap
 msgid "GNOME 3"
-msgstr ""
+msgstr "GNOME 3"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:153 C/gs-web-browser2.svg:159
 #, no-wrap
 msgid "http://planet.gnome.org"
-msgstr ""
+msgstr "http://planet.gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:154 C/gs-web-browser2.svg:160
 #, no-wrap
 msgid "http://gnome.org"
-msgstr ""
+msgstr "http://gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2-firefox.svg:275
 #, no-wrap
 msgid "planet.gnome.org"
-msgstr ""
+msgstr "planet.gnome.org"
 
 #. (itstool) path: text/tspan
 #: C/gs-web-browser2.svg:247
 #, no-wrap
 msgid "Planet GNOME"
-msgstr ""
+msgstr "Planeta GNOME"
 
 #. (itstool) path: page/title
 #: C/gs-where-files.page:19
 msgid "Where are my documents and files?"
-msgstr ""
+msgstr "Unde sunt documentele și fisierele mele?"
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
-"When you store files to your computer, they are automatically stored in your"
-" <app>Documents</app> folder on your desktop."
+"When you store files to your computer, they are accessible via the "
+"<app>Documents</app> file manager."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/gs-where-files.page:24
+#: C/gs-where-files.page:25
 msgid "Here are some ways to look for a file you have saved:"
-msgstr ""
+msgstr "Iată câteva modalități de căutare a unui fișier pe care l-ați salvat:"
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:27
-msgid "If you know the name of your file"
+#: C/gs-where-files.page:28
+msgid "Use Global Search to find your file"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:29
+#: C/gs-where-files.page:30
 msgid ""
-"If you know the name of your file, then you can easily search for it right "
-"from the desktop."
+"If you know the name of your file, you can easily search for it right from "
+"the desktop."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:33
+msgid ""
+"You'll need to enable the <gui>global search bar</gui> to search your files "
+"the first time you use it. Here's how to enable this feature:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:33
+#: C/gs-where-files.page:38
+msgid ""
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing the word "
+"\"search\"."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:43
+msgid "Click once on the result showing the settings to control search."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:46
+msgid ""
+"Scroll through the apps that have been enabled to work with Global Search. "
+"Turn the access <gui>On</gui> for the <app>Documents</app> file manager."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:48
+msgid ""
+"That's it. Global Search has now been enabled to work with your files and "
+"documents."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:53
+msgid ""
+"Once Global Search has been enabled, you can start searching for your files "
+"directly from the desktop:"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:58
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "De pe desktop, faceți clic pe <gui>bara de căutare globală</gui> din partea superioară a ecranului, care afișează \"Căutați Google și mai multe ...\" Începeți să tastați numele fișierului pe care îl căutați."
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:58
-msgid "If you do not know the name of your file"
+#: C/gs-where-files.page:83
+msgid "Browse through folders to find your file"
 msgstr ""
 
 #. (itstool) path: section/p
-#. (itstool) path: item/p
-#: C/gs-where-files.page:60 C/gs-where-files.page:90
-msgid "Click on <app>Documents</app> from the desktop."
+#: C/gs-where-files.page:85
+msgid ""
+"If you do not know the name of your file, you may browse through the "
+"<app>Documents</app> file manager in order to find it."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:63
+#: C/gs-where-files.page:88
+msgid ""
+"To begin browsing your files, click on the <app>Documents</app> icon on the "
+"desktop."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:92
 msgid ""
 "Endless tries to store files by categories like documents, music, photos, "
 "and videos, so that they are easier for you to find. You will see that the "
-"menu on the left shows these categories. Click on them once to go to that "
-"folder."
+"menu on the left shows these categories. Click on a category once to go to "
+"that folder, and then look through its content for your file."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:69
+#: C/gs-where-files.page:98
 msgid ""
-"You can create your own folders to better organize your files. You should "
-"click through the different folders you create to get to the files you have "
-"stored there. Clicking through folders is especially helpful if you are not "
-"sure what the file you saved is named."
+"You can also search for your files directly within the <app>Documents</app> "
+"file manager."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:74
+#: C/gs-where-files.page:100
 msgid ""
-"See the bar at the top with a magnifying glass in it? Click there and start "
-"typing at least part of the name of the file you are looking for. As you "
-"start typing, files that match what you are typing are displayed below. If "
-"you see the file you are looking for in the list, you can use your arrow key"
-" to highlight the file and press <key>Enter</key> to open it. Or, you can "
-"click on the result you want with your mouse to higlight it, and double "
-"click to open it."
+"To do so, look for the bar at the top of the <app>Documents</app> file "
+"manager with a magnifying glass in it. Click there and start typing at least"
+" part of the name of the file you are looking for. As you start typing, "
+"files that match are displayed below."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:105
+msgid ""
+"If you see the file you are looking for in the list, you can use the arrow "
+"keys to highlight the file and press <key>Enter</key> to open it. Or, just "
+"double-click on the result you want to open."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:84
+#: C/gs-where-files.page:111
 msgid "If your file is on a USB"
-msgstr ""
+msgstr "Dacă fișierul dvs. este pe un dispozitiv USB"
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:87
+#: C/gs-where-files.page:114
 msgid "Make sure that the USB is properly plugged in."
-msgstr ""
+msgstr "Asigurați-vă că USB-ul este conectat corespunzător."
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:93
+#: C/gs-where-files.page:117
+msgid "Click on <app>Documents</app> from the desktop."
+msgstr "Faceți clic pe <app>Documente</app> de pe desktop."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:120
 msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
 "something with the device's brand, unless you have changed it."
-msgstr ""
+msgstr "Faceți clic pe numele dispozitivului dvs. din meniul din partea stângă a ferestrei. Numele dispozitivului ar trebui să apară deasupra pictogramei coșului de gunoi și, de obicei, este denumit ceva cu marca dispozitivului, cu excepția cazului în care l-ați modificat."
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:98
+#: C/gs-where-files.page:125
 msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
 "the magnifying glass to search for the file name if you know it."
-msgstr ""
+msgstr "Răsfoiți fișierele de pe USB. Dând clic pe ele o dată, acestea vă vor permite să le previzualizați și să le deschideți de două ori. Puteți, de asemenea, să faceți clic pe bara de sus cu ajutorul luptei pentru a căuta numele fișierului dacă îl cunoașteți."
 
 #. (itstool) path: note/p
-#: C/gs-where-files.page:105
+#: C/gs-where-files.page:132
 msgid ""
 "Make sure that you have actually saved your file! If you close a program "
 "without saving your work, you might not be able to find it again since not "
 "all programs auto-save. Save as often as you can in order to make sure that "
 "your work does not get lost."
-msgstr ""
+msgstr "Asigurați-vă că ați salvat fișierul! Dacă închideți un program fără a salva munca, este posibil să nu îl puteți găsi din nou, deoarece nu toate programele se salvează automat. Salvați cât de des puteți pentru a vă asigura că munca dvs. nu se pierde."

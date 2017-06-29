@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-06-05 22:29-0700\n"
-"PO-Revision-Date: 2017-06-06 05:51+0000\n"
+"POT-Creation-Date: 2017-06-23 17:36-0700\n"
+"PO-Revision-Date: 2017-06-24 00:37+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -1351,7 +1351,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:38 C/gs-where-files.page:36
+#: C/gs-use-system-search.page:38 C/gs-where-files.page:61
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
@@ -1363,32 +1363,32 @@ msgid "Press <key>Enter</key> to choose the first highlighted result."
 msgstr "<key>চাপুন</key> প্রথম হাইলাইট করা ফলাফল বেছে নিতে। "
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:44 C/gs-where-files.page:40
+#: C/gs-use-system-search.page:44 C/gs-where-files.page:65
 msgid "Items that may appear in the search results include:"
 msgstr "খোঁজ ফলাফলে যা আসতে তাতে যা থাকতে পারে:  "
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:46 C/gs-where-files.page:42
+#: C/gs-use-system-search.page:46 C/gs-where-files.page:67
 msgid "matching applications, shown at the top of the search results,"
 msgstr "একই রকম অ্যাপ্লিকেশন, খোঁজ ফলাফলের একেবারে ওপ্রে দেখান হচ্ছে, "
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:48 C/gs-where-files.page:44
+#: C/gs-use-system-search.page:48 C/gs-where-files.page:69
 msgid "matching settings, and"
 msgstr "একই রকম সেটিংস, এবং "
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:49 C/gs-where-files.page:45
+#: C/gs-use-system-search.page:49 C/gs-where-files.page:70
 msgid "matching documents."
 msgstr "একই রকম ডকুমেন্ট "
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:54 C/gs-where-files.page:49
+#: C/gs-use-system-search.page:54 C/gs-where-files.page:74
 msgid "In the search results, click on the item you want to open."
 msgstr "খোঁজ ফলাফলে ক্লিক করুন আপনি যেটা খুলতে চান সেটায়। "
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:55 C/gs-where-files.page:50
+#: C/gs-use-system-search.page:55 C/gs-where-files.page:75
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
@@ -1450,29 +1450,70 @@ msgstr "আমার ডকুমেন্টস আর ফাইলগুলো
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
-"When you store files to your computer, they are automatically stored in your"
-" <app>Documents</app> folder on your desktop."
-msgstr "আপনি যখন কোন ফাইল কম্পিউটারে রাখেন, সেগুলো স্বয়ংক্রিয়ভাবে <app>ডকুমেন্ট</app> ফোল্ডারে রাখা হয়। "
+"When you store files to your computer, they are accessible via the "
+"<app>Documents</app> file manager."
+msgstr ""
 
 #. (itstool) path: page/p
-#: C/gs-where-files.page:24
+#: C/gs-where-files.page:25
 msgid "Here are some ways to look for a file you have saved:"
 msgstr "আপনার সেভ করা কোন ফাইল কীভাবে খুঁজে বের করবেন তার কিছু উপায়: "
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:27
-msgid "If you know the name of your file"
-msgstr "আপনি যদি আপনার ফাইলের নাম জানেন "
+#: C/gs-where-files.page:28
+msgid "Use Global Search to find your file"
+msgstr ""
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:29
+#: C/gs-where-files.page:30
 msgid ""
-"If you know the name of your file, then you can easily search for it right "
-"from the desktop."
-msgstr "আপনি যদি আপনার ফাইলের নাম জানেন, তাহলে আপনি সহজেই তা ডেস্কটপ থেকেই খুঁজতে পারবেন।"
+"If you know the name of your file, you can easily search for it right from "
+"the desktop."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:33
+msgid ""
+"You'll need to enable the <gui>global search bar</gui> to search your files "
+"the first time you use it. Here's how to enable this feature:"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:33
+#: C/gs-where-files.page:38
+msgid ""
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing the word "
+"\"search\"."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:43
+msgid "Click once on the result showing the settings to control search."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:46
+msgid ""
+"Scroll through the apps that have been enabled to work with Global Search. "
+"Turn the access <gui>On</gui> for the <app>Documents</app> file manager."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:48
+msgid ""
+"That's it. Global Search has now been enabled to work with your files and "
+"documents."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:53
+msgid ""
+"Once Global Search has been enabled, you can start searching for your files "
+"directly from the desktop:"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:58
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing the name of"
@@ -1480,58 +1521,74 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:58
-msgid "If you do not know the name of your file"
-msgstr "আপনি যদি আপনার ফাইলের নাম না জানেন  "
+#: C/gs-where-files.page:83
+msgid "Browse through folders to find your file"
+msgstr ""
 
 #. (itstool) path: section/p
-#. (itstool) path: item/p
-#: C/gs-where-files.page:60 C/gs-where-files.page:90
-msgid "Click on <app>Documents</app> from the desktop."
-msgstr "ক্লিক করুন  <app>ডকুমেন্ট</app> ডেস্কটপ থেকে। "
+#: C/gs-where-files.page:85
+msgid ""
+"If you do not know the name of your file, you may browse through the "
+"<app>Documents</app> file manager in order to find it."
+msgstr ""
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:63
+#: C/gs-where-files.page:88
+msgid ""
+"To begin browsing your files, click on the <app>Documents</app> icon on the "
+"desktop."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:92
 msgid ""
 "Endless tries to store files by categories like documents, music, photos, "
 "and videos, so that they are easier for you to find. You will see that the "
-"menu on the left shows these categories. Click on them once to go to that "
-"folder."
-msgstr "এন্ডলেস চেষ্টা করে ফাইলগুলো বিভাগ অনুসারে যেমন ডকুমেন্ট, সঙ্গীত, আলোকচিত্র এবং ভিডিও অনুসারে রাখতে, যেন আপনি সহজে খুঁজে পান। আপনি দেখবেন বাম দিকে এসব বিভাগের তালিকা দেখা যাচ্ছে। এদের ওপর একবার ক্লিক করুন ফোল্ডারটিতে যেতে।  "
+"menu on the left shows these categories. Click on a category once to go to "
+"that folder, and then look through its content for your file."
+msgstr ""
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:69
+#: C/gs-where-files.page:98
 msgid ""
-"You can create your own folders to better organize your files. You should "
-"click through the different folders you create to get to the files you have "
-"stored there. Clicking through folders is especially helpful if you are not "
-"sure what the file you saved is named."
-msgstr "আপনি নিজের ফাইলগুলো আরও ভালভাবে গুছিয়ে রাখতে নিজস্ব ফোল্ডার তৈরি করতে পারেন। আপনাকে আপনার তৈরি করা বিভিন্ন ফোল্ডারে ক্লিক করতে হবে ভেতরে রাখা ফাইলগুলোর জন্য। আপনার যদি মনে না থাকে কোন ফাইল কী নামে রেখেছেন তাহলে ফোল্ডারগুলোতে ক্লিক করা বিশেষভাবে উপকারী।  "
+"You can also search for your files directly within the <app>Documents</app> "
+"file manager."
+msgstr ""
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:74
+#: C/gs-where-files.page:100
 msgid ""
-"See the bar at the top with a magnifying glass in it? Click there and start "
-"typing at least part of the name of the file you are looking for. As you "
-"start typing, files that match what you are typing are displayed below. If "
-"you see the file you are looking for in the list, you can use your arrow key"
-" to highlight the file and press <key>Enter</key> to open it. Or, you can "
-"click on the result you want with your mouse to higlight it, and double "
-"click to open it."
-msgstr "ওপরে ম্যাগনিফাইং গ্লাসটি দেখতে পাচ্ছেন? ওটাতে ক্লিক করে যে ফাইলটা খুঁজছেন, সেটার নামের অংশ লিখতে থাকুন। আপনি যখন লিখছেন, যে সব ফাইলের নাম মিলে যাবে সেগুলো নিচে দেখা যাবে। আপনি যে ফাইলটা খুঁজছেন তা তালিকায় দেখেন, আপনি তীরচিহ্নের বোতামটা দিয়ে ফাইলে মার্কা করে <key>প্রবেশ</key> চাপুন খোলার জন্য। বা মাউস দিয়ে ফলাফলের ওপর ক্লিক করুন মার্কা দেবার জন্য। আর খোলার জন্য দু’বার ক্লিক করুন।   "
+"To do so, look for the bar at the top of the <app>Documents</app> file "
+"manager with a magnifying glass in it. Click there and start typing at least"
+" part of the name of the file you are looking for. As you start typing, "
+"files that match are displayed below."
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:105
+msgid ""
+"If you see the file you are looking for in the list, you can use the arrow "
+"keys to highlight the file and press <key>Enter</key> to open it. Or, just "
+"double-click on the result you want to open."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:84
+#: C/gs-where-files.page:111
 msgid "If your file is on a USB"
 msgstr "আপনি এই উইন্ডোটা বন্ধ করে দিয়ে আপনার প্রিন্টার ব্যবহার শুরু করতে পারেন এন্ডলেস দিয়ে। "
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:87
+#: C/gs-where-files.page:114
 msgid "Make sure that the USB is properly plugged in."
 msgstr "নিশ্চিত হোন ইউএসবি ঠিকভাবে লাগান হয়েছে কিনা। "
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:93
+#: C/gs-where-files.page:117
+msgid "Click on <app>Documents</app> from the desktop."
+msgstr "ক্লিক করুন  <app>ডকুমেন্ট</app> ডেস্কটপ থেকে। "
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:120
 msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
@@ -1539,7 +1596,7 @@ msgid ""
 msgstr "উইন্ডর বামের মেনুতে আপনার ডিভাইসের নামের ওপর ক্লিক করুন। ডিভাইসের নামটি আবর্জনার আইকনের ওপর আসার কথা এবং সেটা ডিভাইসের প্রস্তুতকারী সংস্থার নামের সাথে, যদি আপনি তা না বদলান।  "
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:98
+#: C/gs-where-files.page:125
 msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
@@ -1547,7 +1604,7 @@ msgid ""
 msgstr "ইউএসবিতে ফাইল ব্রাউজ করুন। এগুলোর ওপর একবার ক্লিক করলে পূর্ব-দেখ পাবেন আর দু’বার ক্লিকে খুলে যাবে। আপনি ওপরের বারে ক্লিক করতে পারেন ম্যাগনিফাইং গ্লাসে আপনি যে ফাইলটা খুঁজছেন তা পেতে, যদি নাম জানেন।  "
 
 #. (itstool) path: note/p
-#: C/gs-where-files.page:105
+#: C/gs-where-files.page:132
 msgid ""
 "Make sure that you have actually saved your file! If you close a program "
 "without saving your work, you might not be able to find it again since not "

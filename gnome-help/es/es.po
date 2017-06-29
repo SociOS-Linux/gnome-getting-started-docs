@@ -13,14 +13,14 @@
 # mattdangerw <watson@endlessm.com>, 2014
 # Nicolás Satragno <nsatragno@gnome.org>, 2013
 # Nicolรกs Satragno <nsatragno@gnome.org>, 2013
-# Nuritzi Sanchez <ns@endlessm.com>, 2014
+# Nuritzi Sanchez <ns@endlessm.com>, 2014,2017
 # mattdangerw <watson@endlessm.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-06-05 22:29-0700\n"
-"PO-Revision-Date: 2017-06-06 05:51+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2017-06-23 17:36-0700\n"
+"PO-Revision-Date: 2017-06-24 05:00+0000\n"
+"Last-Translator: Nuritzi Sanchez <ns@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -367,7 +367,7 @@ msgstr "No puedo ver la barra de tareas o el menú de usuario, ¿qué hago?"
 msgid ""
 "If you do not see the black task bar at the bottom of your screen, you need "
 "to adjust your screen to fit your TV."
-msgstr ""
+msgstr "Si no ves la barra de tareas en negro en la parte inferior de tu pantalla, tendrás que ajustar la pantalla para caber en tu TV."
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:28
@@ -516,7 +516,7 @@ msgstr "¿Qué te encanta de Endless? ¿Hay algo que te gustaría cambiar? ¿Tie
 msgid ""
 "Click on the <gui>Give Us Feedback</gui> link in this Help Center app and "
 "let us know."
-msgstr ""
+msgstr "Haz clic en </gui>Dános tus comentarios</gui>aquí en el Centro de ayuda y déjanos saber."
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:26
@@ -1207,7 +1207,7 @@ msgstr "Haz clic en <app>Más programas</app> desde el escritorio."
 msgid ""
 "Click on a category like <gui>Learning</gui>, <gui>Games</gui>, and "
 "<gui>Utilities</gui>, to see the apps in each section."
-msgstr ""
+msgstr "Haz clic en una categoría como <gui>Aprendizaje</gui>, <gui>Juegos</gui>, y <gui>Utilidades</gui>, para encontrar programas en cada sección. "
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:48
@@ -1226,7 +1226,7 @@ msgstr "Aquí hay algunos ejemplos del contenido fuera de línea que puedes enco
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:60
 msgid "Learning"
-msgstr ""
+msgstr "Aprendizaje"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:62
@@ -1362,10 +1362,10 @@ msgstr "La barra de búsqueda global te ayuda a buscar cosas fácilmente! Puedes
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing to search."
-msgstr ""
+msgstr "Desde el escritorio, haz clic en la <gui>barra de búsqueda global </gui> que dice \"Buscar en Google y más...\" en la parte superior de la pantalla. Empieza a escribir para buscar."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:38 C/gs-where-files.page:36
+#: C/gs-use-system-search.page:38 C/gs-where-files.page:61
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
@@ -1377,32 +1377,32 @@ msgid "Press <key>Enter</key> to choose the first highlighted result."
 msgstr "Presiona la tecla <key>Intro</key> en tu teclado para elegir el resultado que está resaltado."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:44 C/gs-where-files.page:40
+#: C/gs-use-system-search.page:44 C/gs-where-files.page:65
 msgid "Items that may appear in the search results include:"
 msgstr "Los elementos que pueden aparecer en los resultados de búsqueda incluyen:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:46 C/gs-where-files.page:42
+#: C/gs-use-system-search.page:46 C/gs-where-files.page:67
 msgid "matching applications, shown at the top of the search results,"
 msgstr "programas que coincidan con las palabras que has escrito, mostradas en la parte superior de los resultados de búsqueda"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:48 C/gs-where-files.page:44
+#: C/gs-use-system-search.page:48 C/gs-where-files.page:69
 msgid "matching settings, and"
 msgstr "configuraciones que coincidan, y"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:49 C/gs-where-files.page:45
+#: C/gs-use-system-search.page:49 C/gs-where-files.page:70
 msgid "matching documents."
 msgstr "documentos que coincidan."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:54 C/gs-where-files.page:49
+#: C/gs-use-system-search.page:54 C/gs-where-files.page:74
 msgid "In the search results, click on the item you want to open."
 msgstr "En los resultados de la búsqueda, haz clic en lo que quieras abrir."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:55 C/gs-where-files.page:50
+#: C/gs-use-system-search.page:55 C/gs-where-files.page:75
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
@@ -1464,88 +1464,145 @@ msgstr "¿Dónde están mis documentos y archivos?"
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
-"When you store files to your computer, they are automatically stored in your"
-" <app>Documents</app> folder on your desktop."
-msgstr "Cuando guardas archivos en tu computadora, se guardan automáticamente en la carpeta llamada <app>Documentos</app> en tu escritorio."
+"When you store files to your computer, they are accessible via the "
+"<app>Documents</app> file manager."
+msgstr "Cuando guardas archivos en tu computadora, se pueden encontrar en la carpeta llamada <app>Documentos</app> en tu escritorio."
 
 #. (itstool) path: page/p
-#: C/gs-where-files.page:24
+#: C/gs-where-files.page:25
 msgid "Here are some ways to look for a file you have saved:"
 msgstr "Aquí hay algunas maneras de buscar un archivo guardado:"
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:27
-msgid "If you know the name of your file"
-msgstr "Si sabes cuál es el nombre de tu archivo"
+#: C/gs-where-files.page:28
+msgid "Use Global Search to find your file"
+msgstr "Usa la búsqueda global para encontrar tu archivo"
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:29
+#: C/gs-where-files.page:30
 msgid ""
-"If you know the name of your file, then you can easily search for it right "
-"from the desktop."
-msgstr "Si sabes cuál es el nombre de tu archivo, puedes fácilmente buscarlo desde el escritorio."
+"If you know the name of your file, you can easily search for it right from "
+"the desktop."
+msgstr "Si sabes cuál es el nombre de tu archivo, puedes buscarlo fácilmente desde el escritorio."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:33
+msgid ""
+"You'll need to enable the <gui>global search bar</gui> to search your files "
+"the first time you use it. Here's how to enable this feature:"
+msgstr "La primera vez, necesitaras habilitar a la <gui>barra de búsqueda global</gui> para que pueda buscar entre tus archivos. Puedes habilitar esa función siguiendo estos pasos:"
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:33
+#: C/gs-where-files.page:38
+msgid ""
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing the word "
+"\"search\"."
+msgstr "Desde el escritorio, haz clic en la <gui>barra de búsqueda global </gui> en la parte superior de la pantalla que dice \"Buscar en Google y más...\" Empieza a escribir la palabra \"buscar\"."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:43
+msgid "Click once on the result showing the settings to control search."
+msgstr "Haz clic una vez en el resultado de configuración."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:46
+msgid ""
+"Scroll through the apps that have been enabled to work with Global Search. "
+"Turn the access <gui>On</gui> for the <app>Documents</app> file manager."
+msgstr "Ve la lista de programas que han sido habilitadas para trabajar con la búsqueda global. Habilita el acesso al explorador de <app>Documentos</app>."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:48
+msgid ""
+"That's it. Global Search has now been enabled to work with your files and "
+"documents."
+msgstr "Eso es todo. La búsqueda global ahora funcionará con tus archivos y documentos. "
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:53
+msgid ""
+"Once Global Search has been enabled, you can start searching for your files "
+"directly from the desktop:"
+msgstr "Ya que se haya habilitado la búsqueda global, podrás buscar por tus archivos directamente desde tu escritorio:"
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:58
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "Desde el escritorio, haz clic en la <gui>barra de búsqueda global </gui> que dice \"Buscar en Google y más...\" en la parte superior de la pantalla. Empieza a escribir el nombre del archivo que buscas."
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:58
-msgid "If you do not know the name of your file"
-msgstr "Si no sabes cuál es el nombre de tu archivo"
+#: C/gs-where-files.page:83
+msgid "Browse through folders to find your file"
+msgstr "Navega por las carpetas para encontrar tu archivo"
 
 #. (itstool) path: section/p
-#. (itstool) path: item/p
-#: C/gs-where-files.page:60 C/gs-where-files.page:90
-msgid "Click on <app>Documents</app> from the desktop."
-msgstr "Haz clic en <app>Documentos</app> que se encuentra en el escritorio."
+#: C/gs-where-files.page:85
+msgid ""
+"If you do not know the name of your file, you may browse through the "
+"<app>Documents</app> file manager in order to find it."
+msgstr "Si no sabes el nombre de tu archivo, puedes buscar manualmente entre tus <app>Documentos</app> para encontrarlo."
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:63
+#: C/gs-where-files.page:88
+msgid ""
+"To begin browsing your files, click on the <app>Documents</app> icon on the "
+"desktop."
+msgstr "Para empezar a buscar entre tus archivos, haz clic en el ícono de <app>Documentos</app>en el escritorio."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:92
 msgid ""
 "Endless tries to store files by categories like documents, music, photos, "
 "and videos, so that they are easier for you to find. You will see that the "
-"menu on the left shows these categories. Click on them once to go to that "
-"folder."
-msgstr "Endless intenta guardar tus archivos por categorías como documentos, música, fotos y vídeos, para que sean más fáciles de encontrar. Encontrarás que el menú de la izquierda muestra estas categorías. Haz clic en una de ellas para ir a esa carpeta."
+"menu on the left shows these categories. Click on a category once to go to "
+"that folder, and then look through its content for your file."
+msgstr "Endless intenta guardar tus archivos por categorías como documentos, música, fotos y vídeos, para que sean más fáciles de encontrar. Encontrarás que el menú de la izquierda muestra estas categorías. Haz clic en una de ellas para ir a esa carpeta y lugo busca dentro de su contenido para tu archivo. "
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:69
+#: C/gs-where-files.page:98
 msgid ""
-"You can create your own folders to better organize your files. You should "
-"click through the different folders you create to get to the files you have "
-"stored there. Clicking through folders is especially helpful if you are not "
-"sure what the file you saved is named."
-msgstr "Puedes crear tus propias carpetas para mejor organizar tus archivos. Luego puedes hacer clic en las carpetas que has creado para llegar a los archivos que ha guardado allí. Haciendo esto es especialmente útil si no estás seguro del nombre del archivo que buscas."
+"You can also search for your files directly within the <app>Documents</app> "
+"file manager."
+msgstr "También puedes buscar a tus archivos por medio de la carpeta de <app>Documentos</app>."
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:74
+#: C/gs-where-files.page:100
 msgid ""
-"See the bar at the top with a magnifying glass in it? Click there and start "
-"typing at least part of the name of the file you are looking for. As you "
-"start typing, files that match what you are typing are displayed below. If "
-"you see the file you are looking for in the list, you can use your arrow key"
-" to highlight the file and press <key>Enter</key> to open it. Or, you can "
-"click on the result you want with your mouse to higlight it, and double "
-"click to open it."
-msgstr "¿Ves a la barra en la parte superior con una lupa en ella? Haz clic allí y empieza a escribir el nombre del archivo que estás buscando. Cuando empieces a escribir, podrás ver archivos que coinciden con lo que estás escribiendo. Si ves el archivo que estás buscando en la lista, puedes usar una tecla de flecha para resaltar el archivo. Cuando el archivo que quieres abrir esté resaltado, pulsa la tecla <key>Intro</key>  para abrirlo. También puedes hacer clic en el resultado deseado con el ratón para resaltarlo y hacer doble clic en él para abrirlo."
+"To do so, look for the bar at the top of the <app>Documents</app> file "
+"manager with a magnifying glass in it. Click there and start typing at least"
+" part of the name of the file you are looking for. As you start typing, "
+"files that match are displayed below."
+msgstr "Para hacerlo, busca la barra con una lupa en ella en la parte superior de la carpeta de <app>Documentos</app>. Haz clic allí y comienza a escribir al menos parte del nombre del archivo que estás buscando. Verás los archivos que coincidan."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:105
+msgid ""
+"If you see the file you are looking for in the list, you can use the arrow "
+"keys to highlight the file and press <key>Enter</key> to open it. Or, just "
+"double-click on the result you want to open."
+msgstr "Si ves el archivo que estás buscando en la lista, puedes usar las teclas de flecha para resaltar el archivo y presionar <key>Intro</key> para abrirlo. Alternativamente, haz doble clic en el resultado que deseas abrir."
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:84
+#: C/gs-where-files.page:111
 msgid "If your file is on a USB"
 msgstr "Si tu archivo está en un USB"
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:87
+#: C/gs-where-files.page:114
 msgid "Make sure that the USB is properly plugged in."
 msgstr "Asegúrate de que el USB esté conectado correctamente."
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:93
+#: C/gs-where-files.page:117
+msgid "Click on <app>Documents</app> from the desktop."
+msgstr "Haz clic en <app>Documentos</app> que se encuentra en el escritorio."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:120
 msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
@@ -1553,7 +1610,7 @@ msgid ""
 msgstr "Haz clic en el nombre de tu aparato en el menú de la izquierda de la ventana. El nombre del aparato debe aparecer cerca del icono de la papelera y por lo general su nombre contiene el nombre de su marca al menos que se lo hayas cambiado."
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:98
+#: C/gs-where-files.page:125
 msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
@@ -1561,7 +1618,7 @@ msgid ""
 msgstr "Examina los archivos en el USB. Al hacer un sólo clic sobre uno de ellos podrás tener una vista previa. Haz clic dos veces para abrirlos. También puedes hacer clic en la barra superior con la lupa para buscar el nombre del archivo si te lo sabes."
 
 #. (itstool) path: note/p
-#: C/gs-where-files.page:105
+#: C/gs-where-files.page:132
 msgid ""
 "Make sure that you have actually saved your file! If you close a program "
 "without saving your work, you might not be able to find it again since not "

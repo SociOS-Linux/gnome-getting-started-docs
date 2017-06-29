@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Andika Triwidada <andika@gmail.com>, 2013
+# Septira Taruna <septira@endlessm.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-06-05 22:29-0700\n"
-"PO-Revision-Date: 2017-06-06 05:51+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2017-06-23 17:36-0700\n"
+"PO-Revision-Date: 2017-06-27 03:22+0000\n"
+"Last-Translator: Septira Taruna <septira@endlessm.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -353,7 +354,7 @@ msgstr "Saya tidak melihat batang tugas atau menu awal, apa yang harus saya laku
 msgid ""
 "If you do not see the black task bar at the bottom of your screen, you need "
 "to adjust your screen to fit your TV."
-msgstr ""
+msgstr "Apabila Anda tidak melihat taskbar hitam di bawah layar Anda, Anda perlu mengatur layar agar sesuai dengan TV Anda."
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:28
@@ -502,7 +503,7 @@ msgstr "Apa yang Anda sukai dari Endless? Apakah ada sesuatu yang ingin Anda uba
 msgid ""
 "Click on the <gui>Give Us Feedback</gui> link in this Help Center app and "
 "let us know."
-msgstr ""
+msgstr "Klik <gui>Beri Kami Saran dan Masukan</gui>di aplikasi Pusat Bantuan ini untuk menghubungi kami."
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:26
@@ -1193,7 +1194,7 @@ msgstr "Klik pada <app>More Apps</app> dari desktop."
 msgid ""
 "Click on a category like <gui>Learning</gui>, <gui>Games</gui>, and "
 "<gui>Utilities</gui>, to see the apps in each section."
-msgstr ""
+msgstr "Klik kategori seperti <gui>Belajar</gui>, <gui>Games</gui>, dan <gui>Utilitas</gui>, untuk melihat aplikasi di setiap bagian."
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:48
@@ -1212,7 +1213,7 @@ msgstr "Berikut adalah beberapa contoh dari konten offline di desktop Anda dan d
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:60
 msgid "Learning"
-msgstr ""
+msgstr "Belajar"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:62
@@ -1291,7 +1292,7 @@ msgstr "<app>Blockout2</app> - Sebuah permainan seperti tetris di mana Anda haru
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:110
 msgid "Utility"
-msgstr "Kegunaan"
+msgstr "Utilitas"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:112
@@ -1348,10 +1349,10 @@ msgstr "Batang pencarian global membuat pencarian jadi mudah! Anda dapat mencari
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing to search."
-msgstr ""
+msgstr "Dari desktop, klik <gui>kolom pencarian global</gui> pada bagian atas layar Anda yang bertuliskan \"Cari Google dan lainnya..\". Mulai ketik apa yang ingin Anda cari."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:38 C/gs-where-files.page:36
+#: C/gs-use-system-search.page:38 C/gs-where-files.page:61
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
@@ -1363,32 +1364,32 @@ msgid "Press <key>Enter</key> to choose the first highlighted result."
 msgstr "Tekan <key>Enter</key> untuk memilih yang hasil pertama yang disorot."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:44 C/gs-where-files.page:40
+#: C/gs-use-system-search.page:44 C/gs-where-files.page:65
 msgid "Items that may appear in the search results include:"
 msgstr "Butir-butir yang mungkin muncul dalam hasil pencarian termasuk:"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:46 C/gs-where-files.page:42
+#: C/gs-use-system-search.page:46 C/gs-where-files.page:67
 msgid "matching applications, shown at the top of the search results,"
 msgstr "aplikasi yang cocok, ditampilkan di bagian puncak hasil pencarian,"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:48 C/gs-where-files.page:44
+#: C/gs-use-system-search.page:48 C/gs-where-files.page:69
 msgid "matching settings, and"
 msgstr "pengaturan yang sesuai, dan"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:49 C/gs-where-files.page:45
+#: C/gs-use-system-search.page:49 C/gs-where-files.page:70
 msgid "matching documents."
 msgstr "dokumen yang cocok."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:54 C/gs-where-files.page:49
+#: C/gs-use-system-search.page:54 C/gs-where-files.page:74
 msgid "In the search results, click on the item you want to open."
 msgstr "Pada hasil penelusuran, klik item yang ingin Anda buka."
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:55 C/gs-where-files.page:50
+#: C/gs-use-system-search.page:55 C/gs-where-files.page:75
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
@@ -1450,88 +1451,145 @@ msgstr "Di mana letak dokumen dan berkas saya?"
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
-"When you store files to your computer, they are automatically stored in your"
-" <app>Documents</app> folder on your desktop."
-msgstr "Saat Anda menyimpan berkas ke dalam komputer, berkas disimpan otomatis ke dalam folder <app>Dokumen</app> di dekstop Anda."
+"When you store files to your computer, they are accessible via the "
+"<app>Documents</app> file manager."
+msgstr "Ketika Anda menyimpan file ke dalam komputer, file tersebut bisa diakses dari file manager <app>Dokumen</app>."
 
 #. (itstool) path: page/p
-#: C/gs-where-files.page:24
+#: C/gs-where-files.page:25
 msgid "Here are some ways to look for a file you have saved:"
 msgstr "Berikut ini beberapa cara untuk mencari berkas yang telah Anda simpan:"
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:27
-msgid "If you know the name of your file"
-msgstr "Jika Anda mengetahui nama berkas Anda"
+#: C/gs-where-files.page:28
+msgid "Use Global Search to find your file"
+msgstr "Gunakan Kolom Pencarian Global untuk mencari file Anda"
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:29
+#: C/gs-where-files.page:30
 msgid ""
-"If you know the name of your file, then you can easily search for it right "
-"from the desktop."
-msgstr "Jika Anda mengetahui nama file, Anda bisa dengan mudah mencarinya langsung dari desktop."
+"If you know the name of your file, you can easily search for it right from "
+"the desktop."
+msgstr "Jika Anda mengetahui nama file, bisa mencarinya dengan mudah langsung dari desktop."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:33
+msgid ""
+"You'll need to enable the <gui>global search bar</gui> to search your files "
+"the first time you use it. Here's how to enable this feature:"
+msgstr "Anda sebelumnya harus mengaktifkan dahulu <gui>kolom pencarian global</gui> untuk mencari file Anda. Beginilah caranya:"
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:33
+#: C/gs-where-files.page:38
+msgid ""
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing the word "
+"\"search\"."
+msgstr "Dari desktop, klik <gui>kolom pencarian global</gui> pada bagian atas layar Anda yang bertuliskan \"Cari Google dan lainnya...\" dan tulis kata \"cari\"."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:43
+msgid "Click once on the result showing the settings to control search."
+msgstr "Klik pada hasil yang menunjukkan logo pengaturan untuk mengatur fungsi pencarian"
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:46
+msgid ""
+"Scroll through the apps that have been enabled to work with Global Search. "
+"Turn the access <gui>On</gui> for the <app>Documents</app> file manager."
+msgstr "Telusuri aplikasi yang telah diaktifkan untuk bisa dicari menggunakan Pencarian Global. Ubah akses ke <gui>NYALA</gui> untuk apllikasi file manager <app>Dokumen</app>."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:48
+msgid ""
+"That's it. Global Search has now been enabled to work with your files and "
+"documents."
+msgstr "Ya, begitu saja. Pencarian Global sekarang sudah diaktifkan untuk bisa mencari file dan dokumen Anda."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:53
+msgid ""
+"Once Global Search has been enabled, you can start searching for your files "
+"directly from the desktop:"
+msgstr "Setelah Pencarian Global diaktifkan, Anda bisa mulai mencari file Anda langsung dari desktop:"
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:58
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "Dari desktop, klik 1kolom pencarian global1 pada bagian atas layar Anda yang bertuliskan \"Cari Google dan lainnya..\". Mulai ketik apa nama file yang ingin Anda cari."
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:58
-msgid "If you do not know the name of your file"
-msgstr "Jika Anda tidak mengetahui nama berkas Anda"
+#: C/gs-where-files.page:83
+msgid "Browse through folders to find your file"
+msgstr "Telusuri folder untuk mencari file Anda"
 
 #. (itstool) path: section/p
-#. (itstool) path: item/p
-#: C/gs-where-files.page:60 C/gs-where-files.page:90
-msgid "Click on <app>Documents</app> from the desktop."
-msgstr "Klik <app>Dokumen</app> dari desktop."
+#: C/gs-where-files.page:85
+msgid ""
+"If you do not know the name of your file, you may browse through the "
+"<app>Documents</app> file manager in order to find it."
+msgstr "Bila Anda tidak mengetahui nama file, Anda bisa menelusuri file manager <app>Dokumen</app> untuk mencarinya."
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:63
+#: C/gs-where-files.page:88
+msgid ""
+"To begin browsing your files, click on the <app>Documents</app> icon on the "
+"desktop."
+msgstr "Untuk mulai mencari file, klik ikon <app>Dokumen</app> pada desktop."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:92
 msgid ""
 "Endless tries to store files by categories like documents, music, photos, "
 "and videos, so that they are easier for you to find. You will see that the "
-"menu on the left shows these categories. Click on them once to go to that "
-"folder."
-msgstr "Endless berupaya menyimpan file berdasarkan kategori, seperti dokumen, musik, foto, dan video, supaya Anda lebih mudah menemukannya. Anda akan menemukan menu di sebelah kiri yang menunjukkan kategori tersebut. Klik satu kali untuk masuk ke folder tersebut."
+"menu on the left shows these categories. Click on a category once to go to "
+"that folder, and then look through its content for your file."
+msgstr "Endless mencoba untuk menyimpan file berdasarkan kategori seperti dokumen, musik, foto, dan video, sehingga bisa mempermudah Anda untuk mencari file. Anda bisa melihat kategori tersebut di menu sebelah kiri. Klik sebuah kategori sekali untuk masuk ke folder tersebut, lalu cari file Anda di dalamnya."
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:69
+#: C/gs-where-files.page:98
 msgid ""
-"You can create your own folders to better organize your files. You should "
-"click through the different folders you create to get to the files you have "
-"stored there. Clicking through folders is especially helpful if you are not "
-"sure what the file you saved is named."
-msgstr "Anda dapat menciptakan folder sendiri agar dapat mengorganisir berkas dengan lebih baik. Anda harus mengklik melalui sejumlah folder yang Anda buat untuk mencapai berkas yang telah Anda simpan di sana. Mengklik melalui sejumlah folder terutama berguna jika Anda tidak ingat apa nama berkas yang Anda simpan."
+"You can also search for your files directly within the <app>Documents</app> "
+"file manager."
+msgstr "Anda juga bisa mencari file Anda langsung dari file manager <app>Dokumen</app>."
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:74
+#: C/gs-where-files.page:100
 msgid ""
-"See the bar at the top with a magnifying glass in it? Click there and start "
-"typing at least part of the name of the file you are looking for. As you "
-"start typing, files that match what you are typing are displayed below. If "
-"you see the file you are looking for in the list, you can use your arrow key"
-" to highlight the file and press <key>Enter</key> to open it. Or, you can "
-"click on the result you want with your mouse to higlight it, and double "
-"click to open it."
-msgstr "Lihat bar di bagian atas dengan kaca pembesar di dalamnya? Klik di sana dan mulai mengetik setidaknya sebagian dari nama berkas yang Anda cari. Saat Anda mulai mengetik, berkas yang cocok dengan apa yang Anda ketik ditampilkan di bawah. Jika Anda melihat berkas yang Anda cari dalam daftar, Anda dapat menggunakan tombol panah untuk menyorot berkas dan tekan <key>Enter</key> untuk membukanya. Atau, Anda bisa klik pada hasil yang Anda inginkan dengan tetikus Anda untuk menyorotnya, dan klik dua kali untuk membukanya."
+"To do so, look for the bar at the top of the <app>Documents</app> file "
+"manager with a magnifying glass in it. Click there and start typing at least"
+" part of the name of the file you are looking for. As you start typing, "
+"files that match are displayed below."
+msgstr "Untuk melakukannya, cari ikon kaca pembesar pada bagian atas <app>Dokumen</app>. Klik ikon tersebut dan mulai ketik nama file yang Anda cari. Selagi Anda mengetik, file yang namanya cocok akan ditampilkan di bawahnya."
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:105
+msgid ""
+"If you see the file you are looking for in the list, you can use the arrow "
+"keys to highlight the file and press <key>Enter</key> to open it. Or, just "
+"double-click on the result you want to open."
+msgstr "Bila Anda melihat file yang dicari dalam daftar file, Anda bisa menggunakan tombol tanda panah di keyboard untuk memilih file dan klik <key>Enter</key> untuk membukanya. Atau pilih file menggunakan mouse dan klik dua kali untuk membukanya."
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:84
+#: C/gs-where-files.page:111
 msgid "If your file is on a USB"
 msgstr "Jika file Anda di USB"
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:87
+#: C/gs-where-files.page:114
 msgid "Make sure that the USB is properly plugged in."
 msgstr "Pastikan USB terpasang dengan baik."
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:93
+#: C/gs-where-files.page:117
+msgid "Click on <app>Documents</app> from the desktop."
+msgstr "Klik <app>Dokumen</app> dari desktop."
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:120
 msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
@@ -1539,7 +1597,7 @@ msgid ""
 msgstr "Klik pada nama perangkat Anda pada menu di sebelah kiri jendela. Nama perangkat seharusnya muncul di atas ikon sampah dan biasanya bernama sesuatu dengan merek perangkat, kecuali jika Anda telah mengubahnya."
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:98
+#: C/gs-where-files.page:125
 msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
@@ -1547,7 +1605,7 @@ msgid ""
 msgstr "Menelusuri file-file di USB. Mengklik sekali pada file tersebut akan memungkinkan Anda melihat pratinjau dan klik-ganda akan membukanya. Anda juga dapat mengklik pada batang atas dengan kaca pembesar untuk mencari nama file apabila Anda ingat namanya."
 
 #. (itstool) path: note/p
-#: C/gs-where-files.page:105
+#: C/gs-where-files.page:132
 msgid ""
 "Make sure that you have actually saved your file! If you close a program "
 "without saving your work, you might not be able to find it again since not "

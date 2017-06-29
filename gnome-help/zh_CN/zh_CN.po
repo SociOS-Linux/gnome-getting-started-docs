@@ -1,6 +1,7 @@
 # 
 # Translators:
 # chenzibing <chenzibing_endless@126.com>, 2016
+# CN C2 <e2f48d4sf5ds@outlook.com>, 2017
 # Marco Mai <marco@endlessm.com>, 2016
 # Roddy Shuler <roddy@endlessm.com>, 2017
 # tanyuanxing <tanyuanxingendless@126.com>, 2016
@@ -9,9 +10,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
-"POT-Creation-Date: 2017-06-05 22:29-0700\n"
-"PO-Revision-Date: 2017-06-06 05:51+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2017-06-23 17:36-0700\n"
+"PO-Revision-Date: 2017-06-27 08:14+0000\n"
+"Last-Translator: CN C2 <e2f48d4sf5ds@outlook.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -358,7 +359,7 @@ msgstr "无法看到任务栏和开始菜单，怎么办？"
 msgid ""
 "If you do not see the black task bar at the bottom of your screen, you need "
 "to adjust your screen to fit your TV."
-msgstr ""
+msgstr "如果您没有看到屏幕底部的黑色任务栏，则需要调整屏幕以匹配电视。"
 
 #. (itstool) path: section/title
 #: C/gs-fix-overscan.page:28
@@ -507,7 +508,7 @@ msgstr "你喜欢Endless哪些方面?你希望Endless做出什么改变?你对�
 msgid ""
 "Click on the <gui>Give Us Feedback</gui> link in this Help Center app and "
 "let us know."
-msgstr ""
+msgstr "点击此帮助中心应用中的<gui>向我们提供反馈</gui>链接告诉我们。"
 
 #. (itstool) path: page/p
 #: C/gs-give-feedback.page:26
@@ -1198,7 +1199,7 @@ msgstr "点击桌面的 <app>更多应用</app>"
 msgid ""
 "Click on a category like <gui>Learning</gui>, <gui>Games</gui>, and "
 "<gui>Utilities</gui>, to see the apps in each section."
-msgstr ""
+msgstr "点击<gui>教育</gui>、<gui>游戏</gui>和<gui>实用工具</gui>等分类，以查看每个类别中的应用。"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:48
@@ -1217,7 +1218,7 @@ msgstr "这里列举了一些在桌面或<app>应用中心</app>中的离线内�
 #. (itstool) path: list/title
 #: C/gs-use-offline.page:60
 msgid "Learning"
-msgstr ""
+msgstr "教育"
 
 #. (itstool) path: item/p
 #: C/gs-use-offline.page:62
@@ -1353,10 +1354,10 @@ msgstr "全局搜索栏让搜索变得非常简单！您可以在桌面上通过
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing to search."
-msgstr ""
+msgstr "在桌面上点击屏幕顶端的<gui>全局搜索栏</gui>，那里显示着“搜索 Google 和更多...” 开始键入以进行搜索。"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:38 C/gs-where-files.page:36
+#: C/gs-use-system-search.page:38 C/gs-where-files.page:61
 msgid ""
 "Results matching what you have typed will appear as you type. The first "
 "result is always highlighted and shown at the top."
@@ -1368,32 +1369,32 @@ msgid "Press <key>Enter</key> to choose the first highlighted result."
 msgstr "按下<key>回车键</key>选择第一个高亮显示的结果。 "
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:44 C/gs-where-files.page:40
+#: C/gs-use-system-search.page:44 C/gs-where-files.page:65
 msgid "Items that may appear in the search results include:"
 msgstr "出现在搜索结果中的项目包括："
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:46 C/gs-where-files.page:42
+#: C/gs-use-system-search.page:46 C/gs-where-files.page:67
 msgid "matching applications, shown at the top of the search results,"
 msgstr "匹配的应用会显示在搜索结果的顶端，"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:48 C/gs-where-files.page:44
+#: C/gs-use-system-search.page:48 C/gs-where-files.page:69
 msgid "matching settings, and"
 msgstr "匹配的设置，以及"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:49 C/gs-where-files.page:45
+#: C/gs-use-system-search.page:49 C/gs-where-files.page:70
 msgid "matching documents."
 msgstr "匹配的文档"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:54 C/gs-where-files.page:49
+#: C/gs-use-system-search.page:54 C/gs-where-files.page:74
 msgid "In the search results, click on the item you want to open."
 msgstr "在搜索结果中，点击打开您想要的项目。"
 
 #. (itstool) path: item/p
-#: C/gs-use-system-search.page:55 C/gs-where-files.page:50
+#: C/gs-use-system-search.page:55 C/gs-where-files.page:75
 msgid ""
 "Alternatively, highlight an item using the arrow keys and press "
 "<key>Enter</key>."
@@ -1455,88 +1456,145 @@ msgstr "我的文档和文件在哪里？"
 #. (itstool) path: page/p
 #: C/gs-where-files.page:21
 msgid ""
-"When you store files to your computer, they are automatically stored in your"
-" <app>Documents</app> folder on your desktop."
-msgstr "您将文件存储到电脑时，文件会自动存在桌面的<app>文档</app>文件夹中。"
+"When you store files to your computer, they are accessible via the "
+"<app>Documents</app> file manager."
+msgstr "将文件存储到电脑后，可以通过<app>文档</app>文件管理器进行访问。"
 
 #. (itstool) path: page/p
-#: C/gs-where-files.page:24
+#: C/gs-where-files.page:25
 msgid "Here are some ways to look for a file you have saved:"
 msgstr "以下是一些查看您已保存的文件的方法："
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:27
-msgid "If you know the name of your file"
-msgstr "如果您知道文件名称"
+#: C/gs-where-files.page:28
+msgid "Use Global Search to find your file"
+msgstr "使用“全局搜索”查找您的文件"
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:29
+#: C/gs-where-files.page:30
 msgid ""
-"If you know the name of your file, then you can easily search for it right "
-"from the desktop."
-msgstr "如果您知道文件的名称，就可以很方便地从桌面进行查找。"
+"If you know the name of your file, you can easily search for it right from "
+"the desktop."
+msgstr "如果您知道文件名，可以从桌面轻松搜索。"
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:33
+msgid ""
+"You'll need to enable the <gui>global search bar</gui> to search your files "
+"the first time you use it. Here's how to enable this feature:"
+msgstr "您首先需要启用<gui>全局搜索栏</gui>搜索文件。启用此功能的方法如下："
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:33
+#: C/gs-where-files.page:38
+msgid ""
+"From the desktop, click on the <gui>global search bar</gui> at the top of "
+"your screen that says \"Search Google and more...\" Start typing the word "
+"\"search\"."
+msgstr "在桌面上点击屏幕顶端的<gui>全局搜索栏</gui>，那里显示“搜索 Google 和更多...” 开始键入单词“search”。"
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:43
+msgid "Click once on the result showing the settings to control search."
+msgstr "点击一次结果可显示用于控制搜索的设置。"
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:46
+msgid ""
+"Scroll through the apps that have been enabled to work with Global Search. "
+"Turn the access <gui>On</gui> for the <app>Documents</app> file manager."
+msgstr "滚动已启用要使用“全局搜索”的应用。<gui>打开</gui><app>文档</app>文件管理器的访问权限。"
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:48
+msgid ""
+"That's it. Global Search has now been enabled to work with your files and "
+"documents."
+msgstr "就是这样简单。现在已启用“全局搜索”，可以处理您的文件和文档。"
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:53
+msgid ""
+"Once Global Search has been enabled, you can start searching for your files "
+"directly from the desktop:"
+msgstr "启用“全局搜索”后，您可以直接从桌面开始搜索文件："
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:58
 msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing the name of"
 " the file you are looking for."
-msgstr ""
+msgstr "在桌面上点击屏幕顶端的<gui>全局搜索栏</gui>，那里显示着“搜索 Google 和更多...” 开始输入您要查找的文件名。"
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:58
-msgid "If you do not know the name of your file"
-msgstr "如果您不知道文件名称"
+#: C/gs-where-files.page:83
+msgid "Browse through folders to find your file"
+msgstr "浏览文件夹查找您的文件"
 
 #. (itstool) path: section/p
-#. (itstool) path: item/p
-#: C/gs-where-files.page:60 C/gs-where-files.page:90
-msgid "Click on <app>Documents</app> from the desktop."
-msgstr "点击桌面上的 <app>文档</app>。"
+#: C/gs-where-files.page:85
+msgid ""
+"If you do not know the name of your file, you may browse through the "
+"<app>Documents</app> file manager in order to find it."
+msgstr "如果您不知道文件名，可以浏览<app>文档</app>文件管理器以进行查找。"
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:63
+#: C/gs-where-files.page:88
+msgid ""
+"To begin browsing your files, click on the <app>Documents</app> icon on the "
+"desktop."
+msgstr "要开始浏览您的文件，点击桌面上的<app>文档</app>图标。"
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:92
 msgid ""
 "Endless tries to store files by categories like documents, music, photos, "
 "and videos, so that they are easier for you to find. You will see that the "
-"menu on the left shows these categories. Click on them once to go to that "
-"folder."
-msgstr "Endless会以文档、音乐、图片、视频等分类来保存您的文件，方便您进行查找。您会在左侧菜单中看到这些分类，单击某个类别就可打开文件夹。"
+"menu on the left shows these categories. Click on a category once to go to "
+"that folder, and then look through its content for your file."
+msgstr "Endless 会尝试以文档、音乐、图片和视频等分类来保存您的文件，方便您进行查找。您会在左侧菜单中看到这些分类。点击一次某个分类可转到该文件夹，然后查看其文件内容。"
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:69
+#: C/gs-where-files.page:98
 msgid ""
-"You can create your own folders to better organize your files. You should "
-"click through the different folders you create to get to the files you have "
-"stored there. Clicking through folders is especially helpful if you are not "
-"sure what the file you saved is named."
-msgstr "您可以创建自定义文件夹以更好地对文件进行管理。通过点击不同的自定义文件夹来找到您保存在那里的文件。在您不确定所保存的文件名称时，逐个文件夹进行点击就尤其有帮助。"
+"You can also search for your files directly within the <app>Documents</app> "
+"file manager."
+msgstr "您还可以在<app>文档</app>文件管理器中直接搜索您的文件。"
 
 #. (itstool) path: section/p
-#: C/gs-where-files.page:74
+#: C/gs-where-files.page:100
 msgid ""
-"See the bar at the top with a magnifying glass in it? Click there and start "
-"typing at least part of the name of the file you are looking for. As you "
-"start typing, files that match what you are typing are displayed below. If "
-"you see the file you are looking for in the list, you can use your arrow key"
-" to highlight the file and press <key>Enter</key> to open it. Or, you can "
-"click on the result you want with your mouse to higlight it, and double "
-"click to open it."
-msgstr "看到顶部带有放大镜图标的一栏吗？单击那里，输入您要查找的文件名称。在您开始输入时，与所输文字所匹配的文件会显示在下方。如果您在列表中看到您想找的文件，可以使用箭头按键进行选择然后按下 <key>回车键</key>来打开。或者，对于您想要的结果，可以点击鼠标进行高亮显示，双击进行打开。"
+"To do so, look for the bar at the top of the <app>Documents</app> file "
+"manager with a magnifying glass in it. Click there and start typing at least"
+" part of the name of the file you are looking for. As you start typing, "
+"files that match are displayed below."
+msgstr "为此，需要使用放大镜在<app>文档</app>文件管理器顶部找到该搜索栏。点击该搜索栏，然后至少键入要查找的文件名的一部分。开始键入时，匹配的文件将显示在下方。"
+
+#. (itstool) path: section/p
+#: C/gs-where-files.page:105
+msgid ""
+"If you see the file you are looking for in the list, you can use the arrow "
+"keys to highlight the file and press <key>Enter</key> to open it. Or, just "
+"double-click on the result you want to open."
+msgstr "如果您在列表中看到正在查找的文件，可以使用箭头键高亮显示该文件，然后按 <key>Enter</key> 键将其打开。或者，只需双击要打开的结果。"
 
 #. (itstool) path: section/title
-#: C/gs-where-files.page:84
+#: C/gs-where-files.page:111
 msgid "If your file is on a USB"
 msgstr "如果您的文件在USB上"
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:87
+#: C/gs-where-files.page:114
 msgid "Make sure that the USB is properly plugged in."
 msgstr "确保USB已正确插入。"
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:93
+#: C/gs-where-files.page:117
+msgid "Click on <app>Documents</app> from the desktop."
+msgstr "点击桌面上的 <app>文档</app>。"
+
+#. (itstool) path: item/p
+#: C/gs-where-files.page:120
 msgid ""
 "Click on the name of your device on the menu on the left of the window. The "
 "device name should appear above the trash icon and is usually named "
@@ -1544,7 +1602,7 @@ msgid ""
 msgstr "点击窗口左端菜单的设备名称。设备名称在垃圾桶图标的上方显示。如果您没有对名称进行修改的话，通常显示的是该设备的品牌名。"
 
 #. (itstool) path: item/p
-#: C/gs-where-files.page:98
+#: C/gs-where-files.page:125
 msgid ""
 "Browse the files on the USB. Clicking on them once will let you preview them"
 " and clicking twice will open them. You can also click on the top bar with "
@@ -1552,7 +1610,7 @@ msgid ""
 msgstr "在 USB浏览文件。单击进行预览，双击进行打开。如果您知道要查找的文件名称，还可以点击带有放大镜图标的顶栏进行搜索。"
 
 #. (itstool) path: note/p
-#: C/gs-where-files.page:105
+#: C/gs-where-files.page:132
 msgid ""
 "Make sure that you have actually saved your file! If you close a program "
 "without saving your work, you might not be able to find it again since not "
