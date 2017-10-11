@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2017-06-23 17:36-0700\n"
-"PO-Revision-Date: 2017-06-24 00:37+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"PO-Revision-Date: 2017-09-23 15:48+0000\n"
+"Last-Translator: georgian balan <braila222@gmail.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/endless-mobile-inc/gnome-getting-started-docs/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1453,7 +1453,7 @@ msgstr "Unde sunt documentele și fisierele mele?"
 msgid ""
 "When you store files to your computer, they are accessible via the "
 "<app>Documents</app> file manager."
-msgstr ""
+msgstr "Cand stochezi fisiere in computerul tau, ele sunt accesibile prin managerul de fisiere <app>Documente</app>."
 
 #. (itstool) path: page/p
 #: C/gs-where-files.page:25
@@ -1463,21 +1463,21 @@ msgstr "Iată câteva modalități de căutare a unui fișier pe care l-ați sal
 #. (itstool) path: section/title
 #: C/gs-where-files.page:28
 msgid "Use Global Search to find your file"
-msgstr ""
+msgstr "Foloseste Cautare Globala pentru a gasi un fisier"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:30
 msgid ""
 "If you know the name of your file, you can easily search for it right from "
 "the desktop."
-msgstr ""
+msgstr "Daca stii numele fisierului, il poti cauta mai usor direct de pe desktop."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:33
 msgid ""
 "You'll need to enable the <gui>global search bar</gui> to search your files "
 "the first time you use it. Here's how to enable this feature:"
-msgstr ""
+msgstr "Este necesar sa activezi <gui>bara de cautare globala</gui> pentru a cauta fisiere cand o folosesti prima oara. Aici gasesti informatii despre activare:"
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:38
@@ -1485,33 +1485,33 @@ msgid ""
 "From the desktop, click on the <gui>global search bar</gui> at the top of "
 "your screen that says \"Search Google and more...\" Start typing the word "
 "\"search\"."
-msgstr ""
+msgstr "De pe desktop, faceți clic pe <gui> bara de căutare globală </ gui> din partea de sus a ecranului, care afișează \"Căutați Google și mai multe ...\" Începeți să tastați cuvântul \"căutare\"."
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:43
 msgid "Click once on the result showing the settings to control search."
-msgstr ""
+msgstr "Faceți clic o dată pe rezultatul afișând setările pentru a controla căutarea."
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:46
 msgid ""
 "Scroll through the apps that have been enabled to work with Global Search. "
 "Turn the access <gui>On</gui> for the <app>Documents</app> file manager."
-msgstr ""
+msgstr "Derulați prin aplicațiile care au fost activate pentru a lucra cu Căutarea globală. Activați accesul <gui> Activat </ gui> pentru managerul de fișiere <app> Documente </ app>."
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:48
 msgid ""
 "That's it. Global Search has now been enabled to work with your files and "
 "documents."
-msgstr ""
+msgstr "Asta e. Căutarea globală a fost acum activată pentru a lucra cu fișierele și documentele dvs."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:53
 msgid ""
 "Once Global Search has been enabled, you can start searching for your files "
 "directly from the desktop:"
-msgstr ""
+msgstr "După ce a fost activată Căutarea globală, puteți începe căutarea fișierelor direct de pe desktop:"
 
 #. (itstool) path: item/p
 #: C/gs-where-files.page:58
@@ -1524,21 +1524,21 @@ msgstr "De pe desktop, faceți clic pe <gui>bara de căutare globală</gui> din 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:83
 msgid "Browse through folders to find your file"
-msgstr ""
+msgstr "Navigați prin dosare pentru a găsi fișierul"
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:85
 msgid ""
 "If you do not know the name of your file, you may browse through the "
 "<app>Documents</app> file manager in order to find it."
-msgstr ""
+msgstr "Dacă nu știți numele fișierului dvs., puteți căuta in managerul de fișiere <app> Documente </ app> pentru a il găsi."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:88
 msgid ""
 "To begin browsing your files, click on the <app>Documents</app> icon on the "
 "desktop."
-msgstr ""
+msgstr "Pentru a începe să răsfoiți fișierele, faceți clic pe pictograma <app> Documente </ app> de pe desktop."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:92
@@ -1547,14 +1547,14 @@ msgid ""
 "and videos, so that they are easier for you to find. You will see that the "
 "menu on the left shows these categories. Click on a category once to go to "
 "that folder, and then look through its content for your file."
-msgstr ""
+msgstr "Endless încearcă să stocheze fișierele pe categorii, cum ar fi documente, muzică, fotografii și videoclipuri, astfel încât acestea să fie mai ușor de găsit. Veți vedea că meniul din stânga arată aceste categorii. Faceți click pe o categorie o dată pentru a merge la dosarul respectiv, apoi căutați prin conținutul său pentru fișierul dvs."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:98
 msgid ""
 "You can also search for your files directly within the <app>Documents</app> "
 "file manager."
-msgstr ""
+msgstr "De asemenea, puteți căuta fișierele direct în managerul de fișiere <app> Documente </ app>."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:100
@@ -1563,7 +1563,7 @@ msgid ""
 "manager with a magnifying glass in it. Click there and start typing at least"
 " part of the name of the file you are looking for. As you start typing, "
 "files that match are displayed below."
-msgstr ""
+msgstr "Pentru a face acest lucru, căutați bara din partea superioară a managerului de fișiere <app> Documente </ app> cu o lupă în el. Faceți clic acolo și începeți să tastați cel puțin o parte din numele fișierului pe care îl căutați. Pe măsură ce începeți să tastați, fișierele care se potrivesc sunt afișate mai jos."
 
 #. (itstool) path: section/p
 #: C/gs-where-files.page:105
@@ -1571,7 +1571,7 @@ msgid ""
 "If you see the file you are looking for in the list, you can use the arrow "
 "keys to highlight the file and press <key>Enter</key> to open it. Or, just "
 "double-click on the result you want to open."
-msgstr ""
+msgstr "Dacă vedeți fișierul pe care îl căutați în listă, puteți utiliza tastele săgeți pentru a evidenția fișierul și apăsați <tasta> Enter </ key> pentru al deschide. Sau faceți dublu click pe rezultatul pe care doriți să-l deschideți."
 
 #. (itstool) path: section/title
 #: C/gs-where-files.page:111
