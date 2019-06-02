@@ -10,6 +10,7 @@
 # Gaby González <gaby@endlessm.com>, 2014
 # Ivan G. Gonçalves <i@endlessm.com>, 2015
 # Joel Gil León <joel@endlessm.com>, 2014
+# Leandro Stanger <leandrostanger@hotmail.com>, 2019
 # Mariana Barbosa <mariana@endlessm.com>, 2017
 # Mariana Barbosa <mari@endlessm.com>, 2015
 # mattdangerw <watson@endlessm.com>, 2014
@@ -25,8 +26,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-getting-started-docs\n"
 "POT-Creation-Date: 2017-06-23 17:36-0700\n"
-"PO-Revision-Date: 2017-10-15 12:57+0000\n"
-"Last-Translator: Mariana Barbosa <mariana@endlessm.com>\n"
+"PO-Revision-Date: 2019-04-16 20:55+0000\n"
+"Last-Translator: Leandro Stanger <leandrostanger@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/endless-os/gnome-getting-started-docs/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1196,7 +1197,7 @@ msgid ""
 "added to your desktop. Most of the apps you'll find there have offline "
 "capability and you can browse by category to find just what you're looking "
 "for, or else just click around and explore."
-msgstr "A <app>Central de Programas</app> está repleta de programas gratuitos que podem ser facilmente adicionados à sua área de trabalho. A maior parte dos programas pode ser utilizada sem necessidade de internet e você pode pesquisar por categoria se estiver buscando algo específico ou então, simplesmente, sair explorando as opções de programas."
+msgstr "A <app>Central de Aplicativos</app> está repleta de aplicativos gratuitos que podem ser facilmente adicionados à sua área de trabalho. A maior parte dos aplicativos pode ser utilizada sem necessidade de internet e você pode pesquisar por categoria se estiver buscando algo específico ou então, simplesmente, sair explorando as opções de aplicativos."
 
 #. (itstool) path: steps/title
 #: C/gs-use-offline.page:37
