@@ -1,19 +1,195 @@
-gnome-getting-started-docs (3.10.2-1endless1) eos; urgency=low
+gnome-getting-started-docs (3.36.2-1) unstable; urgency=medium
 
-  * Upgrade to 3.10.2
-    [endlessm/eos-shell#2339]
+  * New upstream release
+  * Build-Depend on dh-sequence-gnome instead of gnome-pkg-tools
+  * Bump debhelper-comapt to 13
 
- -- Juan A. Suarez Romero <jasuarez@igalia.com>  Tue, 22 Apr 2014 17:38:56 +0200
+ -- Jeremy Bicha <jbicha@debian.org>  Sun, 26 Apr 2020 17:06:42 -0400
 
-gnome-getting-started-docs (3.8.3-1co1) singularity; urgency=low
+gnome-getting-started-docs (3.36.1-1) unstable; urgency=medium
 
+  * New upstream release
+    - Updated Lithuanian and Polish translations (Closes: #954194)
+  * debian/control.in: Set Rules-Requires-Root: no
+  * Use debhelper-compat mechanism instead of debian/compat one
+
+ -- Laurent Bigonville <bigon@debian.org>  Sun, 05 Apr 2020 10:57:02 +0200
+
+gnome-getting-started-docs (3.36.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Bump Standards-Version to 4.5.0
+
+ -- Gunnar Hjalmarsson <gunnarhj@ubuntu.com>  Mon, 16 Mar 2020 16:09:06 +0100
+
+gnome-getting-started-docs (3.34.0-2) unstable; urgency=medium
+
+  * Release to unstable
+
+ -- Jeremy Bicha <jbicha@debian.org>  Sat, 14 Sep 2019 20:57:37 -0400
+
+gnome-getting-started-docs (3.34.0-1) experimental; urgency=medium
+
+  * New upstream release
+  * Bump Standards-Version to 4.4.0
+  * Bump to compat level 12
+
+ -- Gunnar Hjalmarsson <gunnarhj@ubuntu.com>  Fri, 13 Sep 2019 16:07:30 +0200
+
+gnome-getting-started-docs (3.32.0-1) experimental; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@debian.org>  Mon, 11 Mar 2019 19:45:49 -0400
+
+gnome-getting-started-docs (3.30.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Bump Standards-Version to 4.2.1
+
+ -- Jeremy Bicha <jbicha@debian.org>  Wed, 05 Sep 2018 13:36:17 -0400
+
+gnome-getting-started-docs (3.28.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@debian.org>  Sun, 13 May 2018 14:49:52 -0400
+
+gnome-getting-started-docs (3.28.1-1) unstable; urgency=medium
+
+  * New upstream release
+  * Bump Standards-Version to 4.1.4
+
+ -- Jeremy Bicha <jbicha@debian.org>  Mon, 09 Apr 2018 18:45:19 -0400
+
+gnome-getting-started-docs (3.28.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Update Vcs fields for migration to https://salsa.debian.org/
+  * Bump debhelper compat to 11
+
+ -- Jeremy Bicha <jbicha@debian.org>  Wed, 14 Mar 2018 13:17:58 -0400
+
+gnome-getting-started-docs (3.26.2-2) unstable; urgency=medium
+
+  * Update Vcs fields for conversion to git
+  * Add debian/gbp.conf
+  * Bump Standards-Version to 4.1.2
+
+ -- Jeremy Bicha <jbicha@debian.org>  Thu, 14 Dec 2017 18:20:56 -0500
+
+gnome-getting-started-docs (3.26.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Michael Biebl <biebl@debian.org>  Wed, 01 Nov 2017 16:27:17 +0100
+
+gnome-getting-started-docs (3.26.1-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Michael Biebl <biebl@debian.org>  Sun, 22 Oct 2017 17:06:35 +0200
+
+gnome-getting-started-docs (3.26.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@debian.org>  Tue, 12 Sep 2017 14:55:58 -0400
+
+gnome-getting-started-docs (3.24.1-1) unstable; urgency=medium
+
+  * New upstream release
+  * Depend on gnome-user-docs instead of transitional package
+  * Bump Standards-Version to 4.1.0
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Wed, 30 Aug 2017 06:36:58 -0400
+
+gnome-getting-started-docs (3.22.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump debhelper compat level to 10.
+
+ -- Michael Biebl <biebl@debian.org>  Mon, 19 Sep 2016 23:53:25 +0200
+
+gnome-getting-started-docs (3.21.90-1) unstable; urgency=medium
+
+  * New upstream beta release.
+  * Convert from cdbs to dh.
+
+ -- Michael Biebl <biebl@debian.org>  Tue, 06 Sep 2016 23:08:26 +0200
+
+gnome-getting-started-docs (3.20.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Standards-Version to 3.9.8.
+  * Point Homepage to https://wiki.gnome.org/DocumentationProject.
+
+ -- Michael Biebl <biebl@debian.org>  Sun, 17 Apr 2016 22:16:03 +0200
+
+gnome-getting-started-docs (3.18.2-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Michael Biebl <biebl@debian.org>  Tue, 10 Nov 2015 22:26:45 +0100
+
+gnome-getting-started-docs (3.18.1-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Michael Biebl <biebl@debian.org>  Tue, 13 Oct 2015 19:20:25 +0200
+
+gnome-getting-started-docs (3.18.0-1) unstable; urgency=medium
+
+  [ Pedro Beja ]
+  * New upstream release.
+
+ -- Andreas Henriksson <andreas@fatal.se>  Fri, 25 Sep 2015 10:36:46 +0200
+
+gnome-getting-started-docs (3.16.2-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Michael Biebl <biebl@debian.org>  Fri, 29 May 2015 02:00:06 +0200
+
+gnome-getting-started-docs (3.14.1-1) unstable; urgency=medium
+
+  [ Pedro Beja ]
+  * New upstream release.
+
+ -- Michael Biebl <biebl@debian.org>  Mon, 20 Oct 2014 19:57:16 +0200
+
+gnome-getting-started-docs (3.14.0-1) unstable; urgency=medium
+
+  [ Jordi Mallach ]
+  * New upstream development release (3.13.90).
+  * Bump Standards-Version to 3.9.6, with no changes needed.
+
+  [ Pedro Beja ]
+  * Fix Vcs links
+  * New upstream release (3.14.0).
+
+ -- Jordi Mallach <jordi@debian.org>  Fri, 10 Oct 2014 17:56:08 +0200
+
+gnome-getting-started-docs (3.12.1-1) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Jordi Mallach ]
+  * Add missing copyright attributions for webm files, and add the complete
+    text of CC-BY-SA-3.0, CC-BY-3.0 and CC0-1.0. Thanks, Ansgar!
+
+  [ Luca Falavigna ]
+  * New upstream release.
+
+ -- Luca Falavigna <dktrkranz@debian.org>  Tue, 15 Jul 2014 22:49:27 +0200
+
+gnome-getting-started-docs (3.12.0-1) unstable; urgency=low
+
+  [ Thomas Bechtold]
+  * Initial release. (Closes: #704248)
+
+  [ Javier Martinez ]
   * debian/rules: add autoreconf.mk to cdbs includes.
   * debian/control: include dh-autoreconf in Build-Depends.
 
- -- Javier Martinez <javier.martinez@collabora.co.uk>  Mon, 05 Aug 2013 12:21:10 +0200
-
-gnome-getting-started-docs (3.8.3-1) UNRELEASED; urgency=low
-
-  * Initial release. (Closes: #704248)
-
- -- Thomas Bechtold <thomasbechtold@jpberlin.de>  Sat, 30 Mar 2013 11:31:49 +0100
+ -- Jordi Mallach <jordi@debian.org>  Sat, 05 Apr 2014 03:17:28 +0200
