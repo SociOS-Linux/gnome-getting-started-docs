@@ -1,3 +1,9 @@
+gnome-getting-started-docs (3.38.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Laurent Bigonville <bigon@debian.org>  Mon, 07 Dec 2020 13:30:57 +0100
+
 gnome-getting-started-docs (3.36.2-1) unstable; urgency=medium
 
   * New upstream release
